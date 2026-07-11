@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Немагчыма зразумець маніфест версіі:
+        <translation type="vanished">Немагчыма зразумець маніфест версіі:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
+        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Непадтрымліваемы рэжым устаноўкі</translation>
+        <translation type="vanished">Непадтрымліваемы рэжым устаноўкі</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Выдаленне існуючых файлаў...</translation>
+        <translation type="vanished">Выдаленне існуючых файлаў...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Незразумелы тып мода: %1</translation>
+        <translation type="vanished">Незразумелы тып мода: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не атрымалася знайсці версію для загрузчыка %1</translation>
+        <translation type="vanished">Не атрымалася знайсці версію для загрузчыка %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Для зборкі не выбрана версія загрузчыка!</translation>
+        <translation type="vanished">Для зборкі не выбрана версія загрузчыка!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
+        <translation type="vanished">Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Спампоўка канфігурацый…</translation>
+        <translation type="vanished">Спампоўка канфігурацый…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Спампоўванне налад</translation>
+        <translation type="vanished">Спампоўванне налад</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Распакоўка налад...</translation>
+        <translation type="vanished">Распакоўка налад...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Выбар неабавязковых модаў...</translation>
+        <translation type="vanished">Выбар неабавязковых модаў...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Спампоўваюцца моды...</translation>
+        <translation type="vanished">Спампоўваюцца моды...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Спампаваць мод</translation>
+        <translation type="vanished">Спампаваць мод</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Незразумелы тып спампоўкі: %1</translation>
+        <translation type="vanished">Незразумелы тып спампоўкі: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Знойдзены заблакіраваныя моды</translation>
+        <translation type="vanished">Знойдзены заблакіраваныя моды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступныя файлы недаступны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
+        <translation type="vanished">Наступныя файлы недаступны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 з %2 гатова</translation>
+        <translation type="vanished">%1 з %2 гатова</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Не атрымалася распакаваць моды...</translation>
+        <translation type="vanished">Не атрымалася распакаваць моды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Выманне модаў...</translation>
+        <translation type="vanished">Выманне модаў...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Устаноўка зборкі</translation>
+        <translation type="vanished">Устаноўка зборкі</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Не атрымалася стварыць кампанент бібліятэк</translation>
+        <translation type="vanished">Не атрымалася стварыць кампанент бібліятэк</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Незразумелы тып загрузчыка: </translation>
+        <translation type="vanished">Незразумелы тып загрузчыка: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Памылка стварэння кампанент зборкі</translation>
+        <translation type="vanished">Памылка стварэння кампанент зборкі</translation>
     </message>
 </context>
 <context>
@@ -2431,7 +2431,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Недастаткова RAM</translation>
+        <translation type="vanished">Недастаткова RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2440,7 +2440,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Недастаткова RAM для запуску гэтай версіі з бягучымі наладамі памяці.
+        <translation type="vanished">Недастаткова RAM для запуску гэтай версіі з бягучымі наладамі памяці.
 
 Патрабуецца: %1 Мб
 Даступна: %2 Мб
@@ -4324,7 +4324,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Оk</translation>
+        <translation type="vanished">Оk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5683,7 +5683,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Выкарыстоўваць мову сістэмы</translation>
+        <translation type="vanished">Выкарыстоўваць мову сістэмы</translation>
     </message>
 </context>
 <context>
@@ -5947,7 +5947,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Вы не падлучаны да сеткі, запуск у пазасеткавым рэжыме
+        <translation type="vanished">Вы не падлучаны да сеткі, запуск у пазасеткавым рэжыме
 
 </translation>
     </message>
@@ -6574,7 +6574,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Не атрымалася запусціць Minecraft!</translation>
+        <translation type="vanished">Не атрымалася запусціць Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6978,7 +6978,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Не атрымалася запусціць працэс.</translation>
+        <translation type="vanished">Не атрымалася запусціць працэс.</translation>
     </message>
 </context>
 <context>
@@ -7098,7 +7098,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Не ўдалося аднавіць аўтарызацыю прылады</translation>
+        <translation type="vanished">Не ўдалося аднавіць аўтарызацыю прылады</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14259,13 +14259,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished">Мова</translation>
@@ -14830,7 +14823,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>ОК</translation>
+        <translation type="vanished">ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15155,11 +15148,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

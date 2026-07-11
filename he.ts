@@ -203,52 +203,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>לא ניתן היה להבין את המניפסט של החבילה:
+        <translation type="vanished">לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>נכשלה קבלת מפתח נתוני העל עבור %1</translation>
+        <translation type="vanished">נכשלה קבלת מפתח נתוני העל עבור %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
+        <translation type="vanished">לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>מצב ההתקנה לא נתמך</translation>
+        <translation type="vanished">מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>הקבצים הקיימים נמחקים...</translation>
+        <translation type="vanished">הקבצים הקיימים נמחקים...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>סוג מוד לא מוכר: %1</translation>
+        <translation type="vanished">סוג מוד לא מוכר: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
+        <translation type="vanished">לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
+        <translation type="vanished">לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>סוג הורדה לא מוכר או לא נתמך: %1</translation>
+        <translation type="vanished">סוג הורדה לא מוכר או לא נתמך: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>הגדרות התצורה מתקבלות...</translation>
+        <translation type="vanished">הגדרות התצורה מתקבלות...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>הורדת הגדרות התצורה</translation>
+        <translation type="vanished">הורדת הגדרות התצורה</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>הגדרות התצורה מחולצות...</translation>
+        <translation type="vanished">הגדרות התצורה מחולצות...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -256,15 +256,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>מודים רשותיים נבחרים...</translation>
+        <translation type="vanished">מודים רשותיים נבחרים...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>המודים מתקבלים...</translation>
+        <translation type="vanished">המודים מתקבלים...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>הורדת מוד</translation>
+        <translation type="vanished">הורדת מוד</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -272,43 +272,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>סוג הורדה לא מוכר: %1</translation>
+        <translation type="vanished">סוג הורדה לא מוכר: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>מודים חסומים נמצאו</translation>
+        <translation type="vanished">מודים חסומים נמצאו</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
+        <translation type="vanished">הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>הושלמו %1 מתוך %2</translation>
+        <translation type="vanished">הושלמו %1 מתוך %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>חילוץ המודים נכשל...</translation>
+        <translation type="vanished">חילוץ המודים נכשל...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>המודים מחולצים...</translation>
+        <translation type="vanished">המודים מחולצים...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>חבילת המודים בהתקנה</translation>
+        <translation type="vanished">חבילת המודים בהתקנה</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>יצירת רכיב ספריות נכשלה</translation>
+        <translation type="vanished">יצירת רכיב ספריות נכשלה</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>סוג טוען מודים לא ידוע: </translation>
+        <translation type="vanished">סוג טוען מודים לא ידוע: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>נכשלה יצירת רכיב החבילה</translation>
+        <translation type="vanished">נכשלה יצירת רכיב החבילה</translation>
     </message>
 </context>
 <context>
@@ -2496,7 +2496,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>אין מספיק זיכרון RAM</translation>
+        <translation type="vanished">אין מספיק זיכרון RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2505,7 +2505,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>אין מספיק זיכרון RAM פנוי בשביל להפעיל את עותק זה של המשחק עם הגדרות הזיכרון הנוכחיות.
+        <translation type="vanished">אין מספיק זיכרון RAM פנוי בשביל להפעיל את עותק זה של המשחק עם הגדרות הזיכרון הנוכחיות.
 
 זיכרון נדרש: %1 MiB
 זיכרון פנוי: %2 MiB
@@ -4509,7 +4509,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>אישור</translation>
+        <translation type="vanished">אישור</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5706,7 +5706,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>שימוש בשפת המערכת</translation>
+        <translation type="vanished">שימוש בשפת המערכת</translation>
     </message>
 </context>
 <context>
@@ -5960,7 +5960,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>אין לך חיבור לאינטרנט, המשחק יופעל במצב לא מקוון
+        <translation type="vanished">אין לך חיבור לאינטרנט, המשחק יופעל במצב לא מקוון
 
 </translation>
     </message>
@@ -6510,7 +6510,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>לא ניתן להפעיל את Minecraft!</translation>
+        <translation type="vanished">לא ניתן להפעיל את Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6942,10 +6942,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -7064,10 +7060,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14699,13 +14691,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>שפה</translation>
@@ -15393,7 +15378,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>אישור</translation>
+        <translation type="vanished">אישור</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15741,11 +15726,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

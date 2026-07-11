@@ -215,52 +215,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kon het pakketmanifest niet begrijpen:
+        <translation type="vanished">Kon het pakketmanifest niet begrijpen:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ophalen van lokale metadata-index voor %1 mislukt</translation>
+        <translation type="vanished">Ophalen van lokale metadata-index voor %1 mislukt</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Het is niet gelukt om de lokale metadata-index op te halen van &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Het is niet gelukt om de lokale metadata-index op te halen van &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Niet-ondersteunde installatiemodus</translation>
+        <translation type="vanished">Niet-ondersteunde installatiemodus</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Bestaande bestanden verwijderen...</translation>
+        <translation type="vanished">Bestaande bestanden verwijderen...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Onbekend modtype: %1</translation>
+        <translation type="vanished">Onbekend modtype: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kon versie voor %1 lader niet vinden</translation>
+        <translation type="vanished">Kon versie voor %1 lader niet vinden</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Geen modladerversie voor modpakket ingesteld!</translation>
+        <translation type="vanished">Geen modladerversie voor modpakket ingesteld!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Onbekend of niet ondersteund downloadtype: %1</translation>
+        <translation type="vanished">Onbekend of niet ondersteund downloadtype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Bezig met configuraties downloaden...</translation>
+        <translation type="vanished">Bezig met configuraties downloaden...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Download configuratie</translation>
+        <translation type="vanished">Download configuratie</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Bezig met configuraties uitpakken...</translation>
+        <translation type="vanished">Bezig met configuraties uitpakken...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -268,15 +268,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Optionele mods aan het selecteren...</translation>
+        <translation type="vanished">Optionele mods aan het selecteren...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Bezig met mods downloaden...</translation>
+        <translation type="vanished">Bezig met mods downloaden...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modificatie download</translation>
+        <translation type="vanished">Modificatie download</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -284,43 +284,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Onbekend download type: %1</translation>
+        <translation type="vanished">Onbekend download type: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Geblokkeerde mods gevonden</translation>
+        <translation type="vanished">Geblokkeerde mods gevonden</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De volgende bestanden zijn niet beschikbaar voor downloaden via derde partij launchers.&lt;br/&gt; Je moet ze handmatig downloaden en toevoegen aan de instantie.</translation>
+        <translation type="vanished">De volgende bestanden zijn niet beschikbaar voor downloaden via derde partij launchers.&lt;br/&gt; Je moet ze handmatig downloaden en toevoegen aan de instantie.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 van de %2 voltooid</translation>
+        <translation type="vanished">%1 van de %2 voltooid</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Uitpakken van mods mislukt...</translation>
+        <translation type="vanished">Uitpakken van mods mislukt...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Mods aan het uitpakken...</translation>
+        <translation type="vanished">Mods aan het uitpakken...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Bezig met modpakket installeren</translation>
+        <translation type="vanished">Bezig met modpakket installeren</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kon het bibliotheken-onderdeel niet aanmaken</translation>
+        <translation type="vanished">Kon het bibliotheken-onderdeel niet aanmaken</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Onbekend lader type: </translation>
+        <translation type="vanished">Onbekend lader type: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Kon het pakket-onderdeel niet aanmaken</translation>
+        <translation type="vanished">Kon het pakket-onderdeel niet aanmaken</translation>
     </message>
 </context>
 <context>
@@ -2487,7 +2487,7 @@ Weet u dat zeker?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Niet genoeg RAM</translation>
+        <translation type="vanished">Niet genoeg RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2496,7 +2496,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Er is niet genoeg werkgeheugen beschikbaar om deze instantie te starten met de huidige geheugeninstellingen.
+        <translation type="vanished">Er is niet genoeg werkgeheugen beschikbaar om deze instantie te starten met de huidige geheugeninstellingen.
 
 Nodig: %1 MiB
 Beschikbaar: %2 MiB
@@ -4602,7 +4602,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6087,7 +6087,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Taal van systeem gebruiken</translation>
+        <translation type="vanished">Taal van systeem gebruiken</translation>
     </message>
 </context>
 <context>
@@ -6396,7 +6396,7 @@ Wilt u de demo spelen?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>U bent niet verbonden met het internet. Starten in offlinemodus
+        <translation type="vanished">U bent niet verbonden met het internet. Starten in offlinemodus
 
 </translation>
     </message>
@@ -7128,7 +7128,7 @@ Het wordt aanbevolen om %1 toegang te verlenen via Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Kon Minecraft niet starten!</translation>
+        <translation type="vanished">Kon Minecraft niet starten!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7603,7 +7603,7 @@ Reden:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Het proces kon niet worden gestart.</translation>
+        <translation type="vanished">Het proces kon niet worden gestart.</translation>
     </message>
 </context>
 <context>
@@ -7731,7 +7731,7 @@ Reden:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Ophalen van de autorisatie van het aparaat mislukt</translation>
+        <translation type="vanished">Ophalen van de autorisatie van het aparaat mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16781,7 +16781,7 @@ Bent u zeker?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 vertaald
 %3 fuzzy
 %4 totaal</translation>
@@ -17661,7 +17661,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18030,7 +18030,7 @@ Weet u het zeker?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Kon geen toestemming verkrijgen voor %1 diensten. Fout %1.</translation>
+        <translation type="vanished">Kon geen toestemming verkrijgen voor %1 diensten. Fout %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

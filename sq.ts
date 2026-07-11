@@ -202,52 +202,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nuk mund ta kuptoja manifestin e paketës:
+        <translation type="vanished">Nuk mund ta kuptoja manifestin e paketës:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modaliteti i instalimit i pambështetur</translation>
+        <translation type="vanished">Modaliteti i instalimit i pambështetur</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Po fshin skedarët ekzistues...</translation>
+        <translation type="vanished">Po fshin skedarët ekzistues...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Lloji i panjohur i modalitetit: %1</translation>
+        <translation type="vanished">Lloji i panjohur i modalitetit: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
+        <translation type="vanished">Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
+        <translation type="vanished">Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
+        <translation type="vanished">Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Po shkarkon konfigurimet...</translation>
+        <translation type="vanished">Po shkarkon konfigurimet...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Shkarkimi i konfigurimit</translation>
+        <translation type="vanished">Shkarkimi i konfigurimit</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Po nxjerr konfigurimet...</translation>
+        <translation type="vanished">Po nxjerr konfigurimet...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -255,55 +255,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Zgjedhja e modaliteteve opsionale...</translation>
+        <translation type="vanished">Zgjedhja e modaliteteve opsionale...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Po shkarkon modalitetet...</translation>
+        <translation type="vanished">Po shkarkon modalitetet...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Shkarkimi i modës</translation>
+        <translation type="vanished">Shkarkimi i modës</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Lloji i panjohur i shkarkimit: %1</translation>
+        <translation type="vanished">Lloji i panjohur i shkarkimit: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>U gjetën modalitete të bllokuara</translation>
+        <translation type="vanished">U gjetën modalitete të bllokuara</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation type="vanished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 nga %2 ka përfunduar</translation>
+        <translation type="vanished">%1 nga %2 ka përfunduar</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Ekstraktimi i modaliteteve dështoi...</translation>
+        <translation type="vanished">Ekstraktimi i modaliteteve dështoi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Po nxjerr modalitete...</translation>
+        <translation type="vanished">Po nxjerr modalitete...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalimi i modpack</translation>
+        <translation type="vanished">Instalimi i modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Krijimi i komponentit të bibliotekave dështoi</translation>
+        <translation type="vanished">Krijimi i komponentit të bibliotekave dështoi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Lloji i panjohur i ngarkuesit: </translation>
+        <translation type="vanished">Lloji i panjohur i ngarkuesit: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Krijimi i komponentit të paketës dështoi</translation>
+        <translation type="vanished">Krijimi i komponentit të paketës dështoi</translation>
     </message>
 </context>
 <context>
@@ -2142,7 +2142,7 @@ Je i sigurt?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM i pamjaftueshëm</translation>
+        <translation type="vanished">RAM i pamjaftueshëm</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2151,7 +2151,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nuk ka RAM të mjaftueshëm të disponueshëm për të nisur këtë instancë me cilësimet aktuale të memories.
+        <translation type="vanished">Nuk ka RAM të mjaftueshëm të disponueshëm për të nisur këtë instancë me cilësimet aktuale të memories.
 
 I nevojshëm: %1 MiB
 I disponueshëm: %2 MiB
@@ -3782,7 +3782,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Në rregull</translation>
+        <translation type="vanished">Në rregull</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -4576,7 +4576,7 @@ Mund të ndryshosh versionin e Java-s në cilësime ma vonë.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Përdor lokalet e sistemit</translation>
+        <translation type="vanished">Përdor lokalet e sistemit</translation>
     </message>
 </context>
 <context>
@@ -4774,7 +4774,7 @@ Dëshiron të luash demoin?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nuk jeni të lidhur me internetin, duke nisur në mënyrë offline
+        <translation type="vanished">Nuk jeni të lidhur me internetin, duke nisur në mënyrë offline
 
 </translation>
     </message>
@@ -5233,7 +5233,7 @@ Rekomandohet t&apos;i jepësh %1 akses nëpërmjet Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nuk u mund të nisej Minecraft-i!</translation>
+        <translation type="vanished">Nuk u mund të nisej Minecraft-i!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -5610,7 +5610,7 @@ Arsyeja:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Procesi dështoi të nisej.</translation>
+        <translation type="vanished">Procesi dështoi të nisej.</translation>
     </message>
 </context>
 <context>
@@ -5707,7 +5707,7 @@ Arsyeja:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Dështoi marrja e autorizimit të pajisjes</translation>
+        <translation type="vanished">Dështoi marrja e autorizimit të pajisjes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -12680,7 +12680,7 @@ Jeni i sigurt?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 të përkthyera
 %3 të paqarta
 %4 gjithsej</translation>
@@ -13256,7 +13256,7 @@ Jeni i sigurt?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Në rregull</translation>
+        <translation type="vanished">Në rregull</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -13595,7 +13595,7 @@ Jeni i sigurt?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Marrja e autorizimit për shërbimet %1 dështoi. Gabimi %2.</translation>
+        <translation type="vanished">Marrja e autorizimit për shërbimet %1 dështoi. Gabimi %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

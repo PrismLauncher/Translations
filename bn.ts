@@ -202,52 +202,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>প্যাক ম্যানিফেস্ট বুঝতে পারিনি:
+        <translation type="vanished">প্যাক ম্যানিফেস্ট বুঝতে পারিনি:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>অসমর্থিত ইনস্টলেশন ধরন</translation>
+        <translation type="vanished">অসমর্থিত ইনস্টলেশন ধরন</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
+        <translation type="vanished">বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>অজানা মোড টাইপ: %1</translation>
+        <translation type="vanished">অজানা মোড টাইপ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
+        <translation type="vanished">%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>মডপ্যাকের জন্য কোনও লোডার সংস্করণ সেট করা নেই!</translation>
+        <translation type="vanished">মডপ্যাকের জন্য কোনও লোডার সংস্করণ সেট করা নেই!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
+        <translation type="vanished">অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
+        <translation type="vanished">কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>কন্ফিগস ডাউনলোড</translation>
+        <translation type="vanished">কন্ফিগস ডাউনলোড</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
+        <translation type="vanished">কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -255,55 +255,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
+        <translation type="vanished">ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>মোড ডাউনলোড করা হচ্ছে..।</translation>
+        <translation type="vanished">মোড ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>মোড ডাউনলোড</translation>
+        <translation type="vanished">মোড ডাউনলোড</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>অজানা ডাউনলোডের ধরণ: %1</translation>
+        <translation type="vanished">অজানা ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ব্লক করা মোডগুলি পাওয়া গেছে</translation>
+        <translation type="vanished">ব্লক করা মোডগুলি পাওয়া গেছে</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলিতে ডাউনলোডের জন্য উপলব্ধ নয়।&lt;br/&gt;আপনাকে সেগুলি ম্যানুয়ালি ডাউনলোড করতে হবে এবং ইনস্ট্যান্সে যুক্ত করতে হবে।</translation>
+        <translation type="vanished">নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলিতে ডাউনলোডের জন্য উপলব্ধ নয়।&lt;br/&gt;আপনাকে সেগুলি ম্যানুয়ালি ডাউনলোড করতে হবে এবং ইনস্ট্যান্সে যুক্ত করতে হবে।</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>% 2 এর মধ্যে % 1 সম্পন্ন হয়েছে</translation>
+        <translation type="vanished">% 2 এর মধ্যে % 1 সম্পন্ন হয়েছে</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
+        <translation type="vanished">মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>মোডগুলি বের করা হচ্ছে..।</translation>
+        <translation type="vanished">মোডগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>মডপ্যাক ইনস্টল করা হচ্ছে</translation>
+        <translation type="vanished">মডপ্যাক ইনস্টল করা হচ্ছে</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>অজানা লোডার প্রকার: </translation>
+        <translation type="vanished">অজানা লোডার প্রকার: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
 </context>
 <context>
@@ -2138,19 +2138,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -3748,10 +3735,6 @@ Are you sure you want to do this?</source>
         <translation type="unfinished">&amp;রিফ্রেশ</translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished">ঠিক আছে</translation>
@@ -4526,10 +4509,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -4711,12 +4690,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5167,12 +5140,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -5541,10 +5508,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginWizardPage</name>
@@ -5636,10 +5599,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12445,13 +12404,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -13010,10 +12962,6 @@ Are you sure?</source>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
         <translation type="unfinished">ঠিক আছে</translation>
@@ -13340,11 +13288,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

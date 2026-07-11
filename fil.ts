@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Hindi maintindihan ang manifest ng pack:
+        <translation type="vanished">Hindi maintindihan ang manifest ng pack:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
+        <translation type="vanished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Hindi suportadong mode ng pag-install</translation>
+        <translation type="vanished">Hindi suportadong mode ng pag-install</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Binubura ang mga kasalukuyang file...</translation>
+        <translation type="vanished">Binubura ang mga kasalukuyang file...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Hindi kilalang uri ng mod: %1</translation>
+        <translation type="vanished">Hindi kilalang uri ng mod: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Hindi makita ang bersyon ng %1 loader</translation>
+        <translation type="vanished">Hindi makita ang bersyon ng %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Walang bersyon ng loader na naitakda para sa modpack!</translation>
+        <translation type="vanished">Walang bersyon ng loader na naitakda para sa modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Hindi kilala o suportadong uri ng download: %1</translation>
+        <translation type="vanished">Hindi kilala o suportadong uri ng download: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Dina-download ang mga config...</translation>
+        <translation type="vanished">Dina-download ang mga config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Pag download ng config</translation>
+        <translation type="vanished">Pag download ng config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Ine-extract ang mga config...</translation>
+        <translation type="vanished">Ine-extract ang mga config...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Pinipili ang mga opsyonal na mod...</translation>
+        <translation type="vanished">Pinipili ang mga opsyonal na mod...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Dina-download ang mga mod…</translation>
+        <translation type="vanished">Dina-download ang mga mod…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Pag-download ng mod</translation>
+        <translation type="vanished">Pag-download ng mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Hindi kilalang uri ng pag-download: %1</translation>
+        <translation type="vanished">Hindi kilalang uri ng pag-download: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>May nakitang pinagbabawalang mods</translation>
+        <translation type="vanished">May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
+        <translation type="vanished">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ng mga %2 ay tapos na</translation>
+        <translation type="vanished">%1 ng mga %2 ay tapos na</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nabigong i-extract ang mga mod…</translation>
+        <translation type="vanished">Nabigong i-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Ine-extract ang mga mod…</translation>
+        <translation type="vanished">Ine-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Ini-install ang modpack</translation>
+        <translation type="vanished">Ini-install ang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nabigong gawin ang mga component ng libraries</translation>
+        <translation type="vanished">Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Hindi kilalang uri ng loader: </translation>
+        <translation type="vanished">Hindi kilalang uri ng loader: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nabigong gawin ang component ng pack</translation>
+        <translation type="vanished">Nabigong gawin ang component ng pack</translation>
     </message>
 </context>
 <context>
@@ -2436,19 +2436,6 @@ Sigurado ka ba?</translation>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4279,7 +4266,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5644,7 +5631,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Gamitin ang locale ng sistema</translation>
+        <translation type="vanished">Gamitin ang locale ng sistema</translation>
     </message>
 </context>
 <context>
@@ -5893,12 +5880,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6542,7 +6523,7 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Hindi ma-start ang Minecraft!</translation>
+        <translation type="vanished">Hindi ma-start ang Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6951,7 +6932,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Hindi maka-start ang proseso.</translation>
+        <translation type="vanished">Hindi maka-start ang proseso.</translation>
     </message>
 </context>
 <context>
@@ -7071,7 +7052,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Hindi makuha ang authorization ng device</translation>
+        <translation type="vanished">Hindi makuha ang authorization ng device</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14484,13 +14465,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Wika</translation>
@@ -15078,7 +15052,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15416,11 +15390,6 @@ Sigurado ka ba sa gagawin mo?</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
         <translation>Kumukuha ng awtorisasyon para mag-access ng %1 services.</translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

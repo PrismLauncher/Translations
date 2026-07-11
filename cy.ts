@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Methu deall maniffesto&apos;r pecyn:
+        <translation type="vanished">Methu deall maniffesto&apos;r pecyn:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
+        <translation type="vanished">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mod gosod heb ei gefnogi</translation>
+        <translation type="vanished">Mod gosod heb ei gefnogi</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Dileu ffeiliau presennol...</translation>
+        <translation type="vanished">Dileu ffeiliau presennol...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Math mod anhysbys: %1</translation>
+        <translation type="vanished">Math mod anhysbys: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
+        <translation type="vanished">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
+        <translation type="vanished">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
+        <translation type="vanished">Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lawrlwytho ffurfweddiad...</translation>
+        <translation type="vanished">Lawrlwytho ffurfweddiad...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Llwytho i lawr cyfluniad</translation>
+        <translation type="vanished">Llwytho i lawr cyfluniad</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Wrthi&apos;n echdynnu configs...</translation>
+        <translation type="vanished">Wrthi&apos;n echdynnu configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Dewis modau dewisol...</translation>
+        <translation type="vanished">Dewis modau dewisol...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation type="vanished">Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod i lawr</translation>
+        <translation type="vanished">Mod i lawr</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,35 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Math llwytho i lawr heb gymorth: %1</translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Math llwytho i lawr heb gymorth: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 allan o %2 gorffenedig</translation>
+        <translation type="vanished">%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Wedi methu echdynnu mods...</translation>
+        <translation type="vanished">Wedi methu echdynnu mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Wrthi&apos;n echdynnu mods...</translation>
+        <translation type="vanished">Wrthi&apos;n echdynnu mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Gosod modpack</translation>
+        <translation type="vanished">Gosod modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Wedi methu creu cydran llyfrgelloedd</translation>
+        <translation type="vanished">Wedi methu creu cydran llyfrgelloedd</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Math o lwyth anhysbys: </translation>
+        <translation type="vanished">Math o lwyth anhysbys: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Wedi methu creu cydran pecyn</translation>
+        <translation type="vanished">Wedi methu creu cydran pecyn</translation>
     </message>
 </context>
 <context>
@@ -2269,19 +2261,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -3914,10 +3893,6 @@ Are you sure you want to do this?</source>
         <translation type="unfinished">Loywi</translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -4706,10 +4681,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -4897,12 +4868,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5351,12 +5316,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -5718,10 +5677,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginWizardPage</name>
@@ -5813,10 +5768,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12696,13 +12647,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -13279,10 +13223,6 @@ Are you sure?</source>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -13609,11 +13549,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

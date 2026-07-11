@@ -215,52 +215,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paket manifest dosyası anlaşılamadı:
+        <translation type="vanished">Paket manifest dosyası anlaşılamadı:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Desteklenmeyen yükleme modu</translation>
+        <translation type="vanished">Desteklenmeyen yükleme modu</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Mevcut dosyalar siliniyor...</translation>
+        <translation type="vanished">Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Bilinmeyen mod türü: %1</translation>
+        <translation type="vanished">Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation type="vanished">%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Mod paketi için yükleyici sürümü seçilmemiş!</translation>
+        <translation type="vanished">Mod paketi için yükleyici sürümü seçilmemiş!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation type="vanished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Yapılandırmalar indiriliyor...</translation>
+        <translation type="vanished">Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Yapılandırma indirmesi</translation>
+        <translation type="vanished">Yapılandırma indirmesi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Yapılandırmalar çıkarılıyor...</translation>
+        <translation type="vanished">Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -268,15 +268,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>İsteğe bağlı modlar seçiliyor...</translation>
+        <translation type="vanished">İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modlar indiriliyor...</translation>
+        <translation type="vanished">Modlar indiriliyor...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod indirmesi</translation>
+        <translation type="vanished">Mod indirmesi</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -284,43 +284,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Bilinmeyen indirme türü: %1</translation>
+        <translation type="vanished">Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Engellenmiş modlar bulundu</translation>
+        <translation type="vanished">Engellenmiş modlar bulundu</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
+        <translation type="vanished">Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 görevin %1 tanesi tamamlandı</translation>
+        <translation type="vanished">%2 görevin %1 tanesi tamamlandı</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modları dışarı aktarma başarısız oldu...</translation>
+        <translation type="vanished">Modları dışarı aktarma başarısız oldu...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modlar dışarı aktarılıyor...</translation>
+        <translation type="vanished">Modlar dışarı aktarılıyor...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Mod paketi kuruluyor</translation>
+        <translation type="vanished">Mod paketi kuruluyor</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kütüphane bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Bilinmeyen yükleyici tipi: </translation>
+        <translation type="vanished">Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paket bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Paket bileşeni oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -2536,7 +2536,7 @@ Emin misiniz?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Yeterli RAM yok</translation>
+        <translation type="vanished">Yeterli RAM yok</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2545,7 +2545,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Bu profili mevcut bellek ayarlarıyla başlatmak için yeterli RAM yok.
+        <translation type="vanished">Bu profili mevcut bellek ayarlarıyla başlatmak için yeterli RAM yok.
 
 Gerekli: %1 MiB
 Kullanılabilir: %2 MiB
@@ -4650,7 +4650,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Ok</source>
-        <translation>Tamam</translation>
+        <translation type="vanished">Tamam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6169,7 +6169,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Sistem varsayılanını kullan</translation>
+        <translation type="vanished">Sistem varsayılanını kullan</translation>
     </message>
 </context>
 <context>
@@ -6479,7 +6479,7 @@ Demoyu oynamak ister misiniz?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>İnternete bağlı değilsiniz, çevrimdışı modda başlatılıyor.
+        <translation type="vanished">İnternete bağlı değilsiniz, çevrimdışı modda başlatılıyor.
 
 </translation>
     </message>
@@ -7231,7 +7231,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Minecraft başlatılamadı!</translation>
+        <translation type="vanished">Minecraft başlatılamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7710,7 +7710,7 @@ Sebep:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>İşlem başlatılamadı.</translation>
+        <translation type="vanished">İşlem başlatılamadı.</translation>
     </message>
 </context>
 <context>
@@ -7838,7 +7838,7 @@ Sebep:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Cihaz doğrulanması alınamadı</translation>
+        <translation type="vanished">Cihaz doğrulanması alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17045,7 +17045,7 @@ Emin misiniz?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 çevrilmiş
 %3 muhtemelen
 %4 toplam</translation>
@@ -17925,7 +17925,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Tamam</translation>
+        <translation type="vanished">Tamam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18294,7 +18294,7 @@ Emin misin?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 servisleri için kimlik doğrulaması alınamadı. Hata %2.</translation>
+        <translation type="vanished">%1 servisleri için kimlik doğrulaması alınamadı. Hata %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

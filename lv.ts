@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nevarēja saprast pakas manifestu:
+        <translation type="vanished">Nevarēja saprast pakas manifestu:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš %1</translation>
+        <translation type="vanished">Neizdevās iegūt lokālo metadatu indeksu priekš %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Neatbalstīts instalācijas režīms</translation>
+        <translation type="vanished">Neatbalstīts instalācijas režīms</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Dzēš eksistējošos failus...</translation>
+        <translation type="vanished">Dzēš eksistējošos failus...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nezināms modifikācijas veids: %1</translation>
+        <translation type="vanished">Nezināms modifikācijas veids: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Neizdevās atrast versiju %1 ielādētājam</translation>
+        <translation type="vanished">Neizdevās atrast versiju %1 ielādētājam</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modifikācijas pakotnei nav iestatīta ielādētāja versija!</translation>
+        <translation type="vanished">Modifikācijas pakotnei nav iestatīta ielādētāja versija!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
+        <translation type="vanished">Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lejupielādē konfigurācijas...</translation>
+        <translation type="vanished">Lejupielādē konfigurācijas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Lejupielādes Konfigurācija</translation>
+        <translation type="vanished">Lejupielādes Konfigurācija</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfigurāciju izvilkšana...</translation>
+        <translation type="vanished">Konfigurāciju izvilkšana...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Izvēlas neobligātās modifikācijas...</translation>
+        <translation type="vanished">Izvēlas neobligātās modifikācijas...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Lejupielādē modifikācijas...</translation>
+        <translation type="vanished">Lejupielādē modifikācijas...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modifikāciju lejupielāde</translation>
+        <translation type="vanished">Modifikāciju lejupielāde</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nezināms lejupielādes veids: %1</translation>
+        <translation type="vanished">Nezināms lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Tika atrastas bloķētas modifikācijas</translation>
+        <translation type="vanished">Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation type="vanished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 no %2 pabeigts</translation>
+        <translation type="vanished">%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Neizdevās izrakstīt modifikācijas...</translation>
+        <translation type="vanished">Neizdevās izrakstīt modifikācijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Izraksta modifikācijas...</translation>
+        <translation type="vanished">Izraksta modifikācijas...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Lejupielādē modifikācijas pakotni</translation>
+        <translation type="vanished">Lejupielādē modifikācijas pakotni</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Neizdevās izveidot bibliotēkas komponentu</translation>
+        <translation type="vanished">Neizdevās izveidot bibliotēkas komponentu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Nezināms ielādētāja veids: </translation>
+        <translation type="vanished">Nezināms ielādētāja veids: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Neizdevās izveidot pakotnes komponentu</translation>
+        <translation type="vanished">Neizdevās izveidot pakotnes komponentu</translation>
     </message>
 </context>
 <context>
@@ -2462,19 +2462,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4360,7 +4347,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Labi</translation>
+        <translation type="vanished">Labi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5517,10 +5504,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -5752,12 +5735,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6292,7 +6269,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Nevarēja palaist Minecraft!</translation>
+        <translation type="obsolete">Nevarēja palaist Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6750,7 +6727,7 @@ Iemesls:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Process nevarēja sākties.</translation>
+        <translation type="vanished">Process nevarēja sākties.</translation>
     </message>
 </context>
 <context>
@@ -6866,10 +6843,6 @@ Iemesls:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14306,13 +14279,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished">Valoda</translation>
@@ -14990,7 +14956,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Labi</translation>
+        <translation type="obsolete">Labi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15323,11 +15289,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

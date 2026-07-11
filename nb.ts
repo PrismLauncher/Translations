@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Klarte ikke tolke pakkemanifestet:
+        <translation type="vanished">Klarte ikke tolke pakkemanifestet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Klarte ikke hente den lokale metadataindeksen for %1</translation>
+        <translation type="vanished">Klarte ikke hente den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
+        <translation type="vanished">Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Installasjonsmetode støttes ikke</translation>
+        <translation type="vanished">Installasjonsmetode støttes ikke</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Sletter eksisterende filer …</translation>
+        <translation type="vanished">Sletter eksisterende filer …</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ukjent modifikasjonstype: %1</translation>
+        <translation type="vanished">Ukjent modifikasjonstype: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Klarte ikke finne versjon for %1-laster</translation>
+        <translation type="vanished">Klarte ikke finne versjon for %1-laster</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen lasterversjon satt for mod-pakken!</translation>
+        <translation type="vanished">Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Ukjent eller ustøttet nedlastingstype: %1</translation>
+        <translation type="vanished">Ukjent eller ustøttet nedlastingstype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Laster ned oppsett …</translation>
+        <translation type="vanished">Laster ned oppsett …</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Sett opp nedlastinger</translation>
+        <translation type="vanished">Sett opp nedlastinger</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Pakker ut oppsett …</translation>
+        <translation type="vanished">Pakker ut oppsett …</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Velger valgfrie modifikasjoner …</translation>
+        <translation type="vanished">Velger valgfrie modifikasjoner …</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Laster ned modifikasjoner …</translation>
+        <translation type="vanished">Laster ned modifikasjoner …</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Last ned mod</translation>
+        <translation type="vanished">Last ned mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ukjent nedlastningstype: %1</translation>
+        <translation type="vanished">Ukjent nedlastningstype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Fant blokkerte modifikasjoner</translation>
+        <translation type="vanished">Fant blokkerte modifikasjoner</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De følgene filene er ikke tilgjengelige for nedlastning i tredjeparts-startprogrammer.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
+        <translation type="vanished">De følgene filene er ikke tilgjengelige for nedlastning i tredjeparts-startprogrammer.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 av %2 fullført</translation>
+        <translation type="vanished">%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Klarte ikke pakke ut modifikasjoner …</translation>
+        <translation type="vanished">Klarte ikke pakke ut modifikasjoner …</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Pakker ut modifikasjoner …</translation>
+        <translation type="vanished">Pakker ut modifikasjoner …</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerer mod-pakke</translation>
+        <translation type="vanished">Installerer mod-pakke</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Klarte ikke opprette bibliotekskomponent</translation>
+        <translation type="vanished">Klarte ikke opprette bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ukjent innlastertype: </translation>
+        <translation type="vanished">Ukjent innlastertype: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Klarte ikke opprette pakkekomponent</translation>
+        <translation type="vanished">Klarte ikke opprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -2470,19 +2470,6 @@ Er du sikker?</translation>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4415,7 +4402,7 @@ Prøv på nytt.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5836,7 +5823,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Bruk systemspråk</translation>
+        <translation type="vanished">Bruk systemspråk</translation>
     </message>
 </context>
 <context>
@@ -6135,7 +6122,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Du er ikke tilkoblet Internett, starter i offline-modus
+        <translation type="vanished">Du er ikke tilkoblet Internett, starter i offline-modus
 
 </translation>
     </message>
@@ -6768,7 +6755,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Kunne ikke starte Minecraft!</translation>
+        <translation type="vanished">Kunne ikke starte Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7235,7 +7222,7 @@ Grunn:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Oppstart av prosessen mislyktes.</translation>
+        <translation type="vanished">Oppstart av prosessen mislyktes.</translation>
     </message>
 </context>
 <context>
@@ -7363,7 +7350,7 @@ Grunn:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Kunne ikke hente enhetsautorisering</translation>
+        <translation type="vanished">Kunne ikke hente enhetsautorisering</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -15279,7 +15266,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 oversatt
 %3 uklar
 %4 totalt</translation>
@@ -16011,7 +15998,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -16368,7 +16355,7 @@ Er du sikker?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Kunne ikke hente autorisering til %1 tjenester. Feil %2.</translation>
+        <translation type="vanished">Kunne ikke hente autorisering til %1 tjenester. Feil %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

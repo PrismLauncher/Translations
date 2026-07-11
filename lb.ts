@@ -199,52 +199,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Konnt de Pak Manifest net verstoen:
+        <translation type="vanished">Konnt de Pak Manifest net verstoen:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Konnt de lokale Metadatenindex fir %1 net kréien</translation>
+        <translation type="vanished">Konnt de lokale Metadatenindex fir %1 net kréien</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ofruffen vun de lokale Metadatenindex fir &apos;%1&apos; v%2 fehlgeschloen</translation>
+        <translation type="vanished">Ofruffen vun de lokale Metadatenindex fir &apos;%1&apos; v%2 fehlgeschloen</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Installatiounsmodus net ennerstetzt</translation>
+        <translation type="vanished">Installatiounsmodus net ennerstetzt</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Läscht bestehend Dateien...</translation>
+        <translation type="vanished">Läscht bestehend Dateien...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Onbekannten Modtyp: %1</translation>
+        <translation type="vanished">Onbekannten Modtyp: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
+        <translation type="vanished">Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Keng Lader-Versioun fir de Modpack definéiert!</translation>
+        <translation type="vanished">Keng Lader-Versioun fir de Modpack definéiert!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Onbekannten oder net ënnerstëtzten Download-Typ: %1</translation>
+        <translation type="vanished">Onbekannten oder net ënnerstëtzten Download-Typ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lueden Konfiguratiounen erof...</translation>
+        <translation type="vanished">Lueden Konfiguratiounen erof...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Configuration eroflueden</translation>
+        <translation type="vanished">Configuration eroflueden</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfiguratiounen Extraihéieren...</translation>
+        <translation type="vanished">Konfiguratiounen Extraihéieren...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -252,55 +252,31 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Optional Mods auswielen...</translation>
+        <translation type="vanished">Optional Mods auswielen...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Mods eroflueden...</translation>
+        <translation type="vanished">Mods eroflueden...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod Download</translation>
-    </message>
-    <message>
-        <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mod Download</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Konnt d&apos; Mods net extrahéieren...</translation>
+        <translation type="vanished">Konnt d&apos; Mods net extrahéieren...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extrait Mods...</translation>
+        <translation type="vanished">Extrait Mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installatioun vum Modpacket</translation>
-    </message>
-    <message>
-        <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Installatioun vum Modpacket</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Onbekannten Lueder Typ: </translation>
-    </message>
-    <message>
-        <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Onbekannten Lueder Typ: </translation>
     </message>
 </context>
 <context>
@@ -2148,19 +2124,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -3949,10 +3912,6 @@ W. e. g nach eng kéier Probeieren.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
@@ -4874,10 +4833,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -5065,12 +5020,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5518,7 +5467,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Konnt Minecraft net starten!</translation>
+        <translation type="obsolete">Konnt Minecraft net starten!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -5898,10 +5847,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -6004,10 +5949,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12898,13 +12839,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -13470,10 +13404,6 @@ Are you sure?</source>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
         <translation type="unfinished">OK</translation>
@@ -13800,11 +13730,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

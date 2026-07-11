@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nepodařilo se pochopit manifest balíčku:
+        <translation type="vanished">Nepodařilo se pochopit manifest balíčku:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nepodařilo se získat index lokálních metadat pro %1</translation>
+        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
+        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepodporovaný režim instalace</translation>
+        <translation type="vanished">Nepodporovaný režim instalace</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Mazání existujících souborů...</translation>
+        <translation type="vanished">Mazání existujících souborů...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Neznámý typ modu: %1</translation>
+        <translation type="vanished">Neznámý typ modu: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepodařilo se najít verzi pro zavaděč %1</translation>
+        <translation type="vanished">Nepodařilo se najít verzi pro zavaděč %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Není nastavena žádná zavaděče verze pro modpack!</translation>
+        <translation type="vanished">Není nastavena žádná zavaděče verze pro modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Neznámý nebo nepodporovaný typ stahování: %1</translation>
+        <translation type="vanished">Neznámý nebo nepodporovaný typ stahování: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Stahování konfigurací...</translation>
+        <translation type="vanished">Stahování konfigurací...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurace stahování</translation>
+        <translation type="vanished">Konfigurace stahování</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extrahování konfigurací...</translation>
+        <translation type="vanished">Extrahování konfigurací...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Výběr volitelných modů...</translation>
+        <translation type="vanished">Výběr volitelných modů...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Stahování modů...</translation>
+        <translation type="vanished">Stahování modů...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Stáhnout mod</translation>
+        <translation type="vanished">Stáhnout mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Neznámý typ stahování: %1</translation>
+        <translation type="vanished">Neznámý typ stahování: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Nalezeny blokované mody</translation>
+        <translation type="vanished">Nalezeny blokované mody</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Následující soubory nejsou dostupné ke stažení v launcherech třetích stran.&lt;br/&gt;Budete si je muset ručně stáhnout a přidat je do instance.</translation>
+        <translation type="vanished">Následující soubory nejsou dostupné ke stažení v launcherech třetích stran.&lt;br/&gt;Budete si je muset ručně stáhnout a přidat je do instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Dokončeno %1 z %2</translation>
+        <translation type="vanished">Dokončeno %1 z %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nepodařilo se rozbalit mody...</translation>
+        <translation type="vanished">Nepodařilo se rozbalit mody...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Rozbalování modů...</translation>
+        <translation type="vanished">Rozbalování modů...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalace modpacku</translation>
+        <translation type="vanished">Instalace modpacku</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nepodařilo se vytvořit komponent knihoven</translation>
+        <translation type="vanished">Nepodařilo se vytvořit komponent knihoven</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Neznámý typ zavaděče: </translation>
+        <translation type="vanished">Neznámý typ zavaděče: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nepodařilo se vytvořit komponent balíku</translation>
+        <translation type="vanished">Nepodařilo se vytvořit komponent balíku</translation>
     </message>
 </context>
 <context>
@@ -2519,7 +2519,7 @@ Jste si jisti?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Nedostatek RAM</translation>
+        <translation type="vanished">Nedostatek RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2528,7 +2528,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nemáte dostatek RAM pro spuštění této instance s aktuálním nastavením paměti.
+        <translation type="vanished">Nemáte dostatek RAM pro spuštění této instance s aktuálním nastavením paměti.
 
 Požadováno: %1 MiB
 Dostupné: %2 MiB
@@ -4645,7 +4645,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6178,7 +6178,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Použít národní prostředí systému</translation>
+        <translation type="vanished">Použít národní prostředí systému</translation>
     </message>
 </context>
 <context>
@@ -6488,7 +6488,7 @@ Chcete si zahrát demo verzi?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nejste připojeni k internetu, spouštění v režimu offline
+        <translation type="vanished">Nejste připojeni k internetu, spouštění v režimu offline
 
 </translation>
     </message>
@@ -7244,7 +7244,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nepodařilo se spustit Minecraft!</translation>
+        <translation type="vanished">Nepodařilo se spustit Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7719,7 +7719,7 @@ Důvod:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Příkaz se nepodařilo spustit.</translation>
+        <translation type="vanished">Příkaz se nepodařilo spustit.</translation>
     </message>
 </context>
 <context>
@@ -7847,7 +7847,7 @@ Důvod:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Nepodařilo se získat ověření zařízení</translation>
+        <translation type="vanished">Nepodařilo se získat ověření zařízení</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17096,7 +17096,7 @@ Jste si jisti?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 přeloženo
 %3 nejasný
 %4 celkem</translation>
@@ -17972,7 +17972,7 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18341,7 +18341,7 @@ Jste si jisti?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Nepodařilo se získat oprávnění k přístupu ke službám %1. Chyba %2.</translation>
+        <translation type="vanished">Nepodařilo se získat oprávnění k přístupu ke službám %1. Chyba %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ne povis kompreni pakan manifeston:
+        <translation type="vanished">Ne povis kompreni pakan manifeston:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Malsukcesis akiri lokan metadatuman indekson por %1</translation>
+        <translation type="vanished">Malsukcesis akiri lokan metadatuman indekson por %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nesubtenata instala reĝimo</translation>
+        <translation type="vanished">Nesubtenata instala reĝimo</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Forigante jamajn dosierojn...</translation>
+        <translation type="vanished">Forigante jamajn dosierojn...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nekonata moda speco: %1</translation>
+        <translation type="vanished">Nekonata moda speco: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Malsukcesis trovi version por %1 ŝargilo</translation>
+        <translation type="vanished">Malsukcesis trovi version por %1 ŝargilo</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Neniu ŝargilan version fiksitis por modpako!</translation>
+        <translation type="vanished">Neniu ŝargilan version fiksitis por modpako!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
+        <translation type="vanished">Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Elŝutas agordojn...</translation>
+        <translation type="vanished">Elŝutas agordojn...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Agorda elŝutaĵo</translation>
+        <translation type="vanished">Agorda elŝutaĵo</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Ĉerpi agordojn...</translation>
+        <translation type="vanished">Ĉerpi agordojn...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Elektante nedevigajn modifaĵojn...</translation>
+        <translation type="vanished">Elektante nedevigajn modifaĵojn...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Elŝutante modifaĵojn...</translation>
+        <translation type="vanished">Elŝutante modifaĵojn...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Moda elŝutaĵo</translation>
+        <translation type="vanished">Moda elŝutaĵo</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nekonata elŝutaĵa speco: %1</translation>
+        <translation type="vanished">Nekonata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokitaj modifaĵoj trovitaj</translation>
+        <translation type="vanished">Blokitaj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
+        <translation type="vanished">La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 el %2 kompleta</translation>
+        <translation type="vanished">%1 el %2 kompleta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Malsukcesis malkompaktigi modifaĵojn...</translation>
+        <translation type="vanished">Malsukcesis malkompaktigi modifaĵojn...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Malkompaktigante modifaĵojn...</translation>
+        <translation type="vanished">Malkompaktigante modifaĵojn...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalante modifaĵaron</translation>
+        <translation type="vanished">Instalante modifaĵaron</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Malsukcesis krei bibliotekan komponanton</translation>
+        <translation type="vanished">Malsukcesis krei bibliotekan komponanton</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Nekonata ŝargilan specan: </translation>
+        <translation type="vanished">Nekonata ŝargilan specan: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Malsukcesis krei modpakan komponanton</translation>
+        <translation type="vanished">Malsukcesis krei modpakan komponanton</translation>
     </message>
 </context>
 <context>
@@ -2415,19 +2415,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4321,10 +4308,6 @@ Bonvolu reprovi.</translation>
         <translation>Aktualigi</translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -5287,7 +5270,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Uzi sisteman lingvon</translation>
+        <translation type="vanished">Uzi sisteman lingvon</translation>
     </message>
 </context>
 <context>
@@ -5496,12 +5479,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6009,12 +5986,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -6406,10 +6377,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -6516,10 +6483,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13873,13 +13836,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished">Lingvo</translation>
@@ -14508,10 +14464,6 @@ Are you sure?</source>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -14842,11 +14794,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

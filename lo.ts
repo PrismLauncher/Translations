@@ -148,104 +148,104 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
+        <translation type="vanished">ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
+        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation type="vanished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation type="vanished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
+        <translation type="vanished">ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
+        <translation type="vanished">ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation type="vanished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation type="vanished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>ດາວໂຫຼດ Config</translation>
+        <translation type="vanished">ດາວໂຫຼດ Config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation type="vanished">ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>ກຳລັງດາວໂຫຼດມອດ...</translation>
+        <translation type="vanished">ກຳລັງດາວໂຫຼດມອດ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>ດາວໂຫຼດມອດ</translation>
+        <translation type="vanished">ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation type="vanished">ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
+        <translation type="vanished">ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>ສຳເລັດ %1 ຈາກ %2</translation>
+        <translation type="vanished">ສຳເລັດ %1 ຈາກ %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation type="vanished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation type="vanished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2015,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM ບໍ່ພໍ</translation>
+        <translation type="vanished">RAM ບໍ່ພໍ</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2024,7 +2024,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>ມີ RAM ບໍ່ພຽງພໍທີ່ຈະເປີດຊຸດເກມນີ້ດ້ວຍການຕັ້ງຄ່າໜ່ວຍຄວາມຈຳປັດຈຸບັນ.
+        <translation type="vanished">ມີ RAM ບໍ່ພຽງພໍທີ່ຈະເປີດຊຸດເກມນີ້ດ້ວຍການຕັ້ງຄ່າໜ່ວຍຄວາມຈຳປັດຈຸບັນ.
 
 ຕ້ອງການ: %1 MiB
 ທີ່ມີຢູ່: %2 MiB
@@ -3655,7 +3655,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>ຕົກລົງ</translation>
+        <translation type="vanished">ຕົກລົງ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -4445,7 +4445,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>ໃຊ້ພາສາຕາມລະບົບ</translation>
+        <translation type="vanished">ໃຊ້ພາສາຕາມລະບົບ</translation>
     </message>
 </context>
 <context>
@@ -4639,7 +4639,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ອິນເຕີເນັດ, ກຳລັງເປີດໃນໂໝດອອຟລາຍ
+        <translation type="vanished">ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ອິນເຕີເນັດ, ກຳລັງເປີດໃນໂໝດອອຟລາຍ
 
 </translation>
     </message>
@@ -5094,7 +5094,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>ບໍ່ສາມາດເປີດເກມ Minecraft ໄດ້!</translation>
+        <translation type="vanished">ບໍ່ສາມາດເປີດເກມ Minecraft ໄດ້!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -5471,7 +5471,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>ບໍ່ສາມາດເລີ່ມຕົ້ນຂະບວນການໄດ້.</translation>
+        <translation type="vanished">ບໍ່ສາມາດເລີ່ມຕົ້ນຂະບວນການໄດ້.</translation>
     </message>
 </context>
 <context>
@@ -5568,7 +5568,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>ບໍ່ສາມາດດຶງຂໍ້ມູນການຢັ້ງຢືນອຸປະກອນໄດ້</translation>
+        <translation type="vanished">ບໍ່ສາມາດດຶງຂໍ້ມູນການຢັ້ງຢືນອຸປະກອນໄດ້</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -12498,7 +12498,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 ແປແລ້ວ %2
 ຄຸມເຄືອ %3
 ທັງໝົດ %4</translation>
@@ -13074,7 +13074,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>ຕົກລົງ</translation>
+        <translation type="vanished">ຕົກລົງ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -13413,7 +13413,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>ຮັບການອະນຸຍາດເພື່ອເຂົ້າເຖິງບໍລິການ %1 ລົ້ມເຫຼວ. ຂໍ້ຜິດພາດ %2.</translation>
+        <translation type="vanished">ຮັບການອະນຸຍາດເພື່ອເຂົ້າເຖິງບໍລິການ %1 ລົ້ມເຫຼວ. ຂໍ້ຜິດພາດ %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

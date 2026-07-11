@@ -166,105 +166,45 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ma stajtx nifhem il-manifest tal-pakkett:
+        <translation type="vanished">Ma stajtx nifhem il-manifest tal-pakkett:
 </translation>
     </message>
     <message>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unsupported installation mode</source>
-        <translation>Mod ta&apos; installazjoni mhux appoġjata</translation>
+        <translation type="vanished">Mod ta&apos; installazjoni mhux appoġjata</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Jitħassru fajls eżistenti...</translation>
+        <translation type="vanished">Jitħassru fajls eżistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tip ta&apos; mod mhux magħruf: %1</translation>
+        <translation type="vanished">Tip ta&apos; mod mhux magħruf: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Falla biex jinsab verżjoni għall-%1 loader</translation>
-    </message>
-    <message>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Config download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
+        <translation type="vanished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
 Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 minn %2 lesti</translation>
+        <translation type="vanished">%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Ma rnexxilniex nestrattaw il-mods...</translation>
+        <translation type="vanished">Ma rnexxilniex nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Qedhin nestrattaw il-mods...</translation>
+        <translation type="vanished">Qedhin nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installazjoni ta&apos; modpack</translation>
-    </message>
-    <message>
-        <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Installazjoni ta&apos; modpack</translation>
     </message>
 </context>
 <context>
@@ -2005,19 +1945,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -3615,10 +3542,6 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -4463,10 +4386,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -4648,12 +4567,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5100,12 +5013,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -5466,10 +5373,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginWizardPage</name>
@@ -5561,10 +5464,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12369,13 +12268,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -12934,10 +12826,6 @@ Are you sure?</source>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
@@ -13263,11 +13151,6 @@ Din id-dinja tista titlaq għal dejjem (ŻMIEN TWIL).
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

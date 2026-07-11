@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>تعذرت معالجة بيانات الحزمة:
+        <translation type="vanished">تعذرت معالجة بيانات الحزمة:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
+        <translation type="vanished">فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
+        <translation type="vanished">فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>وضع تنصيب غير مدعوم</translation>
+        <translation type="vanished">وضع تنصيب غير مدعوم</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>جاري حذف الملفات الموجودة...</translation>
+        <translation type="vanished">جاري حذف الملفات الموجودة...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>نوع إضافة غير معروف: %1</translation>
+        <translation type="vanished">نوع إضافة غير معروف: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشلت محاولة إيجاد إصدار للمحمل %1</translation>
+        <translation type="vanished">فشلت محاولة إيجاد إصدار للمحمل %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
+        <translation type="vanished">لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
+        <translation type="vanished">طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>جارِ تنزيل ملفات الإعدادات...</translation>
+        <translation type="vanished">جارِ تنزيل ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>تنزيل ملفات الإعدادات</translation>
+        <translation type="vanished">تنزيل ملفات الإعدادات</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>جارِ استخراج ملفات الإعدادات...</translation>
+        <translation type="vanished">جارِ استخراج ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>جار وضع الإضافات الاختيارية...</translation>
+        <translation type="vanished">جار وضع الإضافات الاختيارية...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>جاري تنزيل الإضافات...</translation>
+        <translation type="vanished">جاري تنزيل الإضافات...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>تنزيل الإضافة</translation>
+        <translation type="vanished">تنزيل الإضافة</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>وضع تنزيل غير معروف: %1</translation>
+        <translation type="vanished">وضع تنزيل غير معروف: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>تم العثور على إضافات محظورة</translation>
+        <translation type="vanished">تم العثور على إضافات محظورة</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation type="vanished">الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>تم %1 من %2</translation>
+        <translation type="vanished">تم %1 من %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>فشل في إستخراج الإضافات...</translation>
+        <translation type="vanished">فشل في إستخراج الإضافات...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>جارِ إستخراج الإضافات...</translation>
+        <translation type="vanished">جارِ إستخراج الإضافات...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>تثبيت حزمة الإضافات</translation>
+        <translation type="vanished">تثبيت حزمة الإضافات</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>فضل انشاء مكون المكاتب</translation>
+        <translation type="vanished">فضل انشاء مكون المكاتب</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>نوعية محمّل مجهولة: </translation>
+        <translation type="vanished">نوعية محمّل مجهولة: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>فشل إنشاء مكون الحزمة</translation>
+        <translation type="vanished">فشل إنشاء مكون الحزمة</translation>
     </message>
 </context>
 <context>
@@ -2443,7 +2443,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>ذاكرة الوصول العشوائي (RAM) غير كافية</translation>
+        <translation type="vanished">ذاكرة الوصول العشوائي (RAM) غير كافية</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2452,7 +2452,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>لا تتوفر ذاكرة رام (RAM) كافية لتشغيل هذه النسخة بإعدادات الذاكرة الحالية.
+        <translation type="vanished">لا تتوفر ذاكرة رام (RAM) كافية لتشغيل هذه النسخة بإعدادات الذاكرة الحالية.
 
 المطلوب: %1 ميجابايت
 المتوفر: %2 ميجابايت
@@ -4432,7 +4432,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>موافق</translation>
+        <translation type="vanished">موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5857,7 +5857,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>استخدم لغة النظام</translation>
+        <translation type="vanished">استخدم لغة النظام</translation>
     </message>
 </context>
 <context>
@@ -6155,7 +6155,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>أنت غير متصل بالإنترنت، سيتم التشغيل في وضع عدم الاتصال
+        <translation type="vanished">أنت غير متصل بالإنترنت، سيتم التشغيل في وضع عدم الاتصال
 
 </translation>
     </message>
@@ -6788,7 +6788,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>تعذر تشغيل ماين كرافت!</translation>
+        <translation type="vanished">تعذر تشغيل ماين كرافت!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7256,7 +7256,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>فشلت العملية بالبدء.</translation>
+        <translation type="vanished">فشلت العملية بالبدء.</translation>
     </message>
 </context>
 <context>
@@ -7380,7 +7380,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>تعذر جلب تحقق الحساب</translation>
+        <translation type="vanished">تعذر جلب تحقق الحساب</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -15474,7 +15474,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 كلمة مترجمة
 %3 كلمة مبهمة
 مجموع الكلمات %4</translation>
@@ -16273,7 +16273,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">موافق</translation>
+        <translation type="obsolete">موافق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -16636,11 +16636,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paki manifestist ei saadud aru:
+        <translation type="vanished">Paki manifestist ei saadud aru:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ei saanud kohalikkude andmete indeksit %1</translation>
+        <translation type="vanished">Ei saanud kohalikkude andmete indeksit %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
+        <translation type="vanished">Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mittetoetatud paigaldusmeetod</translation>
+        <translation type="vanished">Mittetoetatud paigaldusmeetod</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Olemasolevate failide kustutamine...</translation>
+        <translation type="vanished">Olemasolevate failide kustutamine...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tundmatu modi tüüp: %1</translation>
+        <translation type="vanished">Tundmatu modi tüüp: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Ei leidnud %1 laadjale versiooni</translation>
+        <translation type="vanished">Ei leidnud %1 laadjale versiooni</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modipaki laaduri versioon pole määratud!</translation>
+        <translation type="vanished">Modipaki laaduri versioon pole määratud!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
+        <translation type="vanished">Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Seadistuste allalaadimine...</translation>
+        <translation type="vanished">Seadistuste allalaadimine...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Seadistuse allalaadimine</translation>
+        <translation type="vanished">Seadistuse allalaadimine</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Seadistuste ekstraktimine...</translation>
+        <translation type="vanished">Seadistuste ekstraktimine...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Valikuliste modifikatsioonide valimine...</translation>
+        <translation type="vanished">Valikuliste modifikatsioonide valimine...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modide allalaadimine...</translation>
+        <translation type="vanished">Modide allalaadimine...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modi allalaadimine</translation>
+        <translation type="vanished">Modi allalaadimine</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tundmatu allalaadimise tüüp: %1</translation>
+        <translation type="vanished">Tundmatu allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Leiti blokeeritud modid</translation>
+        <translation type="vanished">Leiti blokeeritud modid</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Järgnevad failid ei ole kolmanda osapoole käivitajatele allalaaditavad.&lt;br/&gt;Sa pead need käsitsi alla laadima ning eksemplari lisama.</translation>
+        <translation type="vanished">Järgnevad failid ei ole kolmanda osapoole käivitajatele allalaaditavad.&lt;br/&gt;Sa pead need käsitsi alla laadima ning eksemplari lisama.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 tehtud</translation>
+        <translation type="vanished">%1/%2 tehtud</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modide ekstraktimine ebaõnnestus...</translation>
+        <translation type="vanished">Modide ekstraktimine ebaõnnestus...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modide ekstraktimine...</translation>
+        <translation type="vanished">Modide ekstraktimine...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modipaki paigaldamine</translation>
+        <translation type="vanished">Modipaki paigaldamine</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Teekide komponendi loomine ebaõnnestus</translation>
+        <translation type="vanished">Teekide komponendi loomine ebaõnnestus</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tundmatu laaduritüüp: </translation>
+        <translation type="vanished">Tundmatu laaduritüüp: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paki komponentide loomine ebaõnnestus</translation>
+        <translation type="vanished">Paki komponentide loomine ebaõnnestus</translation>
     </message>
 </context>
 <context>
@@ -2457,17 +2457,13 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
 
 Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Ei ole piisavalt RAM&apos;i saadaval, et seda mängu versiooni käivitada nende mälu sättetega.
+        <translation type="vanished">Ei ole piisavalt RAM&apos;i saadaval, et seda mängu versiooni käivitada nende mälu sättetega.
 
 Vajatud: %1 MiB
 Saadaval: %2 MiB
@@ -4535,7 +4531,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5966,7 +5962,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Kasuta süsteemikeeli</translation>
+        <translation type="vanished">Kasuta süsteemikeeli</translation>
     </message>
 </context>
 <context>
@@ -6231,12 +6227,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6923,7 +6913,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Minecrafti käivitamine ebaõnnestus!</translation>
+        <translation type="vanished">Minecrafti käivitamine ebaõnnestus!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7390,7 +7380,7 @@ Põhjus:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Protsessi käivitumine ebaõnnestus.</translation>
+        <translation type="vanished">Protsessi käivitumine ebaõnnestus.</translation>
     </message>
 </context>
 <context>
@@ -7518,7 +7508,7 @@ Põhjus:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Seadme autoriseerimise hankimine ebaõnnestus</translation>
+        <translation type="vanished">Seadme autoriseerimise hankimine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16169,7 +16159,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 tõlgitud
 %3 ebamäärast
 %4 kokku</translation>
@@ -17026,7 +17016,7 @@ Palun lisa oma Mojangi või Minecrafti konto.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17385,7 +17375,7 @@ Kas oled kindel?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 teenustele ligipääsemiseks autoriseerimise hankimine ebaõnnestus. Viga %2.</translation>
+        <translation type="vanished">%1 teenustele ligipääsemiseks autoriseerimise hankimine ebaõnnestus. Viga %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Could not understand pack manifest:
+        <translation type="vanished">Could not understand pack manifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Failed to get local metadata index for %1</translation>
+        <translation type="vanished">Failed to get local metadata index for %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Failed to get local metadata index for &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Failed to get local metadata index for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Unsupported installation mode</translation>
+        <translation type="vanished">Unsupported installation mode</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Deleting existing files...</translation>
+        <translation type="vanished">Deleting existing files...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Unknown mod type: %1</translation>
+        <translation type="vanished">Unknown mod type: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Failed to find version for %1 loader</translation>
+        <translation type="vanished">Failed to find version for %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>No loader version set for modpack!</translation>
+        <translation type="vanished">No loader version set for modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Unknown or unsupported download type: %1</translation>
+        <translation type="vanished">Unknown or unsupported download type: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Downloading configs...</translation>
+        <translation type="vanished">Downloading configs...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Config download</translation>
+        <translation type="vanished">Config download</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extracting configs...</translation>
+        <translation type="vanished">Extracting configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Selecting optional mods...</translation>
+        <translation type="vanished">Selecting optional mods...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Downloading mods...</translation>
+        <translation type="vanished">Downloading mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod download</translation>
+        <translation type="vanished">Mod download</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Unknown download type: %1</translation>
+        <translation type="vanished">Unknown download type: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blocked mods found</translation>
+        <translation type="vanished">Blocked mods found</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
+        <translation type="vanished">The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 out of %2 complete</translation>
+        <translation type="vanished">%1 out of %2 complete</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Failed to extract mods...</translation>
+        <translation type="vanished">Failed to extract mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extracting mods...</translation>
+        <translation type="vanished">Extracting mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installing modpack</translation>
+        <translation type="vanished">Installing modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Failed to create libraries component</translation>
+        <translation type="vanished">Failed to create libraries component</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Unknown loader type: </translation>
+        <translation type="vanished">Unknown loader type: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Failed to create pack component</translation>
+        <translation type="vanished">Failed to create pack component</translation>
     </message>
 </context>
 <context>
@@ -2467,7 +2467,7 @@ Are you sure?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Not enough RAM</translation>
+        <translation type="vanished">Not enough RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2476,7 +2476,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>There is not enough RAM available to launch this instance with the current memory settings.
+        <translation type="vanished">There is not enough RAM available to launch this instance with the current memory settings.
 
 Required: %1 MiB
 Available: %2 MiB
@@ -4522,7 +4522,7 @@ Please try again.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5917,7 +5917,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Use system locales</translation>
+        <translation type="vanished">Use system locales</translation>
     </message>
 </context>
 <context>
@@ -6197,7 +6197,7 @@ Do you want to play the demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>You are not connected to the Internet, launching in offline mode
+        <translation type="vanished">You are not connected to the Internet, launching in offline mode
 
 </translation>
     </message>
@@ -6953,7 +6953,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Could not launch Minecraft!</translation>
+        <translation type="vanished">Could not launch Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7371,7 +7371,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>The process failed to start.</translation>
+        <translation type="vanished">The process failed to start.</translation>
     </message>
 </context>
 <context>
@@ -7499,7 +7499,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Failed to retrieve device authorisation</translation>
+        <translation type="vanished">Failed to retrieve device authorisation</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16310,7 +16310,7 @@ Are you sure?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 translated
 %3 fuzzy
 %4 total</translation>
@@ -17172,7 +17172,7 @@ Are you sure?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17541,7 +17541,7 @@ Are you sure?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Failed to get authorisation for %1 services. Error %2.</translation>
+        <translation type="vanished">Failed to get authorisation for %1 services. Error %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

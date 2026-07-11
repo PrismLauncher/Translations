@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
+        <translation type="vanished">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="vanished">%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="vanished">&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>ஆதரிக்கப்படாத நிறுவல் முறை</translation>
+        <translation type="vanished">ஆதரிக்கப்படாத நிறுவல் முறை</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
+        <translation type="vanished">இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>தெரியாத மோட் வகை: %1</translation>
+        <translation type="vanished">தெரியாத மோட் வகை: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
+        <translation type="vanished">%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
+        <translation type="vanished">மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
+        <translation type="vanished">அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="vanished">உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>கட்டமைப்பு பதிவிறக்கம்</translation>
+        <translation type="vanished">கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
+        <translation type="vanished">உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,55 +260,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
+        <translation type="vanished">விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="vanished">மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>மோட் பதிவிறக்கம்</translation>
+        <translation type="vanished">மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>தெரியாத பதிவிறக்க வகை: %1</translation>
+        <translation type="vanished">தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
+        <translation type="vanished">தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
+        <translation type="vanished">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 இல் %1 முடிந்தது</translation>
+        <translation type="vanished">%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
+        <translation type="vanished">மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>மோட்சைப் பிரித்தெடுக்கும் ...</translation>
+        <translation type="vanished">மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>மோட்பேக்கை நிறுவுதல்</translation>
+        <translation type="vanished">மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="vanished">நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>அறியப்படாத ஏற்றி வகை: </translation>
+        <translation type="vanished">அறியப்படாத ஏற்றி வகை: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="vanished">பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
 </context>
 <context>
@@ -2234,19 +2234,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4044,7 +4031,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>சரி</translation>
+        <translation type="vanished">சரி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5373,7 +5360,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>கணினி இடங்களைப் பயன்படுத்துங்கள்</translation>
+        <translation type="vanished">கணினி இடங்களைப் பயன்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
@@ -5626,12 +5613,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6287,7 +6268,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>மின்கிராஃப்ட் தொடங்க முடியவில்லை!</translation>
+        <translation type="vanished">மின்கிராஃப்ட் தொடங்க முடியவில்லை!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6693,7 +6674,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>செயல்முறை தொடங்கத் தவறிவிட்டது.</translation>
+        <translation type="vanished">செயல்முறை தொடங்கத் தவறிவிட்டது.</translation>
     </message>
 </context>
 <context>
@@ -6806,7 +6787,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>சாதன அங்கீகாரத்தை மீட்டெடுப்பதில் தோல்வி</translation>
+        <translation type="vanished">சாதன அங்கீகாரத்தை மீட்டெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14627,7 +14608,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
  %2 மொழிபெயர்க்கப்பட்டுள்ளது
  %3 தெளிவில்லாமல்
  மொத்தம் 4 மொத்தம்</translation>
@@ -15210,7 +15191,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>சரி</translation>
+        <translation type="vanished">சரி</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15561,7 +15542,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 சேவைகளுக்கு ஏற்பு பெறுவதில் தோல்வி. பிழை %2.</translation>
+        <translation type="vanished">%1 சேவைகளுக்கு ஏற்பு பெறுவதில் தோல்வி. பிழை %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

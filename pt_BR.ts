@@ -219,52 +219,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não se pôde entender o manifesto do pacote:
+        <translation type="vanished">Não se pôde entender o manifesto do pacote:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Erro ao obter o índice local de metadados para %1</translation>
+        <translation type="vanished">Erro ao obter o índice local de metadados para %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Erro ao obter o índice local de metadados em &quot;%1&quot; v%2</translation>
+        <translation type="vanished">Erro ao obter o índice local de metadados em &quot;%1&quot; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modo de instalação não suportado</translation>
+        <translation type="vanished">Modo de instalação não suportado</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Excluindo arquivos existentes...</translation>
+        <translation type="vanished">Excluindo arquivos existentes...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tipo de mod desconhecido: %1</translation>
+        <translation type="vanished">Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Falha ao encontrar a versão do carregador %1</translation>
+        <translation type="vanished">Falha ao encontrar a versão do carregador %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nenhuma versão do carregador definida para modpack!</translation>
+        <translation type="vanished">Nenhuma versão do carregador definida para modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipo de download desconhecido ou não suportado: %1</translation>
+        <translation type="vanished">Tipo de download desconhecido ou não suportado: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Baixando configurações...</translation>
+        <translation type="vanished">Baixando configurações...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Baixar configuração</translation>
+        <translation type="vanished">Baixar configuração</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extraindo configurações...</translation>
+        <translation type="vanished">Extraindo configurações...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -272,15 +272,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Escolhendo mods opcionais...</translation>
+        <translation type="vanished">Escolhendo mods opcionais...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Baixando mods...</translation>
+        <translation type="vanished">Baixando mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Baixar mod</translation>
+        <translation type="vanished">Baixar mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -288,43 +288,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tipo de download desconhecido: %1</translation>
+        <translation type="vanished">Tipo de download desconhecido: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Mods bloqueados encontrados</translation>
+        <translation type="vanished">Mods bloqueados encontrados</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Os arquivos a seguir não estão disponíveis para download em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los à instância.</translation>
+        <translation type="vanished">Os arquivos a seguir não estão disponíveis para download em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 completo</translation>
+        <translation type="vanished">%1 de %2 completo</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Falha ao extrair mods...</translation>
+        <translation type="vanished">Falha ao extrair mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extraindo mods...</translation>
+        <translation type="vanished">Extraindo mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalando modpack</translation>
+        <translation type="vanished">Instalando modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Erro ao criar o componente de bibliotecas</translation>
+        <translation type="vanished">Erro ao criar o componente de bibliotecas</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tipo de carregador desconhecido: </translation>
+        <translation type="vanished">Tipo de carregador desconhecido: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Erro ao criar o componente do pacote</translation>
+        <translation type="vanished">Erro ao criar o componente do pacote</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2540,7 @@ Tem certeza que quer fazer isso?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Sem memória RAM suficiente</translation>
+        <translation type="vanished">Sem memória RAM suficiente</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2549,7 +2549,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Não há memória RAM suficiente disponível para lançar essa instância com as configurações de memória atuais.
+        <translation type="vanished">Não há memória RAM suficiente disponível para lançar essa instância com as configurações de memória atuais.
 
 Necessário:%1 Mib
 Disponível: %2 MiB
@@ -4691,7 +4691,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6210,7 +6210,7 @@ Você pode mudar a versão do Java nas configurações posteriormente.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Usar localidades do sistema</translation>
+        <translation type="vanished">Usar localidades do sistema</translation>
     </message>
 </context>
 <context>
@@ -6520,7 +6520,7 @@ Você quer jogar a versão de demonstração?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Você não está conectado à Internet, iniciando no modo offline
+        <translation type="vanished">Você não está conectado à Internet, iniciando no modo offline
 
 </translation>
     </message>
@@ -7276,7 +7276,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Não se pôde iniciar o Minecraft!</translation>
+        <translation type="vanished">Não se pôde iniciar o Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7755,7 +7755,7 @@ Razão:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Falha ao iniciar o processo.</translation>
+        <translation type="vanished">Falha ao iniciar o processo.</translation>
     </message>
 </context>
 <context>
@@ -7883,7 +7883,7 @@ Razão:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Falha ao obter a autorização do dispositivo</translation>
+        <translation type="vanished">Falha ao obter a autorização do dispositivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17181,7 +17181,7 @@ Tem certeza?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 traduzidas: %2
 confusas: %3
 total: %4</translation>
@@ -18061,7 +18061,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18430,7 +18430,7 @@ Tem certeza?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Erro ao obter autorização dos serviços %1. Erro %2.</translation>
+        <translation type="vanished">Erro ao obter autorização dos serviços %1. Erro %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

@@ -211,52 +211,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Không thể hiểu manifest của gói:
+        <translation type="vanished">Không thể hiểu manifest của gói:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Không tải được metadata cục bộ cho %1</translation>
+        <translation type="vanished">Không tải được metadata cục bộ cho %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Chế độ cài đặt không được hỗ trợ</translation>
+        <translation type="vanished">Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Đang xoá những tập tin hiện có...</translation>
+        <translation type="vanished">Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Mod không rõ: %1</translation>
+        <translation type="vanished">Mod không rõ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Không thể tìm thấy phiên bản cho %1</translation>
+        <translation type="vanished">Không thể tìm thấy phiên bản cho %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Không có phiên bản loader nào được đặt cho modpack!</translation>
+        <translation type="vanished">Không có phiên bản loader nào được đặt cho modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
+        <translation type="vanished">Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Đang tải xuống config...</translation>
+        <translation type="vanished">Đang tải xuống config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Tải xuống config</translation>
+        <translation type="vanished">Tải xuống config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Đang giải nén config...</translation>
+        <translation type="vanished">Đang giải nén config...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -264,15 +264,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Đang chọn các mod tùy chọn...</translation>
+        <translation type="vanished">Đang chọn các mod tùy chọn...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Đang tải xuống mod...</translation>
+        <translation type="vanished">Đang tải xuống mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Tải xuống mod</translation>
+        <translation type="vanished">Tải xuống mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -280,43 +280,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Loại tải xuống không xác định: %1</translation>
+        <translation type="vanished">Loại tải xuống không xác định: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Đã tìm thấy các mod bị chặn</translation>
+        <translation type="vanished">Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
+        <translation type="vanished">Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Đã xong %1 trên %2</translation>
+        <translation type="vanished">Đã xong %1 trên %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Giải nén mod thất bại...</translation>
+        <translation type="vanished">Giải nén mod thất bại...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Đang giải nén mod...</translation>
+        <translation type="vanished">Đang giải nén mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Đang cài đặt modpack</translation>
+        <translation type="vanished">Đang cài đặt modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Không tạo được thành phần thư viện</translation>
+        <translation type="vanished">Không tạo được thành phần thư viện</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Loại loader không xác định: </translation>
+        <translation type="vanished">Loại loader không xác định: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Không tạo được thành phần gói</translation>
+        <translation type="vanished">Không tạo được thành phần gói</translation>
     </message>
 </context>
 <context>
@@ -2516,7 +2516,7 @@ Bạn có chắc không?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Không đủ RAM</translation>
+        <translation type="vanished">Không đủ RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2525,7 +2525,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Hiện không đủ RAM để khởi động phiên bản này với cài đặt bộ nhớ hiện tại.
+        <translation type="vanished">Hiện không đủ RAM để khởi động phiên bản này với cài đặt bộ nhớ hiện tại.
 
 Yêu cầu: %1 MiB
 Hiện có: %2 MiB
@@ -4555,7 +4555,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6046,7 +6046,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Sử dụng ngôn ngữ của hệ thống</translation>
+        <translation type="vanished">Sử dụng ngôn ngữ của hệ thống</translation>
     </message>
 </context>
 <context>
@@ -6352,7 +6352,7 @@ Bạn có muốn thử bản demo không?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Bạn không kết nối được với Internet, chương trình đang khởi chạy ở chế độ ngoại tuyến.
+        <translation type="vanished">Bạn không kết nối được với Internet, chương trình đang khởi chạy ở chế độ ngoại tuyến.
 
 </translation>
     </message>
@@ -7044,7 +7044,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Không thể khởi chạy Minecraft!</translation>
+        <translation type="vanished">Không thể khởi chạy Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7519,7 +7519,7 @@ Lý do:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Tiến trình không thể khởi động được.</translation>
+        <translation type="vanished">Tiến trình không thể khởi động được.</translation>
     </message>
 </context>
 <context>
@@ -7647,7 +7647,7 @@ Lý do:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Không thể nhận thông tin xác thực thiết bị</translation>
+        <translation type="vanished">Không thể nhận thông tin xác thực thiết bị</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16334,7 +16334,7 @@ Bạn có chắc?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 đã dịch
 %3 fuzzy
 %4 tổng cộng</translation>
@@ -17158,7 +17158,7 @@ Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17527,7 +17527,7 @@ Bạn có chắc không?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Có lỗi khi lấy quyền truy cập cho dịch vụ %1. Lỗi %2.</translation>
+        <translation type="vanished">Có lỗi khi lấy quyền truy cập cho dịch vụ %1. Lỗi %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

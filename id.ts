@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Tidak dapat memahami manifest paket:
+        <translation type="vanished">Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mode instalasi tidak didukung</translation>
+        <translation type="vanished">Mode instalasi tidak didukung</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Menghapus file yang ada...</translation>
+        <translation type="vanished">Menghapus file yang ada...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Jenis mod tidak diketahui: %1</translation>
+        <translation type="vanished">Jenis mod tidak diketahui: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Gagal menemukan versi untuk pemuat %1</translation>
+        <translation type="vanished">Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Versi pemuat tidak terpilih untuk modpack!</translation>
+        <translation type="vanished">Versi pemuat tidak terpilih untuk modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
+        <translation type="vanished">Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Mengunduh konfigurasi...</translation>
+        <translation type="vanished">Mengunduh konfigurasi...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Pengunduhan konfigurasi</translation>
+        <translation type="vanished">Pengunduhan konfigurasi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Mengekstrak konfigurasi...</translation>
+        <translation type="vanished">Mengekstrak konfigurasi...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Memilih mod opsional...</translation>
+        <translation type="vanished">Memilih mod opsional...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Mengunduh mod...</translation>
+        <translation type="vanished">Mengunduh mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Unduhan Mod</translation>
+        <translation type="vanished">Unduhan Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Jenis unduhan tidak diketahui: %1</translation>
+        <translation type="vanished">Jenis unduhan tidak diketahui: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Mod yang diblokir ditemukan</translation>
+        <translation type="vanished">Mod yang diblokir ditemukan</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
+        <translation type="vanished">Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 dari %2 selesai</translation>
+        <translation type="vanished">%1 dari %2 selesai</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Gagal mengekstrak mod...</translation>
+        <translation type="vanished">Gagal mengekstrak mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Mengekstrak mod...</translation>
+        <translation type="vanished">Mengekstrak mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Memasang modpack</translation>
+        <translation type="vanished">Memasang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen pustaka</translation>
+        <translation type="vanished">Gagal membuat komponen pustaka</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Jenis pemuat tidak diketahui: </translation>
+        <translation type="vanished">Jenis pemuat tidak diketahui: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Gagal membuat komponen paket</translation>
+        <translation type="vanished">Gagal membuat komponen paket</translation>
     </message>
 </context>
 <context>
@@ -2508,7 +2508,7 @@ Apakah kamu yakin?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM tidak cukup</translation>
+        <translation type="vanished">RAM tidak cukup</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2517,7 +2517,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>RAM Anda tidak cukup untuk meluncurkan instansi ini dengan pengaturan memori saat ini.
+        <translation type="vanished">RAM Anda tidak cukup untuk meluncurkan instansi ini dengan pengaturan memori saat ini.
 
 Diperlukan: %1 MiB
 Tersedia: %2 MiB
@@ -4559,7 +4559,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Oke</translation>
+        <translation type="vanished">Oke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6022,7 +6022,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Gunakan pelokalan-pelokalan sistem</translation>
+        <translation type="vanished">Gunakan pelokalan-pelokalan sistem</translation>
     </message>
 </context>
 <context>
@@ -6332,7 +6332,7 @@ Apakah Anda ingin memainkan demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Anda tidak terhubung ke Internet, aplikasi akan diluncurkan dalam mode luring.
+        <translation type="vanished">Anda tidak terhubung ke Internet, aplikasi akan diluncurkan dalam mode luring.
 
 </translation>
     </message>
@@ -7024,7 +7024,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Tidak dapat menjalankan Minecraft!</translation>
+        <translation type="vanished">Tidak dapat menjalankan Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7503,7 +7503,7 @@ Alasan:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Proses gagal dijalankan.</translation>
+        <translation type="vanished">Proses gagal dijalankan.</translation>
     </message>
 </context>
 <context>
@@ -7631,7 +7631,7 @@ Alasan:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Gagal mendapatkan otorisasi perangkat</translation>
+        <translation type="vanished">Gagal mendapatkan otorisasi perangkat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16372,7 +16372,7 @@ Apakah Anda yakin?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 diterjemahkan
 %3 kabur
 %4 jumlah</translation>
@@ -17200,7 +17200,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Oke</translation>
+        <translation type="vanished">Oke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17569,7 +17569,7 @@ Apakah Anda yakin?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Gagal mendapatkan otorisasi untuk layanan %1. Kesalahan %2.</translation>
+        <translation type="vanished">Gagal mendapatkan otorisasi untuk layanan %1. Kesalahan %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Αδυναμία αναγνώρισης του pack manifest:
+        <translation type="vanished">Αδυναμία αναγνώρισης του pack manifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
+        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation type="vanished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation type="vanished">Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Άγνωστος τύπος mod: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος mod: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
+        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
+        <translation type="vanished">Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation type="vanished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation type="vanished">Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Λήψη ρυθμίσεων</translation>
+        <translation type="vanished">Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Εξαγωγή ρυθμίσεων...</translation>
+        <translation type="vanished">Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Επιλογή προαιρετικών mod...</translation>
+        <translation type="vanished">Επιλογή προαιρετικών mod...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Λήψη mods...</translation>
+        <translation type="vanished">Λήψη mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Λήψη Mod</translation>
+        <translation type="vanished">Λήψη Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Άγνωστος τύπος λήψης: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Μπλοκαρισμένα mods βρέθηκαν</translation>
+        <translation type="vanished">Μπλοκαρισμένα mods βρέθηκαν</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
+        <translation type="vanished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Ολοκληρώθηκε 1% από 2%</translation>
+        <translation type="vanished">Ολοκληρώθηκε 1% από 2%</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Αδυναμία εξαγωγής mods...</translation>
+        <translation type="vanished">Αδυναμία εξαγωγής mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Εξαγωγή mods...</translation>
+        <translation type="vanished">Εξαγωγή mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Εγκατάσταση modpack</translation>
+        <translation type="vanished">Εγκατάσταση modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Άγνωστος τύπος φορτωτή: </translation>
+        <translation type="vanished">Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -2433,7 +2433,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Δεν υπάρχει αρκετή μνήμη RAM</translation>
+        <translation type="vanished">Δεν υπάρχει αρκετή μνήμη RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2442,7 +2442,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Δεν υπάρχει αρκετή διαθέσιμη μνήμη RAM για την εκκίνηση αυτού του στιγμιοτύπου με τις τρέχουσες ρυθμίσεις μνήμης.
+        <translation type="vanished">Δεν υπάρχει αρκετή διαθέσιμη μνήμη RAM για την εκκίνηση αυτού του στιγμιοτύπου με τις τρέχουσες ρυθμίσεις μνήμης.
 
 Απαιτείται: %1 MB
 Διαθέσιμη: %2 MB
@@ -4340,7 +4340,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation type="obsolete">Εντάξει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5496,7 +5496,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Χρήση των τοπικών ρυθμίσεων του συστήματος</translation>
+        <translation type="vanished">Χρήση των τοπικών ρυθμίσεων του συστήματος</translation>
     </message>
 </context>
 <context>
@@ -5762,7 +5762,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Δεν έχετε σύνδεση στο Διαδίκτυο, η εφαρμογή θα ξεκινήσει σε λειτουργία εκτός σύνδεσης.
+        <translation type="vanished">Δεν έχετε σύνδεση στο Διαδίκτυο, η εφαρμογή θα ξεκινήσει σε λειτουργία εκτός σύνδεσης.
 
 </translation>
     </message>
@@ -6357,7 +6357,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Η εκκίνηση του «Minecraft» απέτυχε!</translation>
+        <translation type="vanished">Η εκκίνηση του «Minecraft» απέτυχε!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6815,7 +6815,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Αδυναμία έναρξης διεργασίας.</translation>
+        <translation type="vanished">Αδυναμία έναρξης διεργασίας.</translation>
     </message>
 </context>
 <context>
@@ -6924,10 +6924,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
         <translation>Η επικαιροποίηση της συσκευής απέτυχε: %1</translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14477,7 +14473,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 μεταφράστηκε
 %3 ασαφής
 %4 συνολικά</translation>
@@ -15276,7 +15272,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Εντάξει</translation>
+        <translation type="vanished">Εντάξει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15631,11 +15627,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

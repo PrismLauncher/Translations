@@ -215,52 +215,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>ไม่เข้าใจรายการแพ็ค:
+        <translation type="vanished">ไม่เข้าใจรายการแพ็ค:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ %1</translation>
+        <translation type="vanished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
+        <translation type="vanished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>โหมดการติดตั้งที่ไม่รองรับ</translation>
+        <translation type="vanished">โหมดการติดตั้งที่ไม่รองรับ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>กำลังลบไฟล์ที่มีอยู่...</translation>
+        <translation type="vanished">กำลังลบไฟล์ที่มีอยู่...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>ประเภทม็อดที่ไม่รู้จัก: %1</translation>
+        <translation type="vanished">ประเภทม็อดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
+        <translation type="vanished">ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
+        <translation type="vanished">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
+        <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>กำลังดาวน์โหลดค่ากำหนด...</translation>
+        <translation type="vanished">กำลังดาวน์โหลดค่ากำหนด...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>ดาวน์โหลดค่ากำหนด</translation>
+        <translation type="vanished">ดาวน์โหลดค่ากำหนด</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>กำลังแยกค่ากำหนด...</translation>
+        <translation type="vanished">กำลังแยกค่ากำหนด...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -268,15 +268,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>กำลังเลือกม็อดเสริม...</translation>
+        <translation type="vanished">กำลังเลือกม็อดเสริม...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>กำลังดาวน์โหลดม็อด...</translation>
+        <translation type="vanished">กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>ดาวน์โหลดม็อด</translation>
+        <translation type="vanished">ดาวน์โหลดม็อด</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -284,43 +284,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
+        <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>พบม็อดที่ถูกบล็อก</translation>
+        <translation type="vanished">พบม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>ไฟล์ต่อไปนี้ไม่พร้อมให้ดาวน์โหลดในตัวเรียกใช้งานของบุคคลที่สาม&lt;br/&gt;คุณจะต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเองและเพิ่มลงในอินสแตนซ์</translation>
+        <translation type="vanished">ไฟล์ต่อไปนี้ไม่พร้อมให้ดาวน์โหลดในตัวเรียกใช้งานของบุคคลที่สาม&lt;br/&gt;คุณจะต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเองและเพิ่มลงในอินสแตนซ์</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
+        <translation type="vanished">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>เกิดข้อผิดพลาดในการแยกม็อด...</translation>
+        <translation type="vanished">เกิดข้อผิดพลาดในการแยกม็อด...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>กำลังแยกม็อด...</translation>
+        <translation type="vanished">กำลังแยกม็อด...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>กำลังติดตั้งม็อดแพ็ค</translation>
+        <translation type="vanished">กำลังติดตั้งม็อดแพ็ค</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
+        <translation type="vanished">ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
+        <translation type="vanished">ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
+        <translation type="vanished">สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -2495,7 +2495,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>หน่วยความจำ (RAM) ไม่เพียงพอ</translation>
+        <translation type="vanished">หน่วยความจำ (RAM) ไม่เพียงพอ</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2504,7 +2504,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>มี RAM ไม่พอที่จะเปิด instance นี้ด้วยการตั้งค่าหน่วยความจำปัจจุบัน
+        <translation type="vanished">มี RAM ไม่พอที่จะเปิด instance นี้ด้วยการตั้งค่าหน่วยความจำปัจจุบัน
 
 ต้องการ: %1 MiB
 มีอยู่: %2 MiB
@@ -4465,7 +4465,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>ตกลง</translation>
+        <translation type="vanished">ตกลง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5846,7 +5846,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>ใช้ตำแหน่งที่ตั้งของระบบ</translation>
+        <translation type="vanished">ใช้ตำแหน่งที่ตั้งของระบบ</translation>
     </message>
 </context>
 <context>
@@ -6119,12 +6119,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6679,7 +6673,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>ไม่สามารถเปิด Minecraft ได้!</translation>
+        <translation type="vanished">ไม่สามารถเปิด Minecraft ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7086,10 +7080,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -7200,10 +7190,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14432,13 +14418,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>ภาษา</translation>
@@ -15020,7 +14999,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">ตกลง</translation>
+        <translation type="obsolete">ตกลง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15354,7 +15333,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>ไม่สามารถรับการอนุญาตสำหรับบริการ %1 ได้ ข้อผิดพลาด %2</translation>
+        <translation type="vanished">ไม่สามารถรับการอนุญาตสำหรับบริการ %1 ได้ ข้อผิดพลาด %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

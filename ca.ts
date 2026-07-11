@@ -211,52 +211,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No s&apos;entén el manifest del paquet:
+        <translation type="vanished">No s&apos;entén el manifest del paquet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per %1</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mode d&apos;instal·lació no admès</translation>
+        <translation type="vanished">Mode d&apos;instal·lació no admès</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Eliminant fitxers existents...</translation>
+        <translation type="vanished">Eliminant fitxers existents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tipus de mod desconegut: %1</translation>
+        <translation type="vanished">Tipus de mod desconegut: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>No s&apos;ha pogut trobar la versió pel carregador de %1</translation>
+        <translation type="vanished">No s&apos;ha pogut trobar la versió pel carregador de %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>No s&apos;ha seleccionat cap versió per al carregador del paquet de mods!</translation>
+        <translation type="vanished">No s&apos;ha seleccionat cap versió per al carregador del paquet de mods!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipus de baixada desconeguda o no admesa: %1</translation>
+        <translation type="vanished">Tipus de baixada desconeguda o no admesa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Baixant configuracions...</translation>
+        <translation type="vanished">Baixant configuracions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Baixada de configuracions</translation>
+        <translation type="vanished">Baixada de configuracions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extraient configuracions...</translation>
+        <translation type="vanished">Extraient configuracions...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -264,15 +264,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Triant mods opcionals...</translation>
+        <translation type="vanished">Triant mods opcionals...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Baixant mods...</translation>
+        <translation type="vanished">Baixant mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Baixada de mods</translation>
+        <translation type="vanished">Baixada de mods</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -280,43 +280,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tipus de baixada desconeguda: %1</translation>
+        <translation type="vanished">Tipus de baixada desconeguda: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>S&apos;han trobat mods bloquejats</translation>
+        <translation type="vanished">S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Els fitxers següents no estan disponibles per descarregar en llançadors de tercers.&lt;br/&gt;Hauràs de descarregar-los manualment i afegir-los a la instància.</translation>
+        <translation type="vanished">Els fitxers següents no estan disponibles per descarregar en llançadors de tercers.&lt;br/&gt;Hauràs de descarregar-los manualment i afegir-los a la instància.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 completat</translation>
+        <translation type="vanished">%1 de %2 completat</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>No s&apos;han pogut extreure els mods...</translation>
+        <translation type="vanished">No s&apos;han pogut extreure els mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extraient els mods...</translation>
+        <translation type="vanished">Extraient els mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instal·lant el paquet de mods</translation>
+        <translation type="vanished">Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Error al crear component de les llibreries</translation>
+        <translation type="vanished">Error al crear component de les llibreries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tipus de carregador desconegut: </translation>
+        <translation type="vanished">Tipus de carregador desconegut: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Fallida en crear un component del paquet</translation>
+        <translation type="vanished">Fallida en crear un component del paquet</translation>
     </message>
 </context>
 <context>
@@ -2463,7 +2463,7 @@ Vols continuar?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>No hi ha prou RAM</translation>
+        <translation type="vanished">No hi ha prou RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2472,7 +2472,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>No hi ha prou RAM disponible per a iniciar aquesta instància amb les preferències de memòria actuals.
+        <translation type="vanished">No hi ha prou RAM disponible per a iniciar aquesta instància amb les preferències de memòria actuals.
 
 Cal: %1 MiB
 Disponible: %2 MiB
@@ -4454,7 +4454,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>D&apos;acord</translation>
+        <translation type="vanished">D&apos;acord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5919,7 +5919,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Utilitzar regió del sistema</translation>
+        <translation type="vanished">Utilitzar regió del sistema</translation>
     </message>
 </context>
 <context>
@@ -6203,12 +6203,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6891,7 +6885,7 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>No s&apos;ha pogut llançar el Minecraft!</translation>
+        <translation type="vanished">No s&apos;ha pogut llançar el Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7359,7 +7353,7 @@ Motiu:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>El procés ha fallat en iniciar.</translation>
+        <translation type="vanished">El procés ha fallat en iniciar.</translation>
     </message>
 </context>
 <context>
@@ -7487,7 +7481,7 @@ Motiu:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>No s&apos;ha pogut obtenir l&apos;autorització del dispositiu</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;autorització del dispositiu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16031,7 +16025,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 traduït
 %3 difús
 %4 total</translation>
@@ -16882,7 +16876,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>D&apos;acord</translation>
+        <translation type="vanished">D&apos;acord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17242,7 +17236,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>No s&apos;ha pogut obtenir l&apos;autorització per als serveis %1. Error %2.</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;autorització per als serveis %1. Error %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

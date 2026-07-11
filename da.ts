@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Forstod ikke pakkemanifest:
+        <translation type="vanished">Forstod ikke pakkemanifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Kunne ikke hente det lokale metadataindeks for %1</translation>
+        <translation type="vanished">Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Ikke-understøttet installationstilstand</translation>
+        <translation type="vanished">Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Sletter eksisterende filer...</translation>
+        <translation type="vanished">Sletter eksisterende filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ukendt mod-type: %1</translation>
+        <translation type="vanished">Ukendt mod-type: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kunne ikke finde version for %1 loader</translation>
+        <translation type="vanished">Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen loader version angivet for modpack!</translation>
+        <translation type="vanished">Ingen loader version angivet for modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Ukendt eller ikke-understøttet downloadtype: %1</translation>
+        <translation type="vanished">Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Henter konfigurationer...</translation>
+        <translation type="vanished">Henter konfigurationer...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurationsdownload</translation>
+        <translation type="vanished">Konfigurationsdownload</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Udpakker konfigurationer...</translation>
+        <translation type="vanished">Udpakker konfigurationer...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Vælger valgfrie mods...</translation>
+        <translation type="vanished">Vælger valgfrie mods...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Henter mods...</translation>
+        <translation type="vanished">Henter mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod-download</translation>
+        <translation type="vanished">Mod-download</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ukendt downloadtype: %1</translation>
+        <translation type="vanished">Ukendt downloadtype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokerede mods fundet</translation>
+        <translation type="vanished">Blokerede mods fundet</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
+        <translation type="vanished">Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ud af %2 fuldført</translation>
+        <translation type="vanished">%1 ud af %2 fuldført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Kunne ikke udpakke mods...</translation>
+        <translation type="vanished">Kunne ikke udpakke mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Udpakker mods...</translation>
+        <translation type="vanished">Udpakker mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerer modpack</translation>
+        <translation type="vanished">Installerer modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kunne ikke oprette bibliotekskomponent</translation>
+        <translation type="vanished">Kunne ikke oprette bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ukendt loader type: </translation>
+        <translation type="vanished">Ukendt loader type: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Kunne ikke oprette pakkekomponent</translation>
+        <translation type="vanished">Kunne ikke oprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -2489,19 +2489,6 @@ Er du sikker?</translation>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4510,7 +4497,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5957,7 +5944,7 @@ Du kan ændre Java versionen i indstillingerne senere.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Brug system lokaliteter</translation>
+        <translation type="vanished">Brug system lokaliteter</translation>
     </message>
 </context>
 <context>
@@ -6248,12 +6235,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6952,7 +6933,7 @@ Det anbefales at give %1 adgang til det via Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Kunne ikke starte Minecraft!</translation>
+        <translation type="vanished">Kunne ikke starte Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7424,7 +7405,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Processen kunne ikke starte.</translation>
+        <translation type="vanished">Processen kunne ikke starte.</translation>
     </message>
 </context>
 <context>
@@ -7552,7 +7533,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Enhed godkendelse kunne ikke hentes</translation>
+        <translation type="vanished">Enhed godkendelse kunne ikke hentes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16002,7 +15983,7 @@ Er du sikker?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 oversat
 %3 uklar
 %4 i alt</translation>
@@ -16703,7 +16684,7 @@ Er du sikker?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17068,7 +17049,7 @@ Er du sikker?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Kunne ikke få autorisation til %1 tjenester. Fejl %2.</translation>
+        <translation type="vanished">Kunne ikke få autorisation til %1 tjenester. Fejl %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>عدم توانایی در فهمیدن بسته manifest:
+        <translation type="vanished">عدم توانایی در فهمیدن بسته manifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>گرفتن فهرست متادیتا داخلی برای %1 ناموفق بود</translation>
+        <translation type="vanished">گرفتن فهرست متادیتا داخلی برای %1 ناموفق بود</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>گرفتن فهرست متادیتای لوکال برای &apos;%1&apos; v%2 ناموفق بود</translation>
+        <translation type="vanished">گرفتن فهرست متادیتای لوکال برای &apos;%1&apos; v%2 ناموفق بود</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>نحوه‌ی نصب پشتیبانی نشده</translation>
+        <translation type="vanished">نحوه‌ی نصب پشتیبانی نشده</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>در حال حذف فایل های موجود...</translation>
+        <translation type="vanished">در حال حذف فایل های موجود...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>تایپ ماد ناشناخته: %1</translation>
+        <translation type="vanished">تایپ ماد ناشناخته: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>پیدا کردن نسخه لودر %1 ناموفق بود</translation>
+        <translation type="vanished">پیدا کردن نسخه لودر %1 ناموفق بود</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>نسخه‌ی لودر برای مادپک انتخاب نشده!</translation>
+        <translation type="vanished">نسخه‌ی لودر برای مادپک انتخاب نشده!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>نوع دانلود ناشناخته یا پشتیبانی نشده: %1</translation>
+        <translation type="vanished">نوع دانلود ناشناخته یا پشتیبانی نشده: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>در حال دانلود تنظیمات...</translation>
+        <translation type="vanished">در حال دانلود تنظیمات...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>دانلود کانفیگ</translation>
+        <translation type="vanished">دانلود کانفیگ</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>استخراج کانفیگ ها...</translation>
+        <translation type="vanished">استخراج کانفیگ ها...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>در حال انتخاب ماد های اختیاری...</translation>
+        <translation type="vanished">در حال انتخاب ماد های اختیاری...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>درحال دانلود مادها...</translation>
+        <translation type="vanished">درحال دانلود مادها...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>دانلود ماد</translation>
+        <translation type="vanished">دانلود ماد</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>نوع دانلود ناشناخته: %1</translation>
+        <translation type="vanished">نوع دانلود ناشناخته: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ماد‌های مسدود شده پیدا شد</translation>
+        <translation type="vanished">ماد‌های مسدود شده پیدا شد</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به اینستنس اضافه کنید.</translation>
+        <translation type="vanished">این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به اینستنس اضافه کنید.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>1% از %2 تمام شده است</translation>
+        <translation type="vanished">1% از %2 تمام شده است</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>شکست در استخراج مادها...</translation>
+        <translation type="vanished">شکست در استخراج مادها...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>درحال استخراج مادها...</translation>
+        <translation type="vanished">درحال استخراج مادها...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>درحال نصب مادپک</translation>
+        <translation type="vanished">درحال نصب مادپک</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ساخت کامپوننت لایبرری‌ها ناموفق بود</translation>
+        <translation type="vanished">ساخت کامپوننت لایبرری‌ها ناموفق بود</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>نوع لودر ناشناخته است: </translation>
+        <translation type="vanished">نوع لودر ناشناخته است: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>ساخت کامپوننت پک ناموفق بود</translation>
+        <translation type="vanished">ساخت کامپوننت پک ناموفق بود</translation>
     </message>
 </context>
 <context>
@@ -2449,7 +2449,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>کمبود حافظه RAM</translation>
+        <translation type="vanished">کمبود حافظه RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2458,7 +2458,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>رم کافی برای لانچر این نمایه با تنظیمات حافظه جدید وجود ندارد.
+        <translation type="vanished">رم کافی برای لانچر این نمایه با تنظیمات حافظه جدید وجود ندارد.
 
 موردنیاز: 1% مگابایت
 دردسترس: 1% مگابایت
@@ -4464,7 +4464,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>تأیید</translation>
+        <translation type="vanished">تأیید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5733,7 +5733,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>استفاده از زبان‌ها و تنظیمات منطقه‌ای سیستم</translation>
+        <translation type="vanished">استفاده از زبان‌ها و تنظیمات منطقه‌ای سیستم</translation>
     </message>
 </context>
 <context>
@@ -6007,7 +6007,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>شما به اینترنت وصل نشده اید، درحال اجرای حالت آفلاین
+        <translation type="vanished">شما به اینترنت وصل نشده اید، درحال اجرای حالت آفلاین
 
 </translation>
     </message>
@@ -6634,7 +6634,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>نمی توان ماینکرافت را اجرا کرد!</translation>
+        <translation type="vanished">نمی توان ماینکرافت را اجرا کرد!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7098,7 +7098,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>پردازش در اجرا با شکست مواجه شد.</translation>
+        <translation type="vanished">پردازش در اجرا با شکست مواجه شد.</translation>
     </message>
 </context>
 <context>
@@ -7206,10 +7206,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14892,7 +14888,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 ترجمه شده
 %3 جفنگ
 %4 درکل</translation>
@@ -15703,7 +15699,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>تأیید</translation>
+        <translation type="vanished">تأیید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -16062,11 +16058,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

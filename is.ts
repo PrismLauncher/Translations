@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Gat ekki skilið pakkaupplýsingaskrá:
+        <translation type="vanished">Gat ekki skilið pakkaupplýsingaskrá:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Mistókst að sækja staðbundinn lýsigagnavísi fyrir %1</translation>
+        <translation type="vanished">Mistókst að sækja staðbundinn lýsigagnavísi fyrir %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Mistókst að ná í staðbundinn lýsigagnavísi fyrir &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Mistókst að ná í staðbundinn lýsigagnavísi fyrir &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Óstuddur uppsetningarhamur</translation>
+        <translation type="vanished">Óstuddur uppsetningarhamur</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Eyði núverandi skrám...</translation>
+        <translation type="vanished">Eyði núverandi skrám...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Óþekkt viðbótartegund: %1</translation>
+        <translation type="vanished">Óþekkt viðbótartegund: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Mistókst að finna útgáfu fyrir %1 hleðara</translation>
+        <translation type="vanished">Mistókst að finna útgáfu fyrir %1 hleðara</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Engin hleðaraútgáfa stillt fyrir viðbótarpakka!</translation>
+        <translation type="vanished">Engin hleðaraútgáfa stillt fyrir viðbótarpakka!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Óþekkt eða óstudd niðurhalstegund: %1</translation>
+        <translation type="vanished">Óþekkt eða óstudd niðurhalstegund: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Sæki stillingar...</translation>
+        <translation type="vanished">Sæki stillingar...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Stillinganiðurhal</translation>
+        <translation type="vanished">Stillinganiðurhal</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Afþjappa stillingum...</translation>
+        <translation type="vanished">Afþjappa stillingum...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,55 +260,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Vel valfrjálsar viðbætur...</translation>
+        <translation type="vanished">Vel valfrjálsar viðbætur...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Sæki viðbætur...</translation>
+        <translation type="vanished">Sæki viðbætur...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Viðbótarniðurhal</translation>
+        <translation type="vanished">Viðbótarniðurhal</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Óþekkt niðurhalstegund: %1</translation>
+        <translation type="vanished">Óþekkt niðurhalstegund: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Bannaðar viðbætur fundust</translation>
+        <translation type="vanished">Bannaðar viðbætur fundust</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Eftirfarandi skrár eru ekki tiltækar til niðurhals í utanaðkomandi ræsiforritum.&lt;br/&gt;Þú þarft að sækja þær handvirkt og bæta þeim við tilvikið.</translation>
+        <translation type="vanished">Eftirfarandi skrár eru ekki tiltækar til niðurhals í utanaðkomandi ræsiforritum.&lt;br/&gt;Þú þarft að sækja þær handvirkt og bæta þeim við tilvikið.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 af %2 lokið</translation>
+        <translation type="vanished">%1 af %2 lokið</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Mistókst að afþjappa viðbótum...</translation>
+        <translation type="vanished">Mistókst að afþjappa viðbótum...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Afþjappa viðbótum...</translation>
+        <translation type="vanished">Afþjappa viðbótum...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Set upp viðbótarpakka</translation>
+        <translation type="vanished">Set upp viðbótarpakka</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Mistókst að búa til safneiningu</translation>
+        <translation type="vanished">Mistókst að búa til safneiningu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Óþekkt hleðarategund: </translation>
+        <translation type="vanished">Óþekkt hleðarategund: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Mistókst að búa til pakkaeiningu</translation>
+        <translation type="vanished">Mistókst að búa til pakkaeiningu</translation>
     </message>
 </context>
 <context>
@@ -2346,19 +2346,6 @@ Ertu viss?</translation>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4199,7 +4186,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5072,10 +5059,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -5263,12 +5246,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5721,12 +5698,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -6123,10 +6094,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -6229,10 +6196,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13312,13 +13275,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Tungumál</translation>
@@ -13898,7 +13854,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -14227,11 +14183,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

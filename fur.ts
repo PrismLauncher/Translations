@@ -202,52 +202,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impussibil interpretâ il manifest dal pachet:
+        <translation type="vanished">Impussibil interpretâ il manifest dal pachet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
+        <translation type="vanished">Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modalitât di instalazion no supuartade</translation>
+        <translation type="vanished">Modalitât di instalazion no supuartade</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Daûr a eliminâ i files esistents...</translation>
+        <translation type="vanished">Daûr a eliminâ i files esistents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Gjenar di mod no cognossût: %1</translation>
+        <translation type="vanished">Gjenar di mod no cognossût: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
+        <translation type="vanished">Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
+        <translation type="vanished">Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
+        <translation type="vanished">Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Daûr a discjariâ lis configurazions...</translation>
+        <translation type="vanished">Daûr a discjariâ lis configurazions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Discjariament des configurazions</translation>
+        <translation type="vanished">Discjariament des configurazions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Daûr a tirâ fûr lis configurazions...</translation>
+        <translation type="vanished">Daûr a tirâ fûr lis configurazions...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -255,55 +255,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Daûr a selezionâ lis mods facoltativis...</translation>
+        <translation type="vanished">Daûr a selezionâ lis mods facoltativis...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Daûr a discjariâ lis mods...</translation>
+        <translation type="vanished">Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Discjariament des mods</translation>
+        <translation type="vanished">Discjariament des mods</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Gjenar di discjariament no cognossût: %1</translation>
+        <translation type="vanished">Gjenar di discjariament no cognossût: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Cjatadis mods blocadis</translation>
+        <translation type="vanished">Cjatadis mods blocadis</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
+        <translation type="vanished">Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 di %2 completâts</translation>
+        <translation type="vanished">%1 di %2 completâts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Impussibil estrai lis mods...</translation>
+        <translation type="vanished">Impussibil estrai lis mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Daûr a tirâ fûr lis mods...</translation>
+        <translation type="vanished">Daûr a tirâ fûr lis mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Daûr a instalâ il modpack</translation>
+        <translation type="vanished">Daûr a instalâ il modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Impussibil creâ il component des librariis</translation>
+        <translation type="vanished">Impussibil creâ il component des librariis</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Gjenar di cjariadôr no cognossût: </translation>
+        <translation type="vanished">Gjenar di cjariadôr no cognossût: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Impussibil creâ il component dal pachet</translation>
+        <translation type="vanished">Impussibil creâ il component dal pachet</translation>
     </message>
 </context>
 <context>
@@ -2195,19 +2195,6 @@ Are you sure?</source>
 <context>
     <name>EnsureAvailableMemory</name>
     <message>
-        <source>Not enough RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is not enough RAM available to launch this instance with the current memory settings.
-
-Required: %1 MiB
-Available: %2 MiB
-
-Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="36"/>
         <source>The system is under increased memory pressure.
 This may lead to lag or slowdowns.
@@ -4004,7 +3991,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Va ben</translation>
+        <translation type="vanished">Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5329,7 +5316,7 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Dopre localizazions dal sisteme</translation>
+        <translation type="vanished">Dopre localizazions dal sisteme</translation>
     </message>
 </context>
 <context>
@@ -5574,12 +5561,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
 
 </source>
         <translation type="unfinished"></translation>
@@ -6243,7 +6224,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Impussibil inviâ Minecraft!</translation>
+        <translation type="vanished">Impussibil inviâ Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6649,7 +6630,7 @@ Motîf:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Il procès nol è rivât a inviâsi.</translation>
+        <translation type="vanished">Il procès nol è rivât a inviâsi.</translation>
     </message>
 </context>
 <context>
@@ -6762,7 +6743,7 @@ Motîf:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Impussibil recuperâ la autorizazion dal dispositîf</translation>
+        <translation type="vanished">Impussibil recuperâ la autorizazion dal dispositîf</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14589,7 +14570,7 @@ Gjavâ pardabon?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 tradot
 %3 di verificâ
 %4 totâl</translation>
@@ -15172,7 +15153,7 @@ Pardabon tornâ indaûr?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation type="obsolete">Va ben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15523,7 +15504,7 @@ Eliminâ pardabon?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Impussibil otignî la autorizazion pai servizis %1. Erôr %2.</translation>
+        <translation type="vanished">Impussibil otignî la autorizazion pai servizis %1. Erôr %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

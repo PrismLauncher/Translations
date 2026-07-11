@@ -211,52 +211,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>A csomagleíró nem értelmezhető:
+        <translation type="vanished">A csomagleíró nem értelmezhető:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: %1</translation>
+        <translation type="vanished">Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
+        <translation type="vanished">Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nem támogatott telepítési mód</translation>
+        <translation type="vanished">Nem támogatott telepítési mód</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Meglévő fájlok törlése…</translation>
+        <translation type="vanished">Meglévő fájlok törlése…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ismeretlen mod típus: %1</translation>
+        <translation type="vanished">Ismeretlen mod típus: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
+        <translation type="vanished">Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nincs modbetöltő verzió beállítva a modcsomaghoz!</translation>
+        <translation type="vanished">Nincs modbetöltő verzió beállítva a modcsomaghoz!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nem ismert vagy nem támogatott letöltési típus: %1</translation>
+        <translation type="vanished">Nem ismert vagy nem támogatott letöltési típus: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Beállítások letöltése…</translation>
+        <translation type="vanished">Beállítások letöltése…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Beállítások letöltése</translation>
+        <translation type="vanished">Beállítások letöltése</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Beállítások kicsomagolása…</translation>
+        <translation type="vanished">Beállítások kicsomagolása…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -264,15 +264,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Opcionális modok kiválasztása…</translation>
+        <translation type="vanished">Opcionális modok kiválasztása…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése…</translation>
+        <translation type="vanished">Modok letöltése…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod letöltés</translation>
+        <translation type="vanished">Mod letöltés</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -280,43 +280,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ismeretlen letöltési típus: %1</translation>
+        <translation type="vanished">Ismeretlen letöltési típus: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Letiltott modok találhatók</translation>
+        <translation type="vanished">Letiltott modok találhatók</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Ezek a fájlok nem tölthetőek le harmadik féltől származó launcherrel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
+        <translation type="vanished">Ezek a fájlok nem tölthetőek le harmadik féltől származó launcherrel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 kész</translation>
+        <translation type="vanished">%1/%2 kész</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nem sikerült kicsomagolni a modokat…</translation>
+        <translation type="vanished">Nem sikerült kicsomagolni a modokat…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modok kicsomagolása…</translation>
+        <translation type="vanished">Modok kicsomagolása…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modcsomag telepítése</translation>
+        <translation type="vanished">Modcsomag telepítése</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nem sikerült létrehozni a könyvtárak összetevőt</translation>
+        <translation type="vanished">Nem sikerült létrehozni a könyvtárak összetevőt</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ismeretlen betöltő típus: </translation>
+        <translation type="vanished">Ismeretlen betöltő típus: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nem sikerült létrehozni a csomagösszetevőt</translation>
+        <translation type="vanished">Nem sikerült létrehozni a csomagösszetevőt</translation>
     </message>
 </context>
 <context>
@@ -2524,7 +2524,7 @@ Biztos vagy ebben?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Nincs elég RAM</translation>
+        <translation type="vanished">Nincs elég RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2533,7 +2533,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>A jelenlegi memóriabeállítások mellett nincs elegendő RAM az adott példány elindításához.
+        <translation type="vanished">A jelenlegi memóriabeállítások mellett nincs elegendő RAM az adott példány elindításához.
 
 Szükséges: %1 MiB
 Rendelkezésre álló: %2 MiB
@@ -4635,7 +4635,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6154,7 +6154,7 @@ A Java-verziót később a beállítások között megváltoztathatod.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>A rendszer területi beállításainak használata</translation>
+        <translation type="vanished">A rendszer területi beállításainak használata</translation>
     </message>
 </context>
 <context>
@@ -6464,7 +6464,7 @@ Szeretnél játszani a demóval?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nincs internetkapcsolat, indítás offline módban
+        <translation type="vanished">Nincs internetkapcsolat, indítás offline módban
 
 </translation>
     </message>
@@ -7206,7 +7206,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nem indítható el a Minecraft!</translation>
+        <translation type="vanished">Nem indítható el a Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7682,7 +7682,7 @@ Indok:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>A folyamatnak nem sikerült elindulnia.</translation>
+        <translation type="vanished">A folyamatnak nem sikerült elindulnia.</translation>
     </message>
 </context>
 <context>
@@ -7810,7 +7810,7 @@ Indok:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Nem sikerült lekérni az eszközengedélyt</translation>
+        <translation type="vanished">Nem sikerült lekérni az eszközengedélyt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17008,7 +17008,7 @@ Biztos vagy ebben?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 lefordítva
 %3 fuzzy
 %4 összesen</translation>
@@ -17874,7 +17874,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18243,7 +18243,7 @@ Biztos vagy ebben?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Nem sikerült jogosultságot szerezni a(z) %1 szolgáltatásokhoz. Hiba: %2.</translation>
+        <translation type="vanished">Nem sikerült jogosultságot szerezni a(z) %1 szolgáltatásokhoz. Hiba: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

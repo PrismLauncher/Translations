@@ -219,52 +219,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>无法解析包清单：
+        <translation type="vanished">无法解析包清单：
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>无法获取 %1 的本地元数据索引</translation>
+        <translation type="vanished">无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
+        <translation type="vanished">无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>不支持的安装模式</translation>
+        <translation type="vanished">不支持的安装模式</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>正在删除现有文件...</translation>
+        <translation type="vanished">正在删除现有文件...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>未知的 Mod 类型：%1</translation>
+        <translation type="vanished">未知的 Mod 类型：%1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>无法找到 %1 加载器的合适版本</translation>
+        <translation type="vanished">无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>没有为整合包设置 Mod 加载器版本！</translation>
+        <translation type="vanished">没有为整合包设置 Mod 加载器版本！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>未知或不支持的下载类型：%1</translation>
+        <translation type="vanished">未知或不支持的下载类型：%1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>正在下载配置文件…</translation>
+        <translation type="vanished">正在下载配置文件…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>下载配置文件</translation>
+        <translation type="vanished">下载配置文件</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>正在解压配置文件…</translation>
+        <translation type="vanished">正在解压配置文件…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -272,15 +272,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>正在选择可选 Mod…</translation>
+        <translation type="vanished">正在选择可选 Mod…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>下载 Mod 中…</translation>
+        <translation type="vanished">下载 Mod 中…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod 下载</translation>
+        <translation type="vanished">Mod 下载</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -288,43 +288,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>未知的下载类型：%1</translation>
+        <translation type="vanished">未知的下载类型：%1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>发现被屏蔽的 Mod</translation>
+        <translation type="vanished">发现被屏蔽的 Mod</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
+        <translation type="vanished">以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %1/%2</translation>
+        <translation type="vanished">已完成 %1/%2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Mod 解压失败…</translation>
+        <translation type="vanished">Mod 解压失败…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>正在解压 Mod…</translation>
+        <translation type="vanished">正在解压 Mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>正在安装整合包</translation>
+        <translation type="vanished">正在安装整合包</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>无法创建库组件</translation>
+        <translation type="vanished">无法创建库组件</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>未知的加载器类型： </translation>
+        <translation type="vanished">未知的加载器类型： </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>无法创建包组件</translation>
+        <translation type="vanished">无法创建包组件</translation>
     </message>
 </context>
 <context>
@@ -2539,7 +2539,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>内存不足</translation>
+        <translation type="vanished">内存不足</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2548,7 +2548,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>在当前内存设置下，没有足够的可用内存能用于启动该实例。
+        <translation type="vanished">在当前内存设置下，没有足够的可用内存能用于启动该实例。
 
 要求：%1 MiB
 可用：%2 MiB
@@ -4662,7 +4662,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Ok</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6195,7 +6195,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>使用系统语言</translation>
+        <translation type="vanished">使用系统语言</translation>
     </message>
 </context>
 <context>
@@ -6505,7 +6505,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>你没有连接到网络，正在以离线模式启动
+        <translation type="vanished">你没有连接到网络，正在以离线模式启动
 
 </translation>
     </message>
@@ -7257,7 +7257,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>无法启动 Minecraft！</translation>
+        <translation type="vanished">无法启动 Minecraft！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7736,7 +7736,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>进程启动失败。</translation>
+        <translation type="vanished">进程启动失败。</translation>
     </message>
 </context>
 <context>
@@ -7864,7 +7864,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>获取设备认证信息失败</translation>
+        <translation type="vanished">获取设备认证信息失败</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17123,7 +17123,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1：
+        <translation type="vanished">%1：
 %2 已翻译
 %3 模糊
 %4 总计</translation>
@@ -18003,7 +18003,7 @@ Please add your Mojang or Minecraft account.</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18372,7 +18372,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>无法获得 %1 服务的授权。错误 %2。</translation>
+        <translation type="vanished">无法获得 %1 服务的授权。错误 %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

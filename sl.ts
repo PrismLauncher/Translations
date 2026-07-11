@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paketnega manifesta ni bilo mogoče razumeti:
+        <translation type="vanished">Paketnega manifesta ni bilo mogoče razumeti:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
+        <translation type="vanished">Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Pridobitev lokalnega kazala metapodatkov za &apos;%1&apos; v%2 ni bila uspešna</translation>
+        <translation type="vanished">Pridobitev lokalnega kazala metapodatkov za &apos;%1&apos; v%2 ni bila uspešna</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepodprt način namestitve</translation>
+        <translation type="vanished">Nepodprt način namestitve</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Brisanje obstoječih datotek...</translation>
+        <translation type="vanished">Brisanje obstoječih datotek...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Neznan tip modifikacije: %1</translation>
+        <translation type="vanished">Neznan tip modifikacije: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
+        <translation type="vanished">Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
+        <translation type="vanished">Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Neznan ali nepodprt tip prenosa: %1</translation>
+        <translation type="vanished">Neznan ali nepodprt tip prenosa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Prenašanje konfiguracij...</translation>
+        <translation type="vanished">Prenašanje konfiguracij...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Prenos konfiguracije</translation>
+        <translation type="vanished">Prenos konfiguracije</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Pridobivanje konfiguracij...</translation>
+        <translation type="vanished">Pridobivanje konfiguracij...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Izbiram neobvezne mode...</translation>
+        <translation type="vanished">Izbiram neobvezne mode...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Prenašanje modov...</translation>
+        <translation type="vanished">Prenašanje modov...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Prenos modov</translation>
+        <translation type="vanished">Prenos modov</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Neznan tip prenosa: %1</translation>
+        <translation type="vanished">Neznan tip prenosa: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokirani modi zaznani</translation>
+        <translation type="vanished">Blokirani modi zaznani</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. &lt;br/&gt;Potrebujete jih ročno prenesti jih dodati v to instanco.</translation>
+        <translation type="vanished">Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. &lt;br/&gt;Potrebujete jih ročno prenesti jih dodati v to instanco.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 od %2 opravljen</translation>
+        <translation type="vanished">%1 od %2 opravljen</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Pridobivanje modifikacij ni bilo uspešno...</translation>
+        <translation type="vanished">Pridobivanje modifikacij ni bilo uspešno...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Pridobivanje modifikacij...</translation>
+        <translation type="vanished">Pridobivanje modifikacij...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Nameščanje paketa modifikacij</translation>
+        <translation type="vanished">Nameščanje paketa modifikacij</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Komponente knjižnic ni bilo mogoče ustvariti</translation>
+        <translation type="vanished">Komponente knjižnic ni bilo mogoče ustvariti</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Neznana vrsta nalagalnika: </translation>
+        <translation type="vanished">Neznana vrsta nalagalnika: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Izdelava komponente paketa ni bila uspešna</translation>
+        <translation type="vanished">Izdelava komponente paketa ni bila uspešna</translation>
     </message>
 </context>
 <context>
@@ -2375,7 +2375,7 @@ Ali ste prepričani?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Ni dovolj RAM-a</translation>
+        <translation type="vanished">Ni dovolj RAM-a</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2384,7 +2384,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Ni dovolj RAM-a na voljo za zagon te instance s trenutnimi nastavitvami za spomin.
+        <translation type="vanished">Ni dovolj RAM-a na voljo za zagon te instance s trenutnimi nastavitvami za spomin.
 
 Zahteva: %1 MiB
 Na voljo: %2 MiB
@@ -4275,7 +4275,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5234,10 +5234,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -5425,12 +5421,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5898,12 +5888,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -6288,10 +6272,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -6394,10 +6374,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13398,13 +13374,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -13986,7 +13955,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -14315,11 +14284,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

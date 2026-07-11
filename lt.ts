@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Negaliu suprasti paketo manifesto:
+        <translation type="vanished">Negaliu suprasti paketo manifesto:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepalaikomas diegimo režimas</translation>
+        <translation type="vanished">Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Naikinami esami failai...</translation>
+        <translation type="vanished">Naikinami esami failai...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nežinomas modifikacijos tipas: %1</translation>
+        <translation type="vanished">Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation type="vanished">Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation type="vanished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="vanished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Siunčiamas konfigūracijos failas...</translation>
+        <translation type="vanished">Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Atsisiųsti konfigūraciją</translation>
+        <translation type="vanished">Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Išpakuojamos konfigūracijos...</translation>
+        <translation type="vanished">Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation type="vanished">Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modifikacijas atsisiuntimas...</translation>
+        <translation type="vanished">Modifikacijas atsisiuntimas...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Atsisiųsti modifikaciją</translation>
+        <translation type="vanished">Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="vanished">Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Rasta užblokuotų modifikacijų</translation>
+        <translation type="vanished">Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation type="vanished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Įdiegta %1 iš %2</translation>
+        <translation type="vanished">Įdiegta %1 iš %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nepavyko išpakuoti modifikacijas...</translation>
+        <translation type="vanished">Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modifikacijos išpakavimas...</translation>
+        <translation type="vanished">Modifikacijos išpakavimas...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modpack diegimas</translation>
+        <translation type="vanished">Modpack diegimas</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation type="vanished">Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Neatpažintas krautuvo tipas: </translation>
+        <translation type="vanished">Neatpažintas krautuvo tipas: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nepavyko sukurti rinkinio komponentų</translation>
+        <translation type="vanished">Nepavyko sukurti rinkinio komponentų</translation>
     </message>
 </context>
 <context>
@@ -2447,7 +2447,7 @@ Ar tikrai norite tai padaryti?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Nepakanka RAM</translation>
+        <translation type="vanished">Nepakanka RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2456,7 +2456,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nepakanka RAM šiai instancijai paleisti su dabartiniais atminties nustatymais.
+        <translation type="vanished">Nepakanka RAM šiai instancijai paleisti su dabartiniais atminties nustatymais.
 
 Reikalaujama: %1 MiB
 Laisva: %2 MiB
@@ -4448,7 +4448,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Gerai</translation>
+        <translation type="vanished">Gerai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5799,10 +5799,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -6044,12 +6040,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6602,7 +6592,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Nepavyko paleisti Minecraft!</translation>
+        <translation type="obsolete">Nepavyko paleisti Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7017,10 +7007,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -7135,10 +7121,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14492,13 +14474,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished">Kalba</translation>
@@ -15104,7 +15079,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation type="obsolete">Gerai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15437,11 +15412,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

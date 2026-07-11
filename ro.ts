@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nu s-a putut înțelege manifestul pachetului:
+        <translation type="vanished">Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
+        <translation type="vanished">Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
+        <translation type="vanished">Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mod de instalare nesuportat</translation>
+        <translation type="vanished">Mod de instalare nesuportat</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Se șterg fișierele existente...</translation>
+        <translation type="vanished">Se șterg fișierele existente...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tip de mod necunoscut: %1</translation>
+        <translation type="vanished">Tip de mod necunoscut: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
+        <translation type="vanished">Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nu este setată nicio versiune de loader pentru modpack!</translation>
+        <translation type="vanished">Nu este setată nicio versiune de loader pentru modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tip de descărcare necunoscut sau neacceptat: %1</translation>
+        <translation type="vanished">Tip de descărcare necunoscut sau neacceptat: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Se descarcă configurațiile...</translation>
+        <translation type="vanished">Se descarcă configurațiile...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Descărcare configurație</translation>
+        <translation type="vanished">Descărcare configurație</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Se extrag configurațiile...</translation>
+        <translation type="vanished">Se extrag configurațiile...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Selectarea modurilor opționale...</translation>
+        <translation type="vanished">Selectarea modurilor opționale...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Se descarcă modurile...</translation>
+        <translation type="vanished">Se descarcă modurile...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Descărcare mod</translation>
+        <translation type="vanished">Descărcare mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tip de descărcare necunoscut: %1</translation>
+        <translation type="vanished">Tip de descărcare necunoscut: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Moduri blocate găsite</translation>
+        <translation type="vanished">Moduri blocate găsite</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Următoarele fișiere nu sunt disponibile pentru a fi descărcate cu launchere terțe.&lt;br/&gt;Va trebui să le descarci manual și să le adaugi la instanță.</translation>
+        <translation type="vanished">Următoarele fișiere nu sunt disponibile pentru a fi descărcate cu launchere terțe.&lt;br/&gt;Va trebui să le descarci manual și să le adaugi la instanță.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 din %2 complet</translation>
+        <translation type="vanished">%1 din %2 complet</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Extragerea modurilor a eșuat...</translation>
+        <translation type="vanished">Extragerea modurilor a eșuat...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Se extrag modurile...</translation>
+        <translation type="vanished">Se extrag modurile...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Se instalează modpack-ul</translation>
+        <translation type="vanished">Se instalează modpack-ul</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nu s-a reușit crearea componentei bibliotecilor</translation>
+        <translation type="vanished">Nu s-a reușit crearea componentei bibliotecilor</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tip de loader necunoscut: </translation>
+        <translation type="vanished">Tip de loader necunoscut: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nu s-a reușit crearea componentei de pachet</translation>
+        <translation type="vanished">Nu s-a reușit crearea componentei de pachet</translation>
     </message>
 </context>
 <context>
@@ -2475,7 +2475,7 @@ Sigur doriți să continuați?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM insuficient</translation>
+        <translation type="vanished">RAM insuficient</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2484,7 +2484,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Nu există destul RAM pentru a porni instanța cu setările curente de memorie.
+        <translation type="vanished">Nu există destul RAM pentru a porni instanța cu setările curente de memorie.
 
 Cerut: %1 MiB
 Disponibil: %2 MiB
@@ -4557,7 +4557,7 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6056,7 +6056,7 @@ Puteți schimba versiunea de Java din setări ulterior.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Folosește setările locale ale sistemului</translation>
+        <translation type="vanished">Folosește setările locale ale sistemului</translation>
     </message>
 </context>
 <context>
@@ -6358,7 +6358,7 @@ Dorești să joci versiunea demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Nu ești conectat la internet, lansare in modul offline
+        <translation type="vanished">Nu ești conectat la internet, lansare in modul offline
 
 </translation>
     </message>
@@ -7023,7 +7023,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nu s-a putut lansa Minecraft!</translation>
+        <translation type="vanished">Nu s-a putut lansa Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7495,7 +7495,7 @@ Motiv:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Procesul nu a reușit să pornească.</translation>
+        <translation type="vanished">Procesul nu a reușit să pornească.</translation>
     </message>
 </context>
 <context>
@@ -7623,7 +7623,7 @@ Motiv:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Nu s-a putut obține autorizarea dispozitivului</translation>
+        <translation type="vanished">Nu s-a putut obține autorizarea dispozitivului</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16018,7 +16018,7 @@ Ești sigur(ă)?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 tradus
 %3 neclar
 %4 total</translation>
@@ -16683,7 +16683,7 @@ Ești sigur(ă)?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Bine</translation>
+        <translation type="vanished">Bine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17042,7 +17042,7 @@ Ești sigur(ă)?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Nu s-a putut obține autorizația pentru serviciile %1. Eroare %2.</translation>
+        <translation type="vanished">Nu s-a putut obține autorizația pentru serviciile %1. Eroare %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

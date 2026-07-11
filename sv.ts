@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kunde inte tolka paketmanifestet:
+        <translation type="vanished">Kunde inte tolka paketmanifestet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Misslyckades med att hämta lokalt metadata-index för %1</translation>
+        <translation type="vanished">Misslyckades med att hämta lokalt metadata-index för %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Misslyckades med att hämta lokalt metadata-index för &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Misslyckades med att hämta lokalt metadata-index för &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Installationsläget stöds inte</translation>
+        <translation type="vanished">Installationsläget stöds inte</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Raderar befintliga filer...</translation>
+        <translation type="vanished">Raderar befintliga filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Okänd modtyp: %1</translation>
+        <translation type="vanished">Okänd modtyp: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Misslyckades med att hitta versionen för %1-inläsaren</translation>
+        <translation type="vanished">Misslyckades med att hitta versionen för %1-inläsaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen inläsar-version angiven för modpaketet!</translation>
+        <translation type="vanished">Ingen inläsar-version angiven för modpaketet!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Okänd eller ostödd nedladdningstyp: %1</translation>
+        <translation type="vanished">Okänd eller ostödd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Laddar ned konfigurationsfiler…</translation>
+        <translation type="vanished">Laddar ned konfigurationsfiler…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurationsnedladdning</translation>
+        <translation type="vanished">Konfigurationsnedladdning</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extraherar konfigurationer…</translation>
+        <translation type="vanished">Extraherar konfigurationer…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Väljer valfria mods…</translation>
+        <translation type="vanished">Väljer valfria mods…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Laddar ned mods...</translation>
+        <translation type="vanished">Laddar ned mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modnedladdning</translation>
+        <translation type="vanished">Modnedladdning</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Okänd nedladdningstyp: %1</translation>
+        <translation type="vanished">Okänd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blockerade mods hittades</translation>
+        <translation type="vanished">Blockerade mods hittades</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
+        <translation type="vanished">Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 av %2 slutförda</translation>
+        <translation type="vanished">%1 av %2 slutförda</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Misslyckades med att extrahera mods…</translation>
+        <translation type="vanished">Misslyckades med att extrahera mods…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extraherar mods…</translation>
+        <translation type="vanished">Extraherar mods…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerar modpaket</translation>
+        <translation type="vanished">Installerar modpaket</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Misslyckades med att skapa bibliotekskomponent</translation>
+        <translation type="vanished">Misslyckades med att skapa bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Okänd laddare-typ: </translation>
+        <translation type="vanished">Okänd laddare-typ: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Misslyckades med att skapa paketkomponent</translation>
+        <translation type="vanished">Misslyckades med att skapa paketkomponent</translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2498,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Inte nog med RAM</translation>
+        <translation type="vanished">Inte nog med RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2507,7 +2507,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Det finns inte tillräckligt med RAM tillgängligt för att starta den här instansen med de nuvarande minnesinställningarna.
+        <translation type="vanished">Det finns inte tillräckligt med RAM tillgängligt för att starta den här instansen med de nuvarande minnesinställningarna.
 
 Krävs: %1 MiB
 Tillgängligt: %2 MiB
@@ -4617,7 +4617,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Ok</source>
-        <translation>Okej</translation>
+        <translation type="vanished">Okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6132,7 +6132,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Använd systemspråk</translation>
+        <translation type="vanished">Använd systemspråk</translation>
     </message>
 </context>
 <context>
@@ -6438,7 +6438,7 @@ Vill du spela demot?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Du är inte ansluten till internet. Startar i offlineläge
+        <translation type="vanished">Du är inte ansluten till internet. Startar i offlineläge
 
 </translation>
     </message>
@@ -7188,7 +7188,7 @@ Du rekommenderas att ge %1 åtkomst till den via Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Kunde inte starta Minecraft!</translation>
+        <translation type="vanished">Kunde inte starta Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7660,7 +7660,7 @@ Orsak:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Processen kunde inte starta.</translation>
+        <translation type="vanished">Processen kunde inte starta.</translation>
     </message>
 </context>
 <context>
@@ -7788,7 +7788,7 @@ Orsak:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Misslyckades med att hämta enhetsgodkännande</translation>
+        <translation type="vanished">Misslyckades med att hämta enhetsgodkännande</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16897,7 +16897,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 översatt
 %3 oklart
 %4 totalt</translation>
@@ -17775,7 +17775,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Okej</translation>
+        <translation type="vanished">Okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18144,7 +18144,7 @@ Världen kan försvinna för alltid (VÄLDIGT LÄNGE).
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Misslyckades med att få behörighet för %1-tjänsterna. Fel %2.</translation>
+        <translation type="vanished">Misslyckades med att få behörighet för %1-tjänsterna. Fel %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

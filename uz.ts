@@ -199,104 +199,104 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paket manifestini tushunib bo&apos;lmadi.
+        <translation type="vanished">Paket manifestini tushunib bo&apos;lmadi.
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation type="vanished">%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
+        <translation type="vanished">Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
+        <translation type="vanished">Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nomaʼlum mod turi: %1</translation>
+        <translation type="vanished">Nomaʼlum mod turi: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
+        <translation type="vanished">%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
+        <translation type="vanished">Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
+        <translation type="vanished">Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Konfiguratsiyalar yuklanmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar yuklanmoqda...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfiguratsiya yuklandi</translation>
+        <translation type="vanished">Konfiguratsiya yuklandi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfiguratsiyalar chiqarilmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar chiqarilmoqda...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Ixtiyoriy modlarni tanlash...</translation>
+        <translation type="vanished">Ixtiyoriy modlarni tanlash...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modlar yuklanmoqda...</translation>
+        <translation type="vanished">Modlar yuklanmoqda...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod yuklab olish</translation>
+        <translation type="vanished">Mod yuklab olish</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Noma&apos;lum yuklab olish turi: %1</translation>
+        <translation type="vanished">Noma&apos;lum yuklab olish turi: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Bloklangan modlar topildi</translation>
+        <translation type="vanished">Bloklangan modlar topildi</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation type="vanished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 dan %1 bajarildi</translation>
+        <translation type="vanished">%2 dan %1 bajarildi</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modlarni chiqarib bo&apos;lmadi...</translation>
+        <translation type="vanished">Modlarni chiqarib bo&apos;lmadi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modlar ajratilmoqda...</translation>
+        <translation type="vanished">Modlar ajratilmoqda...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modpack o&apos;rnatilmoqda</translation>
+        <translation type="vanished">Modpack o&apos;rnatilmoqda</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kutubxonalar komponentini yaratib bo‘lmadi</translation>
+        <translation type="vanished">Kutubxonalar komponentini yaratib bo‘lmadi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Noma&apos;lum yuklovchi turi: </translation>
+        <translation type="vanished">Noma&apos;lum yuklovchi turi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paket komponentini yaratib bo‘lmadi</translation>
+        <translation type="vanished">Paket komponentini yaratib bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -2192,7 +2192,7 @@ Ishonchingiz komilmi?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM yetarli emas</translation>
+        <translation type="vanished">RAM yetarli emas</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2201,7 +2201,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Joriy xotira sozlamalari bilan ushbu misolni ishga tushirish uchun RAM yetarli emas.
+        <translation type="vanished">Joriy xotira sozlamalari bilan ushbu misolni ishga tushirish uchun RAM yetarli emas.
 
 Majburiy: %1 MiB
 Mavjud: %2 MiB
@@ -3839,7 +3839,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -4619,10 +4619,6 @@ You can change the Java version in the settings later.
         <source>Use system regional standards</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use system locales</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LanguageWizardPage</name>
@@ -4804,12 +4800,6 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not connected to the Internet, launching in offline mode
-
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5260,12 +5250,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not launch Minecraft!</source>
-        <oldsource>Could not launch minecraft!</oldsource>
-        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
@@ -5634,10 +5618,6 @@ Reason:
         <source>The process failed to start: %1</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>LoginWizardPage</name>
@@ -5729,10 +5709,6 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to retrieve device authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12548,13 +12524,6 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
@@ -13114,7 +13083,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -13439,11 +13408,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get authorization for %1 services. Error %2.</source>
-        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

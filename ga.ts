@@ -202,52 +202,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nior thuigeamar an pack manifest.
+        <translation type="vanished">Nior thuigeamar an pack manifest.
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ní feidir linn an index metadata áitiúla le %1</translation>
+        <translation type="vanished">Ní feidir linn an index metadata áitiúla le %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mód suiteála nach dtacaítear leis</translation>
+        <translation type="vanished">Mód suiteála nach dtacaítear leis</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Ag scriosadh comhaid atá ann cheana féin...</translation>
+        <translation type="vanished">Ag scriosadh comhaid atá ann cheana féin...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Cineál mod anaithnid: %1</translation>
+        <translation type="vanished">Cineál mod anaithnid: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Theip ar leagan a aimsiú don luchtóir %1</translation>
+        <translation type="vanished">Theip ar leagan a aimsiú don luchtóir %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Níl aon leagan luchtóra socraithe don modpack!</translation>
+        <translation type="vanished">Níl aon leagan luchtóra socraithe don modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
+        <translation type="vanished">Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Cumraíochtaí á n-íoslódáil...</translation>
+        <translation type="vanished">Cumraíochtaí á n-íoslódáil...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Cumraíocht íoslódáil</translation>
+        <translation type="vanished">Cumraíocht íoslódáil</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Ag baint cumraíochtaí...</translation>
+        <translation type="vanished">Ag baint cumraíochtaí...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -255,55 +255,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Ag roghnú modhanna roghnacha...</translation>
+        <translation type="vanished">Ag roghnú modhanna roghnacha...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Ag íoslódáil mods...</translation>
+        <translation type="vanished">Ag íoslódáil mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod íoslódáil</translation>
+        <translation type="vanished">Mod íoslódáil</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Cineál íoslódála anaithnid: %1</translation>
+        <translation type="vanished">Cineál íoslódála anaithnid: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Fuarthas modanna blocáilte</translation>
+        <translation type="vanished">Fuarthas modanna blocáilte</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
+        <translation type="vanished">Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 as %2 críochnaithe</translation>
+        <translation type="vanished">%1 as %2 críochnaithe</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Theip ar na leasuithe a bhaint amach...</translation>
+        <translation type="vanished">Theip ar na leasuithe a bhaint amach...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Ag baint modhanna...</translation>
+        <translation type="vanished">Ag baint modhanna...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modpack a shuiteáil</translation>
+        <translation type="vanished">Modpack a shuiteáil</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Theip ar chomhpháirt leabharlann a chruthú</translation>
+        <translation type="vanished">Theip ar chomhpháirt leabharlann a chruthú</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Cineál lódóra anaithnid:- </translation>
+        <translation type="vanished">Cineál lódóra anaithnid:- </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Theip ar chomhpháirt an phacáiste a chruthú</translation>
+        <translation type="vanished">Theip ar chomhpháirt an phacáiste a chruthú</translation>
     </message>
 </context>
 <context>
@@ -2207,7 +2207,7 @@ An bhfuil tú cinnte?</translation>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>Gan dóthain RAM</translation>
+        <translation type="vanished">Gan dóthain RAM</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2216,7 +2216,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Níl dóthain RAM ar fáil chun an cás seo a sheoladh leis na socruithe cuimhne reatha.
+        <translation type="vanished">Níl dóthain RAM ar fáil chun an cás seo a sheoladh leis na socruithe cuimhne reatha.
 
 Riachtanach: %1 MiB
 Ar Fáil: %2 MiB
@@ -4038,7 +4038,7 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ceart go leor</translation>
+        <translation type="vanished">Ceart go leor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -5344,7 +5344,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>Úsáid logchaighdeáin chórais</translation>
+        <translation type="vanished">Úsáid logchaighdeáin chórais</translation>
     </message>
 </context>
 <context>
@@ -5600,7 +5600,7 @@ Ar mhaith leat an taispeántas a sheinm?</translation>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>Níl tú ceangailte leis an Idirlíon, ag tosú i mód as líne
+        <translation type="vanished">Níl tú ceangailte leis an Idirlíon, ag tosú i mód as líne
 
 </translation>
     </message>
@@ -6245,7 +6245,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Níorbh fhéidir Minecraft a sheoladh!</translation>
+        <translation type="vanished">Níorbh fhéidir Minecraft a sheoladh!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -6651,7 +6651,7 @@ Cúis:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>Theip ar an bpróiseas a thosú.</translation>
+        <translation type="vanished">Theip ar an bpróiseas a thosú.</translation>
     </message>
 </context>
 <context>
@@ -6764,7 +6764,7 @@ Cúis:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>Theip ar údarú gléis a aisghabháil</translation>
+        <translation type="vanished">Theip ar údarú gléis a aisghabháil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -14573,7 +14573,7 @@ An bhfuil tú cinnte?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 aistrithe
 %3 doiléir
 %4 san iomlán</translation>
@@ -15157,7 +15157,7 @@ An bhfuil tú cinnte?</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ceart go leor</translation>
+        <translation type="vanished">Ceart go leor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -15508,7 +15508,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>Theip ar údarú a fháil do %1 seirbhís. Earráid %2.</translation>
+        <translation type="vanished">Theip ar údarú a fháil do %1 seirbhís. Earráid %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

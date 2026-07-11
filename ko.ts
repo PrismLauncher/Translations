@@ -219,52 +219,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>팩 매니페스트를 해석할 수 없음:
+        <translation type="vanished">팩 매니페스트를 해석할 수 없음:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>지원하지 않는 설치 모드</translation>
+        <translation type="vanished">지원하지 않는 설치 모드</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>기존 파일을 삭제하는 중...</translation>
+        <translation type="vanished">기존 파일을 삭제하는 중...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>알 수 없는 모드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 모드 유형: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
+        <translation type="vanished">%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation type="vanished">모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>설정을 다운로드하는 중...</translation>
+        <translation type="vanished">설정을 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>설정 다운로드</translation>
+        <translation type="vanished">설정 다운로드</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>설정 내보내는 중...</translation>
+        <translation type="vanished">설정 내보내는 중...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -272,15 +272,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>선택적 모드 선택 중...</translation>
+        <translation type="vanished">선택적 모드 선택 중...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>모드를 다운로드하는 중...</translation>
+        <translation type="vanished">모드를 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>모드 다운로드</translation>
+        <translation type="vanished">모드 다운로드</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -288,43 +288,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>알 수 없는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>차단된 모드 발견</translation>
+        <translation type="vanished">차단된 모드 발견</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
+        <translation type="vanished">해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/&amp;2 완료</translation>
+        <translation type="vanished">%1/&amp;2 완료</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>모드 추출에 실패하였습니다...</translation>
+        <translation type="vanished">모드 추출에 실패하였습니다...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>모드 추출 중...</translation>
+        <translation type="vanished">모드 추출 중...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>모드 팩 설치 중</translation>
+        <translation type="vanished">모드 팩 설치 중</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>라이브러리 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>알 수 없는 로더 종류: </translation>
+        <translation type="vanished">알 수 없는 로더 종류: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>팩 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -2528,7 +2528,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>RAM 용량 부족</translation>
+        <translation type="vanished">RAM 용량 부족</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2537,7 +2537,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>현재 메모리 설정으로는 이 인스턴스를 실행할 수 있는 RAM 용량이 부족합니다.
+        <translation type="vanished">현재 메모리 설정으로는 이 인스턴스를 실행할 수 있는 RAM 용량이 부족합니다.
 
 필요 용량: %1 MiB
 사용 가능 용량: %2 MiB
@@ -4640,7 +4640,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Ok</source>
-        <translation>확인</translation>
+        <translation type="vanished">확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6159,7 +6159,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>시스템 로캘 사용</translation>
+        <translation type="vanished">시스템 로캘 사용</translation>
     </message>
 </context>
 <context>
@@ -6469,7 +6469,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>인터넷에 연결되어 있지 않습니다. 오프라인 모드로 실행됩니다.
+        <translation type="vanished">인터넷에 연결되어 있지 않습니다. 오프라인 모드로 실행됩니다.
 
 </translation>
     </message>
@@ -7201,7 +7201,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>마인크래프트를 실행할 수 없습니다!</translation>
+        <translation type="vanished">마인크래프트를 실행할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7680,7 +7680,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>프로세스를 시작하지 못하였습니다.</translation>
+        <translation type="vanished">프로세스를 시작하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -7808,7 +7808,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>기기 인증 정보를 받아오지 못함</translation>
+        <translation type="vanished">기기 인증 정보를 받아오지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -17006,7 +17006,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 번역됨: %2
 정확하지 않음: %3
 전체: %4</translation>
@@ -17886,7 +17886,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>확인</translation>
+        <translation type="vanished">확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -18255,7 +18255,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 서비스의 권한을 얻지 못하였습니다. 오류 %2.</translation>
+        <translation type="vanished">%1 서비스의 권한을 얻지 못하였습니다. 오류 %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>

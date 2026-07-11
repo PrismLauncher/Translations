@@ -207,52 +207,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした:
+        <translation type="vanished">パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>非対応のインストールモードです</translation>
+        <translation type="vanished">非対応のインストールモードです</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>既存ファイルを削除中…</translation>
+        <translation type="vanished">既存ファイルを削除中…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>不明なModの種類:%1</translation>
+        <translation type="vanished">不明なModの種類:%1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1ローダーのバージョンを見つけられませんでした</translation>
+        <translation type="vanished">%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
+        <translation type="vanished">ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>不明または非対応なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>コンフィグをダウンロード中…</translation>
+        <translation type="vanished">コンフィグをダウンロード中…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>構成データのダウンロード</translation>
+        <translation type="vanished">構成データのダウンロード</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>コンフィグを展開中…</translation>
+        <translation type="vanished">コンフィグを展開中…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -260,15 +260,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>オプションのModを選択中…</translation>
+        <translation type="vanished">オプションのModを選択中…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modをダウンロード中…</translation>
+        <translation type="vanished">Modをダウンロード中…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod のダウンロード</translation>
+        <translation type="vanished">Mod のダウンロード</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>不明なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ブロックされたModが見つかりました</translation>
+        <translation type="vanished">ブロックされたModが見つかりました</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation type="vanished">以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 / %2 完了</translation>
+        <translation type="vanished">%1 / %2 完了</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modの展開に失敗しました…</translation>
+        <translation type="vanished">Modの展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modを展開中…</translation>
+        <translation type="vanished">Modを展開中…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modパックをインストール中</translation>
+        <translation type="vanished">Modパックをインストール中</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ライブラリコンポーネントの作成に失敗しました</translation>
+        <translation type="vanished">ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>不明なModローダーの種類です: </translation>
+        <translation type="vanished">不明なModローダーの種類です: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>パックコンポーネントの作成に失敗しました</translation>
+        <translation type="vanished">パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -2496,7 +2496,7 @@ Are you sure?</source>
     <name>EnsureAvailableMemory</name>
     <message>
         <source>Not enough RAM</source>
-        <translation>メモリが不足しています</translation>
+        <translation type="vanished">メモリが不足しています</translation>
     </message>
     <message>
         <source>There is not enough RAM available to launch this instance with the current memory settings.
@@ -2505,7 +2505,7 @@ Required: %1 MiB
 Available: %2 MiB
 
 Continue anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>現在のメモリ設定では、この起動構成を実行するために必要なメモリが足りていません。
+        <translation type="vanished">現在のメモリ設定では、この起動構成を実行するために必要なメモリが足りていません。
 
 必要な量: %1 MiB
 使える量: %2 MiB
@@ -4563,7 +4563,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
@@ -6022,7 +6022,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Use system locales</source>
-        <translation>システムの言語を使用する</translation>
+        <translation type="vanished">システムの言語を使用する</translation>
     </message>
 </context>
 <context>
@@ -6332,7 +6332,7 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode
 
 </source>
-        <translation>インターネットに接続されていないため、オフラインモードで起動します
+        <translation type="vanished">インターネットに接続されていないため、オフラインモードで起動します
 
 </translation>
     </message>
@@ -7017,7 +7017,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Minecraftを起動できませんでした！</translation>
+        <translation type="vanished">Minecraftを起動できませんでした！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
@@ -7493,7 +7493,7 @@ Reason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation>プロセスの起動に失敗しました。</translation>
+        <translation type="vanished">プロセスの起動に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -7621,7 +7621,7 @@ Reason:
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
-        <translation>デバイスのアクセス許可を取得できませんでした</translation>
+        <translation type="vanished">デバイスのアクセス許可を取得できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -16464,7 +16464,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 翻訳済み %2
 要確認 %3
 全体 %4</translation>
@@ -17342,7 +17342,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <name>VersionSelectDialog</name>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
@@ -17711,7 +17711,7 @@ Are you sure?</source>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1サービスのアクセス許可を取得できませんでした。エラー %2。</translation>
+        <translation type="vanished">%1サービスのアクセス許可を取得できませんでした。エラー %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
