@@ -2199,12 +2199,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
@@ -2219,7 +2219,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បដិសេធ &amp;ការ​កំណត់​សកល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2268,7 +2268,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
 </context>
 <context>
@@ -2382,7 +2382,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
 </context>
 <context>
@@ -2425,7 +2425,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ផ្ទាល់ខ្លួន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -2675,7 +2675,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
@@ -3478,7 +3478,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ផ្ទាល់ខ្លួន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -3584,7 +3584,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
@@ -3697,27 +3697,27 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គ្វីល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">លីតឡូតដ័រ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
@@ -3777,7 +3777,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រំលង</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
@@ -3900,7 +3900,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="89"/>
@@ -3943,7 +3943,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
     </message>
 </context>
 <context>
@@ -3956,7 +3956,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
     </message>
 </context>
 <context>
@@ -4023,12 +4023,12 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">តំឡើង Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនអាចកំណត់ប្រភេទនៃការទាញយក Java បានទេ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
@@ -4039,7 +4039,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
 </context>
 <context>
@@ -4106,7 +4106,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
@@ -4152,7 +4152,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -4597,7 +4597,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="169"/>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="187"/>
@@ -5456,7 +5456,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -5575,7 +5575,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">សូមមេត្តារង់ចាំ…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5732,7 +5732,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -6203,7 +6203,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
@@ -6220,7 +6220,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
@@ -6523,7 +6523,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
@@ -6538,7 +6538,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
@@ -6609,7 +6609,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="72"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="145"/>
@@ -6951,27 +6951,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="487"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គ្វីល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">លីតឡូតដ័រ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
@@ -7115,7 +7115,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -7130,22 +7130,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គ្វីល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -7155,7 +7155,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">លីតឡូតដ័រ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -7263,7 +7263,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -7278,22 +7278,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើក</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រូបភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -7328,7 +7328,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -7566,19 +7566,19 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="287"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយកត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="293"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="303"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
@@ -7589,7 +7589,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="242"/>
@@ -7614,12 +7614,12 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
@@ -7640,7 +7640,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
@@ -8044,7 +8044,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កំពុង​ប្រតិបត្តិ​កិច្ចការ %1 (%2 ក្នុង​ចំណោម %3 ត្រូវ​បាន​ធ្វើ​រួច)</translation>
     </message>
 </context>
 <context>
@@ -8105,7 +8105,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -8144,7 +8144,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="92"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">គ្មានក្រុម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
@@ -8159,7 +8159,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ត្រូវការជំនួយ</translation>
     </message>
 </context>
 <context>
@@ -8593,7 +8593,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="590"/>
@@ -8620,7 +8620,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ត្រូវការជំនួយ</translation>
     </message>
 </context>
 <context>
@@ -8628,7 +8628,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -9213,7 +9213,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">សូមមេត្តារង់ចាំ…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -9228,7 +9228,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រំលង</translation>
     </message>
 </context>
 <context>
@@ -9498,7 +9498,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (កំពុងប្រើប្រាស់)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
@@ -9699,7 +9699,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រកមិនឃើញបណ្ណាល័យកម្មវិធីត្រួតពិនិត្យ Java ទេ។ សូមពិនិត្យមើលការដំឡើងរបស់អ្នក។</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -10336,12 +10336,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="178"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
@@ -10641,22 +10641,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើក</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
@@ -10666,7 +10666,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
@@ -10726,22 +10726,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើក</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រូបភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
@@ -10751,7 +10751,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
@@ -10783,12 +10783,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់កញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
@@ -10806,7 +10806,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -10842,19 +10842,19 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយកត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
@@ -10865,7 +10865,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
@@ -10882,7 +10882,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
@@ -10897,12 +10897,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
@@ -10979,14 +10979,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
@@ -11229,7 +11229,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
@@ -11376,7 +11376,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
@@ -11454,7 +11454,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
@@ -11469,7 +11469,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
@@ -11526,7 +11526,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
@@ -11562,19 +11562,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយកត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="107"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="196"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="139"/>
@@ -11585,7 +11585,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="144"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="145"/>
@@ -11602,7 +11602,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
@@ -11617,12 +11617,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="179"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="222"/>
@@ -11944,7 +11944,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -12137,27 +12137,27 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បើក</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">រូបភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
@@ -12167,7 +12167,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="136"/>
@@ -12210,7 +12210,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
@@ -12251,19 +12251,19 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការទាញយកត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="204"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="130"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="214"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="147"/>
@@ -12274,7 +12274,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="152"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="153"/>
@@ -12291,7 +12291,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
@@ -12306,12 +12306,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
@@ -12669,7 +12669,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
@@ -12986,7 +12986,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
@@ -13002,7 +13002,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
@@ -13081,7 +13081,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
