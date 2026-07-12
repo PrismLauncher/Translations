@@ -5951,34 +5951,38 @@ Do you want to play the demo?</source>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os servidores de autenticación de Minecraft non están dispoñibles neste momento, iniciando en modo offline.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sen conexión a Internet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non estás conectado a Internet, iniciando en modo offline.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccione o seu nome de xogador offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non hai conta seleccionada para iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1. Desexa re-autenticar esta cona?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="490"/>
@@ -6005,7 +6009,8 @@ Ao millor tes que arranxar os teus mods, por que o xogo inda segue gardando os r
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cesou o monitoreado do rexistro do xogo porque a lonxitude sobrepasou as %1 liñas.
+Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arquivos e probablemente gastanto espazo no disco a un ritmo alarmante!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="236"/>
@@ -6194,7 +6199,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Always rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre renomear o cartafol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
@@ -6210,12 +6215,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Actualizador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="189"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Con que frecuencia?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="202"/>
@@ -6230,12 +6235,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> horas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
@@ -6245,22 +6250,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cartafol onde Prism Launcher garda automáticamente versións descargadas de Java. NON estableza este coma o seu sistema de instalación de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por tempo tital &amp;played</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods e paquetes de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Revisa &amp;subfolders por se hai mods bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
