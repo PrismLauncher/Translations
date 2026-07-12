@@ -3544,7 +3544,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation type="unfinished">Descarga de mod</translation>
+        <translation>Descarga de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
@@ -3627,7 +3627,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished">Devolvéronse datos inválidos dende a API.</translation>
+        <translation>Devolvéronse datos inválidos dende a API.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
@@ -3675,17 +3675,17 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="186"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished">O recurso ten unha nova actualización dispoñible, pero non é descargable empregando CurseForge.</translation>
+        <translation>O recurso ten unha nova actualización dispoñible, pero non é descargable empregando CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
-        <translation type="unfinished">Non instalado</translation>
+        <translation>Non instalado</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
 </context>
 <context>
@@ -3705,12 +3705,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>No index file.</source>
-        <translation type="unfinished">Non hai ficheiro de índice.</translation>
+        <translation>Non hai ficheiro de índice.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Non puidemos atopar un arquivo índice axeitado para a versión antiga. Isto pode causar algúns arquivos duplicados. Desexa continuar?</translation>
+        <translation>Non puidemos atopar un arquivo índice axeitado para a versión antiga. Isto pode causar algúns arquivos duplicados. Desexa continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -3990,7 +3990,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
@@ -4000,7 +4000,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
         <source>External links:</source>
-        <translation type="unfinished">Ligazóns externas:</translation>
+        <translation>Ligazóns externas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="297"/>
@@ -4024,7 +4024,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Fallou a creación do cartafol para os binarios de Minecraft.</translation>
+        <translation>Fallou a creación do cartafol para os binarios de Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -4033,19 +4033,19 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Amañar por veces xogadas</translation>
+        <translation>Amañar por veces xogadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Amañar por instalacións</translation>
+        <translation>Amañar por instalacións</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Amañar por nome</translation>
+        <translation>Amañar por nome</translation>
     </message>
 </context>
 <context>
@@ -4059,12 +4059,12 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nota: Moitos paquetes de mods de FTB tamén están dispoñibles en CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4128,7 +4128,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comezou o proceso:%1</translation>
     </message>
 </context>
 <context>
@@ -4150,12 +4150,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recibindo o cosmético.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cosmético recibido</translation>
     </message>
 </context>
 <context>
@@ -4207,26 +4207,26 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categoría de icona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Buscando Iconas...</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -4236,12 +4236,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paquetes de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -4256,12 +4256,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="157"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="158"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
@@ -4285,7 +4285,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non se puido abrir o arquivo %1 para ler:%2</translation>
     </message>
 </context>
 <context>
@@ -4298,29 +4298,29 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os seguintes tipos de arquivo están implementados (tanto para arquivos locais e URLs):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Paquetes de mods de Curseforge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Paquetes de mods de Modrinth (ZIP e mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- Prism Launcher, PolyMC ou MultiMC exportou instancias (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacks de Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -4338,17 +4338,17 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O paquete de mods %1 está bloqueado para terceiros! Por favor, descárgueo manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esta URL non é dun paquete de mods válido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
@@ -4358,13 +4358,13 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="209"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivos soportados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Paquete de Modrinth</translation>
+        <translation>Paquete de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -4381,12 +4381,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elexir instancia á que importar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elexir a instancia á que lle gustaría importar este paquete de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -4396,17 +4396,17 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4426,7 +4426,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reportar problemas a: </translation>
     </message>
 </context>
 <context>
@@ -4435,7 +4435,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non hai versións de Java actualmente dispoñibles no meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
@@ -4456,7 +4456,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refrescar</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -4465,27 +4465,27 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="138"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
@@ -4495,12 +4495,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="152"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Instalar Loader</translation>
+        <translation>Instalar Loader</translation>
     </message>
 </context>
 <context>
@@ -4508,7 +4508,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Non hai versións dispoñibles para Minecraft %1</translation>
+        <translation>Non hai versións dispoñibles para Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4561,27 +4561,27 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminando arquivos obsoletos e conflitivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fallou a eliminación de arquivos obsoletos e conflitivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
-        <translation type="unfinished">Omitir</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non se puideron descargar arquivos do xogo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando arquivos do xogo</translation>
     </message>
 </context>
 <context>
@@ -4601,7 +4601,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentando determinar o tipo da instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
@@ -4710,7 +4710,7 @@ Por favor volvao a intentar.</translation>
         <location filename="src/launcher/InstancePageProvider.h" line="48"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Outros rexistros</translation>
+        <translation>Outros rexistros</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="52"/>
@@ -5540,14 +5540,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Confirmar selección</translation>
+        <translation>Confirmar selección</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="282"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escolleu a versión de 32 bits de Java.
+A instalación non admite máis de 2048 MiB de RAM.
+Asegúrese de que o valor de memoria máxima sexa menor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
