@@ -446,12 +446,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>ឈ្មោះអ្នកប្រើប្រាស់ Minecraft ដែលភ្ជាប់ជាមួយគណនី</translation>
+        <translation>ឈ្មោះអ្នកប្រើប្រាស់ Minecraft ដែលភ្ជាប់ជាមួយគណនី។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation>ស្ថានភាពបច្ចុប្បន្ននៃគណនី</translation>
+        <translation>ស្ថានភាពបច្ចុប្បន្ននៃគណនី។</translation>
     </message>
 </context>
 <context>
@@ -586,7 +586,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>មើលថតកញ្ចប់រូបឆ្មា</translation>
+        <translation>មើលថតកញ្ចប់រូបឆ្មា។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -598,12 +598,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>មើលថតស្បែកនៃធាតុក្រាហ្វិក</translation>
+        <translation>មើលថតស្បែកនៃធាតុក្រាហ្វិក។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>មើលថតស្បែករូបតំណាង</translation>
+        <translation>មើលថតស្បែករូបតំណាង។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -633,7 +633,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
         <source>Cat Scaling</source>
-        <translation>ការកំណត់ទំហំរូបភាពឆ្មា:</translation>
+        <translation>ការកំណត់ទំហំរូបភាពឆ្មា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
@@ -1002,57 +1002,57 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="52"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងចាប់ផ្ដើមដំណើរការ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងរង់ចាំ…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងរៀបចំដើម្បីចូលប្រើប្រាស់…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>ភារកិច្ចផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវត្រូវបានបញ្ចប់ដោយជោគជ័យ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចទាក់ទងជាមួយម៉ាស៊ីនមេផ្ទៀងផ្ទាត់បានទេ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>លេខសម្គាល់អតិថិជនបានផ្លាស់ប្តូរ។ ចាំបាច់ត្រូវបង្កើតវគ្គថ្មី។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>បានជួបបញ្ហាក្នុងពេលកំពុងផ្ទៀងផ្ទាត់។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវបានទេ។ វគ្គនេះបានផុតកំណត់។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវបានទេ។ គណនីនេះលែងមានវត្តមានទៀតហើយ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្ថានភាពភារកិច្ចគណនីមិនស្គាល់៖ %1</translation>
     </message>
 </context>
 <context>
@@ -1060,52 +1060,52 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>យន្តការស្វ័យប្រវត្តិនៃកម្មវិធី Java បានរកឃើញការតំឡើង Java ប្រភេទ 32-ប៊ីត។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានរកឃើញជំនាន់ Java ដែលអាចប្រើជាមួយគ្នាបានទេ។ កំពុងប្រើជំនាន់ដើម។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រព័ន្ធរបស់អ្នក (%1-%2) មិនអាចប្រើជាមួយការតំឡើង Java ដោយស្វ័យប្រវត្តិបានទេ។ កំពុងប្រើទីតាំងរក្សាទុក Java path។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>ព័ត៌មានមេតារបស់អ្នកហួសសម័យ ឬមិនមានព័ត៌មានចាំបាច់សម្រាប់កំណត់ថាតើគួរប្រើការតំឡើង Java ប្រភេទណាទេ។ កំពុងប្រើទីតាំងរក្សាទុក Java path។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java ដែលអាចប្រើប្រាស់បានគឺស្ថិតនៅ: %1។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានរកឃើញជំនាន់ Java ដែលអាចប្រើជាមួយគ្នាបានទេ (ឯកសារគោលមិនមានវត្តមានទេ)។ កំពុងប្រើជំនាន់ដើម។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចកំណត់ប្រភេទនៃការទាញយក Java បានទេ!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>តំឡើង Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានរកឃើញជំនាន់ Java ណាមួយសម្រាប់ប្រព័ន្ធប្រតិបត្តិការរបស់អ្នកឡើយ៖ %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានរកឃើញជំនាន់ Java ដែលអាចប្រើជាមួយគ្នាបានទេ។ កំពុងប្រើជំនាន់ដើម។</translation>
     </message>
 </context>
 <context>
@@ -1113,28 +1113,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;ការជូនដំណឹងពីមុខងារពិសេសថ្មី&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>យើងបានបន្ថែមមុខងារមួយដើម្បីទាញយកជំនាន់ Java ដែលត្រឹមត្រូវដោយស្វ័យប្រវត្តិសម្រាប់ជំនាន់ Minecraft នីមួយៗ (អ្នកអាចផ្លាស់ប្តូរវានៅក្នុងការកំណត់ Java បាន)។ តើអ្នកចង់បើក ឬបិទមុខងារនេះទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>បើកមុខងារទាញយកដោយស្វ័យប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>បិទមុខងារទាញយកដោយស្វ័យប្រវត្តិ</translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1142,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
     </message>
 </context>
 <context>
@@ -1150,73 +1150,73 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>mods ទាំងអស់ត្រូវបានរកឃើញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>សូមមេត្តាទាញយក mods ដែលខ្វះខាត។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714; រកឃើញនៅ%1&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>បោះបង់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>យល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>រំលង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ថតផ្ទុក mods សកល និងថតផ្ទុកឯកសារទាញយកលំនាំដើម ដែលអ្នកបានកំណត់ រួចរាល់ នឹងត្រូវពិនិត្យរកមើលម៉ូដដែលបានទាញយករួចដោយស្វ័យប្រវត្តិ ហើយពួកវានឹងត្រូវចម្លងទៅកាន់ instance ភ្លាមៗប្រសិនបើរកឃើញ។&lt;/p&gt;&lt;p&gt;ជម្រើសមួយទៀត អ្នកអាចអូស និងទម្លាក់ mods ដែលបានទាញយករួច ចូលទៅក្នុងប្រអប់សារនេះ ឬបន្ថែមថតផ្ទុកណាមួយដើម្បីតាមដាន ប្រសិនបើអ្នកមិនបានទាញយក mods ទាំងនោះទៅកាន់ទីតាំងលំនាំដើមទេ។&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ចុច &apos;បើកផ្នែកដែលបាត់&apos; ដើម្បីបើកតំណភ្ជាប់ទាញយកទាំងអស់នៅក្នុងកម្មវិធីរុករកអ៊ីនធឺណេត។ &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods ដែលបានរារាំង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងបើកនៃការបាត់បង់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>ថតឯកសារដែលកំពុងតាមដាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>បន្ថែមថតទាញយក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសថតដែលអ្នកបានទាញយក mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718; រកមិនឃើញ &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:&lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;p&gt;ហាស: %3 %4&lt;/p&gt;&lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -1224,12 +1224,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>បំណាក់អាវដណ្ដប់</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>ដកអាវដណ្ដប់ចេញ</translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1237,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមិនឃើញបណ្ណាល័យកម្មវិធីត្រួតពិនិត្យ Java ទេ។ សូមពិនិត្យមើលការដំឡើងរបស់អ្នក។</translation>
     </message>
 </context>
 <context>
@@ -1245,12 +1245,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសឈ្មោះក្រៅបណ្តាញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>កន្លែងដាក់ស្លាកសារ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1260,22 +1260,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះអ្នកប្រើមានសុពលភាពលុះត្រាតែវាមានប្រវែងពី 3 ទៅ 16 តួអក្សរ ប្រើអក្សរអង់គ្លេស លេខ និងសញ្ញាគូស។ ឈ្មោះ​អ្នក​ប្រើ​ដែល​មិន​ត្រឹមត្រូវ​អាច​ការពារ​ការ​ចូល​រួម​ជាមួយ​ម៉ាស៊ីន​មេ និង​ពិភព​អ្នកលេង​តែ​ម្នាក់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>អនុញ្ញាត​ឱ្យ​ឈ្មោះ​អ្នក​ប្រើ​មិន​ត្រឹមត្រូវ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>បោះបង់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>យល់ព្រម</translation>
     </message>
 </context>
 <context>
@@ -1283,32 +1283,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសអ្នកផ្តល់ mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>រំលង mod នេះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>រំលងទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>យល់ព្រមទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>បាទ/ចាស</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>ព្យាយាមប្រើអ្នកផ្តល់សេវាផ្សេងទៀតដោយស្វ័យប្រវត្តិប្រសិនបើអ្នកដែលបានជ្រើសរើសបរាជ័យ</translation>
     </message>
 </context>
 <context>
@@ -1316,48 +1316,49 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងផ្ទុកសមាសធាតុ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>បោះបង់ចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការផ្ទុកទិន្នន័យមេតានៃសមាសភាគមួយចំនួនបានបរាជ័យ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងទាញយកទិន្នន័យមេតាសម្រាប់សមាសធាតុ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>តម្រូវការ​ជម្លោះ​ត្រូវ​បាន​រក​ឃើញ​កំឡុង​ពេល​ពិនិត្យ​មើល​ភាព​អាស្រ័យ!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>វត្ថុមានភាពអាស្រ័យផ្ទុយគ្នា។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance មាន​ភាពអាស្រ័យ​ដែល​មិន​អាច​ដោះស្រាយ​បាន​ខណៈ​ពេល​កំពុង​ផ្ទុក/ពិនិត្យ​មើល​ការ​បើក​ដំណើរការ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចទាញយកទិន្នន័យមេតាសម្រាប់ %1 %2 បានទេ។ សូមផ្លាស់ប្តូរកំណែ ឬព្យាយាមម្តងទៀតនៅពេលក្រោយ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការអាប់ដេតទិន្នន័យមេតាសមាសភាគបានបរាជ័យ ខណៈពេលកំពុងទាញយកពីម៉ាស៊ីនមេពីចម្ងាយ៖
+%1</translation>
     </message>
 </context>
 <context>
@@ -1365,48 +1366,49 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>បរាជ័យក្នុងការបោះបង់កិច្ចការដែលកំពុងដំណើរការទាំងអស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការបានបរាជ័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការរងជាច្រើនបានបរាជ័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការរងជាច្រើនបានបរាជ័យ
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុង​ប្រតិបត្តិ​កិច្ចការ %1 (%2 ក្នុង​ចំណោម %3 ត្រូវ​បាន​ធ្វើ​រួច)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>សូមមេត្តារង់ចាំ…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុង​រង់ចាំ​កិច្ចការ​មួយ​ដើម្បី​ចាប់​ផ្តើម...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>អនុវត្តកិច្ចការ ១៖</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>កិច្ចការបានបញ្ចប់។</translation>
     </message>
 </context>
 <context>
@@ -1414,193 +1416,193 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ចម្លង Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ក្រុម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសទាំងអស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការបិទដំណើរការនេះនឹងនៅតែរក្សា mod loader (ឧទាហរណ៍៖ Fabric, Quilt, ផ្សេងទៀត។) ប៉ុន្តែលុប mods folder និង configs របស់វា។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលងការកំណត់របស់ Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលង mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>ចម្លងជម្រើសក្នុងហ្គេមដូចជា FOV។ Max Framerate ។ល។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលងការកំណត់របស់ហ្គេម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលងការរក្សារទុក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ជម្រើសចម្លងកម្រិតខ្ពស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើតំណភ្ជាប់និមិត្តសញ្ញា ឬតំណររឹង ជំនួសឱ្យការចម្លងឯកសារ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>និមិត្តសញ្ញា និងជម្រើសតំណរឹង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>តំណភ្ជាប់ត្រូវបានគាំទ្រនៅលើប្រព័ន្ធឯកសារភាគច្រើន លើកលែងតែ FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>ភ្ជាប់ធនធាននីមួយៗដាច់ដោយឡែកជំនួសឱ្យការភ្ជាប់ថតទាំងមូលក្នុងពេលតែមួយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>ភ្ជាប់ឯកសារឡើងវិញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រសិនបើ &quot;ចម្លងរក្សាទុក&quot; ត្រូវបានជ្រើសរើស ទិន្នន័យរក្សាទុកពិភពលោក នឹងត្រូវបានចម្លងជំនួសឱ្យការភ្ជាប់ ហើយដូច្នេះមិនចែករំលែករវាងឧទាហរណ៍ទេ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>កុំភ្ជាប់ការរក្សាទុក</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើតំណរឹងជំនួសឱ្យការចម្លងឯកសារ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើតំណភ្ជាប់រឹង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើតំណភ្ជាប់និមិត្តសញ្ញាជំនួសឱ្យការចម្លងឯកសារ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើតំណភ្ជាប់និមិត្តសញ្ញា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ជម្រើស CoW (Copy-on-Write)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឯកសារដែលបានក្លូនជាមួយ reflinks មិនត្រូវការទំហំបន្ថែមទេ រហូតដល់ពួកវាត្រូវបានកែប្រែ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>ក្លូនជំនួសឱ្យការចម្លង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រព័ន្ធឯកសារ និង/ឬ OS របស់អ្នកមិនគាំទ្រ reflinks ទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលង Shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលង Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំលង Resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>រក្សាពេលវេលាលេង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>ចម្លងរូបថតអេក្រង់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្មានក្រុម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks ត្រូវបានគាំទ្រនៅលើ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks មិនត្រូវបានគាំទ្រនៅលើ %1 ទេ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>នៅលើ Windows តំណភ្ជាប់និមិត្តសញ្ញាអាចទាមទារការអនុញ្ញាតពីអ្នកគ្រប់គ្រងដើម្បីបង្កើត។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>បដិសេដ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>យល់ស្រប</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1610,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្នូល Mods</translation>
     </message>
 </context>
 <context>
@@ -1616,7 +1618,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនអាចបង្កើតថតហ្គេមសំខាន់បានទេ</translation>
     </message>
 </context>
 <context>
@@ -1624,118 +1626,118 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>បង្កើតផ្លូវកាត់ Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>រក្សារទុកទៅ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើគណនីផ្សេងពីលំនាំដើមដែលបានបញ្ជាក់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>បដិសេធគណនីលំនាំដើម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជាក់វគ្គ ឬ Server ដើម្បីចូលរួមដោយស្វ័យប្រវត្តិនៅពេលចាប់ផ្តើម។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>ជ្រើសរើសគោលដៅដើម្បីចូលរួមនៅពេលចាប់ផ្តើម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>វគ្គ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>អាសយដ្ឋានServer៖</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>អាសយដ្ឋានServer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ចំណាំ៖ ប្រសិនបើផ្លូវកាត់ត្រូវបានផ្លាស់ទីបន្ទាប់ពីការបង្កើត វានឹងមិនត្រូវបានលុបចោលទេនៅពេលលុបឧទាហរណ៍។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation>អ្នកនឹងត្រូវលុបពួកវាដោយដៃ ប្រសិនបើនោះជាករណីនោះ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="85"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទៃតុ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="88"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្មវិធី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="90"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្សេងៗ…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="96"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - លេងចុងក្រោយ៖ %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (កំពុងប្រើប្រាស់)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="179"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="181"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Server %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="196"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="200"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>វគ្គ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="203"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
 </context>
 <context>
@@ -1743,28 +1745,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>បដិសេធ &amp;ការ​កំណត់​សកល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;បើកដំណើរការពាក្យបញ្ជាជាមុន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;post-exit ពាក្យបញ្ជា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ពាក្យបញ្ជា Wrapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ពាក្យបញ្ជាមុនចាប់ផ្តើមដំណើរការមុនពេលដែលវត្ថុចាប់ផ្តើមដំណើរការ ហើយពាក្យបញ្ជាក្រោយការចេញដំណើរការបន្ទាប់ពីវាចេញ។&lt;/p&gt;&lt;p&gt;ទាំងពីរនឹងត្រូវបានដំណើរការនៅក្នុងថតឯកសារដំណើរការរបស់កម្មវិធីបើកដំណើរការជាមួយនឹងអថេរបរិស្ថានបន្ថែម៖&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - ឈ្មោះនៃវត្ថុវត្ថុ&lt;/li&gt;&lt;li&gt;$INST_ID - ID$) abslute (instance folder) - ID$&gt;&lt;/li&gt;&lt;li&gt; នៃឧទាហរណ៍&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary ប្រើសម្រាប់ការបើកដំណើរការ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - ប៉ារ៉ាម៉ែត្របន្ទាត់ពាក្យបញ្ជាដែលប្រើសម្រាប់ការចាប់ផ្តើម (ការព្រមាន៖ នឹងមិនអាចដំណើរការបានត្រឹមត្រូវទេ ប្រសិនបើអាគុយម៉ង់មានចន្លោះ)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ការបើកដំណើរការកម្មវិធីបន្ថែម (ដូចជាកម្មវិធី Wrapper) លីនុច)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1772,93 +1774,93 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>តម្រង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>ការចេញផ្សាយ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>បេត្តា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>កំណែរចាស់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>ការសាកល្បង</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្មវិធីផ្ទុកម៉ូដ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>ហ្វ័ច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្វីល</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>លីតឡូតដ័រ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទាល់ខ្លួន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្មានកំណែរ Minecraft ត្រូវបានជ្រើសរើស។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>គ្មាន mod loader ត្រូវបានជ្រើសរើស។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
+        <translation>មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
     </message>
 </context>
 <context>
@@ -1866,22 +1868,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងស្កេនឯកសារ...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="41"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>បានបរាជ័យក្នុងការស្កេនផ្លូវប្រភព។</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងចំលង %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្លូវខ្លះមិនអាចចម្លងបានទេ!</translation>
     </message>
 </context>
 <context>
@@ -1889,7 +1891,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនស្កាល់</translation>
     </message>
 </context>
 <context>
@@ -1897,69 +1899,69 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>រូបភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>ទម្រង់កញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="89"/>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>លេខសម្គាល់ទម្រង់កញ្ចប់ទិន្នន័យ ក៏ដូចជាកំណែ Minecraft ដែលវាត្រូវបានរចនាឡើងសម្រាប់។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>តើកញ្ចប់ទិន្នន័យត្រូវបានបើកទេ? (មានសុពលភាពសម្រាប់តែ ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
         <source>The name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះកញ្ចប់ទិន្នន័យ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>កាលបរិច្ឆេទ និងពេលវេលាកញ្ចប់ទិន្នន័យនេះត្រូវបានផ្លាស់ប្តូរចុងក្រោយ (ឬបន្ថែម)។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>ទំហំនៃកញ្ចប់ទិន្នន័យ។</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>ឈ្មោះឯកសារនៃកញ្ចប់ទិន្នន័យ។</translation>
     </message>
 </context>
 <context>
@@ -1967,27 +1969,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>ទាញយកកញ្ចប់ទិន្នន័យពីវេទិកា mod អនឡាញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>ព្យាយាមពិនិត្យ ឬធ្វើបច្ចុប្បន្នភាពកញ្ចប់ទិន្នន័យដែលបានជ្រើសរើសទាំងអស់ (កញ្ចប់ទិន្នន័យទាំងអស់ ប្រសិនបើមិនមានត្រូវបានជ្រើសរើស)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្លាស់ប្តូរកំណែកញ្ចប់ទិន្នន័យ។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="81"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ទាញយកកញ្ចប់ទិន្នន័យ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
@@ -1996,7 +1998,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2004,82 +2006,85 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនយល់ស្រប</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>ការទាញយកត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់។</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនយល់ព្រម</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>ការអាប់ដេតកញ្ចប់ទិន្នន័យមិនអាចប្រើបានទេ នៅពេលដែលទិន្នន័យមេតាត្រូវបានបិទ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ការធ្វើបច្ចុប្បន្នភាពកញ្ចប់ទិន្នន័យ ខណៈពេលដែលហ្គេមកំពុងដំណើរការអាចបណ្តាលឱ្យមានការចម្លងកញ្ចប់ និងការគាំងហ្គេម។
+ឯកសារចាស់ៗប្រហែលជាមិនត្រូវបានលុបទេ ដោយសារវាកំពុងប្រើប្រាស់។
+តើអ្នកប្រាកដថាចង់ធ្វើបែបនេះទេ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>កម្មវិធីធ្វើបច្ចុប្បន្នភាពកញ្ចប់ទិន្នន័យត្រូវបានបោះបង់!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>កញ្ចប់ទិន្នន័យទាំងអស់គឺទាន់សម័យ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>កញ្ចប់ទិន្នន័យដែលបានជ្រើសរើសទាំងអស់គឺទាន់សម័យ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>អ្នកនឹងលុបទិន្នន័យមេតាសម្រាប់កញ្ចប់ទិន្នន័យ %1។
+តើអ្នកប្រាកដទេ?</translation>
     </message>
 </context>
 <context>
@@ -2091,7 +2096,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រព័ន្ធនេះស្ថិតនៅក្រោមសម្ពាធនៃអង្គចងចាំកើនឡើង។
+នេះអាចនាំឱ្យមានភាពយឺតយ៉ាវឬយឺត។
+ប្រសិនបើអាចធ្វើបាន សូមបិទកម្មវិធីផ្សេងទៀត មុនពេលបន្ត។
+
+បើកដំណើរការឬ?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
