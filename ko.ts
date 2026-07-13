@@ -6618,12 +6618,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Ask what to do</source>
-        <translation>무엇을 해야 할지 물어보세요</translation>
+        <translation>어떻게 할지 물어보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation>폴더 이름을 절대로 변경하지 마세요</translation>
+        <translation>절대 폴더 이름 바꾸지 않기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
