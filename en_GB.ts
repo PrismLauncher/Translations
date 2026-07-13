@@ -6512,7 +6512,7 @@ Do you want to play the demo?</translation>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation>You are not connected to the internet, launching in offline mode.
+        <translation>You are not connected to the Internet, launching in offline mode.
 
 </translation>
     </message>
