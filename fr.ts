@@ -6188,7 +6188,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation>Utiliser les paramètres régionales du système</translation>
+        <translation>Utiliser les paramètres régionaux du système</translation>
     </message>
     <message>
         <source>Use system locales</source>
