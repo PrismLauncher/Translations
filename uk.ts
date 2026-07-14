@@ -2535,11 +2535,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>Система перебуває під підвищеним навантаженням на пам&apos;ять
-Це може призвести до затримки або уповільнення
-Якщо можливо, закрийте інші програми, перш ніж продовжити
+        <translation>Система перебуває під підвищеним навантаженням на пам&apos;ять.
+Це може призвести до затримки або уповільнення.
+Якщо можливо, закрийте інші програми, перш ніж продовжити.
 
-Усе одно запустити?</translation>
+Все одно запустити?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
