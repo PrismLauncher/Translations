@@ -2292,7 +2292,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation>Назва Файла</translation>
+        <translation>Назва Файлу</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
@@ -2302,7 +2302,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation>Назва дата пака.</translation>
+        <translation>Назва файлу дата паку.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
