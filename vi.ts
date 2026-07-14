@@ -2581,7 +2581,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và làm hệ thống của bạn hoạt động không ổn định.
+
+Bộ nhớ được phân bổ tối đa: %1 MiB
+Bộ nhớ trống: %2 MiB (trong tổng số %3 MiB)
+
+Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và làm hệ thống của bạn hoạt động không ổn định.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -6042,7 +6047,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Sử dụng tiêu chuẩn khu vực của hệ thống</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6327,26 +6332,30 @@ Bạn có muốn thử bản demo không?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Máy chủ xác thực đang ngoại tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>trình khởi chạy (launcher) của bạn không thể kết nối tới máy chủ của Microsoft để xác thực tài khoản của bạn.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>không có kết nối internet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn không được kết nối với Internet, đang khởi chạy ở chế độ ngoại tuyến.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
