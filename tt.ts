@@ -11091,7 +11091,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Утырту өчен версия сайлагыз.</translation>
     </message>
 </context>
 <context>
@@ -11121,7 +11121,9 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Утырту өчен версия сайлагыз
+
+Хәзерге утыртылган версия: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
