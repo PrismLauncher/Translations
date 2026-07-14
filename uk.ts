@@ -6970,12 +6970,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="460"/>
         <source>Instance Creation</source>
-        <translation>Створення екземпляра</translation>
+        <translation>Створення Екземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Під час створення екземпляра відбувається завантаження необхідних файлів гри. Вимкніть це, щоб скіпнути початкове завантаження та завантажити файли під час запуску екземпляра.</translation>
+        <translation>Під час створення екземпляра відбувається завантаження необхідних ігрових файлів. Вимкніть це, щоб скіпнути початкове завантаження та завантажити файли під час запуску екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
