@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Основне &amp;поосилання</translation>
+        <translation>Основне &amp;посилання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Ви можете змінити цю адрессу якщо ви маєте проблеми зі скачуванням застарілих бібліотек FML (Minecraft 1.5.2 і старіші).</translation>
+        <translation>Ви можете змінити цю адресу якщо Ви маєте проблеми із завантаженням застарілих бібліотек FML (Minecraft 1.5.2 і старіші).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -642,7 +642,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Перемістити ниже</translation>
+        <translation>Перемістити нижче</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -662,7 +662,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Ласкаво просимо!
-Якщо ви тут уперше, ви можете натиснути кнопку &quot;Додати обліковий запис Microsoft&quot;, щоб прив’язати свій обліковий запис Microsoft.</translation>
+Якщо Ви тут уперше, Ви можете натиснути кнопку &quot;Додати обліковий запис Microsoft&quot;, щоб прив’язати свій обліковий запис Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
@@ -701,7 +701,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням автономного облікового запису.&lt;br&gt;&lt;br&gt;Якщо ви втратили свій обліковий запис, ви можете звернутися до підтримки Microsoft.</translation>
+        <translation>Вам потрібно додати обліковий запис Microsoft, на якому є куплений Minecraft перед додаванням автономного облікового запису.&lt;br&gt;&lt;br&gt;Якщо Ви втратили свій обліковий запис, Ви можете звернутися до служби підтримки Microsoft про допомогу.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -728,7 +728,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Будь ласка, введіть бажане ім’я користувача, щоби додати автономний обліковий запис.</translation>
+        <translation>Будь ласка, введіть бажане ім’я користувача, аби додати автономний обліковий запис.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -846,7 +846,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Значки:</translation>
+        <translation>&amp;Іконки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -1432,7 +1432,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Ми додали функцію автоматичного завантаження потрібної версії Java для кожної версії Minecraft (це можна змінити у налаштуваннях Java). Чи бажаєте ви ввімкнути або вимкнути цю функцію?</translation>
+        <translation>Ми додали функцію автоматичного завантаження потрібної версії Java для кожної версії Minecraft (це можна змінити у налаштуваннях Java). Чи бажаєте Ви ввімкнути або вимкнути цю функцію?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1518,7 +1518,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Оберіть теку, в яку ви завантажили моди</translation>
+        <translation>Оберіть теку, у яку Ви завантажили моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -2302,7 +2302,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation>Назва файлу дата паку.</translation>
+        <translation>Назва файлу дата-пака.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -4366,12 +4366,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation>Категорія піктограм</translation>
+        <translation>Категорія іконки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation>1</translation>
+        <translation>Пошук піктограм...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4400,7 +4400,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation>Кастомні</translation>
+        <translation>Користувацький</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -6124,7 +6124,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation>Використовуйте системні регіональні стандарти</translation>
+        <translation>Використати регіональні стандарти системи</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6363,7 +6363,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation>Сталася помилка під час оновлення &apos;%1&apos;</translation>
+        <translation>Сталась помилка під час оновлення &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
@@ -6384,8 +6384,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>Ваш акаунт не володіє копією Minecraftю
-Для гри в повну версію, вам треба придбати саму гру.</translation>
+        <translation>Цей акаунт не володіє копією Minecraft.
+Для гри в повну версію, Вам треба придбати саму гру.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
@@ -6423,7 +6423,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation>Немає підключення до Інтернету</translation>
+        <translation>Немає підключення до інтернету</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
@@ -6975,7 +6975,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Під час створення екземпляра відбувається завантаження необхідних ігрових файлів. Вимкніть це, щоб скіпнути початкове завантаження та завантажити файли під час запуску екземпляра.</translation>
+        <translation>Завантажує необхідні ігрові файли саме під час створення екземпляра. Вимкніть це, щоб пропустити початкове завантаження та завантажити файли лише під час запуску екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
@@ -7633,7 +7633,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла помилка під час запуску процесу: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -10492,7 +10492,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation>Для кожного мода, кількість інших модів, від яких він залежить.</translation>
+        <translation>Для кожного мода — кількість інших модів, від яких він залежить.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
@@ -10508,7 +10508,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation>Перемикання цих модів призведе до змін з іншими модами.
+        <translation>Перемикання цього моду(-ів) може змінити інші моди.
 </translation>
     </message>
     <message numerus="yes">
@@ -10576,7 +10576,7 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation>Чи бажаєте ви також увімкнути їх? 
+        <translation>Чи бажаєте Ви також увімкнути їх? 
 Їх ігнорування може зламати гру.</translation>
     </message>
     <message>
@@ -10611,7 +10611,7 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation>Чи бажаєте ви також вимкнути їх? 
+        <translation>Чи бажаєте Ви також вимкнути їх? 
 Їх ігнорування може зламати гру.</translation>
     </message>
     <message>
@@ -12332,7 +12332,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для модпака не вказано версію завантажувача!</translation>
+        <translation>Для збірки не вказано версію завантажувача!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
@@ -12403,7 +12403,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation>Завантаження модпаку</translation>
+        <translation>Встановлення збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -12643,7 +12643,7 @@ Reason: %1.</source>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Оновлювач завершив роботу з невідомим результатом.
-Вихідний код: %1</translation>
+Код виходу: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
@@ -12668,7 +12668,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>directory</source>
-        <translation>катальог</translation>
+        <translation>тека</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
