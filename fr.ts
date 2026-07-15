@@ -3211,7 +3211,7 @@ Cette instance ne peut pas être lancée car certaines bibliothèques sont manqu
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="166"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation>Essayer de vérifier ou mettre à jour les ressources sélectionnées (toute la sélection si aucune n&apos;est sélectionée).</translation>
+        <translation>Essayer de vérifier ou mettre à jour les ressources sélectionnées (toute la sélection si aucune n&apos;est sélectionnée).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -14723,7 +14723,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="104"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>Vous avez %1 ressources sélectionnées.
+        <translation>Vous avez %1 ressource(s) sélectionnée(s).
 Êtes-vous sûr de vouloir fermer cette boîte de dialogue&#x202f;?</translation>
     </message>
     <message>
