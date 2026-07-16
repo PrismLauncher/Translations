@@ -2278,7 +2278,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">ขนาด</translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -4217,7 +4217,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาไอคอน...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4231,12 +4231,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>โมเดิร์น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>ดั้งเดิม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -4246,7 +4246,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">กำหนดเอง</translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -4290,7 +4290,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเปิดไฟล์: %1 เพื่ออ่าน: %2 ได้</translation>
     </message>
 </context>
 <context>
@@ -5538,7 +5538,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
@@ -5558,7 +5558,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">จาวา &amp; ตัวสั่งใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5568,12 +5568,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>เเจ้งเตือนเมื่อหน่วยความจำไม่เพียงพอ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
         <source>Memory Notice</source>
-        <translation type="unfinished">ข้อควรทราบเกี่ยวกับ Ram</translation>
+        <translation>แจ้งเตือนหน่วยความจำ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="337"/>
@@ -5741,7 +5741,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">คุณไม่ได้เลือกเวอร์ชัน Java หรือเลือกเวอร์ชันที่ไม่ทำงาน
+        <translation>คุณไม่ได้เลือกเวอร์ชัน Java หรือเลือกเวอร์ชันที่ใช้งานไม่ได้
 %1 จะไม่สามารถเริ่ม Minecraft ได้
 คุณต้องการดำเนินการต่อโดยไม่มีเวอร์ชัน Java ที่ใช้งานได้ใช่หรือไม่
 
@@ -5766,7 +5766,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Ram ความจำขั้นต่ำ:</translation>
+        <translation>หน่วยความจำขั้นต่ำ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
@@ -5816,7 +5816,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณน้อยกว่าค่าต่ำสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
@@ -5842,7 +5842,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ภูมิภาคของระบบเป็นพื้นฐาน</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6039,7 +6039,9 @@ Do you want to play the demo?</source>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>เซิร์ฟเวอร์ยืนยันตัวตนไม่สามารถใช้งานได้ในขณะนี้ กำลังเปิดใช้งานในโหมดออฟไลน์
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
