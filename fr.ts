@@ -8379,7 +8379,7 @@ Raison&#xa0;:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation>Voire les journaux</translation>
+        <translation>Voir les journaux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
