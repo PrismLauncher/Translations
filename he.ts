@@ -6087,12 +6087,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Icons:</source>
-        <translation>סמ&amp;לים:</translation>
+        <translation>&amp;סמלים:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>&amp;Downloads:</source>
-        <translation>הורדות:</translation>
+        <translation>&amp;הורדות:</translation>
     </message>
     <message>
         <source>...</source>
