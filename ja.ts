@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebinサービス(&amp;P)</translation>
+        <translation>&amp;パステビン サービス</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>ペーストサービスの種類(&amp;T)</translation>
+        <translation>ペーストサービスと種類</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>ベースURL(&amp;U)</translation>
+        <translation>ベースとURL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,17 +29,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>デフォルトを使用</translation>
+        <translation>デフォルトを使う</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注: ペーストサービスの種類を変更した後は、ベースURLを変更またはクリアすることをお勧めします。</translation>
+        <translation>注意：ペーストサービスの種類を変えた後は、ベースURLを変更するかクリアしてね。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>起動時に再読込する</translation>
+        <translation>起動時にリフレッシュしてね。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -49,22 +49,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>アセットのダウンロードに問題がある場合は他のサーバーに設定できます。</translation>
+        <translation>アセットのダウンロードで問題が起きる場合は、ここを別のサーバーに設定してね。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>レガシーFMLライブラリ サーバー</translation>
+        <translation>レガシーFMLライブラリサーバーだよ。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>レガシーFMLライブラリ (Minecraft 1.5.2以前) のダウンロードに問題がある場合は、別のサーバーに設定できます。</translation>
+        <translation>レガシーFMLライブラリ、つまりマイクラ1.5.2以前のファイルのダウンロードで問題が起きる場合は、ここを別のサーバーに設定してね。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>APIキー(&amp;A)</translation>
+        <translation>APIキー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
