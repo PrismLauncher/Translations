@@ -2615,8 +2615,8 @@ Free: %2 MiB (out of %3 MiB total)
 Launch anyway? This may cause slowdowns in the game and your system.</source>
         <translation>Möglicherweise ist nicht genügend Arbeitsspeicher (RAM) verfügbar, um diese Instanz mit den aktuellen Speichereinstellungen zu starten.
 
-Maximal zugewiesen: 1 MiB
-Frei: 2 MiB (von insgesamt 3 MiB)
+Maximal zugewiesen: %1 MiB
+Frei: %2 MiB (von insgesamt %3 MiB)
 
 Trotzdem starten? Dies kann zu Leistungseinbußen im Spiel und auf Ihrem System führen.</translation>
     </message>
