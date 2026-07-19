@@ -684,7 +684,7 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du må leggje til ein Microsoft-konto som eig Minecraft føre du kan leggje til ein offline-konto. &lt;br&gt;&lt;br&gt;Om du har mista tilgangen til kontoen din kan du kontakta Microsoft for å få hjelp.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
