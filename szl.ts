@@ -2103,7 +2103,7 @@ Je żeś tego pewny?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
@@ -5985,7 +5985,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōń ôbraną instancyje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
@@ -7439,7 +7439,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatwiyrdź Wychrōniynie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="128"/>
@@ -8361,7 +8361,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="122"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wychrōń &amp;Wsio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="133"/>
