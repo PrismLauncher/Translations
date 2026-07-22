@@ -3870,7 +3870,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <translation>Profil qovluğunun kopyalanması uğursuz oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Profil qovluğunun kopyalanması ləğv edildi.</translation>
     </message>

@@ -4346,7 +4346,7 @@ Prosimo, poskusite znova.</translation>
         <translation>Kopiranje instance neuspešno.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopiranje instance je bilo prekinjeno.</translation>
     </message>

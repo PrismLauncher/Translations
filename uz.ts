@@ -3903,7 +3903,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <translation>Namuna jildidan nusxa ko‘chirish amalga oshmadi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Namuna papkasini nusxalash to&apos;xtatildi.</translation>
     </message>

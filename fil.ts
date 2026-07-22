@@ -4341,7 +4341,7 @@ Subukan muli.</translation>
         <translation>Hindi magawa ang pag-kopya ng instance folder.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Pinigil ang pag-kopya ng instance folder.</translation>
     </message>

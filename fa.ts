@@ -4539,7 +4539,7 @@ Please try again.</source>
         <translation>کپی کردن پوشه نمایه با شکست مواجه شد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>کپی کردن پوشه نمایه متوقف گشت.</translation>
     </message>

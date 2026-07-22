@@ -4113,7 +4113,7 @@ Déan iarracht arís.</translation>
         <translation>Theip ar fillteán áisc a chóipeáil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Cuireadh deireadh le cóip fillteáin an sampla.</translation>
     </message>

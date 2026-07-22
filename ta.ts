@@ -4106,7 +4106,7 @@ Please try again.</source>
         <translation>நிகழ்வு கோப்புறை நகல் தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>நிகழ்வு கோப்புறை நகல் நிறுத்தப்பட்டுள்ளது.</translation>
     </message>

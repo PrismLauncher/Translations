@@ -4766,7 +4766,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Falha ao copiar instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>A cópia da pasta da instância foi abortada.</translation>
     </message>

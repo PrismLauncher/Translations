@@ -4261,7 +4261,7 @@ Vinsamlegast reyndu aftur.</translation>
         <translation>Mistókst að afrita tilvikamöppu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Afritun tilvikamöppu hefur verið stöðvuð.</translation>
     </message>

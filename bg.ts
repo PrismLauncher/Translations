@@ -4495,7 +4495,7 @@ Please try again.</source>
         <translation>Неуспешно копиране на папката с инстанции.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Копирането на папката с инстанции бе спряно.</translation>
     </message>

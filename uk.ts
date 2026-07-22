@@ -4694,7 +4694,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Не вдалося скопіювати теку збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Копіювання теки збірки було перервано.</translation>
     </message>

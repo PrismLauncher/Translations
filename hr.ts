@@ -4265,7 +4265,7 @@ Jeste li sigurni da to želite napraviti?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopiranje mape instance je prekinuto.</translation>
     </message>
