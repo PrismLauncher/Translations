@@ -4106,7 +4106,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Спадчына</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -6974,7 +6974,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася запусціць працэс: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -9070,7 +9070,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Версіі Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -9080,7 +9080,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Патрабуецца Ад</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -9090,32 +9090,32 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
         <source>Is the mod enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ўключаны мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
         <source>The name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
         <source>The version of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата і час апошняй змены (або дадання) гэтага мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пастаўшчык зыходнага кода мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>У якой асяроддзі запушчаны мод.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
@@ -9200,7 +9200,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Абраны Толькі перамыкач</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
@@ -9210,33 +9210,37 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="454"/>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацвердзіце ўключэнне</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Уключаныя моды патрабуюць %n мод.
+</numerusform>
+            <numerusform>Уключаныя моды патрабуюць %n моды.
+</numerusform>
+            <numerusform>Уключаныя моды патрабуюць %n модаў.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ці хацелі б вы ўключыць і іх?
+Ігнараванне іх можа прывесці да перапынення гульні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключыць толькі абраны</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Патрабуецца Ўключыць</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="460"/>
@@ -9247,17 +9251,21 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Адключаны мод патрэбны %n моду.
+</numerusform>
+            <numerusform>Адключаныя моды патрэбныя %n модам.
+</numerusform>
+            <numerusform>Адключаныя моды патрэбныя %n модам.
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ці хацелі б вы адключыць і іх таксама?
+Ігнараванне іх можа прывесці да прыпынку гульні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
