@@ -11036,7 +11036,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyl nainstalován žádný zavaděč modů. Zkuste to prosím znovu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
