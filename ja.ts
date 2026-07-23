@@ -6018,7 +6018,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation>システムの言語を使用する</translation>
+        <translation>システムの地域設定を使用する</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -10619,7 +10619,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod ローダーがインストールされませんでした。もう一度お試しください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
