@@ -6013,7 +6013,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>あなたの言語がない、または翻訳の質が低い場合は&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳にご協力ください！&lt;/a&gt;</translation>
+        <translation>言語が見つからない、または翻訳の質が低い場合は&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳にご協力ください&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -6488,7 +6488,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation>常にフォルダ名を変更しない</translation>
+        <translation>フォルダ名は変更しない</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
@@ -6607,7 +6607,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>最後に起動した順(&amp;B)</translation>
+        <translation>最終起動順(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
@@ -6987,7 +6987,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation>一般</translation>
+        <translation>全般</translation>
     </message>
 </context>
 <context>
@@ -9511,7 +9511,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation>一般</translation>
+        <translation>全般</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -16483,7 +16483,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
-        <translation>完成度</translation>
+        <translation>翻訳済み</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
