@@ -7661,7 +7661,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fayl Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
@@ -11143,7 +11143,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="246"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fayl Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
@@ -11284,7 +11284,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fayl Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="153"/>
@@ -12693,7 +12693,7 @@ inheritsFrom yoxdur</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fayl Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
