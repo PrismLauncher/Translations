@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatarkən yenilə</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -1951,17 +1951,17 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data paketinin həcmi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data paketinin fayl adı.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2154,7 +2154,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem artan yaddaş yüklənməsi altındadır.
+Bu, donmalara və ya yavaşlamalara səbəb ola bilər.
+Əgər mümkündürsə, davam etmədən əvvəl digər proqramları bağlayın.
+
+Yenə də başlat?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2163,22 +2167,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisteminiz kritik yaddaş yüklənməsi altındadır.
+Bu, ciddi yavaşlamalara, çökmələrə və ya sistem qeyri-sabitliyinə səbəb ola bilər.
+Digər tətbiqləri bağlamaq və ya sisteminizi yenidən başlatmaq tövsiyə olunur.
+
+Yenə də başlat?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüksək yaddaş yüklənməsi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem yüksək yaddaş yüklənməsi altındadır</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Az sərbəst yaddaş</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2188,7 +2196,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cari yaddaş tənzimləmələri ilə bu nüsxəni başlatmaq üçün kifayət qədər sərbəst RAM olmaya bilər.
+
+Maksimum ayrılmış: %1 MiB
+Sərbəst: %2 MiB (ümumi: %3 MiB)
+
+Yenə də başlat? Bu, oyununuzda və sisteminizdə yavaşlamalara səbəb ola bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -3564,12 +3577,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>İkon kategoriyası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>İkonları axtar...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -3578,22 +3591,22 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Modern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Köhnəlmiş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketləri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -4602,7 +4615,7 @@ Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemin regional standartlarını istifadə et</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -4833,26 +4846,30 @@ Demo versiyanı oynamaq istəyirsiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikasiya serverləri oflayndır.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft doğrulama serverləri hazırda əlçatmazdır, oflayn rejimdə başladılır.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>İnternet bağlantısı yoxdur</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Siz internetə qoşulmamısınız, oflayn rejimdə başladılır.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
