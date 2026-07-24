@@ -179,12 +179,12 @@
             "untranslated" : 1
         },
         "en_GB" : {
-            "file" : "4ce3e5b19c0da3f4d2e31a4fe6848b29e6130278.class",
-            "sha1" : "4ce3e5b19c0da3f4d2e31a4fe6848b29e6130278",
-            "size" : 328004,
-            "translated" : 2345,
+            "file" : "c83162e04b0f40a6154c655e92df690637c58a78.class",
+            "sha1" : "c83162e04b0f40a6154c655e92df690637c58a78",
+            "size" : 328184,
+            "translated" : 2346,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "en_NZ" : {
             "file" : "26806623f92f9da4a58bddcd874a169b28bde0d0.class",
@@ -398,8 +398,8 @@
             "file" : "a27211c000396e21e27e59cad061fb56fe380585.class",
             "sha1" : "a27211c000396e21e27e59cad061fb56fe380585",
             "size" : 269573,
-            "translated" : 2346,
-            "fuzzy" : 0,
+            "translated" : 2340,
+            "fuzzy" : 6,
             "untranslated" : 0
         },
         "ja_KANJI" : {
