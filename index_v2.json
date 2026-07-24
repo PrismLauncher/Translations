@@ -19,12 +19,12 @@
             "untranslated" : 272
         },
         "az" : {
-            "file" : "d1ddb188fcc5db2939b32b0b2b3ad221e74480ea.class",
-            "sha1" : "d1ddb188fcc5db2939b32b0b2b3ad221e74480ea",
-            "size" : 345841,
+            "file" : "1f7b3c710658bf687eda0778e6bffbbbcecebfc3.class",
+            "sha1" : "1f7b3c710658bf687eda0778e6bffbbbcecebfc3",
+            "size" : 346135,
             "translated" : 2301,
-            "fuzzy" : 28,
-            "untranslated" : 17
+            "fuzzy" : 32,
+            "untranslated" : 13
         },
         "azb" : {
             "file" : "1d0299385211211fdcd13e3c4151937e9f6e4c9a.class",
@@ -99,8 +99,8 @@
             "untranslated" : 2397
         },
         "cs" : {
-            "file" : "dd8a726911597cb49a4b12c63a35a14ac1191d2e.class",
-            "sha1" : "dd8a726911597cb49a4b12c63a35a14ac1191d2e",
+            "file" : "842e7f48da3ac9379af7c786efa25b02a68d07ed.class",
+            "sha1" : "842e7f48da3ac9379af7c786efa25b02a68d07ed",
             "size" : 337380,
             "translated" : 2346,
             "fuzzy" : 0,
@@ -395,9 +395,9 @@
             "untranslated" : 1
         },
         "ja" : {
-            "file" : "a27211c000396e21e27e59cad061fb56fe380585.class",
-            "sha1" : "a27211c000396e21e27e59cad061fb56fe380585",
-            "size" : 269573,
+            "file" : "ea8c4a667a9b65cb0233c64ea4e3a49d8aebb27b.class",
+            "sha1" : "ea8c4a667a9b65cb0233c64ea4e3a49d8aebb27b",
+            "size" : 269485,
             "translated" : 2340,
             "fuzzy" : 6,
             "untranslated" : 0
@@ -443,12 +443,12 @@
             "untranslated" : 1763
         },
         "ko" : {
-            "file" : "a98f5b0df924e554f6d4073a07b6822f60018fa9.class",
-            "sha1" : "a98f5b0df924e554f6d4073a07b6822f60018fa9",
-            "size" : 266313,
-            "translated" : 2345,
+            "file" : "402fb8c12a8ca3345efdf8b94ab24b089dbfffcc.class",
+            "sha1" : "402fb8c12a8ca3345efdf8b94ab24b089dbfffcc",
+            "size" : 266463,
+            "translated" : 2346,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "kxm" : {
             "file" : "ec6b6114a23b20f6d0c957da77ead9a2bb20d24a.class",
