@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebinサービス (&amp;P)</translation>
+        <translation>ペーストサービス (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>ベースURL (&amp;U)</translation>
+        <translation>ベース URL (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>デフォルトを使う</translation>
+        <translation>デフォルトを使用</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注: ペーストサービスの種類を変更した後は、ベースURLの変更または消去が必要な場合があります。</translation>
+        <translation>注: ペーストサービスの種類を変更した後は、ベース URL の変更または消去が必要になる場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -49,17 +49,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>アセットのダウンロードで問題が起きる場合は、ここを別のサーバーに設定してね。</translation>
+        <translation>アセットのダウンロードに問題がある場合は、別のサーバーを指定できます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>レガシーFMLライブラリサーバーだよ。</translation>
+        <translation>レガシー FML ライブラリサーバー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>レガシーFMLライブラリ、つまりマイクラ1.5.2以前のファイルのダウンロードで問題が起きる場合は、ここを別のサーバーに設定してね。</translation>
+        <translation>レガシー FML ライブラリ (Minecraft 1.5.2 以前) のダウンロードに問題がある場合は、別のサーバーを指定できます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -70,7 +70,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>Microsoftの認証 (&amp;M)</translation>
+        <translation>Microsoft 認証 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>ブロックされたModの代替としてModrinthを使用する</translation>
+        <translation>ブロックされた Mod を Modrinth から取得する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注: Microsoft認証によるログインがすでに機能している場合は、設定する必要はありません。</translation>
+        <translation>注意: Microsoft 認証で問題なくログインできている場合、この設定は基本的に不要です。</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -139,7 +139,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注: 個人データにアクセスする場合にのみ、設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: この設定は、非公開データにアクセスする場合にのみ必要です。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -157,7 +157,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>カスタムユーザーエージェントをここに入力してください。特殊な文字列 $LAUNCHER_VER はランチャーのバージョンに置き換えられます。</translation>
+        <translation>カスタムユーザーエージェントを入力してください。$LAUNCHER_VER はランチャーのバージョンに置き換えられます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>サードパーティのメタデータサーバーを設定することで、パッチを適用したライブラリやその他のハックを使用することができます。</translation>
+        <translation>パッチ適用済みのライブラリやその他の改変を使用する場合は、サードパーティーのメタデータサーバーを指定できます。</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -181,7 +181,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注: 個人データにアクセスする場合にのみ、設定する必要があります。詳細については &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt; をご覧ください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: この設定は、非公開データにアクセスする場合にのみ必要です。詳しくは&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;ドキュメント&lt;/a&gt;を参照してください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -190,7 +190,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注: CurseForgeがすでに機能している場合は、設定する必要はありません。</translation>
+        <translation>注意: CurseForge を問題なく利用できている場合、この設定は基本的に不要です。</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -801,24 +801,24 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>猫パックのフォルダーを開く。</translation>
+        <translation>猫パックのフォルダを開く。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>フォルダーを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>ウィジェットテーマのフォルダーを開く。</translation>
+        <translation>ウィジェットテーマのフォルダを開く。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>アイコンテーマのフォルダーを開く。</translation>
+        <translation>アイコンテーマのフォルダを開く。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -1744,7 +1744,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>これを無効にした場合、Modローダー（例: Fabric、Quiltなど）は保持されますが、modsフォルダーとその設定は消去されます。</translation>
+        <translation>これを無効にした場合、Modローダー（例: Fabric、Quiltなど）は保持されますが、modsフォルダとその設定は消去されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1794,7 +1794,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>フォルダー全体ではなく、個別のファイルにリンクを作成する</translation>
+        <translation>フォルダ全体ではなく、個別のファイルにリンクを作成する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -3265,7 +3265,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>%1 個の項目を削除しようとしています。
-これは元に戻せない可能性があり、項目はフォルダーから削除されます。
+これは元に戻せない可能性があり、項目はフォルダから削除されます。
 
 本当に削除しますか？</translation>
     </message>
@@ -3275,8 +3275,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>「%1」フォルダーを削除しようとしています。
-これは元に戻せない可能性があり、フォルダーは親フォルダーから削除されます。
+        <translation>「%1」フォルダを削除しようとしています。
+これは元に戻せない可能性があり、フォルダは親フォルダから削除されます。
 
 本当に削除しますか？</translation>
     </message>
@@ -3391,7 +3391,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
-        <translation>JProfiler フォルダー</translation>
+        <translation>JProfiler フォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
@@ -3468,7 +3468,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation>MCEdit フォルダー</translation>
+        <translation>MCEdit フォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
@@ -3653,7 +3653,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>FTBApp起動構成フォルダーを選択</translation>
+        <translation>FTBApp起動構成フォルダを選択</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
@@ -4369,7 +4369,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="167"/>
         <source>Open Folder</source>
-        <translation>フォルダーを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="202"/>
@@ -6936,7 +6936,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="161"/>
         <source>Downloads Folder</source>
-        <translation>ダウンロードフォルダー</translation>
+        <translation>ダウンロードフォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="171"/>
@@ -6946,7 +6946,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="181"/>
         <source>Skins Folder</source>
-        <translation>スキンのフォルダー</translation>
+        <translation>スキンのフォルダ</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -7539,7 +7539,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation>フォルダーが存在していません</translation>
+        <translation>フォルダが存在していません</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
@@ -8156,7 +8156,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>ファイルブラウザでウィジェットのテーマフォルダを開きます。</translation>
+        <translation>ファイルブラウザでウィジェットテーマフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
@@ -8166,7 +8166,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>ファイルブラウザでアイコンのテーマフォルダを開きます。</translation>
+        <translation>ファイルブラウザでアイコンテーマフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -10097,7 +10097,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
-        <translation>フォルダー</translation>
+        <translation>フォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="101"/>
@@ -12367,7 +12367,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="186"/>
         <source>The launcher data folder is not writable!</source>
-        <translation>ランチャーデータのフォルダーに書き込むことはできません！</translation>
+        <translation>ランチャーデータのフォルダに書き込むことはできません！</translation>
     </message>
     <message>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
@@ -13736,7 +13736,7 @@ Would you like to remove those existing saves as part of this update?</source>
 
 Old name: %1
 New name: %2</source>
-        <translation>起動構成のフォルダー名も変更しますか？
+        <translation>起動構成のフォルダ名も変更しますか？
 
 変更前: %1
 変更後: %2</translation>
@@ -15019,7 +15019,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <source>View Folder</source>
-        <translation>フォルダーを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
@@ -15133,7 +15133,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>%1枚のスクリーンショットを削除しようとしています。
-これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
+これは元に戻せない可能性があり、スクリーンショットはフォルダから削除されます。
 
 本当に削除しますか？</translation>
     </message>
@@ -15144,7 +15144,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>選択したスクリーンショットを削除しようとしています。
-これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
+これは元に戻せない可能性があり、スクリーンショットはフォルダから削除されます。
 
 本当に削除しますか？</translation>
     </message>
@@ -15612,7 +15612,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation>フォルダーを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="117"/>
@@ -17550,7 +17550,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>View Folder</source>
-        <translation>フォルダーを開く</translation>
+        <translation>フォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
