@@ -6013,7 +6013,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>言語が見つからない、または翻訳の質が低い場合は&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳にご協力ください&lt;/a&gt;</translation>
+        <translation>お使いの言語が見つからない場合や、翻訳に改善の余地がある場合は、&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳にご協力ください&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -6607,12 +6607,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>最終起動順 (&amp;L)</translation>
+        <translation>最終起動順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>名前順 (&amp;N)</translation>
+        <translation>名前順</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -16488,12 +16488,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
-        <translation>母国語での言語名。</translation>
+        <translation>その言語で表記した言語名です。</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>完成度は、完全に翻訳された文字列の割合です。自動的に推測されて要確認になっている文字列は含まれません。</translation>
+        <translation>完全に翻訳済みの文字列が占める割合です。自動推測された文字列は含まれません。</translation>
     </message>
 </context>
 <context>
