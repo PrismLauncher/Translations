@@ -5466,7 +5466,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation>Nainstalovat Java</translation>
+        <translation>Nainstalovat Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
