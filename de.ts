@@ -5336,7 +5336,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Klicke „Instanz erstellen&quot;, um anzufangen.</translation>
+        <translation>Klicke „Instanz erstellen“ um anzufangen.</translation>
     </message>
 </context>
 <context>
@@ -11095,7 +11095,7 @@ Bist du sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es wurde kein Mod-Loader installiert. Bitte versuchen Sie es erneut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
