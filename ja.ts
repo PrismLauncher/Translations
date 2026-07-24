@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebinサービス</translation>
+        <translation>Pastebinサービス (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>起動時にリフレッシュしてね。</translation>
+        <translation>起動時に再読み込み</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -2098,7 +2098,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID（フォルダー名）&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftのフォルダーの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ（警告: 引数にスペースが含まれていると正しく機能しません）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム（Linux の「optirun」など）を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;どちらもランチャーの作業フォルダで実行され、以下の環境変数を使用できます:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID (フォルダ名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft の絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン引数 (警告: 引数にスペースが含まれる場合は正しく動作しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラッパーコマンドを使用すると、別のラッパープログラム (Linux の &apos;optirun&apos; など) を介して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -7387,22 +7387,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation>更新し続ける</translation>
+        <translation>自動更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation>行を折り返し</translation>
+        <translation>行を折り返す</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation>行に色を付ける</translation>
+        <translation>行を色分けする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>クリップボードにログ全体をコピーします</translation>
+        <translation>ログ全体をクリップボードにコピーします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -7413,7 +7413,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>設定されたペーストサービスにログをアップロードします</translation>
+        <translation>設定で指定したペーストサービスにログをアップロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -7447,12 +7447,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation>一番下までスクロール</translation>
+        <translation>最下部までスクロールします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation>一番下へ</translation>
+        <translation>最下部へ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
@@ -11659,17 +11659,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation>一番下までスクロール</translation>
+        <translation>最下部までスクロールします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation>最下部 (&amp;B)</translation>
+        <translation>最下部へ (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation>選択中のログを削除します</translation>
+        <translation>選択したログを削除します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
@@ -11694,12 +11694,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation>行を折り返し</translation>
+        <translation>行を折り返す</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation>行に色を付ける</translation>
+        <translation>行を色分けする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -11714,7 +11714,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>設定されたペーストサービスにログをアップロードします</translation>
+        <translation>設定で指定したペーストサービスにログをアップロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
