@@ -1356,7 +1356,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Javaの自動管理システムは32bit版のJavaを検出しました。</translation>
+        <translation type="unfinished">Javaの自動管理システムは32bit版のJavaを検出しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -5823,7 +5823,7 @@ Javaのバージョンは後で設定で変更できます。
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>32bit版のJavaを選択しました。
+        <translation type="unfinished">32bit版のJavaを選択しました。
 32bit版のJavaは2048MiB以上のメモリ割り当てをサポートしていません。
 最大メモリ割り当て量が2048MiBより低いことを確認してください。</translation>
     </message>
@@ -5887,7 +5887,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation>32bit版のJavaが検出されました</translation>
+        <translation type="unfinished">32bit版のJavaが検出されました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5897,7 +5897,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>32bitのJavaを選択しましたが、最大メモリとして2048MiB以上を割り当てました。
+        <translation type="unfinished">32bitのJavaを選択しましたが、最大メモリとして2048MiB以上を割り当てました。
 %1 はMinecraftを起動できません。
 続行しますか？
 
@@ -5997,7 +5997,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
+        <translation type="unfinished">32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
     </message>
 </context>
 <context>
@@ -16689,7 +16689,7 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation>最大メモリ割り当て量がサポートされている値を超えています。
+        <translation type="unfinished">最大メモリ割り当て量がサポートされている値を超えています。
 選択されたJavaは32bit版なので、2048MiBを超えるRAMをサポートしていません。
 このため、起動構成が起動しない可能性があります。</translation>
     </message>
