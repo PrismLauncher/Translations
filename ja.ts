@@ -8032,12 +8032,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
-        <translation>Matrixスペース (&amp;M)</translation>
+        <translation>Matrix スペース (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
-        <translation>Discordサーバー (&amp;D)</translation>
+        <translation>Discord サーバー (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
@@ -8047,7 +8047,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;About %1</source>
-        <translation>%1について (&amp;A)</translation>
+        <translation>%1 について (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
@@ -8373,7 +8373,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
-        <translation>%1のWiki (&amp;W)</translation>
+        <translation>%1 のWiki (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
