@@ -375,7 +375,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation>%1 ついて</translation>
+        <translation>%1 について</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
