@@ -1356,7 +1356,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished">Javaの自動管理システムは32bit版のJavaを検出しました。</translation>
+        <translation>Java の自動検出機能が 32 ビット版の Java を検出しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -5823,9 +5823,9 @@ Javaのバージョンは後で設定で変更できます。
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">32bit版のJavaを選択しました。
-32bit版のJavaは2048MiB以上のメモリ割り当てをサポートしていません。
-最大メモリ割り当て量が2048MiBより低いことを確認してください。</translation>
+        <translation>32 ビット版の Java を選択しました。
+この Java は 2048 MiB を超えるメモリをサポートしていません。
+最大メモリ割り当て量を 2048 MiB 以下に設定してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
@@ -5887,7 +5887,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">32bit版のJavaが検出されました</translation>
+        <translation>32 ビット版の Java を検出しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -5897,11 +5897,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">32bitのJavaを選択しましたが、最大メモリとして2048MiB以上を割り当てました。
-%1 はMinecraftを起動できません。
+        <translation>32 ビット版の Java を選択しましたが、最大メモリ割り当て量に 2048 MiB を超える値を設定しています。
+%1 は Minecraft を起動できません。
 続行しますか？
 
-Javaのバージョンは後で設定で変更できます。
+Java のバージョンは後から設定で変更できます。
 </translation>
     </message>
     <message>
@@ -5997,7 +5997,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">32bit版のJavaでサポートされる最大割り当てを超過しています。</translation>
+        <translation>32 ビット版の Java がサポートする最大メモリ割り当て量を超えています。</translation>
     </message>
 </context>
 <context>
@@ -16689,8 +16689,8 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished">最大メモリ割り当て量がサポートされている値を超えています。
-選択されたJavaは32bit版なので、2048MiBを超えるRAMをサポートしていません。
+        <translation>最大メモリ割り当て量がサポートされている上限を超えています。
+選択した Java は 32 ビット版で、2048 MiB を超えるメモリをサポートしていません。
 このため、起動構成が起動しない可能性があります。</translation>
     </message>
     <message>
@@ -17712,7 +17712,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation>%1サービスへのアクセス許可を取得中。</translation>
+        <translation>%1 サービスへのアクセス許可を取得しています。</translation>
     </message>
     <message>
         <source>Failed to get authorization for %1 services. Error %2.</source>
@@ -17722,22 +17722,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation>%1 サービスの不明な STS エラー: %2</translation>
+        <translation>%1 サービスで不明な STS エラーが発生しました: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>%1サービスのアクセス許可を取得できませんでした: %2</translation>
+        <translation>%1 サービスへのアクセス許可を取得できませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation>%1サービスへのアクセス許可のレスポンスを解析できませんでした。</translation>
+        <translation>%1 サービスへのアクセス許可の応答を解析できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>サーバーが応答内の %1 アクセス許可ユーザーハッシュを変更しました。何か問題があります。</translation>
+        <translation>サーバーが応答内で、%1 のアクセス許可に使用するユーザーハッシュを変更しました。何らかの問題が発生しています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
@@ -17747,22 +17747,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>%1アクセス許可のエラーレスポンスをJSONとして解析できません: %2</translation>
+        <translation>%1 のアクセス許可エラーの応答を JSON として解析できません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation>%1アクセス許可のエラーレスポンスにXErr要素がありません。</translation>
+        <translation>%1 のアクセス許可エラーの応答に XErr 要素がありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation>このMicrosoftアカウントにはXbox Liveプロフィールがありません。まず %1 でゲームを購入してください。</translation>
+        <translation>この Microsoft アカウントには Xbox Live プロフィールがありません。まず %1 でゲームを購入してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Liveは、お住まいの国ではご利用いただけません。あなたはブロックされています。</translation>
+        <translation>お住まいの国では Xbox Live を利用できません。アクセスがブロックされています。</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
@@ -17777,34 +17777,34 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>この Microsoft アカウントは未成年であり、ファミリーに関連付けられていません。
+        <translation>この Microsoft アカウントは未成年者のもので、ファミリーに関連付けられていません。
 
 %1 に従ってアカウントを設定してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation>このMicrosoftアカウントでプレイするには年齢の証明が必要です。年齢を証明するには %1 にログインしてください。</translation>
+        <translation>この Microsoft アカウントでプレイするには年齢確認が必要です。%1 にログインして年齢を確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation>このMicrosoftアカウントはプレイ時間の上限に達しました。このMicrosoftアカウントへのログインはブロックされています。</translation>
+        <translation>この Microsoft アカウントはプレイ時間の上限に達しています。この Microsoft アカウントでのログインはブロックされています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation>このMicrosoftアカウントはXboxのコミュニティ基準に1つ以上違反したため、Xboxによって停止されており、使用できません。</translation>
+        <translation>この Microsoft アカウントは、1 つ以上の Xbox コミュニティ規範に違反したため Xbox によって利用を禁止されており、使用できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>このMicrosoftアカウントは現在制限されており、保護者がオンラインプレイの許可を与えていません。%1 にログインして、保護者に許可を変更してもらってください。</translation>
+        <translation>この Microsoft アカウントは現在制限されており、保護者からオンラインプレイの許可を得ていません。%1 にログインし、保護者にアクセス許可を変更してもらってください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>このMicrosoftアカウントはXboxの利用規約に同意していません。ログインして同意してください。</translation>
+        <translation>この Microsoft アカウントは Xbox の利用規約に同意していません。ログインして同意してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
@@ -17836,18 +17836,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Xboxユーザーとしてログイン中。</translation>
+        <translation>Xbox ユーザーとしてログインしています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation>Xboxユーザー認証に失敗しました: %1</translation>
+        <translation>Xbox ユーザーの認証に失敗しました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation>Xboxユーザー認証のレスポンスを解析できませんでした。</translation>
+        <translation>Xbox ユーザー認証の応答を解釈できませんでした。</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
@@ -17860,7 +17860,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation>Xboxユーザートークンを取得しました</translation>
+        <translation>Xbox ユーザートークンを取得しました</translation>
     </message>
 </context>
 <context>
