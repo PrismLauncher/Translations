@@ -13723,14 +13723,16 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のフォルダ名を変更できません</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成の実行中は、起動構成のフォルダ名を変更できません。
+
+起動構成の名前のみが変更され、フォルダ名は現在のままになります。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
