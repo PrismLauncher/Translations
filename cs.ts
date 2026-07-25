@@ -14325,14 +14325,16 @@ Chcete odstranit tyto existující soubory jako součást této aktualizace?</tr
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přejmenovat složku instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Složku instance není možné přejmenovat, když instance běží.
+
+Bude změněn pouze název instance. Název složky zůstane nezměněn.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
