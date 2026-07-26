@@ -1946,12 +1946,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在複製世界…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>複製世界失敗。</translation>
     </message>
 </context>
 <context>
@@ -2498,12 +2498,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在刪除世界…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除世界失敗。</translation>
     </message>
 </context>
 <context>
@@ -4737,12 +4737,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在匯入世界…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入世界失敗。</translation>
     </message>
 </context>
 <context>
@@ -5366,7 +5366,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>重新啟動(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
