@@ -1966,7 +1966,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation>世界复制失败。</translation>
+        <translation>无法复制世界。</translation>
     </message>
 </context>
 <context>
@@ -2518,7 +2518,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation>世界删除失败。</translation>
+        <translation>无法删除世界。</translation>
     </message>
 </context>
 <context>
@@ -4749,7 +4749,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation>世界导入失败。</translation>
+        <translation>无法导入世界。</translation>
     </message>
 </context>
 <context>
@@ -5574,7 +5574,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>查找Java可执行文件路径失败</translation>
+        <translation>查找 Java 可执行文件路径失败</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
