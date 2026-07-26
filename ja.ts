@@ -1918,12 +1918,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドをコピー中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドのコピーに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -2470,12 +2470,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドを削除中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドの削除に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -4645,12 +4645,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドをインポート中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドのインポートに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -5212,12 +5212,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>再起動(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>実行中の起動構成を再起動します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -8101,7 +8101,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation>更新…(&amp;U)</translation>
+        <translation>更新(&amp;U)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
