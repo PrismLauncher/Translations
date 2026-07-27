@@ -669,13 +669,13 @@ Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft he
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Hoşgeldin!
-Eğer burada yeni isen, &quot;Microsoft Ekle&quot; butonu ile Microsoft hesabını ilişkilendirebilirsin.</translation>
+        <translation>Hoş geldin!
+Eğer burada yeniysen, &quot;Microsoft Ekle&quot; butonu ile Microsoft hesabını ilişkilendirebilirsin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Hiç Microsoft Doğrulama istemci kimliği ayarlanmadı.</translation>
+        <translation>Hiçbir Microsoft Doğrulama istemci kimliği ayarlanmadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -817,7 +817,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation>Dış Görünüş</translation>
+        <translation>Görünüm</translation>
     </message>
 </context>
 <context>
@@ -862,7 +862,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;İkonlar:</translation>
+        <translation>&amp;Simgeler:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -912,32 +912,32 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[ERROR] OOoooOOOoooo! Korkunç bir hata!</translation>
+        <translation>[HATA] OOoooOOOoooo! Korkunç bir hata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[ERROR] Ürkütücü bir hata!</translation>
+        <translation>[HATA] Ürkütücü bir hata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[INFO] Zararsız bir mesaj...</translation>
+        <translation>[BİLGİ] Zararsız bir mesaj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="267"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[WARN] Çok da korkunç olmayan bir uyarı.</translation>
+        <translation>[UYARI] Çok da korkunç olmayan bir uyarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] Gizli bir hata ayıklama mesajı...</translation>
+        <translation>[HATA AYIKLAMA] Gizli bir hata ayıklama mesajı...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Korkunç bir kritik hata!</translation>
+        <translation>[KRİTİK] Korkunç bir kritik hata!</translation>
     </message>
 </context>
 <context>
@@ -6682,7 +6682,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation>Asla folder&apos;ı yeniden adlandırmayın</translation>
+        <translation>Klasörü asla yeniden adlandırma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
@@ -6752,7 +6752,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
         <source>Log History &amp;Limit:</source>
-        <translation>Günlük Geçmişi &amp;Sınır:</translation>
+        <translation>Günlük Geçmiş &amp;Sınırı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="539"/>
@@ -7042,7 +7042,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Engellenen modlar için &amp;subfolders&apos;ı kontrol et</translation>
+        <translation>Engellenen modlar için &amp;alt klasörleri kontrol et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
@@ -7132,7 +7132,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source> lines</source>
-        <translation> satırlar</translation>
+        <translation> satır</translation>
     </message>
     <message>
         <source>Console &amp;font</source>
@@ -9942,12 +9942,12 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation>Ana oyun sadece çözünürlüğü destekler. Büyütülmüş (maksimize edilmiş) davranışı simüle etmek için mevcut uygulama, maksimum ekran boyutunu yaklaşık olarak hesaplar.</translation>
+        <translation>Ana oyun sadece çözünürlüğü destekler. Büyütülmüş davranışı taklit etmek için mevcut uygulama, maksimum ekran boyutunu yaklaşık olarak hesaplar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>Oyun penceresi kapandıktan sonra başlatıcıdan çıkın</translation>
+        <translation>Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
@@ -10042,7 +10042,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="635"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık çalışmayan eski çevrimiçi hizmetlerin kullanımlarını taklit eder.&lt;/p&gt;&lt;p&gt;Şuan ki düzeltmeler şunları içerir: dış görünüş ve çevrimiçi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Artık çalışmayan eski çevrim içi hizmetlerin kullanımlarını taklit eder.&lt;/p&gt;&lt;p&gt;Şu anki düzeltmeler şunları içerir: dış görünüş ve çevrim içi mod desteği.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="638"/>
@@ -10057,7 +10057,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Sisteme kurulu OpenAL2ı kullan</translation>
+        <translation>OpenAL sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -10066,7 +10066,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
-        <translation>Sisteme kurulu GLFW&apos;i kullan</translation>
+        <translation>GLFW sistem kurulumunu kullan</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -10090,7 +10090,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation>pikseller</translation>
+        <translation>piksel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
