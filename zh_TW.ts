@@ -5371,7 +5371,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>重新啟動正在執行的實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -14403,14 +14403,16 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>無法重新命名實例資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>實例在運行時，無法實例資料夾重新命名。
+
+僅會變更實例名稱，資料夾將保留目前名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
