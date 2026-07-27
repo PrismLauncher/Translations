@@ -14422,9 +14422,9 @@ Would you like to remove those existing saves as part of this update?</source>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation>实例文件夹无法在运行中重命名。
+        <translation>实例处于运行状态时无法重命名该实例的文件夹。
 
-仅会更改实例名称，文件夹名称将会保留。</translation>
+仅会更改实例名称，文件夹名称将会保持不变。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
