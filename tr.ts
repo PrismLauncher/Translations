@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Engllenen modlar için Modrinth&apos;i kullanmaya izin ver</translation>
+        <translation>Engellenen modlar için Modrinth&apos;e geçişi etkinleştir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -4732,12 +4732,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya içe aktarılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya aktarımı başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -4779,13 +4779,13 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>Yeni bir profil oluşturulurken hatayla karşılaşıldı:
- %1</translation>
+        <translation>Yeni profil oluşturulurken hatayla karşılaşıldı:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
         <source>Error while creating new instance.</source>
-        <translation>Yeni profil yaratılırken hata.</translation>
+        <translation>Yeni profil oluşturulurken hatayla karşılaşıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
@@ -5436,7 +5436,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation>Java ayıklanıyor</translation>
+        <translation>Java Çıkarılıyor</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5873,7 +5873,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>Oto indir&amp;Mojang java</translation>
+        <translation>&amp;Mojang Java&apos;yı otomatik indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -5918,7 +5918,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>Java &amp;Çalıştırılabilir dosya</translation>
+        <translation>Java &amp;Çalıştırılabilir Dosyası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -9974,7 +9974,7 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>Oyun &amp;Zamanı</translation>
+        <translation>Oyun &amp;Süresi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
