@@ -2145,13 +2145,13 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="99"/>
         <source>&amp;Wrapper Command</source>
-        <translation>&amp;Paketleyici Komutu</translation>
+        <translation>&amp;Wrapper Komutu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Başlangıç komutları profil çalıştırılmadan önce, çıkış komutları ise oyun kapatıldıktan sonra çalıştırılacaktır.&lt;/p&gt;&lt;p&gt;Her ikisi de başlatıcının kaynak dosyalarında ekstra olarak yer alacaktır:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Profilin adı&lt;/li&gt;&lt;li&gt;$INST_ID - Profilin ID&apos;si (klasörünün ismi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Profilin mutlak konumu&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ın konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA - Çalıştırmak için kullanılan Java konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Komut satırı paremetreleriBaşlangıç için kullanılan komut satırı paremetreleri(uyarı:argümanlar boşluk içerirse doğru çalışmaz)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper komutları ekstra ara programlar (Linux üzerindeki &apos;optirun&apos; gibi) kullanmanıza olanak sağlar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Başlangıç komutları profil çalıştırılmadan önce, çıkış komutları ise oyun kapatıldıktan sonra çalıştırılacaktır.&lt;/p&gt;&lt;p&gt;Her ikisi de başlatıcının kaynak dosyalarında ekstra olarak yer alacaktır:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Profilin adı&lt;/li&gt;&lt;li&gt;$INST_ID - Profilin ID&apos;si (klasörünün ismi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Profilin tam konumu&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ın tam konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA - Çalıştırmak için kullanılan Java konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Başlatmak için kullanılan komut satırı paremetreleri (uyarı: argümanlar boşluk içerirse doğru çalışmaz)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper komutları ekstra ara programlar (Linux üzerindeki &apos;optirun&apos; gibi) kullanmanıza olanak sağlar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -4846,7 +4846,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Arşiv, anlaşılabilir bir mod paket türü içermiyor.</translation>
+        <translation>Arşiv, bilinen bir mod paketi türü içermiyor.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4954,7 +4954,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
-        <translation>%1 Profili</translation>
+        <translation>%1 Profil</translation>
     </message>
 </context>
 <context>
@@ -5319,7 +5319,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation>Hoşgeldiniz!</translation>
+        <translation>Hoş geldiniz!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
@@ -5347,12 +5347,12 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yeniden Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışan profili yeniden başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -5485,7 +5485,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation>Tembel Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -5500,18 +5500,18 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation>IBM Semeru aç</translation>
+        <translation>IBM Semeru&apos;yu aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="333"/>
         <source>Install Java</source>
-        <translation>Java Yükle</translation>
+        <translation>Java&apos;yı Yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="327"/>
         <source>Could not determine Java download type!</source>
-        <translation>Java indirme tipi belirlenemedi!</translation>
+        <translation>Java indirme türü belirlenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
@@ -5522,7 +5522,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation>İptal etmek</translation>
+        <translation>İptal Et</translation>
     </message>
 </context>
 <context>
@@ -5553,12 +5553,12 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Klasörler sembolik bağlantıya toplanıyor</translation>
+        <translation>Klasörler kısayol bağlantısına toplanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Java yolu sembolik bağlanıyor</translation>
+        <translation>Java yoluna kısayol bağlantısı oluşturuluyor</translation>
     </message>
 </context>
 <context>
@@ -5703,7 +5703,7 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation>Hiçbir yönetilen Java sürümü yüklü değil</translation>
+        <translation>Yönetilen hiçbir Java sürümü yüklü değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -5827,7 +5827,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>Find Java executable</source>
-        <translation>Çalıştırılabilir Java&apos;yı bul</translation>
+        <translation>Çalıştırılabilir Java dosyasını bul</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5836,7 +5836,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="266"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
+        <translation>Minecraft&apos;ın kullanabileceği maksimum bellek miktarı.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5868,7 +5868,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>Mojang tarafından önerilen java sürümünü otomatik olarak bulur ve indirir.</translation>
+        <translation>Mojang tarafından önerilen Java sürümünü otomatik olarak indirir ve seçer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
@@ -5878,7 +5878,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Eğer etkinleştirilirse Prism Launcher, (başlangıçta bulunmadığı hâlde) bir Java sürümü seçmenizi istemeyecek.</translation>
+        <translation>Eğer etkinleştirilirse Prism Launcher, başlangıçta bulunmadığı takdirde sizden bir Java sürümü seçmenizi istemeyecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
@@ -5898,7 +5898,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation>&amp;Gözat</translation>
+        <translation>&amp;Göz At</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
@@ -5908,12 +5908,12 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation>Java İndiricisi&apos;ni aç</translation>
+        <translation>Java İndiricisini Aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Java uyumluluk kontrollerini geç</translation>
+        <translation>Java uyumluluk kontrollerini atla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -5928,7 +5928,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
-        <translation>Yeteri kadar bellek olmadığında uyar</translation>
+        <translation>Yeterli bellek kalmadığında uyar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
@@ -5956,12 +5956,12 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft başlayınca ayrılacak olan hafıza.</translation>
+        <translation>Minecraft başlatılırken kullanılan bellek miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="297"/>
         <source>&amp;PermGen Size:</source>
-        <translation>&amp;PermGne Büyüklüğü:</translation>
+        <translation>&amp;PermGen Boyutu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="239"/>
@@ -5986,7 +5986,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="315"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Yüklü Java class&apos;ları için ayrılan hafıza miktarı.</translation>
+        <translation>Yüklenen Java sınıflarını saklamak için kullanılabilir bellek miktarı.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -6021,22 +6021,22 @@ This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>32-bitlik bir Java sürümü seçtiniz.
 Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
-Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
+Lütfen maksimum bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
+        <translation>Seçtiğiniz maksimum bellek tahsisi, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>Maksimum bellek tahsisi sistem belleği kapasitenize yakın.</translation>
+        <translation>Maksimum bellek tahsisiniz sistem belleği kapasitenize yakın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>Maksimum bellek tahsisi, minimum bellek tahsisinin altında.</translation>
+        <translation>Maksimum bellek tahsisiniz minimum bellek tahsisinin altında.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6093,7 +6093,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
+        <translation>32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla maksimum bellek ayırdınız.
 %1 Minecraft&apos;ı başlatamayacak.
 Devam etmek istiyor musunuz?
 
@@ -6103,7 +6103,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation>Herhangi bir Java sürümü seçilmedi</translation>
+        <translation>Hiçbir Java sürümü seçilmedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -6115,7 +6115,7 @@ You can change the Java version in the settings later.
 </source>
         <translation>Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
 %1 Minecraft&apos;ı başlatamayacak.
-İşlevsel bir Java sürümü olmadan devam etmek istiyor musunuz?
+Çalışan bir Java sürümü olmadan devam etmek istiyor musunuz?
 
 Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
 </translation>
@@ -6123,37 +6123,37 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
-        <translation>Java Çalıştırılabilirini bul</translation>
+        <translation>Java çalıştırılabilir dosyasını bul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
-        <translation>Hafıza</translation>
+        <translation>Bellek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft&apos;ın kullanabileceği en yüksek hafıza miktarı.</translation>
+        <translation>Minecraft&apos;ın kullanabileceği maksimum bellek miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation>En düşük hafıza paylaşımı:</translation>
+        <translation>Minimum bellek tahsisi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation>En yüksek hafıza paylaşımı:</translation>
+        <translation>Maksimum bellek tahsisi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftın Başladığı hafıza miktarı.</translation>
+        <translation>Minecraft başlatılacağı bellek miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Yüklü Java class&apos;larını tutmaya müsait olan hafıza miktarı.</translation>
+        <translation>Yüklenen Java sınıflarını saklamak için kullanılabilir bellek miktarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
@@ -6163,7 +6163,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Mojang java&apos;yı otomatik indir</translation>
+        <translation>Mojang Java&apos;yı otomatik indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
@@ -6178,7 +6178,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Seçtiğiniz maksimum bellek ataması, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
+        <translation>Seçtiğiniz maksimum bellek tahsisi, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
@@ -6193,7 +6193,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>32-bit Java yüklemeleri tarafından desteklenen azami bellek ataması sınırını aşıyorsunuz.</translation>
+        <translation>32-bit Java yüklemeleri tarafından desteklenen maksimum bellek tahsisi sınırını aşıyorsunuz.</translation>
     </message>
 </context>
 <context>
@@ -6209,7 +6209,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Dil mevcut değil veya kalitesiz mi?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Çevirilerde bize yardım et!&lt;/a&gt;</translation>
+        <translation>Dilinizi göremiyor musunuz veya çeviri kalitesi kötü mü?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Çevirilerde bize yardım edin!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
@@ -6297,7 +6297,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
-        <translation>Oyuncu ismi</translation>
+        <translation>Oyuncu adı</translation>
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
@@ -6334,7 +6334,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>İptal Et</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
