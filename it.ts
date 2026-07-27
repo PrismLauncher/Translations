@@ -52,7 +52,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Server per le risorse</translation>
+        <translation>Risorse per il server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
@@ -1950,12 +1950,12 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando il mondo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -2502,12 +2502,12 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancellando il mondo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -4733,12 +4733,12 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione del mondo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -5336,12 +5336,12 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riavvia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavvia l&apos;istanza in esecuzione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -11001,7 +11001,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun mod loader installato. Per favore, riprova più tardi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
@@ -14253,14 +14253,16 @@ Vuoi eliminare quei salvataggi esistenti durante questo aggiornamento?</translat
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile rinominare la cartella dell&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile rinominare la cartella dell&apos;istanza mentre questa è in esecuzione.
+
+Verrà modificato solo il nome visualizzato dell&apos;istanza. La cartella manterrà il nome attuale.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
