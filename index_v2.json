@@ -67,12 +67,12 @@
             "untranslated" : 419
         },
         "ca@valencia" : {
-            "file" : "541f687b3c3243aa7c7a35fbfa6aa852645d71ee.class",
-            "sha1" : "541f687b3c3243aa7c7a35fbfa6aa852645d71ee",
-            "size" : 13022,
-            "translated" : 89,
-            "fuzzy" : 0,
-            "untranslated" : 2265
+            "file" : "c0ab4d63108c9646f92fda367926ea05bff1db15.class",
+            "sha1" : "c0ab4d63108c9646f92fda367926ea05bff1db15",
+            "size" : 15501,
+            "translated" : 105,
+            "fuzzy" : 1,
+            "untranslated" : 2248
         },
         "ceb" : {
             "file" : "ff8dddaed861e2b8c89886e583e5c06b9f35dc1a.class",
@@ -371,9 +371,9 @@
             "untranslated" : 2181
         },
         "id" : {
-            "file" : "a3d3698d7a077c5e5ae9b57794a11d93880bbac8.class",
-            "sha1" : "a3d3698d7a077c5e5ae9b57794a11d93880bbac8",
-            "size" : 344106,
+            "file" : "b3fee2c8374bbaa5b8d78f1e84b90938434ff42d.class",
+            "sha1" : "b3fee2c8374bbaa5b8d78f1e84b90938434ff42d",
+            "size" : 344108,
             "translated" : 2356,
             "fuzzy" : 0,
             "untranslated" : 0
