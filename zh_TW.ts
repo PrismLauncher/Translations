@@ -1951,7 +1951,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation>複製世界失敗。</translation>
+        <translation>無法複製世界。</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation>刪除世界失敗。</translation>
+        <translation>無法刪除世界。</translation>
     </message>
 </context>
 <context>
@@ -4742,7 +4742,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation>匯入世界失敗。</translation>
+        <translation>無法匯入世界。</translation>
     </message>
 </context>
 <context>
@@ -6525,7 +6525,7 @@ Do you want to play the demo?</source>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation>Minecraft 驗證伺服器目前停用，將以離線模式啟動。
+        <translation>Minecraft 驗證伺服器目前無法使用，將以離線模式啟動。
 
 </translation>
     </message>
