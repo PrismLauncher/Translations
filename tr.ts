@@ -12927,7 +12927,7 @@ Bu sorunu çözene kadar güncelleyici devam edemez.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation>Güncelleyici MacOS&apos;ta yüklemeleri desteklemez</translation>
+        <translation>Güncelleyici, MacOS üzerindeki kurulumları desteklemez.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
