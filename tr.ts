@@ -13620,7 +13620,7 @@ Kırpma işlemine devam edilsin mi?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation>Günlük yüklemesi iptal edildi</translation>
+        <translation>Günlükleri yükleme iptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
