@@ -11140,7 +11140,7 @@ Bunları devre dışı bırakmak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Minecrat.jar için bin klasörü yaratılamadı</translation>
+        <translation>Minecraft.jar için bin klasörü oluşturulamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
