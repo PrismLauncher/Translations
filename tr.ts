@@ -14408,7 +14408,7 @@ Devam etmek istiyor musunuz?</numerusform>
     <message>
         <location filename="src/launcher/GZip.cpp" line="202"/>
         <source>error handling file</source>
-        <translation>dosya işleme hatası</translation>
+        <translation>dosya işlenirken hata oluştu</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="204"/>
