@@ -344,7 +344,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Yapım Tarihi:</translation>
+        <translation>Derleme Tarihi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -394,7 +394,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation>Yapım tarihi: %1</translation>
+        <translation>Derleme tarihi: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -441,7 +441,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Çevrim dışı</translation>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
