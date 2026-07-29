@@ -13615,7 +13615,7 @@ Kırpma işlemine devam edilsin mi?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation>Günlükler yüklenemedi!</translation>
+        <translation>Günlükleri yükleme başarısız!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
