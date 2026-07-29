@@ -12266,7 +12266,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation>&amp;Tümünü Sil</translation>
+        <translation>&amp;Hepsini Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
@@ -13390,7 +13390,7 @@ HTTP Durumu: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="93"/>
         <source>%1 [installed]</source>
-        <translation>%1 [yüklü]</translation>
+        <translation>%1 [indirildi]</translation>
     </message>
 </context>
 <context>
