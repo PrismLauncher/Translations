@@ -1700,12 +1700,12 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyo nusxalanyapti...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyoni nusxalab bo&apos;lmadi.</translation>
     </message>
 </context>
 <context>
@@ -2199,12 +2199,12 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyo o‘chirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyoni o‘chirib bo‘lmadi.</translation>
     </message>
 </context>
 <context>
@@ -3623,12 +3623,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonkalar kategoriyasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonkalardan qidirsh…</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -3637,12 +3637,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>hammasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamonaviy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -3652,7 +3652,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -3921,12 +3921,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyo import qilinmoqda…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunyoni import qilib bo‘lmadi.</translation>
     </message>
 </context>
 <context>
@@ -4108,7 +4108,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qayta ishga tushirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -4486,17 +4486,17 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="315"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklangan Java klasslarini saqlash uchun mavjud xotira miqdori.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlovni tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="282"/>
@@ -4508,17 +4508,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz ajratgan maksimal xotira tizim xotirasi sig‘imidan ko‘proq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz ajratgan maksimal xotira tizimingiz xotirasi sig‘imiga deyarli yetdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz ajratgan maksimal xotira minimal xotira sig‘imidan kam.</translation>
     </message>
 </context>
 <context>
