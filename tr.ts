@@ -389,7 +389,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>Gönderi: %1</translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
@@ -994,9 +994,8 @@ for details on the last update attempt.</source>
         <translation>Bir güncelleme denemesi başarısız oldu
 
 Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
-%1
-son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
+Son güncelleme denemesinin ayrıntıları için Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1112"/>
@@ -1019,10 +1018,9 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>Güncelleme başarılı
 
-Şu anda %1 çalıştırıyorsunuz.
-Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
-%2
-detaylar için.</translation>
+Şu anda %1 sürümünü çalıştırıyorsunuz.
+Ayrıntılar için Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1144"/>
@@ -1036,10 +1034,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Senin /tmp klasörün &quot;noexec&quot; bayrağı etkin olarak açılmış.
-Bazı Minecraft sürümleri açılmayabilir.
+        <translation>/tmp dizininiz şu anda &apos;noexec&apos; bayrağı etkin olarak bağlanmış.
+Bazı Minecraft sürümleri bu nedenle başlatılamayabilir.
 
-Bu problemi /tmp klasörünü &quot;exec&quot; olarak yeniden açarak ya da java.io.tmpdir JVM argümanını &quot;exec&quot; bayrağının olduğu düzenlenebilir bir klasör yaparak çözebilirsin. (örn : /home/user/.local/tmp)
+Bu sorunu /tmp dizinini &apos;exec&apos; olarak yeniden bağlayarak veya java.io.tmpdir JVM argümanını &apos;exec&apos; bayrağının ayarlandığı bir dosya sistemindeki yazılabilir bir dizine (örneğin, /home/user/.local/tmp) ayarlayarak çözebilirsiniz.
 </translation>
     </message>
     <message>
