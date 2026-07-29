@@ -966,18 +966,17 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Bu kurulumda güncelleme kilidi dosyası bulunuyor: %1
+        <translation>Bu kurulumda şu konumda bir güncelleme kilit dosyası bulunuyor: %1
 
 Zaman Damgası: %2
-Sürüm %3&apos;ten %4&apos;e güncelleniyor
+%3 sürümünden %4 sürümüne güncelleniyor
 Hedef kurulum yolu: %5
 Veri Yolu: %6
-Bu muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına geliyor. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Prism Launcher güncelleyici günlüğünü şu konumdan kontrol edin:
+Bu muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına gelmektedir. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
+Son güncelleme denemesinin ayrıntıları için Prism Launcher güncelleyici günlüğünü şu konumdan kontrol edin: 
 %7
-son güncelleme girişimiyle ilgili ayrıntılar için.
 
-Kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini seçin.</translation>
+Bu kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1080"/>
