@@ -1034,10 +1034,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>/tmp dizininiz şu anda &apos;noexec&apos; bayrağı etkin olarak bağlanmış.
+        <translation>/tmp dizininiz şu anda &apos;noexec&apos; argümanı etkin olarak bağlanmış.
 Bazı Minecraft sürümleri bu nedenle başlatılamayabilir.
 
-Bu sorunu /tmp dizinini &apos;exec&apos; olarak yeniden bağlayarak veya java.io.tmpdir JVM argümanını &apos;exec&apos; bayrağının ayarlandığı bir dosya sistemindeki yazılabilir bir dizine (örneğin, /home/user/.local/tmp) ayarlayarak çözebilirsiniz.
+Bu sorunu /tmp dizinini &apos;exec&apos; olarak yeniden bağlayarak veya java.io.tmpdir JVM argümanını &apos;exec&apos; argümanının ayarlandığı bir dosya sistemindeki yazılabilir bir dizine (örneğin, /home/user/.local/tmp) ayarlayarak çözebilirsiniz.
 </translation>
     </message>
     <message>
@@ -1333,7 +1333,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="94"/>
         <source>Preparing to log in...</source>
-        <translation>Giriş yapmaya hazırlanıyor...</translation>
+        <translation>Giriş yapmaya hazırlanılıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
@@ -3705,7 +3705,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Not: Yakın zamanda yayınlanın birçok FTB modpaketi CurseForge&apos;da da mevcuttur! Ayrıca, eğer FTB kurulumlarınız varsayılan konumda değil ise arama düğmesinin yanındaki düğmeyi kullanarak konumu seçin.</translation>
+        <translation>Not: Birçok yeni FTB mod paketi CurseForge üzerinden de mevcuttur. Ayrıca FTB kurulumlarınız varsayılan konumda değilse, aramanın yanındaki düğmeyi kullanarak konumu seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -4414,7 +4414,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation>İkonları ara...</translation>
+        <translation>Simgeleri ara...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4428,7 +4428,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation>Modern (Ah, Ahh! Amımı sik ve içime boşal!)</translation>
+        <translation>Modern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
@@ -4438,7 +4438,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation>Mod Paketleri</translation>
+        <translation>Mod paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -4550,7 +4550,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Bu URL geçerli bir mod paketi değil!</translation>
+        <translation>Bu url geçerli bir mod paketi değil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
@@ -6090,7 +6090,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>32-bit bir Java kurulumu seçtiniz, ancak maksimum bellek olarak 2048 MB&apos;den fazla ayırdınız.
+        <translation>32-bit bir Java kurulumu seçtiniz, ancak maksimum bellek olarak 2048 MiB&apos;den fazla ayırdınız.
 %1, Minecraft&apos;ı başlatamayacaktır.
 Devam etmek istiyor musunuz?
 
@@ -6180,7 +6180,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Maksimum bellek ayırmanız sistem belleği kapasitenize yaklaşıyor.</translation>
+        <translation>Seçtiğiniz maksimum bellek paylaşımı cihazınızın bellek miktarına yaklaşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
@@ -7039,7 +7039,7 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Engellenen modlar için \&amp;alt klasörleri kontrol et</translation>
+        <translation>Engellenen modlar için &amp;alt klasörleri kontrol et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
@@ -7084,12 +7084,12 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Profil oluşturulurken gerekli oyun dosyaları indirir. İlk indirmeyi atlamak ve dosyaları profil başlatıldığında almak için bunu devre dışı bırakın.</translation>
+        <translation>Profil oluşturulurken gerekli oyun dosyalarını indirir. Bunu kapatırsanız ilk indirme atlanır ve dosyalar profil başlatıldığında indirilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
         <source>Download game files during instance creation</source>
-        <translation>Profil oluşturulurken oyun dosyalarını indir</translation>
+        <translation>Profil oluşturma sırasında oyun kaynaklarını indirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="479"/>
@@ -10627,7 +10627,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Release Type</source>
-        <translation>Yayım Türü</translation>
+        <translation>Yayım Tipi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -11120,8 +11120,8 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation>Silmeye çalıştığınız modlar %1 diğer modlar tarafından gereklidir.
-Bunları devre dışı bırakmak ister misiniz?</translation>
+        <translation>Silmeye çalıştığınız modlar %1 modları için gerekli.
+Devre dışı bırakmak ister misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
@@ -11140,7 +11140,7 @@ Bunları devre dışı bırakmak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Minecraft.jar için bin klasörü oluşturulamadı.</translation>
+        <translation>Minecraft.jar için bin klasörü oluşturulamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
@@ -11915,7 +11915,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>İstek oranı %n saniye boyunca sınırlandırıldı: %1 sonra tekrar denenecek</numerusform>
+            <numerusform>İstek oranı %n saniye boyunca sınırlandırıldı: %1 sonra tekrar deneyin</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -12927,7 +12927,7 @@ Bu sorunu çözene kadar güncelleyici devam edemez.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation>Güncelleyici, MacOS üzerindeki kurulumları desteklemez.</translation>
+        <translation>Güncelleyici, MacOS üzerindeki kurulumları desteklemez</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
@@ -13390,7 +13390,7 @@ HTTP Durumu: %2</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="93"/>
         <source>%1 [installed]</source>
-        <translation>%1 [indirildi]</translation>
+        <translation>%1 [kuruldu]</translation>
     </message>
 </context>
 <context>
@@ -13615,12 +13615,12 @@ Kırpma işlemine devam edilsin mi?</translation>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <source>Failed to upload logs!</source>
-        <translation>Günlükleri yükleme başarısız!</translation>
+        <translation>Günlükleri yükleme başarısız oldu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
-        <translation>Günlükleri yükleme iptal edildi</translation>
+        <translation>Günlükleri yükleme işlemi iptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
@@ -13724,7 +13724,7 @@ Hata mesajı: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>%1 json olarak ayrıştırılınamadı: %2</translation>
+        <translation>%1 json olarak ayrıştırılamadı: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -14329,7 +14329,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="104"/>
         <source>Cannot rename instance</source>
-        <translation>Profil tekrar adlandırılamaz</translation>
+        <translation>Profil yeniden adlandırılamaz</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
@@ -14396,7 +14396,7 @@ Yeni ad: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Aşağıdaki profil(ler), bu profildeki dosyaları etkileyebilir:
+            <numerusform>Aşağıdaki profil(ler), bu profildeki dosyaları referans alabilir:
 
 %1
 
@@ -15255,7 +15255,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>Paketleri İndir</translation>
+        <translation>Paketler İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -16047,7 +16047,7 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation>Eski .index dizininin kaldırılması başarısız oldu.</translation>
+        <translation>Eski .index dizininin kaldırılması başarısız oldu</translation>
     </message>
 </context>
 <context>
@@ -18405,12 +18405,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation>Bu Microsoft hesabının bir Xbox live profili yok. Önce %1&apos;den oyunu satın alın.</translation>
+        <translation>Bu Microsoft hesabının bir Xbox Live profili yok. Önce %1&apos;den oyunu satın alın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox live ülkenizde kullanılabilir değil. Engellendiniz.</translation>
+        <translation>Xbox Live ülkenizde kullanılabilir değil. Engellendiniz.</translation>
     </message>
     <message>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
