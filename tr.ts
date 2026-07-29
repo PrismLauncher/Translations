@@ -7039,7 +7039,7 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>Engellenen modlar için &amp;alt klasörleri kontrol et</translation>
+        <translation>Engellenen modlar için \&amp;alt klasörleri kontrol et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
