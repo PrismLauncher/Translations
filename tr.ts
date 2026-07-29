@@ -16042,12 +16042,12 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation>.index&apos;ten shaderpack meta verilerinin taşınması başarısız oldu</translation>
+        <translation>Shaderpaketi meta verileri .index&apos;ten taşınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation>Eski .index dizini kaldırılamadı</translation>
+        <translation>Eski .index dizininin kaldırılması başarısız oldu.</translation>
     </message>
 </context>
 <context>
