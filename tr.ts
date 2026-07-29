@@ -14329,7 +14329,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="104"/>
         <source>Cannot rename instance</source>
-        <translation>Profil yeniden adlandırılamıyor</translation>
+        <translation>Profil tekrar adlandırılamaz</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
