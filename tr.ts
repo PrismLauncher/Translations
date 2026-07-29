@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Metin Paylaşım Servisi &amp;Türü</translation>
+        <translation>Metin Yapıştırma Servisi &amp;Türü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Engellenen modlar için Modrinth&apos;e geçişi etkinleştir</translation>
+        <translation>Engellenen modlar için Modrinth alternatifine izin ver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -441,7 +441,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Çevrimdışı</translation>
+        <translation>Çevrim dışı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
@@ -640,7 +640,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
-        <translation>Hesap giriş onaylarını yenile</translation>
+        <translation>Hesap tokenlerini yenile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
@@ -927,12 +927,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="267"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[UYARI] O kadar da ürkütücü olmayan bir uyarı.</translation>
+        <translation>[UYARI] Çok da ürkütücü olmayan bir uyarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[HATA AYIKLAMA] Gizli bir hata ayıklama mesajı...</translation>
+        <translation>[DEBUG] Gizli bir hata ayıklama mesajı...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
@@ -10142,7 +10142,7 @@ Büyük ihtimalle dizini değiştirmeniz gerekecek — lütfen modun web sitesin
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bu Kopyada oynanan zamanı toplam oynanan zamana ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -14342,14 +14342,16 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyanın klasörü yeniden adlandırılamıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopya çalışırken kopyanın bulunduğu klasör yeniden adlandırılamaz.
+
+Sadece kopyanın ismi değiştirilecektir. Kopyanın bulunduğu klasör adı aynı kalacaktır.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
