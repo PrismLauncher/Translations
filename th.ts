@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;บริการ Pastebin</translation>
+        <translation>บริการ &amp;Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,12 +21,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>บริการ Paste &amp;ประเภท</translation>
+        <translation>ประเภทบริการ &amp;Paste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>ฐาน &amp;URL</translation>
+        <translation>&amp;URL พื้นฐาน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -42,32 +42,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>หมายเหตุ: คุณอาจต้องการเปลี่ยนหรือล้าง URL ฐานหลังจากเปลี่ยนประเภทบริการวาง</translation>
+        <translation>หมายเหตุ: หลังจากเปลี่ยนประเภทบริการ Paste แล้ว คุณอาจต้องเปลี่ยนหรือล้างค่า URL พื้นฐาน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>รีเฟรชเมื่อเปิดใช้งาน</translation>
+        <translation>รีเฟรชเมื่อเปิดโปรแกรม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>เซิร์ฟเวอร์สินทรัพย์</translation>
+        <translation>เซิร์ฟเวอร์ Assets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>คุณสามารถตั้งค่านี้ให้กับเซิร์ฟเวอร์อื่นได้หากคุณมีปัญหาในการดาวน์โหลดทรัพยากร</translation>
+        <translation>หากคุณมีปัญหาในการดาวน์โหลด Assets คุณสามารถเปลี่ยนไปใช้เซิร์ฟเวอร์อื่นได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>เซิร์ฟเวอร์ไลบรารี FML แบบ ดั้งเดิม</translation>
+        <translation>เซิร์ฟเวอร์ไลบรารี Legacy FML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>คุณสามารถตั้งค่าเป็นเซิร์ฟเวอร์อื่นได้ หากคุณมีปัญหาในการดาวน์โหลดไลบรารี FML รุ่นเก่า (Minecraft 1.5.2 และรุ่นก่อนหน้า)</translation>
+        <translation>หากคุณมีปัญหาในการดาวน์โหลดไลบรารี Legacy FML (Minecraft 1.5.2 และเก่ากว่า) คุณสามารถเปลี่ยนไปใช้เซิร์ฟเวอร์อื่นได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -78,7 +78,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>ยืนยันตัวตนบัญชี &amp;Microsoft</translation>
+        <translation>การยืนยันตัวตนด้วย &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>เปิดใช้ Modrinth เป็นตัวเลือกสำรองสำหรับม็อดที่ถูกบล็อก</translation>
+        <translation>เปิดใช้งานการใช้ Modrinth สำรองสำหรับม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้หากการเข้าสู่ระบบผ่าน Microsoft Authentication สำเร็จแล้ว</translation>
+        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้ หากการเข้าสู่ระบบผ่านการยืนยันตัวตนด้วย Microsoft ใช้งานได้อยู่แล้ว</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัว&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เฉพาะเมื่อต้องการเข้าถึงข้อมูลส่วนตัวเท่านั้น&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -160,17 +160,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>ตัวแทนผู้ใช้</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>ป้อนตัวแทนผู้ใช้ที่กำหนดเองที่นี่ สตริงพิเศษ $LAUNCHER_VER จะถูกแทนที่ด้วยเวอร์ชันของตัวเรียกใช้งาน</translation>
+        <translation>ป้อน User Agent แบบกำหนดเองที่นี่ โดยข้อความพิเศษ $LAUNCHER_VER จะถูกแทนที่ด้วยเวอร์ชันของ Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data เซิร์ฟเวอร์</translation>
+        <translation>เซิร์ฟเวอร์ Meta&amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>คุณสามารถตั้งค่านี้ใน metadata เซิร์ฟเวอร์ของบุคคลที่สามเพื่อใช้ไลบรารีที่มีแพตช์อื่นๆ</translation>
+        <translation>คุณสามารถตั้งค่านี้เป็นเซิร์ฟเวอร์ Metadata ของบุคคลที่สามเพื่อใช้ไลบรารีที่ถูกแก้ไขหรือการปรับแต่งอื่น ๆ ได้</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัว อ่าน &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;เอกสารประกอบ&lt;/a&gt; เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เฉพาะเมื่อต้องการเข้าถึงข้อมูลส่วนตัวเท่านั้น อ่าน&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;เอกสาร&lt;/a&gt;เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -198,7 +198,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>หมายเหตุ: อาจไม่จำเป็นต้องตั้งค่าส่วนนี้หาก CurseForge ใช้งานได้อยู่แล้ว</translation>
+        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้ หาก CurseForge ใช้งานได้อยู่แล้ว</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -333,7 +333,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ลันเชอร์ปรับแต่งที่จะทำให้การจัดการ Minecraft ง่ายขึ้นโดยทำให้คุณสามารถมี Instance ของ Minecraft ได้หลาย ๆ ตัวในที่เดียว&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher แบบกำหนดเองที่ช่วยให้จัดการ Minecraft ได้ง่ายขึ้น โดยให้คุณสามารถมีอินสแตนซ์ Minecraft หลายรายการพร้อมกัน&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -353,12 +353,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>คอมมิท:</translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>ช่อง:</translation>
+        <translation>ช่องทาง:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -388,12 +388,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>คอมมิท: %1</translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation>วันที่มีการ Build: %1</translation>
+        <translation>วันที่สร้าง: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -411,7 +411,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
-        <translation>ช่อง</translation>
+        <translation>ช่องทาง</translation>
     </message>
 </context>
 <context>
@@ -420,7 +420,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="344"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>บัญชีไมโครซอฟท์</translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
@@ -432,7 +432,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>ไม่ทราบ/ไม่รู้จัก</translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <source>Unchecked</source>
@@ -482,7 +482,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="391"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>ประเภทบัญชี (ไมโครซอฟต์ หรือออฟไลน์)</translation>
+        <translation>ประเภทของบัญชี (MSA หรือออฟไลน์)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -531,7 +531,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation>สภานะ</translation>
+        <translation>สถานะ</translation>
     </message>
     <message>
         <source>Can Migrate?</source>
@@ -540,7 +540,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>ชื่อผู้ใช้ Minecraft ที่เชื่อมโยงกับบัญชี</translation>
+        <translation>ชื่อผู้ใช้ Minecraft ที่เชื่อมโยงกับบัญชีนี้</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -557,7 +557,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation>สถานะของบัญชี</translation>
+        <translation>สถานะปัจจุบันของบัญชี</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -612,7 +612,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation>เปลี่ยนสกิน</translation>
+        <translation>จัดการสกิน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
@@ -665,12 +665,12 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>ยินดีต้อนรับ!
-หากคุณเพิ่งเข้ามาใหม่ คุณสามารถเลือกปุ่ม &quot;เพิ่ม ไมโครซอฟต์&quot; เพื่อเชื่อมโยงบัญชี ไมโครซอฟต์ ของคุณได้</translation>
+หากคุณเพิ่งเข้ามาที่นี่ คุณสามารถเลือกปุ่ม &quot;เพิ่ม Microsoft&quot; เพื่อเชื่อมโยงบัญชี Microsoft ของคุณได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>ไม่มีไคลเอนต์ไอดีการรับรองของ Microsoft ที่ถูกจัดตั้ง</translation>
+        <translation>ไม่ได้ตั้งค่า Client ID สำหรับการยืนยันตัวตนด้วย Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -700,7 +700,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>คุณต้องเพิ่มบัญชี ไมโครซอฟต์ ที่เป็นเจ้าของ Minecraft ก่อนจึงจะสามารถเพิ่มบัญชีออฟไลน์ได้&lt;br&gt;&lt;br&gt;หากคุณทำบัญชีหาย คุณสามารถติดต่อ Microsoft เพื่อขอรับการสนับสนุนได้</translation>
+        <translation>คุณต้องเพิ่มบัญชี Microsoft ที่เป็นเจ้าของ Minecraft ก่อนจึงจะสามารถเพิ่มบัญชีออฟไลน์ได้&lt;br&gt;&lt;br&gt;หากคุณสูญเสียบัญชี คุณสามารถติดต่อฝ่ายสนับสนุนของ Microsoft ได้</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -718,7 +718,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation>เกิดข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
@@ -727,17 +727,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>โปรดกรอกชื่อผู้ใช้ที่คุณต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
+        <translation>โปรดป้อนชื่อผู้ใช้ที่ต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Remove account?</source>
-        <translation>ปิดบัญชี?</translation>
+        <translation>ลบบัญชี?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>คุณต้องการลบบัญชีนี้จริง ๆ หรือไม่?</translation>
+        <translation>คุณต้องการลบบัญชีนี้จริงหรือ?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -792,7 +792,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
         <source>All Versions</source>
-        <translation>เวอร์ชั่นทั้งหมด</translation>
+        <translation>เวอร์ชันทั้งหมด</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation>ลักษณะปรากฎ</translation>
+        <translation>ลักษณะที่ปรากฏ</translation>
     </message>
 </context>
 <context>
@@ -808,7 +808,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>ดูโฟลเดอร์แพ็คแมว</translation>
+        <translation>ดูโฟลเดอร์แพ็กแมว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -835,7 +835,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation>รีโหลดทั้งหมด</translation>
+        <translation>โหลดใหม่ทั้งหมด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -1929,12 +1929,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังคัดลอกโลก...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกโลกไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -1946,7 +1946,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation>คอร์ม็อด</translation>
+        <translation>Core Mods</translation>
     </message>
 </context>
 <context>
