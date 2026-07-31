@@ -14576,12 +14576,12 @@ Error message: %3</source>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="106"/>
         <source>Unknown</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="157"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>해당 인스턴스의 게임 버전과 호환되지 않음으로 표시됨.</translation>
     </message>

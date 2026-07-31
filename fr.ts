@@ -14704,12 +14704,12 @@ Message d&apos;erreur&#xa0;: %3</translation>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="106"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="157"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Non marqué comme compatible avec la version du jeu de l’instance.</translation>
     </message>
