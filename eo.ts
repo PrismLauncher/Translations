@@ -1849,7 +1849,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Sur Windows, simbolaj ligiloj povas postuli administrajn permesojn por krei.</translation>
+        <translation>Windows povas postuli administrajn permesojn por krei simbolajn ligilojn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -4672,7 +4672,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>Konzola fenestro por </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -7936,22 +7936,22 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Luda &amp;fenestro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiam la ludfenestro fermiĝas, ĉesigi la lanĉilon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanĉi Minecraft maksimumigite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Averto&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: La maksimumiga agordo eble ne estas subtenata en ĉiuj Minecraft-versioj.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -7964,7 +7964,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludo&amp;tempo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
@@ -8038,12 +8038,12 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiam la ludfenestro malfermiĝas, kaŝi la lanĉilon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenestra &amp;grandeco:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
@@ -8053,7 +8053,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>bilderoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
@@ -8063,17 +8063,17 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiam la ludo lanĉiĝas, montri la konzolan fenestron.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiam la ludo kraŝas, montri la konzolan fenestron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiam la ludo ĉesiĝas, kaŝi la konzolan fenestron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
@@ -8119,7 +8119,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unuludanta mondo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="482"/>
