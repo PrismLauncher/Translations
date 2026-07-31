@@ -5337,7 +5337,7 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation>A futó folyamat újraindítása.</translation>
+        <translation>A futó folyamat újraindítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -10097,7 +10097,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebben a példányban töltött játékidő beleszámítása az összes játékidőbe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
