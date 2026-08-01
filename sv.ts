@@ -10557,12 +10557,12 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation>Filnamnet av modden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm toggle</source>
         <translation>Bekräfta växel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Aktivering/avaktivering av dessa mod(s) kommer orsaka förändringar för andra mods.
@@ -10579,8 +10579,13 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
 </numerusform>
         </translation>
     </message>
-    <message numerus="yes">
+    <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
+        <source>The following mods will be enabled:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -10591,29 +10596,32 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
+        <source>The following mods will be disabled:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Vill du automatiskt applicerade dessa relaterade förändringar?
 Om de ignoreras kan de förstöra spelet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>Only Toggle Selected</source>
         <translation>Växla bara väljade</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Toggle Required Mods</source>
         <translation>Växla krävade mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="454"/>
         <source>Confirm enable</source>
         <translation>Bekräfta</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
@@ -10624,29 +10632,24 @@ Om de ignoreras kan de förstöra spelet.</translation>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
         <translation>Vill du aktivera dem också?
 Ignorerande kan förstöra spelet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Only Enable Selected</source>
         <translation>Aktivera Endast Valda</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Enable Required</source>
         <translation>Aktivera obligatoriska</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="460"/>
         <source>Confirm disable</source>
         <translation>Bekräfta inaktivering</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
@@ -10657,19 +10660,16 @@ Ignorerande kan förstöra spelet.</translation>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
         <translation>Vill du inaktivera dem också?
 Ignorerande kan förstöra spelet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Only Disable Selected</source>
         <translation>Inaktivera Endast Valda</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Disable Required</source>
         <translation>Inaktivera obligatoriska</translation>
     </message>
@@ -10880,11 +10880,11 @@ Ignorerande kan förstöra spelet.</translation>
         <translation type="vanished">Ta bort moddens metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="340"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -10893,43 +10893,43 @@ Ignorerande kan förstöra spelet.</translation>
         <translation type="vanished">Vänligen installera en mod-laddare först!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Aborted</source>
         <translation>Avbruten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Download stopped by user.</source>
         <translation>Nedladdning stoppad av användaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Warnings</source>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="305"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Moduppdateringar är inte tillgängliga när metadata är inaktiverat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Confirm Update</source>
         <translation>Bekräfta uppdatering</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -10941,55 +10941,55 @@ De gamla filerna kanske inte tas bort eftersom de används.
 Är du säker på att du vill göra det här?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>The mod updater was aborted!</source>
         <translation>Mod-uppdateringen avbröts!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="275"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Alla valda mods är uppdaterade! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
         <source>Update checker</source>
         <translation>Uppdateringskontroll</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
         <source>Confirm Removal</source>
         <translation>Bekräfta borttagning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="321"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Du håller på att ta bort metadata för %1 moddar.
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
         <source>Missing Mod Loader</source>
         <translation>Saknar Mod Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="425"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Du behöver installera kompatibel mod loader innan moddinstallation. Vill du göra det?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation>Ingen mob laddare installerades. Försök igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; är uppdaterat! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <source>Download Mods</source>
         <translation>Ladda ned mods</translation>
     </message>
@@ -11028,7 +11028,12 @@ Do you want to disable them?</source>
 Vill du inaktivera dem?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <source>The following mods depend on the mod(s) you want to remove:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Alla mods är uppdaterade! :)</translation>

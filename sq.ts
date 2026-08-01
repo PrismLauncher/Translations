@@ -7672,12 +7672,12 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
         <translation>Emri i skedarit të modit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="446"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
         <source>Confirm toggle</source>
         <translation>Konfirmo ndryshimin</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="447"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Ndryshimi i këtyre modeve do të shkaktojë ndryshime në mode të tjera.
@@ -7694,8 +7694,13 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
 </numerusform>
         </translation>
     </message>
-    <message numerus="yes">
+    <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
+        <source>The following mods will be enabled:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -7706,29 +7711,32 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="450"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
+        <source>The following mods will be disabled:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Dëshiron të aplikosh automatikisht këto ndryshime të lidhura?
 Injonorimi i tyre mund të prishë lojën.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
         <source>Only Toggle Selected</source>
         <translation>Ndrysho Vetëm të Zgjedhurat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="452"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
         <source>Toggle Required Mods</source>
         <translation>Ndrysho Modet e Nevojshme</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="454"/>
         <source>Confirm enable</source>
         <translation>Konfirmo aktivizimin</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
@@ -7739,29 +7747,24 @@ Injonorimi i tyre mund të prishë lojën.</translation>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="456"/>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
         <translation>Dëshiron t&apos;i aktivizosh gjithashtu?
 Injonorimi i tyre mund të prishë lojën.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>Only Enable Selected</source>
         <translation>Aktivizo Vetëm të Zgjedhurat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="458"/>
         <source>Enable Required</source>
         <translation>Aktivizo të Nevojshmet</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="460"/>
         <source>Confirm disable</source>
         <translation>Konfirmo çaktivizimin</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
@@ -7772,19 +7775,16 @@ Injonorimi i tyre mund të prishë lojën.</translation>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
         <translation>Dëshiron t&apos;i çaktivizosh gjithashtu?
 Injonorimi i tyre mund të prishë lojën.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Only Disable Selected</source>
         <translation>Çaktivizo Vetëm të Zgjedhurat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
         <source>Disable Required</source>
         <translation>Çaktivizo të Nevojshmet</translation>
     </message>
@@ -7833,52 +7833,57 @@ Do you want to disable them?</source>
 Dëshiron t&apos;i çaktivizosh?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="340"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <source>The following mods depend on the mod(s) you want to remove:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
         <source>Error</source>
         <translation>Gabim</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Aborted</source>
         <translation>Ndërprerë</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Download stopped by user.</source>
         <translation>Shkarkimi u ndal nga përdoruesi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Warnings</source>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="305"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Përditësimet e modeve nuk janë të disponueshme kur metadata asht çaktivizuar!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Confirm Update</source>
         <translation>Konfirmo Përditësimin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -7890,55 +7895,55 @@ Skedarët e vjetër mund të mos fshihen pasi janë në përdorim.
 Je i sigurt që dëshiron ta bësh këtë?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>The mod updater was aborted!</source>
         <translation>Përditësuesi i modeve u ndërpre!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="275"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Të gjitha modet e zgjedhura janë të përditësuara! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
         <source>Update checker</source>
         <translation>Kontrollues i përditësimeve</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
         <source>Confirm Removal</source>
         <translation>Konfirmo Heqjen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="321"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Je gati të heqësh metadatat për %1 mode.
 Je i sigurt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
         <source>Missing Mod Loader</source>
         <translation>Ngarkues Modesh Mungon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="425"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Duhet të instalosh një ngarkues modesh të përputhshëm para se të instalosh mode. Dëshiron ta bësh?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation>Nuk u instalua asnjë ngarkues modesh. Të lutem provo përsëri.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; asht i përditësuar! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <source>Download Mods</source>
         <translation>Shkarko Mode</translation>
     </message>
@@ -7953,7 +7958,7 @@ Je i sigurt?</translation>
         <translation>Shiko faqet kryesore të të gjithë modeve të zgjedhura.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Të gjitha modet janë të përditësuara! :)</translation>
