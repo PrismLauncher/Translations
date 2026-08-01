@@ -791,7 +791,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="90"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
         <translation>Toate versiunile</translation>
     </message>
@@ -932,12 +932,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation>Nu se poate afișa acest log deoarece a întrecut limita cu %1 de linii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>Settings</source>
         <translation>Setări</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1063"/>
+        <location filename="src/launcher/Application.cpp" line="1074"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -964,12 +964,12 @@ pentru detalii despre ultima încercare de actualizare.
 Pentru a șterge acest lock și a continua apasa &quot;Ignoră&quot; mai jos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1080"/>
+        <location filename="src/launcher/Application.cpp" line="1091"/>
         <source>Update In Progress</source>
         <translation>Se actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1115"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -984,12 +984,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii despre ultima încercare de actualizare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1112"/>
+        <location filename="src/launcher/Application.cpp" line="1123"/>
         <source>Update Failed</source>
         <translation>Actualizarea a Eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1147"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1010,12 +1010,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1155"/>
         <source>Update Succeeded</source>
         <translation>Actualizarea a Reușit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1176"/>
+        <location filename="src/launcher/Application.cpp" line="1187"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1036,7 +1036,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1182"/>
+        <location filename="src/launcher/Application.cpp" line="1193"/>
         <source>Incompatible system configuration</source>
         <translation>Configurație sistem incompatibilă</translation>
     </message>
@@ -1045,22 +1045,22 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation type="vanished">Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1935"/>
+        <location filename="src/launcher/Application.cpp" line="1946"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Date vechi din %1 au fost găsite, doar că există deja date pentru %2. Din păcate va trebui să migrați datele manual. Doriți să vi se aducă aminte de migrația în așteptare următoarea dată când porniți %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1939"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Se pare că ați folosit deja %1. Doriți să vă migrați datele în locatia nouă %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1945"/>
+        <location filename="src/launcher/Application.cpp" line="1956"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1991"/>
+        <location filename="src/launcher/Application.cpp" line="2002"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
@@ -2228,7 +2228,6 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 <context>
     <name>DataPack</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
         <translation>Necunoscut</translation>
     </message>
@@ -4054,37 +4053,37 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>Sortează după recomandări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>Sortează după popularitate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Sortează după cea mai recentă actualizare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Sortează după nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>Sortează după autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>Sortează după numărul total de descărcări</translation>
@@ -4101,27 +4100,27 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="288"/>
         <source> by </source>
         <translation> de </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="294"/>
         <source>External links:</source>
         <translation>Linkuri externe:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="298"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="304"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Cod sursă: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -4867,7 +4866,7 @@ Continuați cu prudență!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="181"/>
+        <location filename="src/launcher/InstanceList.cpp" line="186"/>
         <source>%1 Instance</source>
         <translation>Instanța %1</translation>
     </message>
@@ -5207,12 +5206,12 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="948"/>
+        <location filename="src/launcher/InstanceList.cpp" line="969"/>
         <source>Could not create staging folder</source>
         <translation>Imposibil de creat dosar de staging</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="968"/>
+        <location filename="src/launcher/InstanceList.cpp" line="989"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nu a reușit să se porneasca instanța, chiar și după multiple incercari. Este blocata de ceva.</translation>
     </message>
@@ -5716,7 +5715,7 @@ Puteți schimba versiunea de Java din setări ulterior.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="230"/>
         <source>Find Java executable</source>
         <translation>Găsește executabilul Java</translation>
     </message>
@@ -5892,17 +5891,17 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation type="vanished">Detectare automată Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="272"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
         <source>Select a Java version</source>
         <translation>Selectați o versiune Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="279"/>
         <source>Confirm Selection</source>
         <translation>Confirmați selecția</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="282"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="280"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5911,17 +5910,17 @@ Versiunea această nu poate rula cu mai mult de 2048MiB de RAM.
 Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="300"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="303"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Alocarea maximă de memorie este aproape de capacitatea totală a memoriei sistemului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="304"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Alocarea maximă de memorie este mai mică decât alocarea minimă de memorie.</translation>
     </message>
@@ -6520,7 +6519,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Browse</source>
         <translation>Răsfoiește</translation>
     </message>
@@ -6600,47 +6599,47 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation>&amp;Mod-uri:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Pictograme:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
         <translation>Deocamdată sunt arătate doar modurile care nu sunt marcate drept compatibile cu versiunea curentă de Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
         <translation>Detectează și arată incompatibilități între moduri (experimental)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
         <source>Log History &amp;Limit:</source>
         <translation>&amp;Limită istoric jurnal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="539"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>Tasks</source>
         <translation>Activități</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="602"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="639"/>
         <source>Retry Limit:</source>
         <translation>Limită de reîncercări:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="609"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="646"/>
         <source>Concurrent Download Limit:</source>
         <translation>Limită descărcări simultane:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="619"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
         <source>HTTP Timeout:</source>
         <translation>Timp de expirare HTTP:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="645"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="682"/>
         <source>Concurrent Task Limit:</source>
         <translation>Limită sarcini simultane:</translation>
     </message>
@@ -6712,7 +6711,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">Dezactivează utilizarea metadatelor pentru moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="417"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenție&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Dezactivate metadatelor modurilor ar putea duce la dezactivarea unor funcții QoL, cum ar fi actualizarea modurilor!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6722,7 +6721,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="obsolete">Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Când este activată, pe lângă folderul de descărcări, sub folderele sale vor fi căutate și atunci când se caută resurse (de exemplu, când se caută mod-uri blocate pe CurseForge).</translation>
     </message>
@@ -6781,7 +6780,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">numărul de descărcări simultane</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="616"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="653"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Secunde de așteptat până când cererile sunt întrerupte</translation>
     </message>
@@ -6790,7 +6789,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">Timp de expirare pentru cererile HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="595"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="632"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -6799,7 +6798,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">Număr de reîncercări manuale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Dacă este activat, va muta resursele blocate în loc să le copieze.</translation>
     </message>
@@ -6839,67 +6838,82 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation>&amp;Schimbă bare de unelte cu bara de meniu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
+        <source>Additional instance directories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
+        <source>Remove</source>
+        <translation type="unfinished">Eliminaţi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
         <source>Mods and Modpacks</source>
         <translation>Moduri și pachete de moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>Verifică &amp;sub-fișiere pentru moduri blocate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>Mută modurile blocate în loc de copierea lor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>Păstrează informația dată de furnizorii de moduri (ca Modrinth sau CurseForge) pentru moduri.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="410"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Keep track of mod metadata</source>
         <translation>Ține cont de metadatele modurilor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Detectează, instalează și instalează automat depentențele modurilor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
         <source>Install dependencies automatically</source>
         <translation>Instalează dependențele automat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>Când se creează o nouă instanță de modpack, sugerează actualizarea unei instanțe existente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Sugerează actualizarea unei instanțe existente în timpul instalării unui modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="460"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Instance Creation</source>
         <translation>Creează instanță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
         <translation>Descarcă fișierele necesare pentru joc la crearea instanței. Dezactivați această opțiune pentru a sări peste descărcarea inițială și a prelua fișierele la lansarea instanței.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="506"/>
         <source>Download game files during instance creation</source>
         <translation>Descarcă fişierelor jocului în timpul creării instanţei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Console</source>
         <translation>Consolă</translation>
     </message>
@@ -6928,13 +6942,13 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">Limită &amp;istorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Oprește înregistrarea log-urilor când aceasta trece peste limită</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="547"/>
         <source> lines</source>
         <translation> linii</translation>
     </message>
@@ -6944,22 +6958,22 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation type="vanished">&amp;Font consolă</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="96"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="128"/>
         <source>Instance Folder</source>
         <translation>Fișier Instanță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="99"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Ați încercat să specificați un folder de instanță al cărui cale conține cel puțin un &apos;!&apos;. Java are probleme cunoscute în acest caz, instanțele dumneavoastră (probabil) nu vor porni!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Chiar dorești să folosești această cale? Selectând &quot;Nu&quot; va închide această fereastră și nu va altera calea instanței.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -6974,32 +6988,53 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul p
 Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you want to proceed anyway?</source>
         <translation>Vrei să treci mai departe oricum?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
+        <source>Additional Instance Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
+        <source>Duplicate directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
+        <source>This is already your primary instance directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
+        <source>This directory has already been added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
         <source>Icons Folder</source>
         <translation>Fișierul cu Pictograme</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
         <source>Mods Folder</source>
         <translation>Fișierul Mod-uri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
         <source>Downloads Folder</source>
         <translation>Fișier pentru descărcări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="198"/>
         <source>Java Folder</source>
         <translation>Fișierul Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="208"/>
         <source>Skins Folder</source>
         <translation>Fișierul de skinuri</translation>
     </message>
@@ -9794,7 +9829,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
         <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="574"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="570"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Selectați fișierul general al pachetelor de date</translation>
     </message>
@@ -9970,7 +10005,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
         <translation>Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Toate versiunile</translation>
     </message>
@@ -11021,42 +11056,42 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="223"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="270"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Acest proeict a fost arhivat. Acesta nu va mai primi actualizări cu excepția cazului în care autorul decide să dearhiveze proiectul.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
         <source>Donate information: </source>
         <translation>Donează informații: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>External links:</source>
         <translation>Link-uri externe:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="298"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Cod sursă: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -11072,7 +11107,7 @@ Te rugăm actualizează %1!</translation>
         <translation>Sortează după Totalul Descărcărilor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source> by </source>
         <translation> de </translation>
     </message>
@@ -13182,22 +13217,30 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="27"/>
         <source>resource pack</source>
+        <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
         <translation>pachet de resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="27"/>
         <source>texture pack</source>
+        <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
         <translation>pachet de texturi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="28"/>
         <source>data pack</source>
+        <extracomment>The singular version of &apos;data packs&apos;</extracomment>
         <translation>pachet de date</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="26"/>
         <source>shader pack</source>
+        <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
         <translation>pachet de shader</translation>
     </message>
     <message>
@@ -13207,7 +13250,9 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="61"/>
         <source>mod</source>
+        <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>mod</translation>
     </message>
     <message>
@@ -13292,14 +13337,19 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
         <translation type="obsolete">Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="33"/>
         <source>item</source>
         <translation>obiect</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="35"/>
         <source>items</source>
         <translation>obiecte</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -13685,16 +13735,60 @@ Mesaj de eroare: %3</translation>
         <source>No Minecraft profile</source>
         <translation>Fără profil de Minecraft</translation>
     </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
+        <source>Unrecognized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
+        <source>data packs</source>
+        <extracomment>The plural version of &apos;data pack&apos;</extracomment>
+        <translation type="unfinished">pachete de date</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
+        <source>mods</source>
+        <extracomment>The plural version of &apos;mod&apos;</extracomment>
+        <translation type="unfinished">moduri</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
+        <source>resource packs</source>
+        <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
+        <translation type="unfinished">pachete de resurse</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
+        <source>resource</source>
+        <translation type="unfinished">resursă</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
+        <source>resources</source>
+        <translation type="unfinished">resurse</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
+        <source>shader packs</source>
+        <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
+        <translation type="unfinished">pachete de shadere</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
+        <source>texture packs</source>
+        <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
+        <translation type="unfinished">pachete de texturi</translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="106"/>
         <source>Unknown</source>
         <translation>Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="157"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Nu este marcat ca fiind compatibil cu versiunea jocului din instanță.</translation>
     </message>
@@ -13702,7 +13796,6 @@ Mesaj de eroare: %3</translation>
 <context>
     <name>ResourceDownload::DataPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="191"/>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>pachete de date</translation>
@@ -13711,13 +13804,11 @@ Mesaj de eroare: %3</translation>
 <context>
     <name>ResourceDownload::DataPackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="37"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
         <translation>pachete de date</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
         <translation>pachet de date</translation>
@@ -13726,7 +13817,6 @@ Mesaj de eroare: %3</translation>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="110"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>moduri</translation>
@@ -13739,13 +13829,11 @@ Mesaj de eroare: %3</translation>
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>mod</translation>
@@ -13762,70 +13850,95 @@ Mesaj de eroare: %3</translation>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="81"/>
         <source>Review and confirm</source>
         <translation>Revizuie și confirmă</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="82"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="110"/>
         <source>Confirmation Needed</source>
         <translation>Confirmare necesară</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="111"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>Ai %1 resurse selectate.
 Sigur dorești să închizi acest dialog?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Deschide un meniu popup nou pentru a-ți revizui %1 selectate și a-ți confirma selecția. Scurtătură: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Confirm %1 to download</source>
         <translation>Confirmă %1 pentru descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
         <source>Warnings</source>
         <translation>Avertizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="185"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="186"/>
         <source>Checking for dependencies...</source>
         <translation>Verificare pentru dependențe...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="445"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="311"/>
         <source>Change %1 version</source>
         <translation>Schimbă %1 versiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="338"/>
+        <source>mods</source>
+        <translation type="unfinished">moduri</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="362"/>
+        <source>resource packs</source>
+        <translation type="unfinished">pachete de resurse</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="383"/>
+        <source>texture packs</source>
+        <translation type="unfinished">pachete de texturi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="404"/>
+        <source>shader packs</source>
+        <translation type="unfinished">pachete de shadere</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="425"/>
+        <source>data packs</source>
+        <translation type="unfinished">pachete de date</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>resurse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
         <source>Download %1</source>
         <translation>Descarcă %1</translation>
     </message>
@@ -13876,7 +13989,6 @@ Te rugăm să o actualizezi %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="131"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>pachete de resurse</translation>
@@ -13885,13 +13997,11 @@ Te rugăm să o actualizezi %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
         <translation>pachete de resurse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
         <translation>pachet de resurse</translation>
@@ -13900,128 +14010,126 @@ Te rugăm să o actualizezi %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="123"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>Caută pentru %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="302"/>
         <source>Select %1 for download</source>
         <translation>Selectează %1 pentru descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="242"/>
         <source> by </source>
         <translation> de </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Acest proeict a fost arhivat. Acesta nu va mai primi actualizări cu excepția cazului în care autorul decide să dearhiveze proiectul.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="252"/>
         <source>Donate information: </source>
         <translation>Donează informații: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>External links:</source>
         <translation>Link-uri externe:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="269"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="272"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="266"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Cod sursă: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="300"/>
         <source>No version available for the selected pack</source>
         <translation>Nu există nicio versiune disponibilă pentru pachetul selectat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
         <source>Deselect %1 for download</source>
         <translation>Deselectați %1 de la descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="325"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="334"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
         <translation> [instalat]</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="341"/>
         <source>No valid version found.</source>
         <translation>Nicio versiune validă găsită.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="342"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nu se poate selecta o versiune invalidă :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="367"/>
         <source>Loading versions...</source>
         <translation>Încărcare versiuni...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="471"/>
         <source>No versions available</source>
         <translation>Nu sunt disponibile versiuni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="472"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
         <translation>Nu sunt disponibile versiuni pentru „%1”.
 Probabil că autorul a blocat programele de lansare ale unor terți.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="592"/>
         <source>Reinstall</source>
         <translation>Reinstalare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="575"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="593"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="581"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="599"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="599"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="617"/>
         <source>The resource was not found</source>
         <translation>Resursa nu a fost găsită</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
         <translation>resurse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="48"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
         <translation>resursă</translation>
@@ -14030,7 +14138,6 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>pachete de shadere</translation>
@@ -14039,13 +14146,11 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
 <context>
     <name>ResourceDownload::ShaderPackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
         <translation>pachete de shadere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
         <translation>pachet de shader</translation>
@@ -14054,7 +14159,6 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="151"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>pachete de texturi</translation>
@@ -14063,13 +14167,11 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
 <context>
     <name>ResourceDownload::TexturePackResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
         <translation>pachete de texturi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
         <translation>pachet de texturi</translation>
@@ -15094,71 +15196,71 @@ Ești sigur(ă)?</translation>
         <translation type="vanished">Descarcă shader-e de pe platforme de pe internet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="51"/>
         <source>Download Packs</source>
         <translation>Descarcă shadere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
         <source>Download shader packs from online mod platforms</source>
         <translation>Descarcă pachete de shadere de pe platformele online de moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="58"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
         <translation>Încearcă să verifici sau să actualizezi toate pachetele de shadere selectate (toate pachetele de shadere, dacă nu este selectat niciunul)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="72"/>
         <source>Change a shader pack&apos;s version.</source>
         <translation>Modifică versiunea unui pachet de shadere.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="97"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="186"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
         <translation>Descărcare oprită de utilizator.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="194"/>
         <source>Warnings</source>
         <translation>Avertizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="204"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="139"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>Actualizările pachetelor de shadere nu sunt disponibile atunci când metadatele sunt dezactivate!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
         <source>Confirm Update</source>
         <translation>Confirmați actualizarea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="143"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -15167,37 +15269,37 @@ Este posibil ca fișierele vechi să nu poată fi șterse deoarece sunt în uz.
 Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>The shader pack updater was aborted!</source>
         <translation>Procesul de actualizare a pachetului de shadere a fost abordată!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="172"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>Toate pachetele de shadere sunt la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>Toate pachetele de shadere selectate sunt la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
         <source>Update checker</source>
         <translation>Verificator de actualizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="219"/>
         <source>Confirm Removal</source>
         <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="220"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>Sunteți pe punctul de a șterge metadatele pentru %1 pachete de shadere.
@@ -15900,76 +16002,76 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation type="vanished">Descarcă pachete de texturi de pe platforme de pe internet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="48"/>
         <source>Download Packs</source>
         <translation>Descarcă pachete</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="49"/>
         <source>Download texture packs from online mod platforms</source>
         <translation>Descărcați pachete de texturi de pe platformele online de moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="55"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
         <translation>Încearcă să verifici sau să actualizezi toate pachetele de texturi selectate (toate pachetele de texturi, dacă nu este selectat niciunul)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="69"/>
         <source>Change a texture pack&apos;s version.</source>
         <translation>Modifică versiunea unui pachet de texturi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>View the homepages of all selected texture packs.</source>
         <translation>Vizualizați paginile de start ale tuturor pachetelor de texturi selectate.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="147"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Download stopped by user.</source>
         <translation>Descărcare oprită de utilizator.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="200"/>
         <source>Warnings</source>
         <translation>Avertizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="130"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="147"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>Actualizările pachetelor de texturi nu sunt disponibile atunci când metadatele sunt dezactivate!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
         <source>Confirm Update</source>
         <translation>Confurmați actualizarea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -15978,37 +16080,37 @@ Este posibil ca fișierele vechi să nu poată fi șterse, deoarece sunt în uz.
 Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
         <source>The texture pack updater was aborted!</source>
         <translation>Procesul de actualizare a pachetului de texturi a fost întrerupt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>Toate pachetele de texturi sunt la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>Toate pachetele de texturi selectate sunt la zi! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="183"/>
         <source>Update checker</source>
         <translation>Verificator de actualizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="225"/>
         <source>Confirm Removal</source>
         <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="226"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>Ești pe cale să ștergi metadatele pentru %1 pachete de texturi.
