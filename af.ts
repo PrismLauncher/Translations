@@ -1148,7 +1148,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen versoenbare weergawe van Java was gevind nie. Die standaard weergawe word gebruik.</translation>
     </message>
 </context>
 <context>
