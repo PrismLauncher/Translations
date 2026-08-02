@@ -495,7 +495,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Bain</translation>
+        <translation>B&amp;ain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
@@ -2405,7 +2405,7 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation>Bain</translation>
+        <translation>&amp;Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
@@ -2728,7 +2728,7 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>Bain</translation>
+        <translation>&amp;Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -3427,17 +3427,17 @@ Déan iarracht arís.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar na seanchomhaid a fháil.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní raibh muid in ann na seanchomhaid a aisghabháil mar gur cuireadh deireadh leis an tasc. D’fhéadfadh sé seo cuid de na comhaid a dhúbláil. Ar mhaith leat leanúint ar aghaidh?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní raibh muid in ann na seanchomhaid a aisghabháil mar gheall ar: %1. D’fhéadfadh sé seo cuid de na comhaid a dhúbláil. Ar mhaith leat leanúint ar aghaidh?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
@@ -3532,12 +3532,12 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Seanchomhaid choimhlintí á mbaint...</translation>
+        <translation>Seanchomhaid choimhlintí á mbaint...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Theip ar chomhaid choinbhleacha seanchaite a bhaint.</translation>
+        <translation>Theip ar chomhaid choinbhleacha seanchaite a bhaint.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
@@ -4579,22 +4579,22 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Léim</translation>
+        <translation>Léim</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Earráid</translation>
+        <translation>Earráid</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Níorbh fhéidir comhaid chluiche a íoslódáil: %1</translation>
+        <translation>Níorbh fhéidir comhaid chluiche a íoslódáil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Comhaid chluiche á n-íoslódáil</translation>
+        <translation>Comhaid chluiche á n-íoslódáil</translation>
     </message>
 </context>
 <context>
@@ -6030,17 +6030,17 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Eolairí samplaí breise</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
         <source>Remove</source>
-        <translation type="unfinished">Bain</translation>
+        <translation>Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
@@ -6266,23 +6266,23 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán Breise</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Eolaire dúblach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seo é do phríomh-eolaire samplach cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an t-eolaire seo curtha leis cheana féin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -9115,7 +9115,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuirfear na modanna seo a leanas ar siúl:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -9133,7 +9133,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beidh na modanna seo a leanas díchumasaithe:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -9268,7 +9268,7 @@ Ar mhaith leat iad a dhíchumasú?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Braitheann na modanna seo a leanas ar an mod/na modanna is mian leat a bhaint:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
@@ -9745,12 +9745,12 @@ Nuashonraigh %1 le do thoil!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Seanchomhaid choimhlintí á mbaint...</translation>
+        <translation>Seanchomhaid choimhlintí á mbaint...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Theip ar chomhaid choinbhleacha seanchaite a bhaint.</translation>
+        <translation>Theip ar chomhaid choinbhleacha seanchaite a bhaint.</translation>
     </message>
 </context>
 <context>
@@ -12039,7 +12039,7 @@ Ar mhaith leat na sábhálacha atá ann cheana a bhaint mar chuid den nuashonrú
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished">Anaithnid</translation>
+        <translation>Anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -12104,7 +12104,7 @@ Ar mhaith leat na sábhálacha atá ann cheana a bhaint mar chuid den nuashonrú
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="296"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Earráid</translation>
+        <translation>Earráideach</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -12465,47 +12465,47 @@ Teachtaireacht earráide: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Gan aitheantas</translation>
+        <translation>Gan aitheantas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">pacáistí sonraí</translation>
+        <translation>pacáistí sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">leasuithe</translation>
+        <translation>modhnóirí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">bearta acmhainní</translation>
+        <translation>pacáistí acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">acmhainn</translation>
+        <translation>acmhainn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">acmhainní</translation>
+        <translation>acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">bearta scáilitheora</translation>
+        <translation>pacáistí scáthaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">pacáistí uigeachta</translation>
+        <translation>pacáistí uigeachta</translation>
     </message>
 </context>
 <context>
@@ -12628,27 +12628,27 @@ An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="338"/>
         <source>mods</source>
-        <translation type="unfinished">leasuithe</translation>
+        <translation>modhnóirí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="362"/>
         <source>resource packs</source>
-        <translation type="unfinished">bearta acmhainní</translation>
+        <translation>pacáistí acmhainní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="383"/>
         <source>texture packs</source>
-        <translation type="unfinished">pacáistí uigeachta</translation>
+        <translation>pacáistí uigeachta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="404"/>
         <source>shader packs</source>
-        <translation type="unfinished">bearta scáilitheora</translation>
+        <translation>pacáistí scáthaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="425"/>
         <source>data packs</source>
-        <translation type="unfinished">pacáistí sonraí</translation>
+        <translation>pacáistí sonraí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
