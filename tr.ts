@@ -3619,64 +3619,64 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>FTB::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="82"/>
         <source>Getting the manifest...</source>
         <translation>Manifesto ediniliyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="90"/>
         <source>Failed to find pack version %1</source>
         <translation>%1 paket sürümü bulunamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="133"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Paket manifestosu anlaşılamadı.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="144"/>
         <source>Resolving mods...</source>
         <translation>Modlar çözülüyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="154"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>Geçersiz manifesto: &apos;%1&apos; dosyasını indirmek için mevcut bilgi yok!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="218"/>
         <source>Blocked files found</source>
         <translation>Engelli dosyalar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="219"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Aşağıdaki dosyalar üçüncü parti başlatıcılardan indirilmeye uygun değil.&lt;br/&gt;Bunları elle indirmeniz ve profile eklemeniz gerekecek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="241"/>
         <source>Creating the instance...</source>
         <translation>Profil yaratılıyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="304"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="307"/>
         <source>Mod download</source>
         <translation>Mod indirmesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods...</source>
         <translation>Engelli Modlar Kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="383"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Engelli Modlar Kopyalanıyor (%2 üzerinden %1 mod oldu)</translation>
     </message>
@@ -3738,12 +3738,12 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="33"/>
         <source>Copying files...</source>
         <translation>Dosyalar kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="48"/>
         <source>Copying settings...</source>
         <translation>Ayarlar kopyalanıyor...</translation>
     </message>
@@ -3840,15 +3840,14 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="115"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="362"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Paket manifestosu anlaşılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="124"/>
         <source> (version %1)</source>
         <translation> (sürüm %1)</translation>
     </message>
@@ -3877,96 +3876,122 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <source>Failed to fetch the old files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>No index file.</source>
         <translation>Dizin dosyası yok.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Eski sürüm için uygun bir dizin dosyası bulamadık. Bu, bazı dosyaların yinelenmesine neden olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="324"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="329"/>
         <source>No loader version set for modpack!</source>
         <translation>Mod paketi için yükleyici sürümü ayarlanmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Üzerine yazma (overrides) klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="379"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Belirtilen üzerine yazma (overrides) klasörü (%1) eksik. Belki de mod paketi daha önce kullanılmıştır?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifesto içinde bilinmeyen mod yükleyici: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="424"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Paket içe aktarılırken Minecraft sürümünden gizemli sondaki noktalar kaldırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="458"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Mod paketinin önerilen bellek miktarı sistem belleğinizin %90&apos;ını aşıyor—bu nedenle %1 MB&apos;den %2 MB&apos;ye düşürülüyor!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
+        <source>Removing old conflicting files...</source>
+        <translation type="unfinished">Eski çakışan dosyalar kaldırılıyor...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
+        <source>Failed to remove old conflicting files.</source>
+        <translation type="unfinished">Eski çakışan dosyalar kaldırılamadı.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="vanished">Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod kimlikleri çözümlenemedi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="554"/>
         <source>Blocked mods found</source>
         <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="577"/>
         <source>Mod Download Flame</source>
         <translation>Mod İndirme (CurseForge)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>%1 out of %2 complete</source>
         <translation>%2 görevin %1 tanesi tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
         <source>Copying Blocked Mods...</source>
         <translation>Engellenmiş Modlar Kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Engellenmiş Modlar Kopyalanıyor (%2 modun %1 tanesi tamamlandı)</translation>
     </message>
@@ -3987,7 +4012,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Tanınmayan/bilinmeyen PackageType: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
@@ -3995,22 +4020,22 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Merhaba!&lt;/h1&gt;&lt;h4&gt;Paket Kimliğiniz geçersiz görünüyor. Bu, başlatıcının eski sürümlerindeki bir hatadan kaynaklanmaktadır.&lt;br/&gt;Maalesef, bu bilgi olmadan doğru API isteklerini yapamıyoruz.&lt;br/&gt;&lt;br/&gt;Bu özelliğin çalışması için mod paketini yerleşik indiriciden yeniden indirmeniz gerekecektir.&lt;br/&gt;&lt;br/&gt;Endişelenmeyin, bu profili kaybetmemeniz için bunun yerine bu profili güncellemeniz istenecektir!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
         <source>%1 (Current)</source>
         <translation>%1 (Mevcut)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="514"/>
         <source>Choose update file</source>
         <translation>Güncelleme dosyasını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="514"/>
         <source>CurseForge pack</source>
         <translation>CurseForge paketi</translation>
     </message>
@@ -4772,39 +4797,32 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">%1 sürümünden profil yaratılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance:
 %1</source>
         <translation>Yeni profil oluşturulurken hata oluştu:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
         <source>Error while creating new instance.</source>
         <translation>Yeni profil oluşturulurken hata oluştu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
         <source>Removing old conflicting files...</source>
         <translation>Eski çakışan dosyalar kaldırılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Eski çakışan dosyalar kaldırılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
         <translation>Atla</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
         <translation>Oyun dosyaları indirilemedi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
         <translation>Oyun dosyaları indiriliyor</translation>
     </message>
@@ -4812,35 +4830,35 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Mod paketi indiriliyor:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="102"/>
         <source>Modpack download</source>
         <translation>Mod paketi indirmesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
         <source>Attempting to determine instance type</source>
         <translation>Profil türü belirlenmeye çalışılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkarılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Sağlanan mod paketi zip dosyası açılamıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arşiv, tanınan bir mod paketi türü içermiyor.</translation>
     </message>
@@ -4849,7 +4867,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Mod paketi çıkartımı başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 için izinler düzeltilemedi</translation>
     </message>
@@ -4948,7 +4966,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>%1 Profil</translation>
     </message>
@@ -5300,14 +5318,37 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="969"/>
+        <location filename="src/launcher/InstanceList.cpp" line="987"/>
         <source>Could not create staging folder</source>
         <translation>Hazırlık klasörü oluşturulamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="989"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Birden fazla denemeden sonra bile profil kaydedilemedi. Bir şey tarafından engelleniyor.</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceTask</name>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="143"/>
+        <source>Skip</source>
+        <translation type="unfinished">Atla</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="161"/>
+        <source>Error</source>
+        <translation type="unfinished">Hata</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="162"/>
+        <source>Could not download game files: %1</source>
+        <translation type="unfinished">Oyun dosyaları indirilemedi: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="168"/>
+        <source>Downloading game files</source>
+        <translation type="unfinished">Oyun dosyaları indiriliyor</translation>
     </message>
 </context>
 <context>
@@ -7420,7 +7461,7 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>LegacyFTB::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="67"/>
         <source>Downloading zip for %1</source>
         <translation>%1 için zip indiriliyor</translation>
     </message>
@@ -7429,7 +7470,7 @@ Lütfen tekrar deneyin.</translation>
         <translation type="vanished">%1 için zip indiriliyor (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="97"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkarılıyor</translation>
     </message>
@@ -7438,18 +7479,18 @@ Lütfen tekrar deneyin.</translation>
         <translation type="vanished">Mod paket dosyası %1 açılamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
         <source>Installing modpack</source>
         <translation>Mod paketi yükleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
         <translation>Çıkarılmış Minecraft taşınamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
         <source>No installation method found!</source>
         <translation>Yükleme yöntemi bulunamadı!</translation>
     </message>
@@ -9444,38 +9485,38 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>Web Sitesi: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Paket ID: %3    |    Sürüm ID: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="212"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="220"/>
         <source>Task aborted</source>
         <translation>Görev iptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="220"/>
         <source>The task has been aborted by the user.</source>
         <translation>Görev kullanıcı tarafından iptal edildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="225"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="233"/>
         <source>Update Pack</source>
         <translation>Paketi Güncelle</translation>
     </message>
@@ -9484,12 +9525,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation type="vanished">Paketi güncelle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="157"/>
         <source>This is a local modpack.
 This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
@@ -9502,37 +9543,37 @@ URL&apos;ye güvendiğinizden emin olun.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="244"/>
         <source>Failed to search for available versions.</source>
         <translation>Mevcut sürümler aranamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="247"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Bu mod paketi için değişiklik günlüğü verisi istenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="249"/>
         <source>Cannot update!</source>
         <translation>Güncellenemiyor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>Update Successful</source>
         <translation>Güncelleme Başarılı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="352"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Profil, %1 paket sürümüne başarıyla güncellendi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Update Failed</source>
         <translation>Güncelleme Başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="358"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Profil, %1 paket sürümüne güncellenemedi. Daha fazla bilgi için lütfen başlatıcı günlüklerine bakın.</translation>
     </message>
@@ -11595,24 +11636,24 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation type="vanished">İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
         <source>No index file.</source>
         <translation>İndeks dosyası yok.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Eski sürüm için uygun bir indeks dosyası bulunamadı. Bu durum bazı dosyaların kopyalanmasına neden olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Geçersiz kılma klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="202"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>İstemci geçersiz kılma klasörü yeniden adlandırılamadı:
@@ -11623,30 +11664,40 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation type="vanished">Mod indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
         <source>Mod Download Modrinth</source>
         <translation>Modrinth Mod İndirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Dosyalardan birinin yolu, rastgele bir konuma (%1) işaret ediyor. Bu bir güvenlik riskidir ve izin verilmez.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="268"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>&apos;%1&apos; dosyasında indirme bağlantısı eksik. Bu, paket formatında geçersizdir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="315"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="339"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="302"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="444"/>
         <source>%1 out of %2 complete</source>
         <translation>%2 dosyadan %1 tanesi tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="307"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
+        <source>Removing old conflicting files...</source>
+        <translation type="unfinished">Eski çakışan dosyalar kaldırılıyor...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
+        <source>Failed to remove old conflicting files.</source>
+        <translation type="unfinished">Eski çakışan dosyalar kaldırılamadı.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -11657,12 +11708,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation type="vanished">Bu mod paketindeki bir veya birden fazla mod seçmelidir. İndirilecektir ancak varsayılan olarak çevrim dışı olacaktır!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="431"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="367"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 için indirme URL&apos;si, doğru formatlanmış bir URL değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="429"/>
         <source>Could not understand pack index:
 </source>
         <translation>Paket indeksi anlaşılamadı:
@@ -11672,22 +11723,22 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="297"/>
         <source>%1 (Current)</source>
         <translation>%1 (Mevcut)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Değişiklik günlükleri alınıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="384"/>
         <source>Choose update file</source>
         <translation>Güncelleme dosyasını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="384"/>
         <source>Modrinth pack</source>
         <translation>Modrinth paketi</translation>
     </message>
@@ -12073,7 +12124,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="195"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="194"/>
         <source>New Instance</source>
         <translation>Yeni Profil</translation>
     </message>
@@ -12088,22 +12139,22 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation>&amp;Ad:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="93"/>
         <source>No group</source>
         <translation>Grup yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="115"/>
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="121"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="129"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="127"/>
         <source>Help</source>
         <translation>Yardım</translation>
     </message>
@@ -14032,12 +14083,12 @@ Bu mesaj, ilgili argümanı JVM argümanlarından kaldırana kadar gösterilecek
         <translation type="vanished">Yazar(lar) yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="13"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="17"/>
         <source>Change instance name</source>
         <translation>Profil adını değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="14"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="18"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -14048,12 +14099,12 @@ Eski ad: %1
 Yeni ad: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Similar modpack was found!</source>
         <translation>Benzer bir mod paketi bulundu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -14062,22 +14113,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 NOT: Güncellemeden önce önemli profil verilerinizi yedeklediğinizden emin olun. Dünyalar bozulabilir ve bazı yapılandırmalar kaybolabilir (paket geçersiz kılmaları nedeniyle).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="39"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="45"/>
         <source>Update existing instance</source>
         <translation>Mevcut profili güncelle</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="40"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="46"/>
         <source>Create new instance</source>
         <translation>Yeni profil oluştur</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="89"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="104"/>
         <source>Delete Existing Save Files</source>
         <translation>Kayıt Dosyalarını Sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="105"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
         <translation>Bu Mod Dizininin eski bir sürümü kayıt dosyaları ekledi.

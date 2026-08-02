@@ -3634,64 +3634,64 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>FTB::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="77"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="82"/>
         <source>Getting the manifest...</source>
         <translation>Manifest wird angefordert ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="90"/>
         <source>Failed to find pack version %1</source>
         <translation>Modpack-Version %1 konnte nicht gefunden werden</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="133"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Fehler beim Verarbeiten des Paketmanifests:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="144"/>
         <source>Resolving mods...</source>
         <translation>Mods auflösen ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="149"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="154"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>Ungültiges Manifest: Es sind keine Informationen zum Herunterladen der Datei &apos;%1&apos; verfügbar!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="218"/>
         <source>Blocked files found</source>
         <translation>Blockierte Dateien gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="219"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>Die folgenden Dateien sind nicht zum Herunterladen in Drittanbieter-Launchern verfügbar.&lt;br/&gt;Diese müssen manuell heruntergeladen und zur Instanz hinzugefügt werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="241"/>
         <source>Creating the instance...</source>
         <translation>Instanz wird erstellt...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="304"/>
         <source>Downloading mods...</source>
         <translation>Lade Mods herunter...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="307"/>
         <source>Mod download</source>
         <translation>Mod-Download</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods...</source>
         <translation>Blockierte Mods werden kopiert ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
+        <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="383"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopiere blockierte Mods (%1 aus %2 sind fertig)</translation>
     </message>
@@ -3753,12 +3753,12 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="33"/>
         <source>Copying files...</source>
         <translation>Kopiere Dateien...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="50"/>
+        <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="48"/>
         <source>Copying settings...</source>
         <translation>Kopiere Einstellungen...</translation>
     </message>
@@ -3855,15 +3855,14 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="115"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="362"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Konnte die Paket-Manifest-Datei nicht interpretieren:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="124"/>
         <source> (version %1)</source>
         <translation> (Version %1)</translation>
     </message>
@@ -3892,96 +3891,122 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <source>Failed to fetch the old files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>No index file.</source>
         <translation>Keine Index Datei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Wir konnten keine passende Indexdatei für die ältere Version finden. Dies kann dazu führen, dass einige der Dateien doppelt vorhanden sind. Möchten Sie fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Abrufen der lokalen Metadaten für %1 fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="324"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Konnte Version für %1 Loader nicht finden</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="329"/>
         <source>No loader version set for modpack!</source>
         <translation>Keine Loader-Version ist für dieses Modpack gesetzt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Konnte den Überschreibungsordner nicht umbenennen:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="379"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Der angegebene Überschreibungsordner (%1) fehlt. Wurde das Modpack vielleicht schon benutzt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Unbekannter Mod-Loader in Manifest Datei: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="424"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Mysteriöse anhängende Punkte wurden von der Minecraft-Version während des Paket-Imports entfernt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="458"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Der empfohlene Speicherverbrauch des Modpacks liegt über 90% deines verfügbaren RAMs – er wurde von %1 MiB auf %2 MiB verringert!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
+        <source>Removing old conflicting files...</source>
+        <translation type="unfinished">Entfernen alter, kollidierender Dateien...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
+        <source>Failed to remove old conflicting files.</source>
+        <translation type="unfinished">Alte kollidierende Dateien konnten nicht entfernt werden.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="vanished">Konnte die empfohlene Forge-Version für Minecraft %1 nicht finden</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Konnte die Mod-IDs nicht auflösen:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="540"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="554"/>
         <source>Blocked mods found</source>
         <translation>Blockierte Mods gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="541"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Die folgenden Mods sind für Drittanbieter-Launcher geblockt.&lt;br/&gt;Diese müssen manuell heruntergeladen werden und manuell zum Modpack hinzugefügt werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="577"/>
         <source>Mod Download Flame</source>
         <translation>Mod Download Flamme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 von %2 fertig</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopiere blockierte Mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="622"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopiere blockierte Mods (%1 aus %2 sind fertig)</translation>
     </message>
@@ -4002,7 +4027,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Unbekannter/unbearbeitet Paket-Typ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="599"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
         <source>Downloading mods...</source>
         <translation>Mods herunterladen...</translation>
     </message>
@@ -4010,22 +4035,22 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="410"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hallo du da!&lt;/h1&gt;&lt;h4&gt; Es scheint, als ob deine Pack ID null ist. Dies liegt an einem Fehler in älteren Versionen des Launchers.&lt;br/&gt;Leider können wir ohne diese Informationen keine korrekten API-Anfragen stellen.&lt;br/&gt;&lt;br/&gt;Damit diese Funktion funktioniert, müsst ihr das Modpack über den integrierten Downloader erneut herunterladen.&lt;br/&gt;&lt;br/&gt;Aber keine Sorge, er wird dich bitten, stattdessen diese Instanz zu aktualisieren, so dass du diese Instanz nicht verlieren wirst!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="514"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="514"/>
         <source>CurseForge pack</source>
         <translation>CurseForge Paket</translation>
     </message>
@@ -4824,39 +4849,32 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Erstelle Instanz&#xa0;von Version %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance:
 %1</source>
         <translation>Fehler beim Erstellen einer neuen Instanz:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
         <source>Error while creating new instance.</source>
         <translation>Fehler beim Erstellen einer neuen Instanz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="64"/>
         <source>Removing old conflicting files...</source>
         <translation>Entfernen alter, kollidierender Dateien...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="81"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Alte kollidierende Dateien konnten nicht entfernt werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="92"/>
         <source>Skip</source>
         <translation>Überspringen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="109"/>
         <source>Could not download game files: %1</source>
         <translation>Herunterladen der Spieldateien fehlgeschlagen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="113"/>
         <source>Downloading game files</source>
         <translation>Spieldateien werden heruntergeladen</translation>
     </message>
@@ -4864,35 +4882,35 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Modpack wird heruntergeladen:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="102"/>
         <source>Modpack download</source>
         <translation>Modpack Download</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
         <source>Attempting to determine instance type</source>
         <translation>Versuche die Art der Instanz zu erkennen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Entpacke Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="167"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Die Modpack ZIP-Datei konnte nicht geöffnet werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="171"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Das Archiv enthält kein bekanntes Modpack-Format.</translation>
     </message>
@@ -4901,7 +4919,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Modpack konnte nicht entpackt werden</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="228"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="235"/>
         <source>Could not fix permissions for %1</source>
         <translation>Konnte Rechte für %1 nicht reparieren</translation>
     </message>
@@ -5014,7 +5032,7 @@ Achtung beim Fortfahren!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="186"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>%1 Instanz</translation>
     </message>
@@ -5354,14 +5372,37 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="969"/>
+        <location filename="src/launcher/InstanceList.cpp" line="987"/>
         <source>Could not create staging folder</source>
         <translation>Konnte Staging-Ordner nicht anlegen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="989"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Fehler beim Senden der Instanz, selbst nach mehreren Versuchen. Es wird durch etwas blockiert.</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceTask</name>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="143"/>
+        <source>Skip</source>
+        <translation type="unfinished">Überspringen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="161"/>
+        <source>Error</source>
+        <translation type="unfinished">Fehler</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="162"/>
+        <source>Could not download game files: %1</source>
+        <translation type="unfinished">Herunterladen der Spieldateien fehlgeschlagen: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceTask.cpp" line="168"/>
+        <source>Downloading game files</source>
+        <translation type="unfinished">Spieldateien werden heruntergeladen</translation>
     </message>
 </context>
 <context>
@@ -7478,7 +7519,7 @@ Bitte versuche es erneut.</translation>
 <context>
     <name>LegacyFTB::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="67"/>
         <source>Downloading zip for %1</source>
         <translation>ZIP für %1 wird heruntergeladen</translation>
     </message>
@@ -7487,7 +7528,7 @@ Bitte versuche es erneut.</translation>
         <translation type="vanished">ZIP für %1 (%2) wird heruntergeladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="97"/>
         <source>Extracting modpack</source>
         <translation>Entpacke Modpack</translation>
     </message>
@@ -7496,18 +7537,18 @@ Bitte versuche es erneut.</translation>
         <translation type="vanished">Fehler beim Öffnen der Modpack-Datei %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
         <source>Installing modpack</source>
         <translation>Modpack wird installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="130"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
         <translation>Das entpackte Minecraft konnte nicht verschoben werden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
         <source>No installation method found!</source>
         <translation>Es konnte keine Installationsmethode gefunden werden!</translation>
     </message>
@@ -9519,38 +9560,38 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>Webseite: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Versions ID: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="212"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Warnings</source>
         <translation>Warnungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="220"/>
         <source>Task aborted</source>
         <translation>Aufgabe abgebrochen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="220"/>
         <source>The task has been aborted by the user.</source>
         <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="225"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="233"/>
         <source>Update Pack</source>
         <translation>Pack aktualisieren</translation>
     </message>
@@ -9559,12 +9600,12 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation type="vanished">Pack aktualisieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="157"/>
         <source>This is a local modpack.
 This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
@@ -9577,37 +9618,37 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="244"/>
         <source>Failed to search for available versions.</source>
         <translation>Die Suche nach verfügbaren Versionen ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="247"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Die Abfrage der Änderungs-Daten für dieses Modpack ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="249"/>
         <source>Cannot update!</source>
         <translation>Aktualisierung nicht möglich!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
         <source>Update Successful</source>
         <translation>Aktualisierung erfolgreich</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="352"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Die Instanz wurde erfolgreich auf Pack-Version %1 aktualisiert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Update Failed</source>
         <translation>Aktualisierung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="358"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Die Aktualisierung der Instanz auf Pack-Version %1 ist fehlgeschlagen. Bitte überprüfe die Logs des Launchers für weitere Informationen.</translation>
     </message>
@@ -11702,24 +11743,24 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
         <source>No index file.</source>
         <translation>Keine Index Datei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Wir konnten keine passende Indexdatei für die ältere Version finden. Dies kann dazu führen, dass einige der Dateien doppelt vorhanden sind. Möchten Sie fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Konnte den Überschreibungsordner nicht umbenennen:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="202"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>Der Client-Überschreibungsordner konnte nicht umbenannt werden:
@@ -11730,30 +11771,40 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Mod herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
         <source>Mod Download Modrinth</source>
         <translation>Mod Herunterladen Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Einer der Dateien hat einen Pfad zu einem beliebigen Speicherort (%1). Dies ist ein Sicherheitsrisiko und ist nicht erlaubt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="268"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>Der Datei &apos;%1&apos; fehlt ein Download-Link. Dies ist im Paketformat invalide.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="315"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="339"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="302"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="444"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 von %2 fertig</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="307"/>
         <source>Downloading mods...</source>
         <translation>Mods herunterladen...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
+        <source>Removing old conflicting files...</source>
+        <translation type="unfinished">Entfernen alter, kollidierender Dateien...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
+        <source>Failed to remove old conflicting files.</source>
+        <translation type="unfinished">Alte kollidierende Dateien konnten nicht entfernt werden.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -11764,12 +11815,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Eine oder mehrere Mods dieses Modpacks sind optional. Diese werden heruntergeladen, jedoch standardmäßig deaktiviert!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="431"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="367"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Download URL für %1 ist keine gültige URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="429"/>
         <source>Could not understand pack index:
 </source>
         <translation>Konnte Modpack-Index nicht verarbeiten:
@@ -11783,22 +11834,22 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished"> (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="297"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
         <translation>Änderungsprotokolle abrufen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="384"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="384"/>
         <source>Modrinth pack</source>
         <translation>Modrinth Paket</translation>
     </message>
@@ -12211,7 +12262,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="195"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="194"/>
         <source>New Instance</source>
         <translation>Neue Instanz</translation>
     </message>
@@ -12226,22 +12277,22 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>&amp;Name:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="95"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="93"/>
         <source>No group</source>
         <translation>Keine Gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="115"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="121"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="129"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="127"/>
         <source>Help</source>
         <translation>Hilfe</translation>
     </message>
@@ -14179,12 +14230,12 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
         <translation type="vanished">Kein(e) Autor(en)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="13"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="17"/>
         <source>Change instance name</source>
         <translation>Instanznamen ändern</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="14"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="18"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -14195,12 +14246,12 @@ Alter Name: %1
 Neuer Name: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Similar modpack was found!</source>
         <translation>Ähnliches Modpack wurde gefunden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -14209,22 +14260,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopie Ihrer wichtigen Instanzdaten erstellt haben, da Welten beschädigt werden können und einige Konfigurationen verloren gehen können (aufgrund von modpack überschreibungen).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="39"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="45"/>
         <source>Update existing instance</source>
         <translation>Aktualisiere bestehende Instanz</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="40"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="46"/>
         <source>Create new instance</source>
         <translation>Neue Instanz erstellen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="89"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="104"/>
         <source>Delete Existing Save Files</source>
         <translation>Existierende Sicherungsdateien löschen</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="105"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
         <translation>Eine frühere version von diesem mod pack installierte Sicherungsdateien.
