@@ -451,7 +451,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -3816,7 +3816,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3874,17 +3874,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 파일을 가져오는 데 실패하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>작업이 중단되어 이전 파일을 가져올 수 없었습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 이유로 이전 파일을 가져올 수 없었습니다: %1. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
@@ -3941,12 +3941,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">오래된 충돌 파일을 제거하는 중...</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">오래된 충돌 파일을 제거하지 못했습니다.</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4801,11 +4801,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation>오래된 충돌 파일을 제거하는 중...</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하는 중...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation>오래된 충돌 파일을 제거하지 못했습니다.</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -5326,22 +5326,22 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">건너뛰기</translation>
+        <translation>건너뛰기</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">게임 파일을 다운로드할 수 없습니다: %1</translation>
+        <translation>게임 파일을 다운로드할 수 없습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">게임 파일을 다운로드하는 중</translation>
+        <translation>게임 파일을 다운로드하는 중</translation>
     </message>
 </context>
 <context>
@@ -7051,17 +7051,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>추가 인스턴스 디렉터리</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
         <source>Remove</source>
-        <translation type="unfinished">제거</translation>
+        <translation>제거</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
@@ -7206,23 +7206,23 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>추가 인스턴스 폴더</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>중복된 디렉터리</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>이곳은 이미 기본 인스턴스 디렉터리입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 디렉터리는 이미 추가되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -10180,7 +10180,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>이 인스턴스를 플레이한 시간을 총 플레이 시간에 포함(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -10565,7 +10565,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
@@ -10742,7 +10742,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 모드가 활성화됩니다:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10756,7 +10756,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 모드가 비활성화됩니다:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -11157,7 +11157,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 모드는 제거하려는 모드에 따라 달라집니다:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
@@ -11537,7 +11537,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
@@ -11651,12 +11651,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">오래된 충돌 파일을 제거하는 중...</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">오래된 충돌 파일을 제거하지 못했습니다.</translation>
+        <translation>충돌이 발생하는 기존 파일을 제거하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -14300,7 +14300,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished">기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -14389,7 +14389,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -14681,54 +14681,54 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">인식되지 않음</translation>
+        <translation>인식되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">데이터 팩</translation>
+        <translation>데이터 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">모드</translation>
+        <translation>모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">리소스 팩</translation>
+        <translation>리소스 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">리소스</translation>
+        <translation>리소스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">리소스</translation>
+        <translation>리소스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">셰이더 팩</translation>
+        <translation>셰이더 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">텍스처 팩</translation>
+        <translation>텍스처 팩</translation>
     </message>
 </context>
 <context>
     <name>Resource</name>
     <message>
         <source>Unknown</source>
-        <translation>기타</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="156"/>
@@ -14852,27 +14852,27 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="338"/>
         <source>mods</source>
-        <translation type="unfinished">모드</translation>
+        <translation>모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="362"/>
         <source>resource packs</source>
-        <translation type="unfinished">리소스 팩</translation>
+        <translation>리소스 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="383"/>
         <source>texture packs</source>
-        <translation type="unfinished">텍스처 팩</translation>
+        <translation>텍스처 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="404"/>
         <source>shader packs</source>
-        <translation type="unfinished">셰이더 팩</translation>
+        <translation>셰이더 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="425"/>
         <source>data packs</source>
-        <translation type="unfinished">데이터 팩</translation>
+        <translation>데이터 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
