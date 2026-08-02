@@ -3952,12 +3952,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Usuwanie starych, konfliktujących plików...</translation>
+        <translation>Usuwanie starych, konfliktujących plików...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Próba usunięcia starych konfliktujących plików nieudana.</translation>
+        <translation>Próba usunięcia starych konfliktujących plików nieudana.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -7290,7 +7290,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatkowy Folder Instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
