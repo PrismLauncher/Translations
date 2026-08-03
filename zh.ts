@@ -3885,17 +3885,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获取旧的文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法获取旧的文件，因为任务已终止。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法获取旧的文件，因为：%1。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
@@ -3952,12 +3952,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">正在删除旧的冲突文件…</translation>
+        <translation>正在删除旧的冲突文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">无法删除旧的冲突文件。</translation>
+        <translation>无法删除旧的冲突文件。</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -5362,22 +5362,22 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">跳过</translation>
+        <translation>跳过</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">无法下载游戏文件：%1</translation>
+        <translation>无法下载游戏文件：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">正在下载游戏文件</translation>
+        <translation>正在下载游戏文件</translation>
     </message>
 </context>
 <context>
@@ -7268,7 +7268,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished">复制目录</translation>
+        <translation>复制目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
@@ -10834,7 +10834,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>下列 Mod 将会被启用：</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10848,7 +10848,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>下列 Mod 将会被禁用：</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -11249,7 +11249,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>下列 Mod 依赖于你想要删除的 Mod：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
@@ -11718,7 +11718,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我们无法找到适合旧版本的索引文件，这可能导致部分文件重复。是否继续？</translation>
+        <translation>我们无法找到适合旧版本的索引文件。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
@@ -11767,12 +11767,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">正在删除旧的冲突文件…</translation>
+        <translation>正在删除旧的冲突文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">无法删除旧的冲突文件。</translation>
+        <translation>无法删除旧的冲突文件。</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
