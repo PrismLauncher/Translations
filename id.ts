@@ -3818,17 +3818,17 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengambil file lama.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kami tidak dapat mengambil file lama karena tugas dibatalkan. Hal ini dapat menyebabkan beberapa file duplikat. Apakah Anda ingin melanjutkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kami tidak dapat mengambil file lama karena: %1. Hal ini dapat menyebabkan beberapa file duplikat. Apakah Anda ingin melanjutkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
@@ -3885,12 +3885,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Menghapus file-file berkonflik lama...</translation>
+        <translation>Menghapus file lama yang bertentangan...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Gagal menghapus file-file lama yang berkonflik.</translation>
+        <translation>Gagal menghapus file lama yang bertentangan.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -5193,22 +5193,22 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Lewati</translation>
+        <translation>Lewati</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Galat</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Tidak dapat mengunduh berkas game: %1</translation>
+        <translation>Tidak dapat mengunduh file game: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Mengunduh berkas game</translation>
+        <translation>Mengunduh file game</translation>
     </message>
 </context>
 <context>
@@ -6842,17 +6842,17 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori instance tambahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
         <source>Remove</source>
-        <translation type="unfinished">Hapus</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
@@ -7037,23 +7037,23 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Instance Tambahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori duplikat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini sudah menjadi direktori instance utama Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori ini sudah ditambahkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -9836,7 +9836,7 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hitung waktu bermain instance ini ke total waktu bermain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -10351,7 +10351,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod berikut akan diaktifkan:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10365,7 +10365,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod berikut akan dinonaktifkan:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -10792,7 +10792,7 @@ Apakah Anda ingin menonaktifkan mereka?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod berikut bergantung pada mod yang ingin Anda hapus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
@@ -11182,12 +11182,12 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Menghapus file-file berkonflik lama...</translation>
+        <translation>Menghapus file lama yang bertentangan...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Gagal menghapus file-file lama yang berkonflik.</translation>
+        <translation>Gagal menghapus file lama yang bertentangan.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -13701,7 +13701,7 @@ Apakah Anda ingin menghapus berkas penyimpanan yang sudah ada sebagai bagian dar
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dikenal</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -14078,47 +14078,47 @@ Pesan kesalahan: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dikenali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">data pack</translation>
+        <translation>paket data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mod-mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">paket-paket sumber daya</translation>
+        <translation>paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">sumber daya</translation>
+        <translation>sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">sumber-sumber daya</translation>
+        <translation>sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">paket-paket shader</translation>
+        <translation>paket shader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">paket-paket tekstur</translation>
+        <translation>paket tekstur</translation>
     </message>
 </context>
 <context>
@@ -14249,27 +14249,27 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="338"/>
         <source>mods</source>
-        <translation type="unfinished">mod-mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="362"/>
         <source>resource packs</source>
-        <translation type="unfinished">paket-paket sumber daya</translation>
+        <translation>paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="383"/>
         <source>texture packs</source>
-        <translation type="unfinished">paket-paket tekstur</translation>
+        <translation>paket tekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="404"/>
         <source>shader packs</source>
-        <translation type="unfinished">paket-paket shader</translation>
+        <translation>paket shader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="425"/>
         <source>data packs</source>
-        <translation type="unfinished">data pack</translation>
+        <translation>paket data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
