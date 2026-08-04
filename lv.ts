@@ -1465,7 +1465,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsu konfigurētā globālā modu mape un noklusējuma lejupielāžu mape tiek automātiski pārbaudītas, lai atrastu lejupielādētos modus, un, ja tie tiek atrasti, tie tiks kopēti uz instancē.&lt;/p&gt;&lt;p&gt;Ja vēlaties, varat lejupielādētos modus pārvilkt un nomest šajā dialoglodziņā vai pievienot mapi, kuru pārbaudīt, ja modu lejupielāde nav veikta noklusējuma vietā.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Noklikšķiniet uz „Atvērt trūkstošos”, lai pārlūkprogrammā atvērtu visas lejupielādes saites.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1542,7 +1542,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziņojuma etiķetes vietas turētājs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1802,33 +1802,33 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet cietās saites, nevis kopējiet failus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet cietās saites</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet simboliskās saites, nevis kopējiet failus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet simboliskās saites</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>CoW (Copy-on-Write) opcijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar reflinks klonētie faili neaizņem papildu vietu, kamēr tie netiek mainīti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1873,12 +1873,12 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 atbalsta atgriezeniskās saites</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 neatbalsta atgriezeniskās saites</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
@@ -1906,12 +1906,12 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasaules kopēšana...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās kopēt pasauli.</translation>
     </message>
 </context>
 <context>
@@ -2078,7 +2078,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārrakstīšana un vispārējie iestatījumi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
