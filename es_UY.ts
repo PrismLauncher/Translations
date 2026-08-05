@@ -2442,7 +2442,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Todos los paquetes de datos seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
@@ -2452,13 +2452,14 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Está a punto de eliminar los metadatos de %1 packs de shaders.
+¿Está seguro?</translation>
     </message>
 </context>
 <context>
@@ -2466,12 +2467,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminando mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo eliminar el mundo.</translation>
     </message>
 </context>
 <context>
@@ -2537,7 +2538,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El sistema está bajo mayor presión de memoria.
+Esto puede llevar a retrasos o desaceleraciones.
+De ser posible, cierre otras aplicaciones antes de continuar.
+
+¿Lanzamiento de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
