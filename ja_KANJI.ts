@@ -4283,12 +4283,12 @@ Please try again.</source>
         <translation>構成実例 %1 を複製中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>構成実例の文件集の複製に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>構成実例の文件集の複製は中止されました。</translation>
     </message>

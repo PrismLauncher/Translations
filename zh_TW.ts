@@ -4788,12 +4788,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>正在複製實例 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>實例資料夾複製失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>已中止複製實例資料夾。</translation>
     </message>

@@ -4632,12 +4632,12 @@ Prosím skúste to znova.</translation>
         <translation>Kopíruje sa inštancia %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>Kopírovanie priečinku inštancie zlyhalo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopírovanie priečinku inštancie bolo prerušené.</translation>
     </message>
@@ -13496,7 +13496,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
@@ -13565,7 +13565,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">módy</translation>
     </message>
     <message>
         <source>Change %1 version</source>
@@ -13647,7 +13647,7 @@ Naozaj chcete toto dialógové okno zavrieť?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="338"/>
         <source>mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="362"/>
@@ -13845,7 +13845,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="592"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="598"/>

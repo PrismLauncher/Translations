@@ -4535,12 +4535,12 @@ Prøv på nytt.</translation>
         <translation>Kopierer instans %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>Kopiering av instansmappe mislyktes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopiering av instansmappe er avbrutt.</translation>
     </message>

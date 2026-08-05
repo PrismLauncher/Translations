@@ -3904,12 +3904,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <translation>Duke kopjuar instancën %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>Kopjimi i dosjes së instancës dështoi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopjimi i dosjes së instancës u ndërpre.</translation>
     </message>

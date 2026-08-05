@@ -4336,12 +4336,12 @@ Prøv igjen.</translation>
         <translation>Kopierer førekomst %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>Klarte ikkje kopiere førekomstmappe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopieringa av førekomstmappa vart avbroten.</translation>
     </message>

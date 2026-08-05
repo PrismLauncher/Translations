@@ -4587,12 +4587,12 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Copiant la instància %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>La còpia de la carpeta de la instància ha fallat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>La còpia de l&apos;arxiu de la instància ha estat avortada.</translation>
     </message>

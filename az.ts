@@ -3941,12 +3941,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <translation>%1 profili kopyalanır</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="144"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
         <translation>Profil qovluğunun kopyalanması uğursuz oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Profil qovluğunun kopyalanması ləğv edildi.</translation>
     </message>
