@@ -1918,7 +1918,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovanie sveta...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
@@ -12914,7 +12914,9 @@ Nový názov: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna alebo viaceré z vašich inštancií pochádzajú z tohto istého modpacku %1. Chcete vytvoriť samostatnú inštanciu alebo aktualizovať existujúcu?
+
+POZNÁMKA: Pred aktualizáciou si nezabudnite vytvoriť zálohu dôležitých údajov inštancie, pretože svety sa môžu poškodiť a niektoré nastavenia sa môžu stratiť (v dôsledku prepisovania balíka).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="45"/>
@@ -13575,7 +13577,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>módy</translation>
     </message>
     <message>
         <source>mod</source>
@@ -13593,7 +13595,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="82"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="110"/>
@@ -13610,7 +13612,7 @@ Naozaj chcete toto dialógové okno zavrieť?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvorí sa nové okno, v ktorom si môžete skontrolovať vybraný %1 a potvrdiť svoj výber. Klávesová skratka: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
@@ -13676,7 +13678,7 @@ Naozaj chcete toto dialógové okno zavrieť?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť %1</translation>
     </message>
 </context>
 <context>
@@ -13822,7 +13824,7 @@ Prosím aktualizujte %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="366"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítavanie verzií...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="470"/>
@@ -14454,7 +14456,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov súboru: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
@@ -14534,7 +14536,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="101"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať súbor(y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
@@ -14832,7 +14834,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť „%1“.
+Toto je nezvratné a server navždy (NA DLHÚ DOBU) zmizne z vášho zoznamu.
+
+Naozaj to chcete urobiť?</translation>
     </message>
 </context>
 <context>
@@ -16035,17 +16040,18 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto inštancia nie je kompatibilná s verziou Javy %1.
+Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzia Javy %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejdite do nastavení Java danej inštancie, kde môžete zmeniť verziu Java alebo deaktivovať kontrolu kompatibility s Javou, ak viete, čo robíte.</translation>
     </message>
 </context>
 <context>
@@ -16177,12 +16183,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať agentov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať Java agentov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
@@ -16373,7 +16379,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť „%1“.
+Toto je nezvratná akcia, ktorá úplne odstráni túto vlastnú zložku.
+
+Naozaj to chcete urobiť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
@@ -16436,7 +16445,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrať agentov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
@@ -16781,7 +16790,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť sveta na disku.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="295"/>
@@ -16959,7 +16968,10 @@ Chcete pokračovať?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte sa odstrániť „%1“.
+Tento svet môže navždy zmiznúť (NA DLHÚ DOBU).
+
+Naozaj to chcete urobiť?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="235"/>
@@ -17008,7 +17020,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa získať oprávnenie pre služby %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
