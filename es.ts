@@ -2414,55 +2414,48 @@ Advertencia: Este recurso está vinculado de forma rígida a otra ubicación. Si
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="236"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
         <translation>Descarga detenida por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="241"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>¡Las actualizaciones de los data packs no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="123"/>
         <source>Confirm Update</source>
         <translation>Confirmar actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -2471,37 +2464,36 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro/a de que deseas continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
         <translation>¡Se ha cancelado la actualización del data pack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>¡&apos;%1&apos; está actualizado! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <source>All data packs are up-to-date! :)</source>
         <translation>¡Todos los data packs están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>¡Todos los data packs seleccionados están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>Update checker</source>
         <translation>Comprobador de actualizaciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="193"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="194"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de %1 data packs.
@@ -2983,17 +2975,15 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o aún no s
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -3847,14 +3837,14 @@ Por favor, inténtelo de nuevo.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="362"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>No se pudo entender el manifiesto del pack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
         <translation> (versión %1)</translation>
     </message>
@@ -3883,80 +3873,80 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <translation type="vanished">Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
         <translation>No se pudieron recuperar los archivos antiguos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>No se pudieron recuperar los archivos antiguos por que la tarea fue abortada. Esto puede causar que algunos de los archivos sean duplicados. Desea continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished">No pudimos buscar los archivos antiguos porque: %1. Esto puede causar que algunos de los archivos sean duplicados. ¿Quieres continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>No index file.</source>
         <translation>No hay archivo de índice.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>No pudimos encontrar un archivo de índice apropiado para la anterior versión. Esto puede causar que algunos de los archivos se dupliquen. ¿Deseas continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="289"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Error al obtener el índice de metadatos local para %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="324"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="325"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Error al encontrar la versión del loader %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
         <source>No loader version set for modpack!</source>
         <translation>¡No se ha definido la versión del loader para el modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>No se pudo cambiar el nombre de la carpeta de reemplazos:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="379"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="405"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Falta la carpeta de reemplazos especificada (%1). ¿Tal vez el pack de mods ya fue utilizado anteriormente?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader desconocido en el manifiesto: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="424"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Misteriosos puntos finales eliminados de la versión de Minecraft al importar el pack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="458"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>La memoria recomendada del modpack excede el 90% de la RAM de su sistema—reduciéndola de %1 MiB a %2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Eliminando archivos conflictivos antiguos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">No se pudo eliminar archivos conflictivos antiguos.</translation>
     </message>
@@ -3965,40 +3955,40 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <translation type="vanished">No se pudo mapear la versión recomendada de Forge para Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Incapaz de resolver las ID de mods:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="554"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="585"/>
         <source>Blocked mods found</source>
         <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Los siguientes mods no pueden ser descargados en launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y añadirlos al pack de mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="577"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Mod Download Flame</source>
         <translation>Descargar Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="639"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="668"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copiando mods bloqueados (%1 de %2 finalizados)</translation>
     </message>
@@ -4019,7 +4009,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <translation type="vanished">Tipo de pack no reconocido/manejado para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="644"/>
         <source>Downloading mods...</source>
         <translation>Descargando mods...</translation>
     </message>
@@ -4027,22 +4017,22 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hola!&lt;/h1&gt;&lt;h4&gt;Parece que el ID de tu pack es nulo. Esto se debe a un error en versiones anteriores del lanzador.&lt;br/&gt;Lamentablemente, sin esta información no podemos realizar las solicitudes adecuadas a la API.&lt;br/&gt;&lt;br/&gt;Por lo tanto, para que esta función funcione, tendrás que volver a descargar el modpack desde el descargador integrado.&lt;br/&gt;&lt;br/&gt;Pero no te preocupes, te pedirá que actualices esta instancia, ¡así que no la perderás!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
         <source>%1 (Current)</source>
         <translation>%1 (Actual)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>Choose update file</source>
         <translation>Elegir archivo de actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>CurseForge pack</source>
         <translation>CurseForge Pack</translation>
     </message>
@@ -5337,12 +5327,12 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="987"/>
+        <location filename="src/launcher/InstanceList.cpp" line="999"/>
         <source>Could not create staging folder</source>
         <translation>No se pudo crear la carpeta de montaje</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1019"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Error al confirmar la instancia, incluso después de varios reintentos. Está siendo bloqueado por algo.</translation>
     </message>
@@ -7572,49 +7562,47 @@ Inténtelo de nuevo.</translation>
         <translation type="vanished">FTB legado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <source>FTB private packs</source>
         <translation>Modpacks privados de FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>No se pudo descargar la información del pack para el código %1. 
 ¿Debería eliminarse ahora?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Add FTB pack</source>
         <translation>Añadir FTB Pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Enter pack code:</source>
         <translation>Introducir código del pack:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Remove pack</source>
         <translation>Eliminar pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>¿Estás seguro/a de que quieres eliminar el pack %1?</translation>
     </message>
@@ -8958,7 +8946,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1709"/>
         <source>No instance selected</source>
         <translation>No hay una instancia seleccionada</translation>
     </message>
@@ -9043,19 +9031,17 @@ Motivo:
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -9068,28 +9054,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Por favor, añade una cuenta Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>El pack de mods, mod, o recurso %1 está bloqueado para terceros! Por favor, descargalo manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>Descarga de Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
         <source>Group name</source>
         <translation>Nombre del grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Enter a new group name.</source>
         <translation>Entra un nuevo nombre de grupo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Delete group</source>
         <translation>Borrar grupo</translation>
     </message>
@@ -9098,37 +9084,37 @@ Por favor, añade una cuenta Microsoft.</translation>
         <translation type="vanished">¿Estás seguro de que quieres borrar el grupo %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1387"/>
         <source>Instance not editable</source>
         <translation>Instancia no editable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Esta instancia no es editable. Puede estar rota, no ser válida o ser demasiado antigua. Compruebe los registros para más detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Añadido exitosamente %1 a %PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 fue añadido exitosamente a %PATH . Ahora puedes iniciarlo ejecutando `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Error al añadir %1 a PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Se ha producido un error al intentar añadir %1 a la variable PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar Borrado</translation>
     </message>
@@ -9235,22 +9221,22 @@ Esto es permanente y borrará completamente la instancia.
         <translation>&amp;Renombrar grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Enlace de importación no válido: falta el parámetro &apos;url&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Enlace de importación no válido: la URL debe ser http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
         <source>Install modpack</source>
         <translation>Instalar modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9263,56 +9249,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
         <source>No instance!</source>
         <translation>¡No hay instancia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1132"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>No hay ninguna instancia disponible para añadir el recurso.
 Por favor, cree una nueva instancia antes de intentar instalar este recurso de nuevo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>¿Estás seguro/a de que quieres eliminar el grupo &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Rename group</source>
         <translation>Renombrar grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot rename group</source>
         <translation>No puedes renombrar el grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot set empty name.</source>
         <translation>No puedes poner un nombre vació.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Group already exists. :/</source>
         <translation>Ese grupo ya existe. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Failed to undo trashing instance</source>
         <translation>No se pudo deshacer la eliminación de la instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Algunos elementos y accesos directos no se han podido restaurar.
 Comprueba la papelera de reciclaje para restaurarlos manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9321,17 +9307,17 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Cannot Delete Running Instance</source>
         <translation>No se puede eliminar la instancia en ejecución</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>La instancia seleccionada se está ejecutando actualmente y no se puede eliminar. Por favor, detén la instancia antes de intentar eliminarla.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> y su acceso directo registrado %n</numerusform>
@@ -9339,7 +9325,7 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9350,7 +9336,7 @@ Esta acción puede ser irreversible y eliminará por completo la instancia.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>Deleting</source>
         <translation>Eliminando</translation>
     </message>
@@ -9391,48 +9377,48 @@ Esta acción puede ser irreversible y eliminará por completo la instancia.
         <translation type="vanished">¡Se creó un acceso directo a esta instancia en tu carpeta de aplicaciones!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>Rename Instance</source>
         <translation>Cambiar nombre de instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Su carpeta de instancia contiene &apos;!&apos;, ¡se sabe que esto causa problemas en Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Ahora tienes dos opciones: &lt;br/&gt; - cambiar la carpeta de la instancia en la configuración &lt;br/&gt; - mover esta instalación de %1 a una carpeta diferente</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Este es un problema: &lt;br/&gt; - Es probable que el sistema operativo borre el launcher sin previo aviso &lt;br/&gt; - cierra el launcher ahora y extráelo a una carpeta real, no a una carpeta temporal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Su carpeta de instancia contiene &apos;Rar$&apos; - ¡eso significa que no ha extraído el archivo del launcher!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>¡Su instancia está en una carpeta temporal: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Total playtime: %1</source>
         <translation>Tiempo de juego total: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -9547,23 +9533,21 @@ Solo puede actualizarse mediante un archivo con formato %1
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="90"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Update Pack</source>
         <translation>Actualizar modpack</translation>
     </message>
@@ -9590,37 +9574,37 @@ Asegúrate también de que la URL es de confianza.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Failed to search for available versions.</source>
         <translation>Error al buscar versiones disponibles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Error al solicitar los datos del registro de cambios para este modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>Cannot update!</source>
         <translation>¡No se puedo actualizar!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="285"/>
         <source>Update Successful</source>
         <translation>Actualización Exitosa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="286"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>La instancia se actualizó exitosamente a la versión del modpack %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
         <translation>Actualización fallida</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>La instancia no se actualizó a la versión %1 del modpack. Por favor, consulte los registros del iniciador para obtener más información.</translation>
     </message>
@@ -11115,10 +11099,10 @@ Ignorarlos puede provocar fallos en el juego.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -11127,43 +11111,38 @@ Ignorarlos puede provocar fallos en el juego.</translation>
         <translation type="vanished">¡Primero instala un mod loader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Download stopped by user.</source>
         <translation>Descarga detenida por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>¡Las actualizaciones de los mods no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>Confirm Update</source>
         <translation>Confirmar actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -11175,50 +11154,49 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>The mod updater was aborted!</source>
         <translation>¡El actualizador de mods fue abortado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>¡Todos los mods seleccionados están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Update checker</source>
         <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="307"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de los mods de %1.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>Missing Mod Loader</source>
         <translation>Loader de mods ausente</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="417"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Necesitas instalar un mod loader compatible antes de instalar mods.
 ¿Te gustaría hacerlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation>No se instaló ningún cargador de mods. Inténtalo de nuevo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>¡&apos;%1&apos; está actualizado! :)</translation>
     </message>
@@ -11268,7 +11246,7 @@ Do you want to disable them?</source>
         <translation type="unfinished">Los siguientes mods dependen de los mod(s) que desea eliminar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>¡Todos los mods están actualizados! :)</translation>
@@ -11678,7 +11656,7 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
         <translation> (versión %1)</translation>
     </message>
@@ -11707,24 +11685,24 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation type="vanished">Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>No index file.</source>
         <translation>No hay archivo de índice.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>No pudimos encontrar un archivo de índice apropiado para la anterior versión. Esto puede causar que algunos de los archivos se dupliquen. ¿Deseas continuar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>No se pudo cambiar el nombre de la carpeta de reemplazos:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>No se pudo renombrar la carpeta de reemplazos del cliente:
@@ -11735,38 +11713,38 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation type="vanished">Descargar mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>Mod Download Modrinth</source>
         <translation>Descargar Mod Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Uno de los archivos tiene una ruta que conduce a una ubicación arbitraria (%1). Esto es un riesgo para la seguridad y no está permitido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="268"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>Al archivo &apos;%1&apos; le falta un enlace de descarga. No es válido en el formato del modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="302"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="444"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="307"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="313"/>
         <source>Downloading mods...</source>
         <translation>Descargando mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Eliminando archivos conflictivos antiguos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">No se pudo eliminar archivos conflictivos antiguos.</translation>
     </message>
@@ -11779,12 +11757,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation type="vanished">Uno o más mods de este pack de mods son opcionales. ¡Serán descargados pero deshabilitados por defecto!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="367"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>La URL de descarga para %1 no es una URL correctamente formateada</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
         <source>Could not understand pack index:
 </source>
         <translation>No se pudo procesar el índice del pack:
@@ -11798,22 +11776,22 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <translation type="vanished"> (Actual)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <source>%1 (Current)</source>
         <translation>%1 (Actual)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
         <translation>Obteniendo registros de cambios...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Choose update file</source>
         <translation>Elegir archivo de actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Modrinth pack</source>
         <translation>Modrinth Pack</translation>
     </message>
@@ -13800,17 +13778,15 @@ Si eliges &apos;No&apos;, mclo.gs sólo mantendrá las primeras %2 líneas, cort
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>Failed to upload logs!</source>
         <translation>¡No se pudieron subir los registros!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation>Subida de registros abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
@@ -13829,12 +13805,12 @@ Mensaje de error: %1</translation>
         <translation type="vanished">Error de carga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="153"/>
         <source>Upload finished</source>
         <translation>Subida finalizada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>El &lt;a href=&quot;%1&quot;&gt;enlace para el registro subido&lt;/a&gt; ha sido colocado en el portapapeles.</translation>
     </message>
@@ -15535,50 +15511,45 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
         <translation>Descarga detenida por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="186"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="195"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>¡Las actualizaciones de los resource packs no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="140"/>
         <source>Confirm Update</source>
         <translation>Confirmar actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="141"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -15587,37 +15558,36 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <source>The resource pack updater was aborted!</source>
         <translation>¡El actualizador de resource packs fue interrumpido!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>¡&quot;%1&quot; está actualizado! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>¡Todos los resource packs están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>¡Todos los resource packs seleccionados están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>Update checker</source>
         <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de %1 resource packs.
@@ -15990,19 +15960,19 @@ Comprueba que no contenga información personal.
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="474"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Failed to upload screenshots!</source>
         <translation>¡Error al subir la captura de pantalla!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Unknown error</source>
         <translation>Error desconocido</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="487"/>
         <source>Upload finished</source>
         <translation>Subida finalizada</translation>
     </message>
@@ -16012,29 +15982,25 @@ Comprueba que no contenga información personal.
         <translation>Aborto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation>Carga de capturas de pantalla cancelada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido cancelada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>El &lt;a href=&quot;%1&quot;&gt;enlace de la captura de pantalla subida&lt;/a&gt; ha sido colocado en el portapapeles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>El &lt;a href=&quot;%1&quot;&gt;enlace para el registro subido&lt;/a&gt; ha sido abierto en el navegador por defecto y colocado en el portapapeles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="536"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -16045,7 +16011,7 @@ Esta acción puede ser irreversible y desaparecerán de la carpeta.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -16056,7 +16022,7 @@ Esta acción puede ser irreversible y la imagen desaparecerá de la carpeta.
 ¿Estás seguro/a?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
         <source>Confirm Deletion</source>
         <translation>Confirmar Borrado</translation>
     </message>
@@ -16347,50 +16313,45 @@ Esta acción es definitiva y el servidor desaparecerá de tu lista para siempre 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="95"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
         <translation>Descarga detenida por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>¡Las actualizaciones de los shader pack no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
         <source>Confirm Update</source>
         <translation>Confirmar actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -16399,37 +16360,36 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>The shader pack updater was aborted!</source>
         <translation>¡El actualizador de shader packs fue abortado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>¡&apos;%1&apos; está actualizado! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>¡Todos los shader packs están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>¡Todos los shader packs seleccionados están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>Update checker</source>
         <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="205"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de %1 shader packs.
@@ -17209,50 +17169,45 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Download stopped by user.</source>
         <translation>Descarga detenida por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="111"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>¡Las actualizaciones de los texture pack no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="141"/>
         <source>Confirm Update</source>
         <translation>Confirmar actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="142"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -17261,37 +17216,36 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
 ¿Estás seguro/a de que quieres hacerlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
         <source>The texture pack updater was aborted!</source>
         <translation>¡El actualizador de texture packs fue abortado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>¡&apos;%1&apos; está actualizado! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>¡Todos los texture packs están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="172"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>¡Todos los texture packs seleccionados están actualizados! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <source>Update checker</source>
         <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Eliminación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de %1 texture packs.
@@ -17401,6 +17355,29 @@ Are you sure?</source>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Es el porcentaje de textos completamente traducidos, sin contar los adivinados automáticamente.</translation>
+    </message>
+</context>
+<context>
+    <name>UntrustedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
+        <source>Easy There!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
+        <source>I trust this modpack and wish to proceed regardless</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

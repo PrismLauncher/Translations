@@ -2045,55 +2045,48 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="236"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Aborted</source>
         <translation>Ləğv edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
         <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="241"/>
         <source>Warnings</source>
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>Metadata söndürüldükdə məlumat paketi yeniləmələri əlçatmaz olur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="123"/>
         <source>Confirm Update</source>
         <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -2102,37 +2095,36 @@ Köhnə fayllar istifadədə olduqları üçün silinməyə bilər.
 Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
         <translation>Məlumat paketi yeniləyicisi ləğv edildi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <source>All data packs are up-to-date! :)</source>
         <translation>Bütün məlumat paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>Seçilmiş bütün məlumat paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>Update checker</source>
         <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="193"/>
         <source>Confirm Removal</source>
         <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="194"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Siz %1 məlumat paketinin metadatasını silmək üzrəsiniz.
@@ -2468,17 +2460,15 @@ yüklənmədiyi üçün bu nümunə işə salına bilməz. Zəhmət olmasa, işl
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
         <translation>Tapşırıq dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Durdur</translation>
     </message>
@@ -3204,135 +3194,135 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="362"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Paket manifesti anlamaq mümkün olmadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
         <translation> (version %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>No index file.</source>
         <translation>İndeks faylı yoxdur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Köhnə versiya üçün uyğun indeks faylı tapılmadı. Bu, bəzi faylların dublikatlaşmasına (təkrarlanmasına) səbəb ola bilər. Davam etmək istəyirsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="289"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="324"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="325"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1 yükləyicisi üçün versiya tapılmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
         <source>No loader version set for modpack!</source>
         <translation>Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Keçid qovluğunun adını dəyişmək mümkün olmadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="379"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="405"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Göstərilən üst-üstə düşmə qovluğu (%1) çatışmır. Ola bilsin ki, modpak artıq əvvəllər istifadə olunub?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifestdə naməlum mod yükləyicisi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="424"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Paket idxal edilərkən Minecraft versiyasından naməlum nöqtələr silindi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="458"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Modpakın tövsiyə olunan yaddaşı sisteminizin RAM-nın 10%-dən çoxunu tutur — %1 MiB-dən %2 MiB-ə endirilir!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod ID-lərini həll etmək mümkün deyil:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="554"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="585"/>
         <source>Blocked mods found</source>
         <translation>Bloklanmış modlar tapıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Aşağıdakı fayllar üçüncü tərəf başladıcılarında endirmək üçün mövcud deyil.&lt;br/&gt;Onları əl ilə endirməli və profilə əlavə etməli olacaqsınız.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="577"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Mod Download Flame</source>
         <translation>Mod Endirmə Alovu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="639"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 / %2 tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Copying Blocked Mods...</source>
         <translation>Bloklanmış modlar kopyalanır...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="668"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Bloklanmış modlar kopyalanır (%2 moddan %1-i tamamlandı)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="644"/>
         <source>Downloading mods...</source>
         <translation>Modlar endirilir...</translation>
     </message>
@@ -3340,22 +3330,22 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Salam!&lt;/h1&gt;&lt;h4&gt;Görünür ki, Pack ID-null-dır. Bu, launcher-in köhnə versiyalarındakı bir səhvdən qaynaqlanır.&lt;br/&gt;Təəssüf ki, bu məlumat olmadan düzgün API sorğularını yerinə yetirə bilmirik.&lt;br/&gt;&lt;br/&gt;Bu funksiyanın işləməsi üçün modpack-i daxili yükləyicidən yenidən yükləməlisiniz.&lt;br/&gt;&lt;br/&gt;Amma narahat olmayın, sistem sizdən bu profili yeniləməyinizi istəyəcək, beləliklə profili itirməyəcəksiniz!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
         <source>%1 (Current)</source>
         <translation>%1 (Cari)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>Choose update file</source>
         <translation>Yeniləmə faylını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>CurseForge pack</source>
         <translation>CurseForge paketi</translation>
     </message>
@@ -4068,12 +4058,12 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="987"/>
+        <location filename="src/launcher/InstanceList.cpp" line="999"/>
         <source>Could not create staging folder</source>
         <translation>Hazırlıq qovluğu yaradıla bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1019"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Bir neçə dəfə yenidən cəhd edilməsinə baxmayaraq profil təsdiqlənə bilmədi. Nəsə buna mane olur.</translation>
     </message>
@@ -5639,49 +5629,47 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
         <translation>Seçilmiş versiya:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
         <translation>Tapşırıq dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <source>FTB private packs</source>
         <translation>FTB özəl paketləri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>%1 kodu üçün paket məlumatlarını yükləmək mümkün olmadı.
 İndi silinsin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Add FTB pack</source>
         <translation>FTB paketi əlavə et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Enter pack code:</source>
         <translation>Paket kodunu daxil edin:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Remove pack</source>
         <translation>Paketi sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>%1 paketini silmək istədiyinizdən əminsiniz?</translation>
     </message>
@@ -6560,7 +6548,7 @@ Səbəb:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1709"/>
         <source>No instance selected</source>
         <translation>Heç bir profil seçilməyib</translation>
     </message>
@@ -6603,12 +6591,12 @@ Səbəb:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
@@ -6618,44 +6606,42 @@ Səbəb:
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation>Əməliyyat yarımçıq qaldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tapşırıq istifadəçi tərəfindən yarımçıq kəsildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>Yarımçıq kəs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>%1 modpaketi, mod və ya resursu üçüncü tərəflər üçün bloklanıb! Zəhmət olmasa, onu əllə yükləyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Daxil etmə linki səhvdir: &apos;url&apos; parametri qeyd olunmayıb.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Daxil etmə linki səhvdir: URL-in əvvəli http(s) olmalıdır.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
         <source>Install modpack</source>
         <translation>Modpaketini quraşdırın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -6668,62 +6654,62 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>Modpaketi endir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
         <source>No instance!</source>
         <translation>Profil yoxdur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1132"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Resursu əlavə etmək üçün mövcud profil yoxdur.
 Lütfən, bu resursu yenidən quraşdırmağa cəhd etməzdən əvvəl yeni profil yaradın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
         <source>Group name</source>
         <translation>Qrup adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Enter a new group name.</source>
         <translation>Yeni qrup adı daxil edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Delete group</source>
         <translation>Qrupu sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Failed to undo trashing instance</source>
         <translation>Profilin zibil qutusundan çıxarılması alınmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Bəzi profillər və qısayollar bərpa edilə bilmədi.
 Lütfən, onları əllə bərpa etmək üçün zibil qutusunu yoxlayın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1387"/>
         <source>Instance not editable</source>
         <translation>Profil redaktə edilə bilmir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Bu profil redaktə edilə bilməz. O, xarab olmuş, yanlış və ya çox köhnə ola bilər. Təfərrüatlar üçün logları yoxlayın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -6732,37 +6718,37 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 uğurla PATH-a əlavə edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 uğurla PATH-a əlavə edildi. İndi `%2` komandasını işlədərək onu başlada bilərsiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 PATH-a əlavə edilə bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1-i PATH-a əlavə etməyə çalışarkən xəta baş verdi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Cannot Delete Running Instance</source>
         <translation>İşləyən profili silmək mümkün deyil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Seçilmiş profil hazırda işləyir və silinə bilməz. Lütfən, silməyə cəhd etməzdən əvvəl profili dayandırın.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> və onun %n qeydə alınmış qısayolu</numerusform>
@@ -6770,7 +6756,7 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>Confirm Deletion</source>
         <translation>Silməyi Təsdiq edin</translation>
     </message>
@@ -6780,32 +6766,32 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
         <translation>&amp;Qrupu yenidən adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; qrupunu silmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Rename group</source>
         <translation>Qrupu yenidən adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot rename group</source>
         <translation>Qrupu yenidən adlandırmaq mümkün deyil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot set empty name.</source>
         <translation>Boş ad təyin etmək mümkün deyil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Group already exists. :/</source>
         <translation>Qrup artıq mövcuddur. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -6816,42 +6802,42 @@ Bu proses qalıcı ola bilər və profili tamamilə siləcəkdir.
 Əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>Deleting</source>
         <translation>Silinir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>Rename Instance</source>
         <translation>Profilin adını dəyişdirin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Profil qovluğunuzun adında &apos;!&apos; işarəsi var və bu, Java-da problemlərə səbəb ola bilər!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>İndi iki seçiminiz var:&lt;br/&gt; - parametrlərdən profil qovluğunu dəyişdirin &lt;br/&gt; - %1 quraşdırmasını fərqli bir qovluğa köçürün</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Bu bir problemdir: &lt;br/&gt; - Başladıcı ehtimal ki, əməliyyat sistemi tərəfindən xəbərdarlıq edilmədən silinəcək &lt;br/&gt; - başladıcını indi bağlayın və onu müvəqqəti qovluğa deyil, real bir yerə çıxarın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Profil qovluğunuzun adında &apos;Rar$&apos; var — bu o deməkdir ki, siz başlatma proqramının arxivini çıxarmamısınız!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Sizin profil qovluğunuz müvəqqəti qovluqdadır: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Total playtime: %1</source>
         <translation>Ümumi oyun müddəti: %1</translation>
     </message>
@@ -6957,23 +6943,21 @@ Bu, yalnız %1 formatındakı fayl vasitəsilə yenilənə bilər
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>Əməliyyat ləğv edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>Əməliyyat istifadəçi tərəfindən ləğv edildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="90"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Update Pack</source>
         <translation>Paketi yeniləyin</translation>
     </message>
@@ -6996,37 +6980,37 @@ Həmçinin URL-in etibarlı olduğundan əmin olun.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Failed to search for available versions.</source>
         <translation>Mövcud versiyaların axtarışı alınmadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Modpaketinin yeniliklər siyahısını sorğulamaq mümkün olmadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>Cannot update!</source>
         <translation>Yeniləmək mümkün deyil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="285"/>
         <source>Update Successful</source>
         <translation>Uğurla yeniləndi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="286"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>Profil uğurla %1 paket versiyasına yeniləndi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
         <translation>Yeniləmə uğursuz oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>Profil %1 paket versiyasına yenilənə bilmədi. Ətraflı məlumat üçün başlatıcının qeydlərinə (logs) baxmağınız xahiş olunur.</translation>
     </message>
@@ -8030,51 +8014,46 @@ Onları deaktiv etmək istəyirsiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Aborted</source>
         <translation>Ləğv edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Download stopped by user.</source>
         <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
         <source>Warnings</source>
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Meta-məlumatlar söndürüldükdə modları yeniləmək mümkün deyil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>Confirm Update</source>
         <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -8086,49 +8065,48 @@ Are you sure you want to do this?</oldsource>
 Davam etmək istədiyinizdən əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>The mod updater was aborted!</source>
         <translation>Mod yeniləyicisi ləğv edildi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Bütün seçilmiş modlar ən son versiyadadır! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Update checker</source>
         <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <source>Confirm Removal</source>
         <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="307"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>%1 mod üçün meta-məlumatları silmək üzrəsiniz.
 Əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>Missing Mod Loader</source>
         <translation>Mod yükləyicisi tapılmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="417"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Modları quraşdırmazdan əvvəl uyğun bir mod yükləyicisi quraşdırmalısınız. Bunu etmək istəyirsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
@@ -8149,7 +8127,7 @@ Are you sure?</source>
         <translation>Seçilmiş bütün modların ana səhifələrinə bax.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Bütün modlar ən son versiyadadır! :)</translation>
@@ -8255,79 +8233,79 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
         <translation> (version %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>No index file.</source>
         <translation>İndeks faylı yoxdur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Köhnə versiya üçün uyğun indeks faylı tapılmadı. Bu, bəzi faylların dublikatlaşmasına (təkrarlanmasına) səbəb ola bilər. Davam etmək istəyirsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Keçid qovluğunun adını dəyişmək mümkün olmadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>Müştəri keçid qovluğunun adını dəyişmək mümkün olmadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>Mod Download Modrinth</source>
         <translation>Mod yüklə Modrinth-dən</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Fayllardan birinin yolu ixtiyari bir ünvana (%1) yönləndirilir. Bu, təhlükəsizlik riskidir və icazə verilmir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="268"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>&apos;%1&apos; faylı üçün yükləmə linki çatışmır. Bu, paket formatında (pack format) yanlışdır.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="302"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="444"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 / %2 tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="307"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="313"/>
         <source>Downloading mods...</source>
         <translation>Modlar endirilir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="367"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 üçün yükləmə URL-i düzgün formatda deyil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
         <source>Could not understand pack index:
 </source>
         <translation>Paket indeksi başa düşülmədi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>
@@ -8335,22 +8313,22 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <source>%1 (Current)</source>
         <translation>%1 (Cari)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
         <translation>Dəyişikliklər siyahısı (changelogs) gətirilir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Choose update file</source>
         <translation>Yeniləmə faylını seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Modrinth pack</source>
         <translation>Modrinth paketi</translation>
     </message>
@@ -10119,27 +10097,25 @@ Qısaldılma prosesi davam etdirilsin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>Failed to upload logs!</source>
         <translation>Logları yükləmək mümkün olmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation>Logların yüklənməsi dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tapşırıq istifadəçi tərəfindən ləğv edildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="153"/>
         <source>Upload finished</source>
         <translation>Yükləmə tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Yüklənmiş log-a keçid&lt;/a&gt; panoya kopyalandı.</translation>
     </message>
@@ -11544,50 +11520,45 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
         <translation>Dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
         <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="186"/>
         <source>Warnings</source>
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="195"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>Metaməlumatlar bağlıdır, yenilənmələr yoxlanıla bilməz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="140"/>
         <source>Confirm Update</source>
         <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="141"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -11596,37 +11567,36 @@ Are you sure you want to do this?</source>
 Bunu etmək istədiyinizdən əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <source>The resource pack updater was aborted!</source>
         <translation>Resurs paketinin yenilənməsi dayandırıldı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>Bütün resurs paketləri yenilənib! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>Seçilmiş bütün resurs paketləri yenilənib! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>Update checker</source>
         <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
         <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>Siz %1 resurs paketinin meta-məlumatlarını silmək üzrəsiniz.
@@ -11938,19 +11908,19 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="474"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Failed to upload screenshots!</source>
         <translation>Ekran şəkillərini yükləmək mümkün olmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Unknown error</source>
         <translation>Naməlum xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="487"/>
         <source>Upload finished</source>
         <translation>Yükləmə başa çatdı</translation>
     </message>
@@ -11960,29 +11930,25 @@ Are you sure?</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation>Ekran şəkillərinin yüklənməsi dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tapşırıq istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>Yüklənmiş ekran şəklinin &lt;a href=&quot;%1&quot;&gt;keçidi&lt;/a&gt; mübadilə buferinə (clipboard) kopyalandı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>Yüklənmiş albomun &lt;a href=&quot;%1&quot;&gt;keçidi&lt;/a&gt; mübadilə buferinə (clipboard) kopyalandı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="536"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -11993,7 +11959,7 @@ Bu proses geri qaytarılmaya bilər və şəkillər qovluqdan birdəfəlik silin
 Əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -12004,7 +11970,7 @@ Bu proses geri qaytarılmaya bilər və şəkil qovluqdan birdəfəlik silinəc�
 Əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
         <source>Confirm Deletion</source>
         <translation>Silməyi Təsdiq edin</translation>
     </message>
@@ -12284,50 +12250,45 @@ Bu proses daimidir və server siyahınızdan həmişəlik (ÇOX UZUN MÜDDƏTLİ
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="95"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
         <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
         <source>Warnings</source>
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>Meta-məlumatlar söndürüldükdə shader paketi yeniləmələri əlçatmazdır!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
         <source>Confirm Update</source>
         <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -12336,37 +12297,36 @@ Köhnə fayllar istifadədə olduğu üçün silinməyə bilər.
 Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>The shader pack updater was aborted!</source>
         <translation>Shader paketi yeniləyicisi dayandırıldı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>Bütün shader paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>Seçilmiş bütün shader paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>Update checker</source>
         <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="205"/>
         <source>Confirm Removal</source>
         <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>Siz %1 shader paketinin meta-məlumatlarını silmək üzrəsiniz.
@@ -12997,50 +12957,45 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Error</source>
         <translation>Xəta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Aborted</source>
         <translation>Dayandırıldı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Download stopped by user.</source>
         <translation>Yükləmə istifadəçi tərəfindən dayandırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="111"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Warnings</source>
         <translation>Xəbərdarlıqlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
         <source>Abort</source>
         <translation>Dayandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>Metadata söndürüldükdə tekstur paketi yeniləmələri əlçatmaz olur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="141"/>
         <source>Confirm Update</source>
         <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="142"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -13049,37 +13004,36 @@ Are you sure you want to do this?</source>
  Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
         <source>The texture pack updater was aborted!</source>
         <translation>Tekstur paketi yeniləyicisi ləğv edildi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>Bütün tekstur paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="172"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>Seçilmiş bütün tekstur paketləri güncəldir! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <source>Update checker</source>
         <translation>Güncəlləmə yoxlayıcısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>Confirm Removal</source>
         <translation>Ləğv etməyi təsdiqlə</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>Siz %1 tekstur paketi üçün metadatayanı silmək üzrəsiniz.
@@ -13130,6 +13084,29 @@ Are you sure?</source>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Tamlıq – avtomatik təxmin edilənlər nəzərə alınmadan, tam tərcümə olunmuş sətirlərin faizidir.</translation>
+    </message>
+</context>
+<context>
+    <name>UntrustedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
+        <source>Easy There!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
+        <source>I trust this modpack and wish to proceed regardless</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

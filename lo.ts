@@ -1929,55 +1929,48 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="236"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Aborted</source>
         <translation>ຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
         <translation>ການດາວໂຫຼດຖືກຢຸດໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="93"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="88"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="241"/>
         <source>Warnings</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="215"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>ການອັບເດດດາຕ້າແພັກບໍ່ສາມາດໃຊ້ງານໄດ້ເມື່ອປິດໃຊ້ metadata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="123"/>
         <source>Confirm Update</source>
         <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="124"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -1986,37 +1979,36 @@ Are you sure you want to do this?</source>
 ເຈົ້າແນ່ໃຈຫຼືບໍ່ວ່າຕ້ອງການດຳເນີນການ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
         <source>The data pack updater was aborted!</source>
         <translation>ຕົວອັບເດດດາຕ້າແພັກຖືກຍົກເລີກ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; ເປັນເວີຊັນຫຼ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <source>All data packs are up-to-date! :)</source>
         <translation>ດາຕ້າແພັກທັງໝົດເປັນເວີຊັນຫຼ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="154"/>
         <source>All selected data packs are up-to-date! :)</source>
         <translation>ດາຕ້າແພັກທີ່ເລືອກທັງໝົດເປັນເວີຊັນຫຼ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>Update checker</source>
         <translation>ຕົວຊ່ວຍກວດສອບການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="193"/>
         <source>Confirm Removal</source>
         <translation>ຢືນຢັນການລຶບອອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="194"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>ເຈົ້າກຳລັງຈະລຶບ metadata ຂອງ %1 ດາຕ້າແພັກ.
@@ -2347,17 +2339,15 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
         <translation>ວຽກຖືກຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
         <translation>ວຽກຖືກຍົກເລີກໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
@@ -3040,135 +3030,135 @@ Are you sure you want to do this?</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="362"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>ບໍ່ສາມາດອ່ານຂໍ້ມູນ pack manifest ໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
         <translation> (ເວີຊັນ %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="262"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>No index file.</source>
         <translation>ບໍ່ມີໄຟລ໌ດັດສະນີ (index file).</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>ພວກເຮົາບໍ່ພົບໄຟລ໌ດັດສະນີທີ່ເໝາະສົມສຳລັບເວີຊັນເກົ່າ. ນີ້ອາດເຮັດໃຫ້ມີໄຟລ໌ຊ້ຳກັນ. ທ່ານຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="289"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>ບໍ່ສາມາດດຶງຂໍ້ມູນດັດສະນີ metadata ໃນເຄື່ອງສຳລັບ %1 ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="324"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="325"/>
         <source>Failed to find version for %1 loader</source>
         <translation>ບໍ່ພົບເວີຊັນສຳລັບຕົວຕິດຕັ້ງມອດ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="329"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
         <source>No loader version set for modpack!</source>
         <translation>ບໍ່ໄດ້ກຳນົດເວີຊັນຕົວຕິດຕັ້ງມອດສຳລັບມອດແພັກ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>ບໍ່ສາມາດປ່ຽນຊື່ໂຟນເດີ overrides ໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="379"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="405"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>ບໍ່ພົບໂຟນເດີ overrides ທີ່ລະບຸ (%1). ມອດແພັກນີ້ອາດຈະເຄີຍຖືກໃຊ້ໄປແລ້ວ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>ພົບຕົວຕິດຕັ້ງມອດທີ່ບໍ່ຮູ້ຈັກໃນ manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="424"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>ຈຸດທີ່ເກີນມາທາງທ້າຍເວີຊັນ Minecraft ຖືກລຶບອອກແລ້ວໃນຂະນະທີ່ນຳເຂົ້າແພັກ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="458"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>ໜ່ວຍຄວາມຈຳທີ່ແນະນຳສຳລັບມອດແພັກນີ້ເກີນ 90% ຂອງ RAM ໃນເຄື່ອງຂອງທ່ານ—ລະບົບຈຶ່ງປັບລົງຈາກ %1 MiB ເປັນ %2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="524"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>ບໍ່ສາມາດກວດສອບ ID ຂອງມອດໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="554"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="585"/>
         <source>Blocked mods found</source>
         <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນລັນເຊີພາກສ່ວນທີສາມ.&lt;br/&gt;ທ່ານຈຳເປັນຕ້ອງດາວໂຫຼດພວກມັນດ້ວຍຕົນເອງ ແລະ ເພີ່ມເຂົ້າໃນອິນສະແຕນຊ໌.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="577"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
         <source>Mod Download Flame</source>
         <translation>ດາວໂຫຼດມອດ Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="639"/>
         <source>%1 out of %2 complete</source>
         <translation>ສຳເລັດ %1 ຈາກທັງໝົດ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="621"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Copying Blocked Mods...</source>
         <translation>ກຳລັງຄັດລອກມອດທີ່ຖືກບລັອກ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="668"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>ກຳລັງຄັດລອກມອດທີ່ຖືກບລັອກ (ສຳເລັດ %1 ຈາກທັງໝົດ %2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="755"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="772"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="613"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="644"/>
         <source>Downloading mods...</source>
         <translation>ກຳລັງດາວໂຫຼດມອດ...</translation>
     </message>
@@ -3176,22 +3166,22 @@ Are you sure you want to do this?</source>
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;ສະບາຍດີ!&lt;/h1&gt;&lt;h4&gt;ເບິ່ງຄືວ່າ Pack ID ຂອງທ່ານເປັນຄ່າຫວ່າງ (null). ນີ້ເກີດຈາກບັກໃນລັນເຊີເວີຊັນເກົ່າ.&lt;br/&gt;ໜ້າເສຍດາຍທີ່ພວກເຮົາບໍ່ສາມາດຂໍຂໍ້ມູນຜ່ານ API ໄດ້ຫາກບໍ່ມີຂໍ້ມູນນີ້.&lt;br/&gt;&lt;br/&gt;ສະນັ້ນ, ເພື່ອໃຫ້ຟີເຈີນີ້ໃຊ້ງານໄດ້, ທ່ານຈຳເປັນຕ້ອງດາວໂຫຼດມອດແພັກຄືນໃໝ່ຜ່ານຕົວດາວໂຫຼດໃນເຄື່ອງ.&lt;br/&gt;&lt;br/&gt;ແຕ່ບໍ່ຕ້ອງຫ່ວງ, ມັນຈະຖາມໃຫ້ທ່ານອັບເດດອິນສະແຕນຊ໌ແທນ, ສະນັ້ນຂໍ້ມູນໃນອິນສະແຕນຊ໌ນີ້ຈະບໍ່ຫາຍໄປ!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
         <source>%1 (Current)</source>
         <translation>%1 (ປັດຈຸບັນ)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>Choose update file</source>
         <translation>ເລືອກໄຟລ໌ອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
         <source>CurseForge pack</source>
         <translation>ແພັກ CurseForge</translation>
     </message>
@@ -3894,12 +3884,12 @@ Are you sure you want to do this?</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="987"/>
+        <location filename="src/launcher/InstanceList.cpp" line="999"/>
         <source>Could not create staging folder</source>
         <translation>ບໍ່ສາມາດສ້າງໂຟນເດີ staging ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1019"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>ບໍ່ສາມາດບັນທຶກອິນສະແຕນຊ໌ໄດ້ ເຖິງວ່າຈະລອງໃໝ່ຫຼາຍຄັ້ງແລ້ວ. ມັນກຳລັງຖືກບາງຢ່າງບລັອກໄວ້.</translation>
     </message>
@@ -5387,49 +5377,47 @@ Please try again.</source>
         <translation>ເວີຊັນທີ່ເລືອກ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
         <translation>ຍົກເລີກວຽກງານແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
         <translation>ວຽກງານຖືກຍົກເລີກໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <source>FTB private packs</source>
         <translation>ແພັກສ່ວນຕົວຂອງ FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>ດາວໂຫຼດຂໍ້ມູນແພັກສຳລັບລະຫັດ %1 ບໍ່ສຳເລັດ.
 ທ່ານຕ້ອງການລຶບມັນອອກດຽວນີ້ເລີຍບໍ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Add FTB pack</source>
         <translation>ເພີ່ມແພັກ FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Enter pack code:</source>
         <translation>ປ້ອນລະຫັດແພັກ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Remove pack</source>
         <translation>ລຶບແພັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບແພັກ %1?</translation>
     </message>
@@ -6299,7 +6287,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1709"/>
         <source>No instance selected</source>
         <translation>ບໍ່ໄດ້ເລືອກຕົວຢ່າງໃດ</translation>
     </message>
@@ -6342,12 +6330,12 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="987"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -6357,44 +6345,42 @@ Reason:
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>Task aborted</source>
         <translation>ຍົກເລີກງານແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
         <source>The task has been aborted by the user.</source>
         <translation>ງານໄດ້ຖືກຍົກເລີກໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>ຊຸດ mod, mod, ຫຼື ຊັບພະຍາກອນ %1 ຖືກບລັອກສຳລັບບຸກຄົນທີສາມ! ກະລຸນາດາວໂຫຼດດ້ວຍຕົນເອງ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>ລິ້ງການນຳເຂົ້າບໍ່ຖືກຕ້ອງ: ຂາດພາຣາມິເຕີ &apos;url&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1070"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>ລິ້ງການນຳເຂົ້າບໍ່ຖືກຕ້ອງ: URL ຕ້ອງເປັນ http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
         <source>Install modpack</source>
         <translation>ຕິດຕັ້ງຊຸດ mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -6407,62 +6393,62 @@ URL:
 %2 ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1095"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Modpack download</source>
         <translation>ດາວໂຫຼດຊຸດ mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1135"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
         <source>No instance!</source>
         <translation>ບໍ່ມີຕົວຢ່າງ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1132"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>ບໍ່ມີຕົວຢ່າງທີ່ຈະເພີ່ມຊັບພະຍາກອນໃສ່.
 ກະລຸນາສ້າງຕົວຢ່າງໃໝ່ກ່ອນທີ່ຈະພະຍາຍາມຕິດຕັ້ງຊັບພະຍາກອນນີ້ອີກຄັ້ງ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
         <source>Group name</source>
         <translation>ຊື່ກຸ່ມ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Enter a new group name.</source>
         <translation>ປ້ອນຊື່ກຸ່ມໃໝ່.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Delete group</source>
         <translation>ລຶບກຸ່ມ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Failed to undo trashing instance</source>
         <translation>ບໍ່ສາມາດຍົກເລີກການຍ້າຍຕົວຢ່າງລົງຖັງຂີ້ເຫຍື້ອໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>ບາງຕົວຢ່າງ ແລະ ທາງລັດບໍ່ສາມາດກູ້ຄືນໄດ້.
 ກະລຸນາກວດເບິ່ງຖັງຂີ້ເຫຍື້ອຂອງທ່ານເພື່ອກູ້ຄືນດ້ວຍຕົນເອງ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1387"/>
         <source>Instance not editable</source>
         <translation>ບໍ່ສາມາດແກ້ໄຂຕົວຢ່າງນີ້ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>ຕົວຢ່າງນີ້ບໍ່ສາມາດແກ້ໄຂໄດ້. ມັນອາດຈະເພ, ບໍ່ຖືກຕ້ອງ ຫຼື ເກົ່າເກີນໄປ. ກວດເບິ່ງບັນທຶກສຳລັບລາຍລະອຽດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1423"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -6471,37 +6457,37 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
         <source>Successfully added %1 to PATH</source>
         <translation>ເພີ່ມ %1 ໃສ່ PATH ສຳເລັດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>ເພີ່ມ %1 ໃສ່ PATH ຂອງທ່ານສຳເລັດແລ້ວ. ດຽວນີ້ທ່ານສາມາດເລີ່ມມັນໄດ້ໂດຍການແລ່ນ `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>Failed to add %1 to PATH</source>
         <translation>ບໍ່ສາມາດເພີ່ມ %1 ໃສ່ PATH ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>ເກີດຂໍ້ຜິດພາດໃນຂະນະທີ່ພະຍາຍາມເພີ່ມ %1 ໃສ່ PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Cannot Delete Running Instance</source>
         <translation>ບໍ່ສາມາດລຶບຕົວຢ່າງທີ່ກຳລັງເຮັດວຽກຢູ່ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>ຕົວຢ່າງທີ່ເລືອກກຳລັງເຮັດວຽກຢູ່ ແລະ ບໍ່ສາມາດລຶບໄດ້. ກະລຸນາຢຸດຕົວຢ່າງກ່ອນທີ່ຈະພະຍາຍາມລຶບມັນ.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> ແລະ ທາງລັດທີ່ລົງທະບຽນແລ້ວຂອງມັນ %n ອັນ</numerusform>
@@ -6509,7 +6495,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>Confirm Deletion</source>
         <translation>ຢືນຢັນການລຶບ</translation>
     </message>
@@ -6519,32 +6505,32 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <translation>ປ່ຽນຊື່ກຸ່ມ (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບກຸ່ມ &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Rename group</source>
         <translation>ປ່ຽນຊື່ກຸ່ມ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot rename group</source>
         <translation>ບໍ່ສາມາດປ່ຽນຊື່ກຸ່ມໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Cannot set empty name.</source>
         <translation>ບໍ່ສາມາດຕັ້ງຊື່ຫວ່າງເປົ່າໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Group already exists. :/</source>
         <translation>ມີກຸ່ມນີ້ແລ້ວ. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1507"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -6555,42 +6541,42 @@ Are you sure?</source>
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>Deleting</source>
         <translation>ກຳລັງລຶບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>Rename Instance</source>
         <translation>ປ່ຽນຊື່ຕົວຢ່າງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>ໂຟນເດີຕົວຢ່າງຂອງທ່ານມີ &apos;!&apos; ແລະ ສິ່ງນີ້ອາດເຮັດໃຫ້ເກີດບັນຫາກັບ Java ໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>ຕອນນີ້ທ່ານມີສອງທາງເລືອກ: &lt;br/&gt; - ປ່ຽນໂຟນເດີຕົວຢ່າງໃນການຕັ້ງຄ່າ &lt;br/&gt; - ຍ້າຍການຕິດຕັ້ງ %1 ນີ້ໄປຍັງໂຟນເດີອື່ນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>ນີ້ຄືບັນຫາ: &lt;br/&gt; - Launcher ອາດຈະຖືກລຶບໂດຍບໍ່ມີການເຕືອນຈາກລະບົບປະຕິບັດການ &lt;br/&gt; - ປິດ launcher ດຽວນີ້ແລ້ວແຕກໄຟລ໌ໄປຍັງສະຖານທີ່ຈິງ, ບໍ່ແມ່ນໂຟນເດີຊົ່ວຄາວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>ໂຟນເດີຕົວຢ່າງຂອງທ່ານມີ &apos;Rar$&apos; - ນັ້ນໝາຍຄວາມວ່າທ່ານຍັງບໍ່ທັນແຕກແຟ້ມຈັດເກັບ launcher ເທື່ອ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>ໂຟນເດີຕົວຢ່າງຂອງທ່ານຢູ່ໃນໂຟນເດີຊົ່ວຄາວ: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1766"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Total playtime: %1</source>
         <translation>ເວລາຫຼິ້ນທັງໝົດ: %1</translation>
     </message>
@@ -6688,23 +6674,21 @@ Are you sure?</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>ຍົກເລີກງານແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>ງານໄດ້ຖືກຍົກເລີກໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="90"/>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Update Pack</source>
         <translation>ອັບເດດຊຸດ</translation>
     </message>
@@ -6727,37 +6711,37 @@ Make sure you also trust the URL.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Failed to search for available versions.</source>
         <translation>ບໍ່ສາມາດຄົ້ນຫາເວີຊັນທີ່ມີຢູ່ໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>ບໍ່ສາມາດຮ້ອງຂໍຂໍ້ມູນບັນທຶກການປ່ຽນແປງສຳລັບຊຸດ mod ນີ້ໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>Cannot update!</source>
         <translation>ບໍ່ສາມາດອັບເດດໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="285"/>
         <source>Update Successful</source>
         <translation>ອັບເດດສຳເລັດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="286"/>
         <source>The instance updated to pack version %1 successfully.</source>
         <translation>ຕົວຢ່າງອັບເດດເປັນຊຸດເວີຊັນ %1 ສຳເລັດແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
         <translation>ການອັບເດດລົ້ມເຫລວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
         <translation>ຕົວຢ່າງລົ້ມເຫລວໃນການອັບເດດເປັນຊຸດເວີຊັນ %1. ກະລຸນາກວດເບິ່ງບັນທຶກ launcher ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.</translation>
     </message>
@@ -7731,51 +7715,46 @@ Do you want to disable them?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Aborted</source>
         <translation>ຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Download stopped by user.</source>
         <translation>ການດາວໂຫຼດຖືກຢຸດໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
         <source>Warnings</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>ບໍ່ສາມາດອັບເດດ mod ໄດ້ເມື່ອປິດໃຊ້ຂໍ້ມູນເມຕາ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>Confirm Update</source>
         <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -7787,49 +7766,48 @@ Are you sure you want to do this?</oldsource>
 ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເຮັດແບບນີ້?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="266"/>
         <source>The mod updater was aborted!</source>
         <translation>ຕົວອັບເດດ mod ຖືກຍົກເລີກ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>mod ທີ່ເລືອກທັງໝົດເປັນເວີຊັນລ່າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Update checker</source>
         <translation>ຕົວກວດຫາອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="306"/>
         <source>Confirm Removal</source>
         <translation>ຢືນຢັນການລຶບອອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="307"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>ທ່ານກຳລັງຈະລຶບຂໍ້ມູນເມຕາສຳລັບ %1 mod.
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>Missing Mod Loader</source>
         <translation>ຂາດຕົວໂຫຼດ Mod (Mod Loader)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="417"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>ທ່ານຕ້ອງຕິດຕັ້ງ mod loader ທີ່ເຂົ້າກັນໄດ້ກ່ອນຕິດຕັ້ງ mod. ທ່ານຕ້ອງການຕິດຕັ້ງມັນບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; ເປັນເວີຊັນລ່າສຸດແລ້ວ! :)</translation>
     </message>
@@ -7850,7 +7828,7 @@ Are you sure?</source>
         <translation>ເບິ່ງໜ້າຫຼັກຂອງ mod ທີ່ເລືອກທັງໝົດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>mod ທັງໝົດເປັນເວີຊັນລ່າສຸດແລ້ວ! :)</translation>
@@ -7947,79 +7925,79 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="73"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
         <translation> (ເວີຊັນ %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>No index file.</source>
         <translation>ບໍ່ມີໄຟລ໌ດັດຊະນີ (index file).</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>ພວກເຮົາບໍ່ພົບໄຟລ໌ດັດຊະນີທີ່ເໝາະສົມສຳລັບເວີຊັນເກົ່າ. ສິ່ງນີ້ອາດເຮັດໃຫ້ບາງໄຟລ໌ຊ້ຳກັນໄດ້. ທ່ານຕ້ອງການສືບຕໍ່ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>ບໍ່ສາມາດປ່ຽນຊື່ໂຟນເດີ overrides ໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="202"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="203"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>ບໍ່ສາມາດປ່ຽນຊື່ໂຟນເດີລູກຂ່າຍ overrides ໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>Mod Download Modrinth</source>
         <translation>ການດາວໂຫຼດ Mod ຈາກ Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="262"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>ໜຶ່ງໃນໄຟລ໌ມີເສັ້ນທາງທີ່ນຳໄປສູ່ສະຖານທີ່ຕັ້ງເອງອື່ນໆ (%1). ອັນນີ້ແມ່ນຄວາມສ່ຽງດ້ານຄວາມປອດໄພ ແລະ ຈະບໍ່ໄດ້ຮັບອະນຸຍາດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="268"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
         <translation>ໄຟລ໌ &apos;%1&apos; ບໍ່ມີລິ້ງດາວໂຫຼດ. ສິ່ງນີ້ບໍ່ຖືກຕ້ອງຕາມຮູບແບບຂອງຊຸດນີ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="302"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="444"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
         <source>%1 out of %2 complete</source>
         <translation>ສຳເລັດ %1 ຈາກທັງໝົດ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="307"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="313"/>
         <source>Downloading mods...</source>
         <translation>ກຳລັງດາວໂຫຼດ mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="367"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>URL ດາວໂຫຼດສຳລັບ %1 ບໍ່ແມ່ນ URL ທີ່ຈັດຮູບແບບຖືກຕ້ອງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="429"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
         <source>Could not understand pack index:
 </source>
         <translation>ບໍ່ສາມາດເຂົ້າໃຈດັດຊະນີຂອງຊຸດ:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="494"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
     </message>
@@ -8027,22 +8005,22 @@ Please update %1!</source>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <source>%1 (Current)</source>
         <translation>%1 (ປັດຈຸບັນ)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
         <translation>ກຳລັງດຶງຂໍ້ມູນບັນທຶກການປ່ຽນແປງ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Choose update file</source>
         <translation>ເລືອກໄຟລ໌ອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Modrinth pack</source>
         <translation>ຊຸດ Modrinth</translation>
     </message>
@@ -9772,27 +9750,25 @@ Launcher ສາມາດເກັບ %3 ແຖວທຳອິດ ແລະ %4 �
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
         <source>Failed to upload logs!</source>
         <translation>ບໍ່ສາມາດອັບໂຫຼດປູມບັນທຶກໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="144"/>
         <source>Logs upload aborted</source>
         <translation>ການອັບໂຫຼດປູມບັນທຶກຖືກຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
         <translation>ວຽກງານນີ້ຖືກຍົກເລີກໂດຍຜູ້ໃຊ້ແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="158"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="153"/>
         <source>Upload finished</source>
         <translation>ອັບໂຫຼດສຳເລັດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="159"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;ລິ້ງໄປຫາປູມບັນທຶກທີ່ອັບໂຫຼດ&lt;/a&gt; ໄດ້ຖືກກັອບປີ້ໄວ້ໃນຄລິບບອດຂອງເຈົ້າແລ້ວ.</translation>
     </message>
@@ -11179,50 +11155,45 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
         <translation>ຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
         <translation>ການດາວໂຫຼດຖືກຢຸດໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="186"/>
         <source>Warnings</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="195"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="232"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>ບໍ່ສາມາດອັບເດດແພັກຊັບພະຍາກອນໄດ້ເມື່ອປິດໃຊ້ງານເມຕາເດຕາ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="140"/>
         <source>Confirm Update</source>
         <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="141"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -11231,37 +11202,36 @@ Are you sure you want to do this?</source>
 ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເຮັດສິ່ງນີ້?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <source>The resource pack updater was aborted!</source>
         <translation>ຕົວອັບເດດແພັກຊັບພະຍາກອນຖືກຍົກເລີກແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; ເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>ແພັກຊັບພະຍາກອນທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="171"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>ແພັກຊັບພະຍາກອນທີ່ເລືອກທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>Update checker</source>
         <translation>ຕົວກວດສອບການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
         <translation>ຢືນຢັນການເອົາອອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>ທ່ານກຳລັງຈະເອົາເມຕາເດຕາສຳລັບແພັກຊັບພະຍາກອນ %1 ອັນອອກ.
@@ -11573,19 +11543,19 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="474"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Failed to upload screenshots!</source>
         <translation>ອັບໂຫຼດພາບໜ້າຈໍລົ້ມເຫຼວ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Unknown error</source>
         <translation>ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="487"/>
         <source>Upload finished</source>
         <translation>ການອັບໂຫຼດສຳເລັດແລ້ວ</translation>
     </message>
@@ -11595,29 +11565,25 @@ Are you sure?</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>Screenshots upload aborted</source>
         <translation>ການອັບໂຫຼດພາບໜ້າຈໍຖືກຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
         <translation>ງານນີ້ຖືກຍົກເລີກໂດຍຜູ້ໃຊ້ແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;ລິ້ງໄປຫາພາບໜ້າຈໍທີ່ອັບໂຫຼດແລ້ວ&lt;/a&gt; ຖືກວາງໄວ້ໃນຄລິບບອດຂອງທ່ານແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;ລິ້ງໄປຫາອະລະບ້ຳທີ່ອັບໂຫຼດແລ້ວ&lt;/a&gt; ຖືກວາງໄວ້ໃນຄລິບບອດຂອງທ່ານແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="536"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -11628,7 +11594,7 @@ Are you sure?</source>
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="552"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -11639,7 +11605,7 @@ Are you sure?</source>
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
         <source>Confirm Deletion</source>
         <translation>ຢືນຢັນການລຶບ</translation>
     </message>
@@ -11919,50 +11885,45 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="95"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Aborted</source>
         <translation>ຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="188"/>
         <source>Download stopped by user.</source>
         <translation>ການດາວໂຫຼດຖືກຢຸດໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="181"/>
         <source>Warnings</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="227"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
         <translation>ບໍ່ສາມາດອັບເດດແພັກເຊດເດີໄດ້ເມື່ອປິດໃຊ້ງານເມຕາເດຕາ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="135"/>
         <source>Confirm Update</source>
         <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="136"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -11971,37 +11932,36 @@ Are you sure you want to do this?</source>
 ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເຮັດສິ່ງນີ້?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="165"/>
         <source>The shader pack updater was aborted!</source>
         <translation>ຕົວອັບເດດແພັກເຊດເດີຖືກຍົກເລີກແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; ເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <source>All shader packs are up-to-date! :)</source>
         <translation>ແພັກເຊດເດີທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="166"/>
         <source>All selected shader packs are up-to-date! :)</source>
         <translation>ແພັກເຊດເດີທີ່ເລືອກທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="169"/>
         <source>Update checker</source>
         <translation>ຕົວກວດສອບການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="205"/>
         <source>Confirm Removal</source>
         <translation>ຢືນຢັນການເອົາອອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
         <translation>ທ່ານກຳລັງຈະເອົາເມຕາເດຕາສຳລັບແພັກເຊດເດີ %1 ອັນອອກ.
@@ -12618,50 +12578,45 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Aborted</source>
         <translation>ຍົກເລີກແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <source>Download stopped by user.</source>
         <translation>ການດາວໂຫຼດຖືກຢຸດໂດຍຜູ້ໃຊ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="111"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Warnings</source>
         <translation>ຄຳເຕືອນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="233"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>ບໍ່ສາມາດອັບເດດແພັກພື້ນຜິວໄດ້ເມື່ອປິດໃຊ້ງານເມຕາເດຕາ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="141"/>
         <source>Confirm Update</source>
         <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="142"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -12670,37 +12625,36 @@ Are you sure you want to do this?</source>
 ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການເຮັດສິ່ງນີ້?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="171"/>
         <source>The texture pack updater was aborted!</source>
         <translation>ຕົວອັບເດດແພັກພື້ນຜິວຖືກຍົກເລີກແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; ເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>ແພັກພື້ນຜິວທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="172"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>ແພັກພື້ນຜິວທີ່ເລືອກທັງໝົດເປັນລຸ້ນລ້າສຸດແລ້ວ! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <source>Update checker</source>
         <translation>ຕົວກວດສອບການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>Confirm Removal</source>
         <translation>ຢືນຢັນການເອົາອອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>ທ່ານກຳລັງຈະເອົາເມຕາເດຕາສຳລັບແພັກພື້ນຜິວ %1 ອັນອອກ.
@@ -12751,6 +12705,29 @@ Are you sure?</source>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>ຄວາມສົມບູນແມ່ນເປີເຊັນຂອງຂໍ້ຄວາມທີ່ແປຄົບຖ້ວນແລ້ວ, ບໍ່ລວມເຖິງຂໍ້ຄວາມທີ່ຖືກເດົາໂດຍອັດຕະໂນມັດ.</translation>
+    </message>
+</context>
+<context>
+    <name>UntrustedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
+        <source>Easy There!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
+        <source>I trust this modpack and wish to proceed regardless</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
