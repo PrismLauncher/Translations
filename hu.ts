@@ -936,12 +936,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Nem lehet megjeleníteni ezt a naplót, mivel a hossza meghaladta a(z) %1 sort.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="907"/>
+        <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1075"/>
+        <location filename="src/launcher/Application.cpp" line="1077"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -968,12 +968,12 @@ a legutóbbi frissítési kísérlet részleteiért.
 A zárolás törléséhez és a folytatáshoz válaszd az alábbi „Figyelmen kívül hagyás” lehetőséget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1092"/>
+        <location filename="src/launcher/Application.cpp" line="1094"/>
         <source>Update In Progress</source>
         <translation>Frissítés folyamatban</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1118"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -988,12 +988,12 @@ Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1124"/>
+        <location filename="src/launcher/Application.cpp" line="1126"/>
         <source>Update Failed</source>
         <translation>Sikertelen frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1150"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1014,12 +1014,12 @@ Tekintsd meg a Prism Launcher frissítési naplóját itt:&#xa0;
 további részletekért.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1156"/>
+        <location filename="src/launcher/Application.cpp" line="1158"/>
         <source>Update Succeeded</source>
         <translation>Sikeres Frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1190"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1040,7 +1040,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1194"/>
+        <location filename="src/launcher/Application.cpp" line="1196"/>
         <source>Incompatible system configuration</source>
         <translation>Nem kompatibilis rendszerkonfiguráció</translation>
     </message>
@@ -1049,22 +1049,22 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <translation type="vanished">Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1947"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Régi adatok találhatók a(z) %1 példányból, de már vannak adatok a(z) %2 példányhoz. Sajnos neked kell migrálnod. Szeretnél emlékeztetőt kapni a függőben lévő adatmigrációról, amikor legközelebb elindítod a(z) %2 példányt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Úgy tűnik, korábban már használtad a(z) %1. Szeretnéd áttelepíteni az adataidat a(z) %2 új helyre?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1957"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Úgy tűnik, korábban használtad a(z) %1-et %2-n. Szeretnéd áttelepíteni az adataidat a(z) %3 új helyére?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2003"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Az áttelepítés nem sikerült! Ok: %1</translation>
     </message>
@@ -9588,47 +9588,47 @@ Győződj meg róla, hogy az URL megbízható.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>&amp;Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>Indítás &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>&amp;Demo indítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>Profilerek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Ne legyen profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1035"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9637,22 +9637,22 @@ Győződj meg róla, hogy az URL megbízható.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1037"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1074"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1089"/>
         <source>broken</source>
         <translation>törött</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1100"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1105"/>
         <source>, last played on %1 for %2</source>
         <translation>, utoljára játszva ekkor: %1, ennyit: %2</translation>
     </message>
@@ -9665,12 +9665,12 @@ Győződj meg róla, hogy az URL megbízható.
         <translation type="vanished">, legutóbbi játékidő: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
         <source>, total played for %1</source>
         <translation>, játékidő a példányon: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
         <source>, has crashed.</source>
         <translation>, összeomlott.</translation>
     </message>
@@ -10069,7 +10069,7 @@ Győződj meg róla, hogy az URL megbízható.
         <translation>&amp;Natív könyvtárak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation>Az OpenAL rendszertelepítésének használata</translation>
     </message>
@@ -10078,7 +10078,7 @@ Győződj meg róla, hogy az URL megbízható.
         <translation type="vanished">&amp;GLFW könyvtár elérési útja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
         <translation>A GLFW rendszertelepítésének használata</translation>
     </message>
@@ -10229,57 +10229,67 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
         <translation>Rift</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="673"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>&amp;GLFW library path:</source>
         <translation>&amp;GLFW könyvtár elérési útja:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="699"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
         <source>&amp;OpenAL library path:</source>
         <translation>&amp;OpenAL könyvtár elérési útja:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <source>Use system installation of SDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <source>&amp;SDL library path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
         <source>&amp;Performance</source>
         <translation>&amp;Teljesítmény</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="800"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A Feral Interactive GameMode funkciójának engedélyezése a játékteljesítmény potenciális javítása érdekében.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="803"/>
         <source>Enable Feral GameMode</source>
         <translation>Feral GameMode engedélyezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="810"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A MangoHud fejlett teljesítmény-felületének engedélyezése.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="813"/>
         <source>Enable MangoHud</source>
         <translation>MangoHud engedélyezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="775"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A diszkrét GPU használata az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="823"/>
         <source>Use discrete GPU</source>
         <translation>Diszkrét GPU használata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="785"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="830"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>A Zink, a Mesa OpenGL illesztőprogramjának használata, amely az OpenGL-t valósítja meg a Vulkan tetején. A teljesítmény a helyzettől függően változhat. Megjegyzés: Ha nem található megfelelő Vulkan illesztőprogram, a szoftver szoftveres renderelést használ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="833"/>
         <source>Use Zink</source>
         <translation>Zink használata</translation>
     </message>
@@ -10310,12 +10320,12 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
         <translation type="vanished">Egyjátékos világ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="816"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="861"/>
         <source>Custom Commands</source>
         <translation>Egyedi parancsok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="826"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="871"/>
         <source>Environment Variables</source>
         <translation>Környezeti változók</translation>
     </message>
@@ -10345,13 +10355,14 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
         <translation>A MangoHud nem található a rendszereden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="211"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="218"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="212"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="219"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
         <source>Path to %1 library file</source>
         <translation>A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="570"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="582"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Globális adatcsomagok mappa kiválasztása</translation>
     </message>

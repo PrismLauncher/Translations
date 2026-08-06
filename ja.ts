@@ -924,12 +924,12 @@ OSと%1をアップデートしてください。</translation>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="907"/>
+        <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1075"/>
+        <location filename="src/launcher/Application.cpp" line="1077"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -956,12 +956,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1092"/>
+        <location filename="src/launcher/Application.cpp" line="1094"/>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1118"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -976,12 +976,12 @@ for details on the last update attempt.</source>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1124"/>
+        <location filename="src/launcher/Application.cpp" line="1126"/>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1150"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1002,12 +1002,12 @@ for details.</oldsource>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1156"/>
+        <location filename="src/launcher/Application.cpp" line="1158"/>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1190"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1028,7 +1028,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1194"/>
+        <location filename="src/launcher/Application.cpp" line="1196"/>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
@@ -1037,22 +1037,22 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation type="vanished">中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1947"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前 %1 を使用していたようです。データを %2 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1957"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは以前 %2 に %1 を使用していたようです。データを %3 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2003"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
@@ -9273,47 +9273,47 @@ Make sure you also trust the URL.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>起動(&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>オフラインで起動(&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>デモ版を起動(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>プロファイラ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>プロファイラなし(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1035"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -9322,22 +9322,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1037"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1074"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1089"/>
         <source>broken</source>
         <translation>破損</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1100"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1105"/>
         <source>, last played on %1 for %2</source>
         <translation>, 前回 %1 に %2 プレイ</translation>
     </message>
@@ -9350,12 +9350,12 @@ Make sure you also trust the URL.
         <translation type="vanished">, 最後のプレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
         <source>, total played for %1</source>
         <translation>, 総プレイ時間: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
         <source>, has crashed.</source>
         <translation>, クラッシュしました。</translation>
     </message>
@@ -9742,7 +9742,7 @@ Make sure you also trust the URL.
         <translation>ネイティブライブラリ(&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation>システムにインストールされたOpenALを使用する</translation>
     </message>
@@ -9751,7 +9751,7 @@ Make sure you also trust the URL.
         <translation type="vanished">GLFWライブラリのパス(&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
         <translation>システムにインストールされたGLFWを使用する</translation>
     </message>
@@ -9902,57 +9902,67 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>Rift</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="673"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>&amp;GLFW library path:</source>
         <translation>GLFWライブラリのパス(&amp;G):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="699"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
         <source>&amp;OpenAL library path:</source>
         <translation>OpenALライブラリのパス(&amp;O):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <source>Use system installation of SDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <source>&amp;SDL library path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
         <source>&amp;Performance</source>
         <translation>パフォーマンス(&amp;P)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="800"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral InteractiveのGameModeを有効にすると、ゲームのパフォーマンスが向上する可能性があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="803"/>
         <source>Enable Feral GameMode</source>
         <translation>Feral GameModeを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="810"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHudの高度なパフォーマンスオーバーレイを有効にします。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="813"/>
         <source>Enable MangoHud</source>
         <translation>MangoHudを有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="775"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;メインGPUの代わりに外部GPU (dGPU) を使用します。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="823"/>
         <source>Use discrete GPU</source>
         <translation>外部GPUを使用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="785"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="830"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>Vulkan上にOpenGLを実装したMesa OpenGLドライバーであるZinkを使用します。パフォーマンスは状況によって異なる場合があります。注: 適切なVulkanドライバーが見つからない場合は、ソフトウェア レンダリングが使用されます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="833"/>
         <source>Use Zink</source>
         <translation>Zinkを使用</translation>
     </message>
@@ -9983,12 +9993,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="vanished">シングルプレイのワールド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="816"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="861"/>
         <source>Custom Commands</source>
         <translation>カスタムコマンド</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="826"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="871"/>
         <source>Environment Variables</source>
         <translation>環境変数</translation>
     </message>
@@ -10018,13 +10028,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>MangoHudがシステム上に見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="211"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="218"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="212"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="219"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
         <source>Path to %1 library file</source>
         <translation>%1ライブラリファイルへのパス</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="570"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="582"/>
         <source>Select Global Data Packs Folder</source>
         <translation>グローバルデータパックのフォルダを選択</translation>
     </message>

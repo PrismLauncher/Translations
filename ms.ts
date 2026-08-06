@@ -896,12 +896,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <translation>Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="907"/>
+        <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Settings</source>
         <translation>Tetapan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1075"/>
+        <location filename="src/launcher/Application.cpp" line="1077"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -928,12 +928,12 @@ untuk butiran tentang percubaan kemas kini terakhir.
 Untuk menghapus lock ini dan melanjutkan pilih &quot;Abaikan&quot; di bawah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1092"/>
+        <location filename="src/launcher/Application.cpp" line="1094"/>
         <source>Update In Progress</source>
         <translation>Kemas Kini Sedang Dijalankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1116"/>
+        <location filename="src/launcher/Application.cpp" line="1118"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -948,12 +948,12 @@ Semak log kemas kini Prism Launcher di:
 untuk butiran tentang percubaan kemas kini terakhir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1124"/>
+        <location filename="src/launcher/Application.cpp" line="1126"/>
         <source>Update Failed</source>
         <translation>Kemas Kini Gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1148"/>
+        <location filename="src/launcher/Application.cpp" line="1150"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -974,12 +974,12 @@ Semak log pengemas kini Prism Launcher di:
 untuk butiran.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1156"/>
+        <location filename="src/launcher/Application.cpp" line="1158"/>
         <source>Update Succeeded</source>
         <translation>Kemas Kini Berjaya</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1190"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1000,7 +1000,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1194"/>
+        <location filename="src/launcher/Application.cpp" line="1196"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurasi sistem tidak serasi</translation>
     </message>
@@ -1009,22 +1009,22 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1947"/>
+        <location filename="src/launcher/Application.cpp" line="1950"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Data lama daripada %1 ditemui, tetapi anda sudah mempunyai data sedia ada untuk %2. Malangnya anda perlu berpindah sendiri. Adakah anda ingin diingatkan tentang pemindahan data yang belum selesai pada kali seterusnya anda memulakan %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1951"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Nampaknya anda sudah menggunakan %1 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1957"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Nampaknya anda sudah menggunakan %1 pada %2 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2003"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasi gagal! Alasan: %1</translation>
     </message>
@@ -8448,47 +8448,47 @@ Pastikan anda juga mempercayai URL tersebut.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="304"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancarkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>Launch &amp;Offline</source>
         <translation>Lancarkan Di &amp;Luar Talian</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>Launch &amp;Demo</source>
         <translation>Lancarkan &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Profilers</source>
         <translation>Pemprofil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="327"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Tiada Pemprofil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1032"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1047"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESI&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1035"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN AKSES&gt;</translation>
     </message>
@@ -8497,32 +8497,32 @@ Pastikan anda juga mempercayai URL tersebut.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1037"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1074"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1089"/>
         <source>broken</source>
         <translation>rosak</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1085"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1100"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1105"/>
         <source>, last played on %1 for %2</source>
         <translation>, terakhir dimainkan pada %1 selama %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
         <source>, total played for %1</source>
         <translation>, waktu bermain keseluruhan %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
         <source>, has crashed.</source>
         <translation>, telah ranap.</translation>
     </message>
@@ -8816,7 +8816,7 @@ Pastikan anda juga mempercayai URL tersebut.
         <translation>Pustaka &amp;Asli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
         <translation type="unfinished">Gunakan pemasangan OpenAL sistem</translation>
     </message>
@@ -8825,7 +8825,7 @@ Pastikan anda juga mempercayai URL tersebut.
         <translation type="obsolete">Laluan pustaka &amp;GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
         <translation type="unfinished">Gunakan pemasangan GLFW sistem</translation>
     </message>
@@ -8976,57 +8976,67 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
         <translation>Rift</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="673"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
         <source>&amp;GLFW library path:</source>
         <translation>Laluan pustaka &amp;GLFW:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="699"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
         <source>&amp;OpenAL library path:</source>
         <translation>Laluan pustaka &amp;OpenAL:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="743"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <source>Use system installation of SDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <source>&amp;SDL library path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
         <source>&amp;Performance</source>
         <translation>&amp;Prestasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="800"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan Mod Permainan Feral Interactive, untuk berpotensi meningkatkan prestasi permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="803"/>
         <source>Enable Feral GameMode</source>
         <translation type="unfinished">Dayakan Mod Permainan Feral</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="810"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan tindanan prestasi lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="813"/>
         <source>Enable MangoHud</source>
         <translation type="unfinished">Dayakan MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="775"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret dan bukan GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="778"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="823"/>
         <source>Use discrete GPU</source>
         <translation type="unfinished">Gunakan GPU diskret</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="785"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="830"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation type="unfinished">Gunakan Zink, sebuah pemacu Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Nota: Jika tiada pemacu Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="833"/>
         <source>Use Zink</source>
         <translation type="unfinished">Gunakan Zink</translation>
     </message>
@@ -9049,12 +9059,12 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
         <translation type="obsolete">Dunia pemain tunggal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="816"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="861"/>
         <source>Custom Commands</source>
         <translation type="unfinished">Perintah Tersuai</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="826"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="871"/>
         <source>Environment Variables</source>
         <translation>Pemboleh Ubah Persekitaran</translation>
     </message>
@@ -9084,13 +9094,14 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
         <translation type="unfinished">MangoHud tidak dapat ditemui pada sistem anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="211"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="218"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="212"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="219"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
         <source>Path to %1 library file</source>
         <translation>Laluan ke fail pustaka %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="570"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="582"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Pilih Folder Pek Data Global</translation>
     </message>
