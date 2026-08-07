@@ -1938,7 +1938,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang sao chép thế giới...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
@@ -3867,7 +3867,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Đang xoá những tệp tin xung đột cũ...</translation>
+        <translation>Đang xoá những tệp tin xung đột cũ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
@@ -4656,12 +4656,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đang nhập thế giới...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nhập thế giới không thành công.</translation>
     </message>
 </context>
 <context>
@@ -5220,12 +5220,12 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Bỏ qua</translation>
+        <translation>Bỏ qua</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Lỗi</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
@@ -5235,7 +5235,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Đang tải xuống các tập tin game</translation>
+        <translation type="unfinished">Đang tải xuống các tệp game</translation>
     </message>
 </context>
 <context>
@@ -6898,7 +6898,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
@@ -10341,7 +10341,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Các bản mod sau sẽ được kích hoạt:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10355,7 +10355,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Các bản mod sau sẽ bị vô hiệu hóa:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -13715,7 +13715,7 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Không xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -14102,7 +14102,7 @@ Tin nhắn báo lỗi: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mods</translation>
+        <translation type="unfinished">các mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
@@ -14118,13 +14118,13 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">tài nguyên</translation>
+        <translation type="unfinished">các tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">các gói shader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
@@ -14261,7 +14261,7 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="340"/>
         <source>mods</source>
-        <translation type="unfinished">mods</translation>
+        <translation>các mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="364"/>
