@@ -10387,12 +10387,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать системную установку SDL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к библиотеке &amp;SDL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
@@ -12312,7 +12312,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Расположение:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -12347,17 +12347,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог недоступен</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог экземпляров &quot;%1&quot; больше недоступен. Пожалуйста, выберите другое расположение.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>По умолчанию (%1)</translation>
     </message>
 </context>
 <context>
@@ -17505,22 +17505,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Осторожнее!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Сборка модов, которую вы устанавливаете, включает в себя моды, которые не размещены на Modrinth или CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Вредоносные моды часто распространяются через ссылки, которые рассылают на платформах вроде Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Настоятельно рекомендуем импортировать сборки модов только из надежных источников.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Я доверяю этой сборке модов и хочу продолжать, несмотря ни на что</translation>
     </message>
 </context>
 <context>
@@ -18382,7 +18382,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation>Потвердить</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
