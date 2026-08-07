@@ -878,72 +878,77 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <translation>Police de la console&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <source>Enable cat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
         <translation>Taille du chat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
         <translation>Ajuster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
         <translation>Remplir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
         <translation>Étirer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
         <translation>Opacité du chat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
         <source>Opaque</source>
         <translation>Opaque</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="303"/>
         <source>Transparent</source>
         <translation>Transparent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="398"/>
         <source>Preview</source>
         <translation>Aperçu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[ERREUR] OOoooOOOoooo&#x202f;! Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
         <translation>[ERREUR] Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
         <translation>[INFO] Un message inoffensif...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="267"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
         <translation>[AVERTISSEMENT] Une erreur pas si effrayante.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
         <translation>[DEBOGAGE] Un message secret de débogage...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Une terrifiante erreur fatale&#x202f;!</translation>
     </message>
@@ -956,12 +961,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <translation>Impossible d&apos;afficher ce journal car la longueur du journal dépasse %1 lignes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="909"/>
+        <location filename="src/launcher/Application.cpp" line="911"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1087"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -988,12 +993,12 @@ pour obtenir des détails sur la dernière tentative de mise à jour.
 Pour lever ce verrouillage et continuer, sélectionnez &quot;Ignorer&quot; ci-dessous.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1094"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
         <translation>Mise à jour en cours</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1128"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1008,12 +1013,12 @@ Vérifiez le journal de l&apos;assistant d&apos;installation de Prism Launcher&#
 pour plus de détails concernant la dernière tentative de mise à jour.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1126"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
         <translation>Échec de la mise à jour</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1160"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1034,12 +1039,12 @@ Vérifiez le journal de l&apos;assistant de mise à jour de Prism Launcher&#xa0;
 pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1158"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
         <translation>Mise à jour réussie</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1190"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1060,7 +1065,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1196"/>
+        <location filename="src/launcher/Application.cpp" line="1206"/>
         <source>Incompatible system configuration</source>
         <translation>Configuration de système incompatible</translation>
     </message>
@@ -1069,22 +1074,22 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation type="vanished">Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1950"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Des anciennes données de %1 ont été trouvés, cependant vous avez déjà des données existantes pour %2. Malheuresement, vous devrez faire la migration par vous même. Souhaitez-vous recevoir un rappel de la migration des données en attente la prochaine fois que vous démarrerez %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1954"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1970"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Il semblerait que vous avez utilisé %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2006"/>
+        <location filename="src/launcher/Application.cpp" line="2016"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration échouée&#x202f;! Raison&#xa0;: %1</translation>
     </message>
@@ -4994,7 +4999,7 @@ Procéder avec prudence!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="180"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>Instance %1</translation>
     </message>
@@ -5346,12 +5351,12 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="997"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
         <source>Could not create staging folder</source>
         <translation>Impossible de créer un dossier de transit</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="1017"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1027"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Échec de la validation de l&apos;instance, même après plusieurs tentatives. Quelque chose bloque le processus.</translation>
     </message>
@@ -6671,7 +6676,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Mettre à jour les paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Vérifier automatiquement les mises à jour</translation>
@@ -6685,22 +6690,22 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Aucun canal sélectionné.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Folders</source>
         <translation>Dossiers</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <source>I&amp;nstances:</source>
         <translation>I&amp;nstances&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>Browse</source>
         <translation>Parcourir</translation>
     </message>
@@ -6738,42 +6743,42 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation>Ne jamais renommer le dossier</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="191"/>
         <source>Updater</source>
         <translation>Actualisateur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>How Often?</source>
         <translation>À quelle fréquence&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="202"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="212"/>
         <source>Set to 0 to only check on launch</source>
         <translation>Régler à 0 pour ne vérifier qu&apos;au lancement</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>On Launch</source>
         <translation>Au lancement</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source> hours</source>
         <translation> heures</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>Every </source>
         <translation>Chaque </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>&amp;Auto Java Download:</source>
         <translation>Téléchargement &amp;automatique de Java&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
         <translation>Dossier où Prism Launcher stocke les versions Java téléchargées automatiquement. Ne définissez PAS ce dossier comme étant celui de votre installation Java système.</translation>
     </message>
@@ -6783,52 +6788,52 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation>Par durée totale de &amp;jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="415"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Icônes&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
         <translation>Actuellement, cela affiche uniquement les mods qui ne sont pas marqués comme compatibles avec la version actuelle de Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
         <translation>Détecter et afficher les incompatibilités des mods (expérimental)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="541"/>
         <source>Log History &amp;Limit:</source>
         <translation>&amp;Limite de l&apos;historique des journaux&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="586"/>
         <source>Tasks</source>
         <translation>Tâches</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="639"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="649"/>
         <source>Retry Limit:</source>
         <translation>Limite de tentatives&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
         <source>Concurrent Download Limit:</source>
         <translation>Limite de téléchargements simultanés&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="666"/>
         <source>HTTP Timeout:</source>
         <translation>Délai d&apos;attente HTTP&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="682"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="692"/>
         <source>Concurrent Task Limit:</source>
         <translation>Limite de tâches simultanées&#xa0;:</translation>
     </message>
@@ -6895,7 +6900,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Désactiver l&apos;utilisation des métadonnées pour les mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;; color&#x202f;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#x202f;:#f5c211&#x202f;;&quot;&gt;&#x202f;: Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod&#x202f;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6946,7 +6951,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Rory ID 11 (édition plate, dessiné par Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="322"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Téléchargements&#xa0;:</translation>
     </message>
@@ -6983,12 +6988,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Toujours</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Skins:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Si activé, en plus du dossier de téléchargements, ses sous-dossiers seront également recherchés lors de la recherche de ressources (par exemple lors de la recherche de mods bloqués sur CurseForge).</translation>
     </message>
@@ -7026,7 +7031,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Nombre de téléchargements simultanés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="653"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="663"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Secondes à attendre jusqu&apos;à ce que les requêtes soit terminées</translation>
     </message>
@@ -7035,7 +7040,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Délai d&apos;expiration pour les requêtes HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="632"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="642"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -7044,7 +7049,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Nombre d&apos;essais manuels</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Si activé, les ressources bloquées seront déplacées au lieu d&apos;être copiées.</translation>
     </message>
@@ -7088,82 +7093,92 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation>&amp;Remplacer la barre d&apos;outils avec la barre de menus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
+        <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
+        <source>&amp;Open Edit window on instance double-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Additional instance directories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Remove</source>
         <translation type="unfinished">Supprimer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
         <source>Mods and Modpacks</source>
         <translation>Mods et modpacks</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>Vérifier les &amp;sous-dossiers pour les mods bloqués</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>Déplacer les mods bloqués au lieu de les copier</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>Stocker les informations de version fournies par les fournisseurs de mods (comme Modrinth ou CurseForge) pour les mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>Keep track of mod metadata</source>
         <translation>Suivre les métadonnées des mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Détecter, installer et mettre à jour automatiquement les dépendances des mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>Install dependencies automatically</source>
         <translation>Installer automatiquement les dépendances</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>Lors de la création d&apos;une nouvelle instance de modpack, proposez plutôt de mettre à jour une instance existante.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Suggérer de mettre à jour une instance existante lors de l&apos;installation du modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
         <source>Instance Creation</source>
         <translation>Création d&apos;une instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
         <translation>Le téléchargement des fichiers de jeu est nécessaire lors de la création de l&apos;instance. Désactivez cette option pour ignorer le téléchargement initial et récupérer les fichiers au lancement de l&apos;instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="506"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Download game files during instance creation</source>
         <translation>Télécharger les fichiers du jeu lors de la création de l&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>Console</source>
         <translation>Console</translation>
     </message>
@@ -7192,13 +7207,13 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <translation type="vanished">Limite de l&apos;&amp;historique</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Arrêter la &amp;journalisation si elle devient trop importante</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="547"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="557"/>
         <source> lines</source>
         <translation> lignes</translation>
     </message>
@@ -8938,14 +8953,14 @@ Raison&#xa0;:
         <translation type="vanished"> sur %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>No instance selected</source>
         <translation>Aucune instance sélectionnée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Total playtime: 0s</source>
         <translation>Temps de jeu total&#xa0;: 0s</translation>
     </message>
@@ -8954,13 +8969,13 @@ Raison&#xa0;:
         <translation type="vanished">Profils</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Créer une instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Supprimer le groupe</translation>
@@ -8995,7 +9010,7 @@ Raison&#xa0;:
         <translation>Aucun compte ajouté&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -9010,17 +9025,17 @@ Raison&#xa0;:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Chargement des actualités...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Aucunes actualités disponibles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
         <source>Warnings</source>
         <translation>Avertissements</translation>
     </message>
@@ -9033,9 +9048,9 @@ Raison&#xa0;:
         <translation>La tâche a été annulée par l&apos;utilisateur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1022"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
@@ -9048,28 +9063,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Veuillez ajouter un compte Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1011"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Ce modpack, mod ou ressource %1 est bloqué pour les tiers ! Veuillez le télécharger manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
         <source>Modpack download</source>
         <translation>Téléchargement du modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
         <source>Group name</source>
         <translation>Nom du groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Enter a new group name.</source>
         <translation>Entrez un nouveau nom de groupe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Delete group</source>
         <translation>Supprimer le groupe</translation>
     </message>
@@ -9078,37 +9093,39 @@ Veuillez ajouter un compte Microsoft.</translation>
         <translation type="vanished">Voulez-vous vraiment supprimer le groupe %1&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1387"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <source>Instance not editable</source>
         <translation>Instance non modifiable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1402"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Cette instance n&apos;est pas modifiable. Elle peut être endommagée, invalide ou trop ancienne. Consultez les logs pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Le rajout de %1 à PATH s&apos;est correctement passé</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 a été correctement ajouté à votre PATH. Vous pouvez maintenant le démarrer avec &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Erreur dans l&apos;ajout de %1 au PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1460"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Une erreur s&apos;est produite pendant l&apos;ajout de %1 au PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
         <source>Confirm Deletion</source>
         <translation>Confirmer la suppression</translation>
     </message>
@@ -9210,27 +9227,27 @@ Voulez-vous continuer ?</translation>
         <translation type="vanished">Les snapshots ne sont actuellement pas prises en charge par les modpacks de CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Renommer le groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Lien d&apos;importation non valide&#xa0;: paramètre &apos;url&apos; manquant.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Lien d&apos;importation non valide&#xa0;: l&apos;URL doit être en http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1085"/>
         <source>Install modpack</source>
         <translation>Installer le modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9243,56 +9260,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1144"/>
         <source>No instance!</source>
         <translation>Aucune instance&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1132"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1145"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Aucune instance n&apos;est disponible pour ajouter la ressource.
 Veuillez créer une nouvelle instance avant d&apos;essayer d&apos;installer à nouveau cette ressource.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Êtes-vous sûrs de vouloir supprimer le groupe &apos;%1&apos;&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Rename group</source>
         <translation>Renommer le groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Cannot rename group</source>
         <translation>Impossible de renommer le groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Cannot set empty name.</source>
         <translation>Impossible de définir un nom vide.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Group already exists. :/</source>
         <translation>Le groupe existe déjà. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to undo trashing instance</source>
         <translation>Échec de récupération de l&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Certaines instances et certains raccourcis n&apos;ont pas pu être restaurés.
 Veuillez vérifier votre corbeille pour les restaurer manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9301,17 +9318,17 @@ Pour vider manuellement le cache de métadonnées, cliquez sur Dossiers -&gt; Af
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Impossible de supprimer une instance lancée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>L&apos;instance sélectionnée est déjà lancée et ne peut être supprimée. Veuillez arrêter l&apos;instance avant d&apos;essayer de la supprimer.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> et ce %n raccourci enregistré</numerusform>
@@ -9319,7 +9336,7 @@ Pour vider manuellement le cache de métadonnées, cliquez sur Dossiers -&gt; Af
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9330,7 +9347,7 @@ Cette action est irréversible
 Voulez-vous vraiment continuer&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1527"/>
         <source>Deleting</source>
         <translation>Suppression</translation>
     </message>
@@ -9371,48 +9388,48 @@ Voulez-vous vraiment continuer&#x202f;?</translation>
         <translation type="vanished">Raccourci créé vers cette instance dans votre dossier applications&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
         <source>Rename Instance</source>
         <translation>Renommer l&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Votre dossier d&apos;instance contient un point d&apos;exclamation. Cela peut causer des problèmes avec Java&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Vous avez désormais deux options&#xa0;: &lt;br/&gt; - modifier le dossier de l&apos;instance dans les paramètres &lt;br/&gt; - déplacer cette installation de %1 vers un autre dossier</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1750"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Cela pose un problème&#xa0;: &lt;br/&gt; - Le launcher sera probablement supprimé sans avertissement par le système d&apos;exploitation &lt;br/&gt; - Fermez le launcher maintenant et décompressez-le vers un emplacement réel, pas dans un dossier temporaire</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Votre dossier d&apos;instance contient «&#xa0;Rar$&#xa0;», cela signifie que vous n&apos;avez pas extrait l&apos;archive du launcher&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Le dossier de votre instance se trouve dans un dossier temporaire&#xa0;: «&#xa0;%1&#xa0;»&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1751"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
         <source>Total playtime: %1</source>
         <translation>Temps de jeu total&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1110"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -9428,7 +9445,7 @@ Voulez-vous vraiment continuer&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Comptes</translation>
     </message>

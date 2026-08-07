@@ -862,72 +862,77 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <translation>Konsol Font:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="335"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <source>Enable cat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
         <translation>Skalering af kat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
         <translation>Tilpas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="363"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
         <translation>Udfyld</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="368"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
         <translation>Stræk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
         <translation>Kat Gennemsigtighed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
         <source>Opaque</source>
         <translation>Ugennemsigtig</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="287"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="303"/>
         <source>Transparent</source>
         <translation>Gennemsigtig</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="398"/>
         <source>Preview</source>
         <translation>Forhåndsvisning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="262"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[FEJL] OOoooOOOoooo! En skræmmende fejl!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="264"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
         <translation>[FEJL] En skræmmende fejl!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="266"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
         <translation>[INFO] En harmløs besked...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="267"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
         <translation>[ADV] En ikke så skræmmende advarsel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="268"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
         <translation>[DEBUG] En hemmelig debugging besked...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="269"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] En frygtindgydende fatal fejl!</translation>
     </message>
@@ -940,12 +945,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <translation>Denne log kan ikke vises eftersom loglængden oversteg %1 linjer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="909"/>
+        <location filename="src/launcher/Application.cpp" line="911"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1077"/>
+        <location filename="src/launcher/Application.cpp" line="1087"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -972,12 +977,12 @@ for detaljer om det sidste opdateringsforsøg.
 For at slette denne lås og fortsætte skal du vælge &quot;Ignorer&quot; nedenfor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1094"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
         <translation>Opdatering Igang</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1118"/>
+        <location filename="src/launcher/Application.cpp" line="1128"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -992,12 +997,12 @@ Check Prism Launcer updateringsloggen på:
 For flere detalier på sidste opdaterings forsøg.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1126"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
         <translation>Opdatering Fejlede</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1150"/>
+        <location filename="src/launcher/Application.cpp" line="1160"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1018,12 +1023,12 @@ Tjek Prism Launcherens-opdateringsloggen ved:
 for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1158"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
         <translation>Opdatering fuldført</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1190"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1043,7 +1048,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1196"/>
+        <location filename="src/launcher/Application.cpp" line="1206"/>
         <source>Incompatible system configuration</source>
         <translation>Inkompatibel systemkonfiguration</translation>
     </message>
@@ -1052,22 +1057,22 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1950"/>
+        <location filename="src/launcher/Application.cpp" line="1960"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gamle data fra %1 blev fundet, men du har allerede eksisterende data for %2. Det betyder desværre, at du må migrere på egen hånd. Vil du mindes om den afventende datamigrering næste gang du starter %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1954"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Det ser ud til, at du har brugt %1 før. Vil du migrere dine data til den nye placering af %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1970"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det ser ud som du tidligere brugt %1 på %2. Vil du migrere din data til det nye sted %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2006"/>
+        <location filename="src/launcher/Application.cpp" line="2016"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration mislykket! Årsag: %1</translation>
     </message>
@@ -4774,7 +4779,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="180"/>
+        <location filename="src/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
         <translation>%1 Instans</translation>
     </message>
@@ -5098,12 +5103,12 @@ Sørg for at den maksimale hukommelsesværdi er lavere.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="997"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1007"/>
         <source>Could not create staging folder</source>
         <translation>Kunne ikke oprette staging mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="1017"/>
+        <location filename="src/launcher/InstanceList.cpp" line="1027"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Kunne ikke gemme ændringerne i instansen, selv efter flere forsøg. Der er noget som blokerer.</translation>
     </message>
@@ -6406,7 +6411,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Opdatér indstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Automatisk søg efter opdateringer</translation>
@@ -6416,22 +6421,22 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Ingen kanal valgt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Folders</source>
         <translation>Mapper</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <source>I&amp;nstances:</source>
         <translation>&amp;Instancer:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>Browse</source>
         <translation>Gennemse</translation>
     </message>
@@ -6461,42 +6466,42 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation>Omdøb aldrig mappen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="191"/>
         <source>Updater</source>
         <translation>Opdatering</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>How Often?</source>
         <translation>Hvor ofte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="202"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="212"/>
         <source>Set to 0 to only check on launch</source>
         <translation>Sæt til 0 for kun at kontrollere ved start</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>On Launch</source>
         <translation>Ved start</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source> hours</source>
         <translation> timer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>Every </source>
         <translation>Hver </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>&amp;Auto Java Download:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6506,52 +6511,52 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="415"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Ikoner:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="541"/>
         <source>Log History &amp;Limit:</source>
         <translation>Loghistorik-&amp;grænse:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="586"/>
         <source>Tasks</source>
         <translation>Opgaver</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="639"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="649"/>
         <source>Retry Limit:</source>
         <translation>Forsøgsgrænse:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
         <source>Concurrent Download Limit:</source>
         <translation>Maksimalt antal samtidige downloads:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="666"/>
         <source>HTTP Timeout:</source>
         <translation>HTTP-timeout:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="682"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="692"/>
         <source>Concurrent Task Limit:</source>
         <translation>Maksimalt antal samtidige opgaver:</translation>
     </message>
@@ -6626,7 +6631,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Deaktivér brug af metadata til mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advarsel&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Deaktivering af mod metadata kan også deaktivere nogle QoL-funktioner, såsom mod-opdatering!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6645,7 +6650,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">&amp;Farver</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="322"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Hentede Filer:</translation>
     </message>
@@ -6682,12 +6687,12 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Altid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Skins:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Når aktiveret, vil dens undermapper, udover download mappen, også blive søgt efter ressourcer (f.eks. når man leder efter blokerede mods på CurseForge).</translation>
     </message>
@@ -6725,7 +6730,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Antal samtidige downloads</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="653"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="663"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Sekunder at vente, indtil anmodningerne er afsluttet</translation>
     </message>
@@ -6734,7 +6739,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Timeout for HTTP anmodninger</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="632"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="642"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -6743,7 +6748,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">Antal manuelle genforsøg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Når aktiveret, flytter den blokerede ressourcer i stedet for at kopiere dem.</translation>
     </message>
@@ -6787,82 +6792,92 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation>&amp;Erstat værktøjslinje med menulinje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
+        <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
+        <source>&amp;Open Edit window on instance double-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Additional instance directories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Remove</source>
         <translation type="unfinished">Fjern</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
         <source>Mods and Modpacks</source>
         <translation>Mods og modpakker</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation>Kontrollér &amp;underordnede mapper for blokerede mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Move blocked mods instead of copying them</source>
         <translation>Flyt blokerede mods i stedet for at kopiere dem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation>Gem versionsoplysninger angivet af modudbyderne (såsom Modrinth eller CurseForge) til mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>Keep track of mod metadata</source>
         <translation>Hold styr på modmetadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation>Find, installér og opdater automatisk modafhængigheder.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>Install dependencies automatically</source>
         <translation>Installér afhængigheder automatisk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation>Ved oprettelse af en ny modpakkeinstans, anbefal at opdatere en eksisterende instans i stedet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation>Anbefal at opdatere en eksisterende instans under modpakkeinstallation</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
         <source>Instance Creation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="506"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Download game files during instance creation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>Console</source>
         <translation>Konsol</translation>
     </message>
@@ -6891,13 +6906,13 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
         <translation type="vanished">&amp;Historikgrænse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Stop logning hvis loggen bliver for stor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="547"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="557"/>
         <source> lines</source>
         <translation> linjer</translation>
     </message>
@@ -8346,7 +8361,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Konti</translation>
     </message>
@@ -8355,7 +8370,7 @@ Reason:
         <translation type="vanished">Start offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
         <source>Confirm Deletion</source>
         <translation>Bekræft Sletning</translation>
     </message>
@@ -8475,14 +8490,14 @@ Er du sikker?</translation>
         <translation type="vanished"> på %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>No instance selected</source>
         <translation>Ingen instans valgt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Total playtime: 0s</source>
         <translation>Samlet spilletid: 0s</translation>
     </message>
@@ -8491,13 +8506,13 @@ Er du sikker?</translation>
         <translation type="vanished">Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Opret instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Slet gruppe</translation>
@@ -8520,7 +8535,7 @@ Er du sikker?</translation>
         <translation>Ingen konti tilføjet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -8535,17 +8550,17 @@ Er du sikker?</translation>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Indlæser nyheder...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Ingen nyheder tilgængelige.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
         <source>Warnings</source>
         <translation>Advarsler</translation>
     </message>
@@ -8558,9 +8573,9 @@ Er du sikker?</translation>
         <translation>Opgaven er blevet afbrudt af brugeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1022"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
         <source>Abort</source>
         <translation>Afbryd</translation>
     </message>
@@ -8573,27 +8588,27 @@ Please add your Microsoft or Mojang account.</oldsource>
 Tilføj din Mojang- eller Minecraft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="998"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1011"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpakken, mod, eller resource %1 er blokeret for tredje parter! Hent det venligst manuelt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1085"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8602,77 +8617,79 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
         <source>Modpack download</source>
         <translation>Modpack download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1144"/>
         <source>No instance!</source>
         <translation>Ingen instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1132"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1145"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Ingen instance tilgængelig at tilføje resource til.
 Opret en ny instance før du forsøger at installere denne resource igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
         <source>Group name</source>
         <translation>Gruppe navn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Enter a new group name.</source>
         <translation>Indtast et nyt gruppe navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Delete group</source>
         <translation>Slet gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to undo trashing instance</source>
         <translation>Fortrudt sletning af instans mislykkedes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Nogle instanser og genveje kunne ikke gendannes.
 Kontrollér din papirkurv for manuelt at gendanne dem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1387"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <source>Instance not editable</source>
         <translation>Instance kan ikke redigeres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1388"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1402"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Denne instance kan ikke redigeres. Det kan være ødelagt, ugyldigt eller for gammelt. Tjek logfiler for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Føjet %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 blev føjet til din PATH. Du kan nu starte den ved at køre `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Kunne ikke tilføje %1 til PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1460"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Der opstod en fejl under forsøg på at tilføje %1 til PATH</translation>
     </message>
@@ -8746,37 +8763,37 @@ Sletning kan ødelægge de andre instances,
         <translation type="vanished">Launcher kører som forkert konfigureret AppImage? ($APPIMAGE miljøvariabel mangler)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Er du sikker på at du vil slette gruppen &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Rename group</source>
         <translation>Omdøb gruppe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Cannot rename group</source>
         <translation>Gruppen kan ikke omdøbes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Cannot set empty name.</source>
         <translation>Kan ikke angive tomt navn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Group already exists. :/</source>
         <translation>Gruppen eksisterer allerede. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8785,17 +8802,17 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Kan ikke slette kørende instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Den valgte instans kører i øjeblikket og kan ikke slettes. Stop den, før du forsøger at slette den.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> og dens registrerede genvej %n</numerusform>
@@ -8803,7 +8820,7 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8814,7 +8831,7 @@ Dette kan være permanent og vil fuldt ud slette instansen.
 Er du sikker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1527"/>
         <source>Deleting</source>
         <translation>Sletter</translation>
     </message>
@@ -8839,48 +8856,48 @@ Er du sikker?</translation>
         <translation type="vanished">Oprettet en genvej til denne instans i applikationsmappen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
         <source>Rename Instance</source>
         <translation>Omdøb Instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Din instance mappe indeholder &apos;!&apos; og dette er kendt for at forårsage Java problemer!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1742"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Du har nu to muligheder: &lt;br/&gt; - ændre instansmappen i indstillingerne &lt;br/&gt; - flytte denne installation af %1 til en anden mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1750"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Dette er et problem: &lt;br/&gt; - launcheren vil sandsynligvis blive slettet uden varsel af operativsystemet &lt;br/&gt; - luk launcheren nu og udpak den til en rigtig placering, ikke en midlertidig mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Din instance mappe indeholder &apos;Rar$&apos; - det betyder, at du ikke har udpakket launcher arkivet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Din instance mappe er i en midlertidig mappe: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1751"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
         <source>Total playtime: %1</source>
         <translation>Samlet spilletid: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1054"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1066"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1097"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1079"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1110"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
