@@ -856,7 +856,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1240,7 +1240,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Aviso: Isto ainda é um trabalho em progresso. Se tiveres problemas com o modpack, pode ser um bug.</translation>
+        <translation>Aviso: Isto ainda é um trabalho em progresso. Se tiveres problemas com o pacote de mods, pode ser um bug.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
@@ -1878,7 +1878,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Copiar resource packs</translation>
+        <translation>Copiar pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1931,12 +1931,12 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>A copiar mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível copiar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -2306,12 +2306,12 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation>O tamanho do pacote de dados.</translation>
+        <translation>O tamanho do pacote de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation>O nome do ficheiro do pacote de dados.</translation>
+        <translation>O nome do ficheiro do pacote de recursos.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2322,7 +2322,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>O ID do formato do data pack, bem como as versões do Minecraft para as quais foi concebido.</translation>
+        <translation>O ID do formato do pacote de dados, bem como as versões do Minecraft para as quais foi concebido.</translation>
     </message>
     <message>
         <source>
@@ -2364,7 +2364,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Transferir pacotes de dados de plataformas de mods online</translation>
+        <translation>Transferir pacotes de recursos de plataformas de mods online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
@@ -2379,7 +2379,7 @@ Aviso: Este recurso está ligado a outro sítio. A sua edição também irá alt
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
         <source>Download Data Packs</source>
-        <translation>Transferir pacotes de dados</translation>
+        <translation>Transferir pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
@@ -2474,12 +2474,12 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>A apagar mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível apagar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -3670,7 +3670,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Muitos modpacks recentes do FTB também estão disponíveis no CurseForge! Além disso, se as suas instâncias do FTB não estiverem no local padrão, selecione-o utilizando o botão junto ao da pesquisa.</translation>
+        <translation>Nota: Muitos pacotes de mods recentes do FTB também estão disponíveis no CurseForge! Além disso, se as tuas instâncias do FTB não estiverem na localização predefinida, seleciona-a utilizando o botão ao lado da barra de pesquisa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3821,17 +3821,17 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível recuperar os ficheiros antigos.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível recuperar os ficheiros antigos porque a tarefa foi abortada. Isto pode fazer com que alguns ficheiros fiquem duplicados. Queres continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível recuperar os ficheiros antigos devido a: %1. Isto pode fazer com que alguns ficheiros fiquem duplicados. Queres continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
@@ -3856,7 +3856,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nenhuma versão do loader definida para o modpack!</translation>
+        <translation>Nenhuma versão do loader definida para o pacote de mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
@@ -3868,7 +3868,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="405"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>A pasta de substituições especificada (%1) está ausente. Talvez o modpack já tenha sido usado anteriormente?</translation>
+        <translation>A pasta de substituições especificada (%1) está ausente. Talvez o pacote de mods já tenha sido usado anteriormente?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
@@ -3878,22 +3878,22 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Pontos misteriosos foram removidos da versão do Minecraft quando o modpack foi importado.</translation>
+        <translation>Pontos misteriosos foram removidos da versão do Minecraft quando o pacote de modsfoi importado.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>A memória recomendada para o modpack excede 90% da sua RAM - reduzindo de %1 MiB para %2 MiB!</translation>
+        <translation>A memória recomendada para o pacote de mods excede 90% da sua RAM - reduzindo de %1 MiB para %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">A remover ficheiros conflictuosos…</translation>
+        <translation>A remover ficheiros antigos em conflito...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Erro a remover ficheiros conflituosos.</translation>
+        <translation>Não foi possível remover ficheiros antigos em conflito....</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3964,7 +3964,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Olá!&lt;/h1&gt;&lt;h4&gt;Parece que o ID do teu pack é nulo. Isto deve-se a um bug nas versões antigas do launcher.&lt;br/&gt;Infelizmente,não conseguimos requerer da API devidamente sem esta informação.&lt;br/&gt;&lt;br/&gt;Portanto, para esta opção funcionar, terás que fazer a transferência do modpack de novo a partir do menu de transferência do launcher.&lt;br/&gt;&lt;br/&gt;Não te preocupes, iremos te pedir para atualizar esta instância invés, assim não a perdes!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Olá!&lt;/h1&gt;&lt;h4&gt;Parece que o ID do teu pack é nulo. Isto deve-se a um bug nas versões antigas do launcher.&lt;br/&gt;Infelizmente,não conseguimos requerer da API devidamente sem esta informação.&lt;br/&gt;&lt;br/&gt;Portanto, para esta opção funcionar, terás que fazer a transferência do pacote de mods de novo a partir do menu de transferência do launcher.&lt;br/&gt;&lt;br/&gt;Não te preocupes, iremos te pedir para atualizar esta instância invés, assim não a perdes!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
@@ -4084,7 +4084,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge permite que criadores bloqueiam o acesso de ferramentas de terceiros como Prism Launcher. Como tal, talvez seja necessário transferir manualmente alguns mods para instalar um modpack.</translation>
+        <translation>Nota: CurseForge permite que criadores bloqueiam o acesso de ferramentas de terceiros como Prism Launcher. Como tal, talvez seja necessário transferir manualmente alguns mods para instalar um pacote de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4224,7 +4224,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>Nota: Muitos dos recentes modpacks FTB também estão disponíveis no CurseForge!</translation>
+        <translation>Nota: Muitos pacotes de mods recentes do FTB também estão disponíveis no CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4396,7 +4396,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation>Modpacks</translation>
+        <translation>Pacotes de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -4464,12 +4464,12 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- Modpacks CurseForge (ZIP / curseforge:// URL)</translation>
+        <translation>- Pacotes de mods do CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth modpacks (ZIP e mrpack)</translation>
+        <translation>- Pacotes de mods do Modrinth (ZIP e mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -4480,7 +4480,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Modpacks Technic (ZIP)</translation>
+        <translation>- Pacotes de mods do Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -4503,12 +4503,12 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>O modpack %1 está bloqueado por terceiros. Por favor, transfere-o manualmente.</translation>
+        <translation>O pacote de mods %1 está bloqueado por terceiros. Por favor, transfere-o manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Este url não é um modpack válido!</translation>
+        <translation>Este url não é um pacote de mods válido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="173"/>
@@ -4529,7 +4529,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Choose modpack</source>
-        <translation>Escolher modpack</translation>
+        <translation>Escolher pacote de mods</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4676,12 +4676,12 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>A importar o mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível importar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -4756,13 +4756,13 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>A transferir modpack:
+        <translation>A transferir pacote de mods:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="102"/>
         <source>Modpack download</source>
-        <translation>Transferência do modpack</translation>
+        <translation>Transferência do pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
@@ -4772,18 +4772,18 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
-        <translation>A extrair modpack</translation>
+        <translation>A extrair o pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Não foi possível abrir o ficheiro zip do modpack fornecido.</translation>
+        <translation>Não foi possível abrir o ficheiro zip do pacote de mods fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>O ficheiro não contém um tipo de modpack reconhecível.</translation>
+        <translation>O ficheiro não contém um tipo de pacote de mods reconhecível.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -5220,22 +5220,22 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Não foi possível transferir os ficheiros do jogo: %1</translation>
+        <translation>Não foi possível transferir os ficheiros do jogo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">A transferir os ficheiros do jogo</translation>
+        <translation>A transferir os ficheiros do jogo</translation>
     </message>
 </context>
 <context>
@@ -5271,12 +5271,12 @@ Por favor, tenha certeza que o valor máximo de Memória é menor.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reiniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar a instância em execução</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -6921,32 +6921,32 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao clicares duas vezes numa instância, abre-se a janela de edição da instância, em vez desta ser executada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Abrir a janela de edição ao clicar duas vezes na instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretórios de instâncias adicionais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
         <source>Mods and Modpacks</source>
-        <translation>Mods e Modpacks</translation>
+        <translation>Mods e Pacotes de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
@@ -6981,12 +6981,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>Ao criar uma nova instância de modpack, sugerir atualizar uma instância já existente.</translation>
+        <translation>Ao criar uma nova instância para um pacote de mods, sugerimos que, em vez disso, atualizes uma instância já existente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Sugerir atualizar uma instância já existente durante instalação de um modpack</translation>
+        <translation>Sugerimos que atualizes uma instância já existente ao instalares um pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
@@ -7086,23 +7086,23 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de instâncias adicionais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório duplicado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este já é o diretório da instância principal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este diretório já foi adicionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -7280,17 +7280,17 @@ Por favor tente de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation>Modpack público</translation>
+        <translation>Pacote de mods público</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation>Modpack de terceiros</translation>
+        <translation>Pacotes de mods de terceiros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation>Modpack privado</translation>
+        <translation>Pacotes de mods privados</translation>
     </message>
 </context>
 <context>
@@ -7325,7 +7325,7 @@ Por favor tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="97"/>
         <source>Extracting modpack</source>
-        <translation>A extrair modpack</translation>
+        <translation>A extrair pacote de mods</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
@@ -7334,7 +7334,7 @@ Por favor tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
         <source>Installing modpack</source>
-        <translation>A instalar modpack</translation>
+        <translation>A instalar pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
@@ -8797,12 +8797,12 @@ Por favor adiciona a tua conta Mojang ou Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1011"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>O modpack, mod, ou recurso %1 está bloqueado para terceiros! Por favor transfere-o manualmente.</translation>
+        <translation>O pacote de mods, mod, ou recurso %1 está bloqueado para terceiros! Transfere-o manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1104"/>
         <source>Modpack download</source>
-        <translation>Modpack transferido</translation>
+        <translation>Pacote de mods transferido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
@@ -8943,7 +8943,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1085"/>
         <source>Install modpack</source>
-        <translation>Instalar modpack</translation>
+        <translation>Instalar pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
@@ -8952,7 +8952,7 @@ Queres proceder na mesma?</numerusform>
 
 URL:
 %2</source>
-        <translation>Quer efetuar download e importar um modpack de:
+        <translation>Queres transferir e importar um pacote de mods de:
 %1
 
 URL:
@@ -9246,10 +9246,10 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation>Isto é um modpack local.
-Ele pode ser atualizado ou com um ficheiro em formato %1 ou um URL.
-Não use um formato diferente do que o mencionado porque pode quebrar a instância.
-Tenha a certeza de que confia no URL.
+        <translation>Isto é um pacote de mods local.
+Pode ser atualizado com um ficheiro em formato %1 ou com um URL.
+Não utilizes um formato diferente do mencionado porque podes causas falhas na instância.
+Certifica-te de que confias no URL.
 </translation>
     </message>
     <message>
@@ -9260,7 +9260,7 @@ Tenha a certeza de que confia no URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Erro a pedir o registo de alterações para este modpack.</translation>
+        <translation>Não foi possível pedir o registo de alterações para este pacote de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
@@ -9904,7 +9904,7 @@ Tenha a certeza de que confia no URL.
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>Ativar instalação de pacotes de dados em todos os mundos se houver um apto mod instalado.
+        <translation>Ativar instalação de pacotes de recursos em todos os mundos se houver um apto mod instalado.
 Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia a documentação no site do mod.</translation>
     </message>
     <message>
@@ -9915,7 +9915,7 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>pacotes de dados</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
@@ -9925,7 +9925,7 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Contar o tempo nesta instância para o tempo total jogado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -10010,12 +10010,12 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar a instalação do sistema do SDL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caminho da biblioteca do SDL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
@@ -10483,7 +10483,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serão ativados os seguintes mods:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10499,7 +10499,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serão desativados os seguintes mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -10840,7 +10840,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não tens nenhum mod loader instalado. Tenta novamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
@@ -10890,7 +10890,7 @@ Quer desativá-los?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Os seguintes mods dependem dos mod(s) que queres remover:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -11115,7 +11115,7 @@ Quer desativá-los?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="328"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Um erro de rede ocorreu. Não foi possível carregar os modpacks.</translation>
+        <translation>Um erro de rede ocorreu. Não foi possível carregar os pacotes de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="335"/>
@@ -11214,12 +11214,12 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">A remover ficheiros conflictuosos…</translation>
+        <translation>A remover ficheiros antigos em conflito...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Erro a remover ficheiros conflituosos.</translation>
+        <translation>Não foi possível remover ficheiros antigos em conflito....</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -11665,7 +11665,7 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Localização:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -11700,17 +11700,17 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório indesponível</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>O diretório de instâncias &quot;%1&quot; já não é acessível. Escolhe outra localização.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinição (%1)</translation>
     </message>
 </context>
 <context>
@@ -12151,7 +12151,7 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nenhuma versão do carregador definida para modpack!</translation>
+        <translation>Nenhuma versão do loader definida para o pacote de mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
@@ -12222,7 +12222,7 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation>A instalar modpack</translation>
+        <translation>A instalar o pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -13625,16 +13625,16 @@ Novo nome: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Similar modpack was found!</source>
-        <translation>Um modpack semelhante foi encontrado!</translation>
+        <translation>Um pacote de mods semelhante foi encontrado!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Uma ou mais das tuas instâncias são do mesmo modpack %1. Queres criar uma instância separada, ou atualizar a existente?
+        <translation>Uma ou mais das tuas instâncias são do mesmo pacote de mods %1. Queres criar uma instância separada, ou atualizar a existente?
 
-NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instância antes de atualizares, dado que mundos podem corromper e algumas configurações perderem-se (devido a substituições do pack).</translation>
+NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instância antes de atualizares, dado que mundos podem corromper e algumas configurações perderem-se (devido a substituições do pacote).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="45"/>
@@ -13749,7 +13749,7 @@ Quer remover esses dados como parte da atualização?</translation>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="28"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>pacote de dados</translation>
+        <translation>pacote de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
@@ -13864,7 +13864,7 @@ Quer remover esses dados como parte da atualização?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished">Desconhecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -13969,14 +13969,16 @@ Quer remover esses dados como parte da atualização?</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível renomear a pasta da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível renomear a pasta da instância com a instância em execução.
+
+Será apenas renomeada a instância. A pasta manterá o nome atual.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
@@ -14246,13 +14248,13 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Não reconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">pacotes de dados</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
@@ -14264,7 +14266,7 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">pacotes de recursos</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
@@ -14286,7 +14288,7 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">pacotes de textura</translation>
+        <translation>pacotes de texturas</translation>
     </message>
 </context>
 <context>
@@ -14306,7 +14308,7 @@ Mensagem de erro: %3</translation>
     <message>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pacotes de dados</translation>
+        <translation>pacotes de recursos</translation>
     </message>
 </context>
 <context>
@@ -14314,12 +14316,12 @@ Mensagem de erro: %3</translation>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation>pacotes de dados</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>pacote de dados</translation>
+        <translation>pacote de recursos</translation>
     </message>
 </context>
 <context>
@@ -14427,7 +14429,7 @@ De certeza que queres fechar esta caixa de diálogo?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="385"/>
         <source>texture packs</source>
-        <translation type="unfinished">pacotes de textura</translation>
+        <translation>pacotes de texturas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
@@ -14437,7 +14439,7 @@ De certeza que queres fechar esta caixa de diálogo?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
         <source>data packs</source>
-        <translation type="unfinished">pacotes de dados</translation>
+        <translation type="unfinished">pacotes de recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
@@ -14669,7 +14671,7 @@ Provavelmente o autor bloqueou launchers de terceiros.</translation>
     <message>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pacotes de textura</translation>
+        <translation>pacotes de texturas</translation>
     </message>
 </context>
 <context>
@@ -14677,7 +14679,7 @@ Provavelmente o autor bloqueou launchers de terceiros.</translation>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>pacotes de textura</translation>
+        <translation>pacotes de texturas</translation>
     </message>
     <message>
         <source>texture pack</source>
@@ -14862,7 +14864,7 @@ Tens a certeza de que queres fazer isto?</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="156"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>O ID do formato do resource pack, tal como as versões do Minecraft para o qual foi desenvolvido.</translation>
+        <translation>O ID do formato do pacote de recursos, tal como as versões do Minecraft para o qual foi desenvolvido.</translation>
     </message>
     <message>
         <source>
@@ -16275,18 +16277,18 @@ porque: %2.</translation>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>A transferir modpack:
+        <translation>A transferir pacote de mods:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Transferência do modpack</translation>
+        <translation>Transferência do pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>A extrair modpack</translation>
+        <translation>A extrair pacote de mods</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -16295,7 +16297,7 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation>Não foi possível extrair modpack</translation>
+        <translation>Não foi possível extrair o pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
@@ -16330,7 +16332,7 @@ porque: %2.</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>A resolver ficheiros do modpack</translation>
+        <translation>A resolver ficheiros do pacote de mods</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -16340,7 +16342,7 @@ porque: %2.</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation>A transferir modpack</translation>
+        <translation>A transferir pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
@@ -16352,12 +16354,12 @@ porque: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation>A extrair modpack</translation>
+        <translation>A extrair pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
-        <translation>Não foi possível extrair modpack</translation>
+        <translation>Não foi possível extrair o pacote de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
@@ -16579,7 +16581,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>Transferir Pacotes</translation>
+        <translation>Transferir pacotes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="49"/>
@@ -16796,22 +16798,22 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Calma aí!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O pacote de mods que estás a instalar inclui mods que não estão disponíveis no Modrinth nem no CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Mods maliciosos são frequentemente distribuídos através de links enviados em plataformas como o Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Recomendamos vivamente que apenas importes pacotes de mods de fontes fiáveis.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Confio neste pacote de mods e desejo avançar na mesma</translation>
     </message>
 </context>
 <context>
@@ -17890,7 +17892,7 @@ Caminho Canónico: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Manage data packs inside the world.</source>
-        <translation>Organizar pacotes de dados dentro de um mundo.</translation>
+        <translation>Organizar pacotes de recursos dentro de um mundo.</translation>
     </message>
     <message>
         <source>Datapacks</source>
