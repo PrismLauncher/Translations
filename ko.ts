@@ -868,7 +868,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>고양이 활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -7046,12 +7046,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스를 더블 클릭하면 인스턴스를 실행하는 대신 인스턴스 편집 창을 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스를 더블 클릭하면 편집 창 열기(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -10265,12 +10265,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템에 설치되어 있는 SDL 사용하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>SDL 라이브러리 경로(&amp;S):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
@@ -12096,7 +12096,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>위치(&amp;L):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -12131,17 +12131,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉터리를 사용할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 디렉터리 &quot;%1&quot;에 더 이상 접근할 수 없습니다. 다른 위치를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>기본값 (%1)</translation>
     </message>
 </context>
 <context>
@@ -17270,22 +17270,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>잠깐만요!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;설치하려는 모드팩이 Modrinth나 CurseForge에서 호스팅되지 않는 모드를 포함하고 있습니다:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;악성 모드는 주로 Discord와 같은 플랫폼에서 전송된 링크를 통해 유포됩니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;신뢰할 수 있는 출처의 모드팩만 가져오는 것을 강력히 권장합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>이 모드팩을 신뢰하고 계속 진행</translation>
     </message>
 </context>
 <context>
