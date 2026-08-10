@@ -876,7 +876,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1967,12 +1967,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao copiar mundo.</translation>
     </message>
 </context>
 <context>
@@ -2510,12 +2510,12 @@ Tem certeza que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagando mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falhou em deletar o mundo.</translation>
     </message>
 </context>
 <context>
