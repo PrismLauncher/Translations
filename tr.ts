@@ -7069,7 +7069,7 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çift tıklama ile profili çalıştırmak yerine profil düzenleme penceresini açar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
@@ -12176,7 +12176,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil dizini &quot;%1&quot; artık erişilebilir değil. Lütfen başka konum seçin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
@@ -17311,12 +17311,12 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yüklediğiniz mod paketi, Modrinth veya CurseForge üzerinde barındırılmayan modlar içeriyor:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Zararlı modlar çoğunlukla Discord gibi platform üzerinden linkler ile dağıtılıyor.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Mod paketlerini güvenilir kaynaklardan içeri aktarmanızı şiddetle tavsiye ederiz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
