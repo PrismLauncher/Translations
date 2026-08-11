@@ -603,12 +603,12 @@
             "untranslated" : 0
         },
         "pt_BR" : {
-            "file" : "646e6aad8413ddeb1495e402f24edb7a714fcfba.class",
-            "sha1" : "646e6aad8413ddeb1495e402f24edb7a714fcfba",
-            "size" : 357119,
-            "translated" : 2373,
-            "fuzzy" : 22,
-            "untranslated" : 10
+            "file" : "08f0f6337aea9965617d7771bf7227b49624a405.class",
+            "sha1" : "08f0f6337aea9965617d7771bf7227b49624a405",
+            "size" : 358666,
+            "translated" : 2384,
+            "fuzzy" : 18,
+            "untranslated" : 3
         },
         "ro" : {
             "file" : "e23f81622737dd09ca3b18b2f1f7c3f2845787ed.class",
