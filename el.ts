@@ -9649,12 +9649,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="225"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού / τον τρέχοντα mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="228"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
@@ -9667,17 +9667,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (έκδοση %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δεν υπάρχει αρχείο ευρετηρίου.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δεν μπορέσαμε να βρούμε ένα κατάλληλο αρχείο ευρετηρίου για την παλαιότερη έκδοση. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
