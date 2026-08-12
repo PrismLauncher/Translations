@@ -3521,7 +3521,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="251"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Ανάλυση της απόκρισης «API» από το «CurseForge» για &apos;%1&apos;...</translation>
+        <translation>Ανάλυση της απόκρισης API από το CurseForge για &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3534,32 +3534,32 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Προετοιμασία πόρων για το CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ανάλυση της απόκρισης API από το CurseForge για το &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="99"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού / τον τρέχοντα mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="183"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Ανάλυση της απόκρισης «API» από το «CurseForge» για &apos;%1&apos;...</translation>
+        <translation>Ανάλυση της απόκρισης API από το CurseForge για &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="187"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχει διαθέσιμη νέα ενημέρωση για τον πόρο, αλλά δεν είναι δυνατή η λήψη του μέσω του CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="119"/>
@@ -3578,38 +3578,39 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η κατανόηση του αρχείου manifest του πακέτου:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (έκδοση %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία ανάκτησης των παλιών αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορέσαμε να ανακτήσουμε τα παλιά αρχεία επειδή η εργασία διακόπηκε. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορέσαμε να ανακτήσουμε τα παλιά αρχεία επειδή: %1. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχει αρχείο ευρετηρίου.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορέσαμε να βρούμε ένα κατάλληλο αρχείο ευρετηρίου για την παλαιότερη έκδοση. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="289"/>
