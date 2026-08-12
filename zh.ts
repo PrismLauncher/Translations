@@ -11761,7 +11761,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="451"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1/%2</translation>
     </message>
@@ -11771,12 +11771,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>下载 Mod 中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
         <source>Removing old conflicting files...</source>
         <translation>正在删除旧的冲突文件…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>无法删除旧的冲突文件。</translation>
     </message>
@@ -11789,12 +11789,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">这个整合包中的一些模组是可选的。它们会被下载，但默认禁用！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="374"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 的下载链接格式不正确</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="436"/>
         <source>Could not understand pack index:
 </source>
         <translation>无法解析整合包索引

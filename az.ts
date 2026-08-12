@@ -8306,7 +8306,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="451"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 / %2 tamamlandı</translation>
     </message>
@@ -8316,24 +8316,24 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
         <translation>Modlar endirilir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="374"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 üçün yükləmə URL-i düzgün formatda deyil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="436"/>
         <source>Could not understand pack index:
 </source>
         <translation>Paket indeksi başa düşülmədi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>

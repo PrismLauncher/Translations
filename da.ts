@@ -11027,7 +11027,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="308"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="451"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 ud af %2 færdiggjort</translation>
     </message>
@@ -11037,12 +11037,12 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <translation>Henter mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="534"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Fjerner gamle modstridende filer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Kunne ikke fjerne gamle modstridende filer.</translation>
     </message>
@@ -11051,12 +11051,12 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <translation type="vanished">Én eller flere mods fra denne modpack er valgfri. De vil blive hentet, men deaktiveret som standard!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="373"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="374"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Download-URL for %1 er ikke en korrekt formateret URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="435"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="436"/>
         <source>Could not understand pack index:
 </source>
         <translation>Kunne ikke forstå pakke indeks:
