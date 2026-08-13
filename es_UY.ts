@@ -856,7 +856,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -901,12 +901,12 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[ERROR] BOOoooOOOooo! Un error aterrador!</translation>
+        <translation>[ERROR] ¡BOOoooOOOooo! ¡Un error aterrador!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[ERROR] Un error aterrador!</translation>
+        <translation>[ERROR] ¡Un error aterrador!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
