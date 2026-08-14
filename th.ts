@@ -6549,7 +6549,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนติดต่อผู้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
@@ -7259,12 +7259,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;เพิ่มบัญชี Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ในการที่จะเล่น Minecraft คุณจะต้องมีบัญชี Microsoft อย่างน้อยหนึ่งบัญชีที่ล็อกอินอยู่ คุณต้องการล็อกอินตอนนี้หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -7374,7 +7374,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มบัญชี Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -7560,7 +7560,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>ข่าวสารเพิ่มเติม...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -7733,17 +7733,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดบล็อกการพัฒนาเพื่ออ่านข่าวสารเพิ่มเติมเกี่ยวกับ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>แ&amp;ก้ไข...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โ&amp;ฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
@@ -7778,7 +7778,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>&amp;Launch</source>
-        <translation>&amp;เปิด</translation>
+        <translation>&amp;เริ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -7937,7 +7937,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>เ&amp;ปลี่ยนกลุ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -8496,7 +8496,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
         <source>&amp;Launch</source>
-        <translation>&amp;เริ่มเล่น</translation>
+        <translation>&amp;เริ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
