@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Ressursserver</translation>
+        <translation>Ressurstenar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
@@ -59,12 +59,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Du kan endre dette til ein annan tenar om du har vanskar med å laste ned legacy FML-bibliotek (Minecraft 1.5.2 og tidlegare)</translation>
+        <translation>Du kan endra dette til ein annan tenar om du har vanskar med å lasta ned legacy FML-bibliotek (Minecraft 1.5.2 og tidlegare).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API-nøkler</translation>
+        <translation>&amp;API-lyklar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Mods&amp;rinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
@@ -95,7 +95,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished">&amp;Technic</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -157,12 +157,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Metadataserver</translation>
+        <translation>Metadatatenar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
         <source>Services</source>
-        <translation>Tjenester</translation>
+        <translation>Tenester</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
@@ -185,7 +185,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Merk: Du treng sannsynlegvis ikkje å setje dette om CurseForge allereie fungerer.</translation>
+        <translation>Merk: Du treng sannsynlegvis ikkje å setja dette om CurseForge allereie fungerer.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -331,7 +331,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Byggedato:</translation>
+        <translation>Byggjedato:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Lukk</translation>
+        <translation>Lat att</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
@@ -381,7 +381,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation>Byggedato: %1</translation>
+        <translation>Byggjedato: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -428,13 +428,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Offline</translation>
+        <translation>Fråkopla</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>Ukjent</translation>
+        <translation>Ukjend</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -523,7 +523,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation>Stode</translation>
     </message>
     <message>
         <source>Can Migrate?</source>
@@ -549,7 +549,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation>Kontostatus.</translation>
+        <translation>Stoda på kontoen no.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -568,13 +568,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Fjern</translation>
+        <translation>Fjerna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Sett som standard</translation>
+        <translation>&amp;Set som standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
@@ -632,12 +632,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytt &amp;Opp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytt &amp;ned</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -657,12 +657,12 @@ Viss du er ny, kan du trykkja på ein av «Legg til»-knappane for å leggja til
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Velkomen!
-Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å tilkopla Microsoft-kontoen din.</translation>
+Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å kopla Microsoft-kontoen din.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Ingen klient-ID for Microsoft-autentisering vart gitt.</translation>
+        <translation>Ingen klient-ID for Microsoft-autentisering vart gjeven.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -698,17 +698,17 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn det ynskte brukarnamnet ditt for å leggja til offline-kontoen din.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjerna konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du verkeleg sletta denne kontoen?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -759,7 +759,7 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle versjonar</translation>
     </message>
 </context>
 <context>
@@ -767,7 +767,7 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Utsjånad</translation>
     </message>
 </context>
 <context>
@@ -775,7 +775,7 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjå mappa med kattepakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -797,12 +797,12 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kattepakke:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasta inn alt på nytt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
@@ -822,72 +822,72 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Slå på katten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleik på katten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laga til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Strekk ut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjennomskin på katten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugjennomskinleg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="303"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjennomskinleg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="398"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Førehandssyning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] OOoooOOOoooo! Ein skremmande feil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR] Ein skremmande feil!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO] Ei uskuldig melding...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] Ei ikkje so skremmande åtvaring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Ei hemmeleg melding...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
@@ -905,7 +905,7 @@ Om du er ny her kan du trykkje på «Legg til Microsoft-konto»-knappen for å t
     <message>
         <location filename="src/launcher/Application.cpp" line="911"/>
         <source>Settings</source>
-        <translation>Innstillinger</translation>
+        <translation>Innstillingar</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1087"/>
@@ -921,12 +921,34 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne installeringa har ei oppdateringslåsefil til stades i: %1
+
+
+
+Tidspunkt: %2
+
+Oppdaterer frå versjon %3 til %4
+
+Mål for installasjonsfilbane: %5
+
+Datafilbane: %6
+
+Dette tyder sannsylegvis at freistnaden på å oppdatera slog feil. Sjå til at installeringa er i stand før du går vidare.
+
+Sjå i Prism Launcher-oppdateringsloggen i:
+
+%7
+
+for ytterlegare utgreiing om det nylegaste oppdateringsfreistnaden.
+
+
+
+Trykk på &quot;Sjå bort frå&quot; nedantil for å sletta denne  låsa.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering er i gang</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1128"/>
@@ -936,12 +958,16 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein freistnad på å oppdatera slog feil. Sjå til at installeringa er i stand før du går vidare.
+
+Sjå i Prism Launcher-oppdateringsloggen i:
+%1
+for ytterlegare utgreiing om det nylegaste oppdateringsfreistnaden.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringa slog feil</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1160"/>
@@ -957,12 +983,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringa var vellukka
+
+Du køyrer no %1 .
+Sjå i Prism Launcher-oppdateringsloggen i:
+%2
+for ytterlegare utgreiing.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringa var vellukka</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1200"/>
@@ -1019,13 +1050,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hentar ressursfiler frå %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1393,7 +1424,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Overvaka mapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1513,22 +1544,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastar delar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbroten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Nokre innlastingsoppgåvar i metadataa til komponenten feila.</translation>
+        <translation>Innlastinga av visse metadataa for delen slog feil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastar ned metadata for %1 delar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -1538,12 +1569,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Førekomsten har motstridande avhengnadar.</translation>
+        <translation>Førekomsten har motstridande avhengnader.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Førekomst har uløyste avhengnadar.</translation>
+        <translation>Førekomsten har uløyste avhengnader.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
@@ -4740,12 +4771,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Velkomen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trykk på &quot;Legg til ein førekomst&quot; for å byrja.</translation>
     </message>
 </context>
 <context>
