@@ -13814,7 +13814,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า %1 แบบด่วน</translation>
     </message>
 </context>
 <context>
@@ -14667,12 +14667,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">ลักษณะปรากฎ</translation>
+        <translation>ลักษณะปรากฎ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกธีมและไอคอนที่จะใช้</translation>
     </message>
 </context>
 <context>
