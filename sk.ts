@@ -929,12 +929,12 @@ Prosím aktualizujte váš operačný systém a aj %1.</translation>
         <translation>Nemožno zobraziť tento log, pretože jeho dĺžka prekročila 1% riadkov.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -961,12 +961,12 @@ Podrobnosti nájdete v logu aktualizačného programu Prism Launchera na:
 Ak chcete tento zámok prepísať a pokračovať v aktualizácii aj tak, vyberte nižšie možnosť „Ignorovať“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Prebieha aktualizácia</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -981,12 +981,12 @@ Skontrolujte log aktualizačného programu Prism Launchera na:
 pre podrobnosti o poslednom pokuse o aktualizáciu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Aktualizácia zlyhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1007,12 +1007,12 @@ V logu aktualizačného programu Prism Launchera na:
 nájdete podrobnosti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Aktualizácia prebehla úspešne</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1033,7 +1033,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilná systémová konfigurácia</translation>
     </message>
@@ -1042,22 +1042,22 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <translation type="vanished">Prerušené</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Boli nájdené staré dáta z %1, ale už existujú dáta pre %2. Žiaľ, budete musieť dáta zmigrovať sami. Chcete byť pri ďalšom spustení %2 upozornení na čakajúcu migráciu dát?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Zdá sa, že ste v minulosti používali %1. Chcete preniesť svoje údaje do nového umiestnenia pre %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Zdá sa, že ste v minulosti používali %1 na %2. Chcete preniesť svoje údaje do nového umiestnenia pre %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrácia zlyhala! Dôvod: %1</translation>
     </message>
@@ -10774,12 +10774,12 @@ Prosím aktualizujte %1!</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Odstraňovanie konfliktných starých súborov...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
     </message>
@@ -15871,22 +15871,22 @@ Are you sure?</source>
 %4 celkovo</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Úplnosť</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Názov rodného jazyka.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Úplnosť je percento úplne preložených reťazcov, ktoré nepočítajú automaticky odhadnuté reťazce.</translation>
     </message>

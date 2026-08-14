@@ -929,12 +929,12 @@ OSと%1をアップデートしてください。</translation>
         <translation>ログの長さが %1 行を超えたため、このログを表示できません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -961,12 +961,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックファイルを上書きしてアップデートを続行する場合は、以下の「無視」を選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -981,12 +981,12 @@ for details on the last update attempt.</source>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1007,12 +1007,12 @@ for details.</oldsource>
 のログを確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1033,7 +1033,7 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
@@ -1042,22 +1042,22 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation type="vanished">中断されました</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前 %1 を使用していたようです。データを %2 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは以前 %2 に %1 を使用していたようです。データを %3 の新しい場所に移行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
@@ -11227,12 +11227,12 @@ Please update %1!</source>
         <translation>Modをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">古い競合ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">古い競合ファイルの削除に失敗しました。</translation>
     </message>
@@ -16730,22 +16730,22 @@ Are you sure?</source>
 全体 %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>言語</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>翻訳済み</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>その言語で表記した言語名です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>完全に翻訳済みの文字列が占める割合です。自動推測された文字列は含まれません。</translation>
     </message>

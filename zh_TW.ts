@@ -945,12 +945,12 @@ Please update both your operating system and %1.</source>
         <translation>由於紀錄檔長度超過 %1 行，無法顯示這個紀錄檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -977,12 +977,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 如要刪除這個鎖定並繼續操作，請選擇下方的「忽略」。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>更新進行中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -997,12 +997,12 @@ for details on the last update attempt.</source>
 以了解上次更新嘗試的詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>更新失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1023,12 +1023,12 @@ for details.</oldsource>
 以取得詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1049,7 +1049,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>系統設定不相容</translation>
     </message>
@@ -1058,22 +1058,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到來自 %1 的舊資料，但您已有 %2 的現有資料。很遺憾，您需要自行遷移。下次啟動 %2 時是否要提醒您進行資料遷移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>看起來您以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>看起來您以前在 %2 上使用過 %1。是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>遷移失敗！原因：%1</translation>
     </message>
@@ -11782,12 +11782,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation>正在刪除舊的衝突檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>無法刪除舊的衝突檔案。</translation>
     </message>
@@ -17381,22 +17381,22 @@ Are you sure?</source>
 總計：%4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>語言</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>完成度</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>母語名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>完成度為完整翻譯的字串百分比，自動猜測的並不列入計算中。</translation>
     </message>

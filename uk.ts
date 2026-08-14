@@ -937,12 +937,12 @@ Please update both your operating system and %1.</source>
         <translation>Неможливо відобразити цей журнал, оскільки його довжина перевищила %1 рядків.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -969,12 +969,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Виберіть «Ігнорувати» нижче, щоб видалити цей файл оновлення та продовжити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Йде оновлення</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -989,12 +989,12 @@ for details on the last update attempt.</source>
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Не вдалося оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1015,12 +1015,12 @@ for details.</oldsource>
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Оновлення виконано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1041,7 +1041,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>Несумісні системні налаштування</translation>
     </message>
@@ -1050,22 +1050,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Знайдено старі дані з %1, проте у вас вже є наявні дані для %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запустите %2 наступного разу?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Схоже ви використовували %1 раніше. Чи хочете ви перенести ваші дані до %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Міграція не вдалася! Причина: %1</translation>
     </message>
@@ -11619,12 +11619,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Завантаження модів...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Видаляємо старі конфліктні файли.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Не вдалося видалити старі конфліктні файли.</translation>
     </message>
@@ -17189,22 +17189,22 @@ Are you sure?</source>
 %4 загалом</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Мова</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Повнота</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Назва рідної мови.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Повнота - це відсоток повністю перекладених рядків, не враховуючи автоматично вгаданих.</translation>
     </message>

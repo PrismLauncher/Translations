@@ -754,12 +754,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>பதிவு நீளம் %1 வரிகளைத் தாண்டியதால் இந்த பதிவைக் காட்ட முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>அமைப்புகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -786,12 +786,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
  இந்த பூட்டை நீக்கி, கீழே உள்ள &quot;புறக்கணிக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>புதுப்பிப்பு செயலில் உள்ளது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -806,12 +806,12 @@ for details on the last update attempt.</source>
  கடைசி புதுப்பிப்பு முயற்சி குறித்த விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>புதுப்பிப்பு தோல்வியடைந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -832,12 +832,12 @@ for details.</oldsource>
  விவரங்களுக்கு.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>புதுப்பிப்பு செய் பெற்றது</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -850,7 +850,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>பொருந்தாத கணினி உள்ளமைவு</translation>
     </message>
@@ -859,22 +859,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="vanished">கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 இலிருந்து பழைய தரவு கண்டறியப்பட்டது, ஆனால் உங்களிடம் ஏற்கனவே %2 க்கு தரவு உள்ளது. துரதிர்ச்டவசமாக நீங்கள் உங்களை குடிபெயர வேண்டும். அடுத்த முறை நீங்கள் %2 ஐத் தொடங்கும்போது நிலுவையில் உள்ள தரவு இடம்பெயர்வு நினைவூட்டப்பட விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>நீங்கள் முன்பு %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %2 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>இதற்கு முன்பு %2 இல் %1 ஐப் பயன்படுத்தியது போல் தெரிகிறது. உங்கள் தரவை %3 இன் புதிய இடத்திற்கு மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>இடம்பெயர்வு தோல்வியடைந்தது! காரணம்: %1</translation>
     </message>
@@ -9824,12 +9824,12 @@ Please update %1!</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
     </message>
@@ -14872,22 +14872,22 @@ Are you sure?</source>
  மொத்தம் 4 மொத்தம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>மொழி</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>முழுமை</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>சொந்த மொழி பெயர்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>முழுமை என்பது முழுமையாக மொழிபெயர்க்கப்பட்ட சரங்களின் சதவீதமாகும், தானாகவே யூகிக்காது.</translation>
     </message>

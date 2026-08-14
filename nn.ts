@@ -903,12 +903,12 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Innstillingar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -946,12 +946,12 @@ for ytterlegare utgreiing om det nylegaste oppdateringsfreistnaden.
 Trykk på &quot;Sjå bort frå&quot; nedantil for å sletta denne  låsa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Oppdatering er i gang</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -965,12 +965,12 @@ Sjå i Prism Launcher-oppdateringsloggen i:
 for ytterlegare utgreiing om det nylegaste oppdateringsfreistnaden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Oppdateringa slog feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -991,12 +991,12 @@ Sjå i Prism Launcher-oppdateringsloggen i:
 for ytterlegare utgreiing.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Oppdateringa var vellukka</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1005,27 +1005,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2276,7 +2276,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -2741,7 +2741,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Innstillingar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -4917,7 +4917,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -8129,7 +8129,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oppdateringa slog feil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
@@ -8185,7 +8185,7 @@ Make sure you also trust the URL.
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
 </context>
 <context>
@@ -8939,7 +8939,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle versjonar</translation>
     </message>
 </context>
 <context>
@@ -9327,7 +9327,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -9662,12 +9662,12 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10560,7 +10560,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="364"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
@@ -13052,7 +13052,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -13782,7 +13782,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -14244,7 +14244,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
 </context>
 <context>
@@ -14568,7 +14568,7 @@ mangler «inheritsFrom»</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbroten</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -14656,7 +14656,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utsjånad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -14677,22 +14677,22 @@ Are you sure?</source>
 %4 til saman</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Framgang</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Namn på språket (ikkje omsatt).</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Kor mykje av PolyMC som har vorte omsatt (Automatiske omsetjingar er ikkje tatt med).</translation>
     </message>

@@ -788,12 +788,12 @@ Agar bu yerda yangi bo&apos;lsangiz, Microsoft Akkauntingizni bog&apos;lash uchu
         <translation>Bu jurnalni koʻrsatib boʻlmaydi, chunki jurnal uzunligi %1 satrdan oshib ketgan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Sozlamalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -820,12 +820,12 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 Ushbu qulf-faylni o&apos;chirish va davom etish uchun quyida &quot;E&apos;tibor bermaslik&quot;ni tanlang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Yangilanish Davom Etmoqda</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -840,12 +840,12 @@ Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring:
 oxirgi yangilash urinishi haqida batafsil ma&apos;lumot uchun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Yangilanish muvaffaqiyatsiz</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -866,12 +866,12 @@ Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring:
 tafsilotlar uchun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Yangilanish muvaffaqiyatli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -892,7 +892,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>Mos kelmaydigan tizim konfiguratsiyasi</translation>
     </message>
@@ -901,22 +901,22 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation type="vanished">To&apos;xtatildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 dan eski maʼlumotlar topildi, lekin sizda allaqachon %2 maʼlumotlari mavjud. Afsuski, siz o&apos;zingizni ko&apos;chirishingiz kerak bo&apos;ladi. Keyingi safar %2 ishga tushirilganda kutilayotgan maʼlumotlar koʻchishi haqida eslatilishini xohlaysizmi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Siz avval %1 dan foydalanganga o‘xshaysiz. Maʼlumotlaringizni yangi %2 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Siz ilgari %2 da %1 dan foydalanganga o‘xshaysiz. Maʼlumotlaringizni yangi %3 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratsiya amalga oshmadi! Sababi: %1</translation>
     </message>
@@ -8175,12 +8175,12 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Eski ziddiyatli fayllar olib tashlanmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Eski ziddiyatli fayllarni olib tashlab bo&apos;lmadi.</translation>
     </message>
@@ -12782,22 +12782,22 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>

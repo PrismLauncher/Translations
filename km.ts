@@ -714,12 +714,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>មិនអាចបង្ហាញកំណត់ហេតុនេះបានទេ ដោយសារប្រវែងកំណត់ហេតុលើសពី %1 បន្ទាត់។</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>ការកំណត់</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -746,12 +746,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 ដើម្បីលុបឯកសារចាក់សោនេះ ហើយបន្តទៅមុខទៀត សូមជ្រើសរើស &quot;Ignore&quot; នៅខាងក្រោម។</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>កំពុងធ្វើបច្ចុប្បន្នភាព...</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -766,12 +766,12 @@ for details on the last update attempt.</source>
 សម្រាប់ព័ត៌មានលម្អិតអំពីការព្យាយាមធ្វើបច្ចុប្បន្នភាពចុងក្រោយ។</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -792,12 +792,12 @@ for details.</oldsource>
 សម្រាប់ព័ត៌មានលម្អិត។</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>ការធ្វើបច្ចុប្បន្នភាពបានជោគជ័យ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -810,27 +810,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>ការកំណត់រចនាសម្ព័ន្ធប្រព័ន្ធមិនត្រូវជាមួយគ្នា</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>ទិន្នន័យចាស់ពី %1 ត្រូវបានរកឃើញ ប៉ុន្តែអ្នកមានទិន្នន័យស្រាប់សម្រាប់ %2 រួចហើយ។ ជាអកុសល អ្នកនឹងត្រូវធ្វើការផ្លាស់ប្តូរទិន្នន័យ (migration) ដោយខ្លួនឯង។ តើអ្នកចង់ឱ្យរំលឹកអំពីការផ្ទេរទិន្នន័យដែលនៅសល់នៅពេលដែលអ្នកបើក %2 នៅលើកក្រោយដែរឬទេ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>មើលទៅអ្នកធ្លាប់បានប្រើ %1 ពីមុនមក។ តើអ្នកចង់ផ្ទេរទិន្នន័យរបស់អ្នកទៅកាន់ទីតាំងថ្មីរបស់ %2 ដែរឬទេ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>មើលទៅអ្នកធ្លាប់បានប្រើ %1 នៅលើ %2 ពីមុនមក។ តើអ្នកចង់ផ្ទេរទិន្នន័យរបស់អ្នកទៅកាន់ទីតាំងថ្មីរបស់ %3 ដែរឬទេ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>ការផ្ទេរទិន្នន័យបានបរាជ័យ! មូលហេតុ៖ %1</translation>
     </message>
@@ -7992,12 +7992,12 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12594,22 +12594,22 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -749,12 +749,12 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
         <translation>Ní féidir a thaispeáint an loga seo toisc gur sháraigh fad an loga %1 líne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Socruithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -781,12 +781,12 @@ le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
 Chun an glasáil seo a scriosadh agus leanúint ar aghaidh, roghnaigh &quot;Neamhaird a dhéanamh&quot; thíos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Nuashonrú Ar Siúl</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -801,12 +801,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Theip Ar Nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -827,12 +827,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Nuashonrú Rathúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -845,7 +845,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>Cumraíocht córais neamh-chomhoiriúnach</translation>
     </message>
@@ -854,22 +854,22 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Fuarthas seanshonraí ó %1, ach tá sonraí agat cheana féin do %2. Ar an drochuair, beidh ort aistriú tú féin. Ar mhaith leat meabhrúchán a fháil faoin aistriú sonraí atá ar feitheamh an chéad uair eile a thosóidh tú %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Is cosúil gur úsáid tú %1 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Is cosúil gur úsáid tú %1 ar %2 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Theip ar an imirce! Cúis: %1</translation>
     </message>
@@ -9775,12 +9775,12 @@ Nuashonraigh %1 le do thoil!</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation>Seanchomhaid choimhlintí á mbaint...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Theip ar chomhaid choinbhleacha seanchaite a bhaint.</translation>
     </message>
@@ -14839,22 +14839,22 @@ An bhfuil tú cinnte?</translation>
 %4 san iomlán</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Teanga</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Iomláine</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Ainm na teanga dhúchais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Is é iomláine an céatadán de theaghráin atá aistrithe go hiomlán, gan na cinn a bhfuil buille faoi thuairim orthu go huathoibríoch a áireamh.</translation>
     </message>

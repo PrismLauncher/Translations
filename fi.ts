@@ -929,12 +929,12 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
         <translation>Tätä lokia ei voida näyttää sillä sen pituus on ylittänyt %1 riviä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
         <translation>Asetukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1081"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -961,12 +961,12 @@ saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.
 Poistaaksesi tämän lukituksen ja jatkaaksesi, valitse alempaa &quot;Sivuuta&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1098"/>
         <source>Update In Progress</source>
         <translation>Päivitys meneillään</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1128"/>
+        <location filename="src/launcher/Application.cpp" line="1122"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -981,12 +981,12 @@ Tutki Prism Launcher -päivityslokia sijainnissa:
 saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1130"/>
         <source>Update Failed</source>
         <translation>Päivitys epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1160"/>
+        <location filename="src/launcher/Application.cpp" line="1154"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1007,12 +1007,12 @@ Tutki Prism Launcher -päivityslokia sijainnissa:
 saadaksesi lisätietoja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1162"/>
         <source>Update Succeeded</source>
         <translation>Päivitys onnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1025,7 +1025,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1206"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
         <translation>Yhteensopimaton laitekonfiguraatio</translation>
     </message>
@@ -1034,22 +1034,22 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation type="vanished">Keskeytetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1960"/>
+        <location filename="src/launcher/Application.cpp" line="1954"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Vanhoja tietoja %1:stä löydettiin, mutta sinulla on jo olemassa olevia tietoja %2:ille. Valitettavasti sinun on siirrettävä ne itse. Haluatko että sinua muistutetaan odottavasta tiedonsiirrosta seuraavan kerran, kun käynnistät %2:in?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin. Haluatko tuoda tiedot uuteen %2:in sijaintiin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1970"/>
+        <location filename="src/launcher/Application.cpp" line="1964"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Näyttää siltä, että olet käyttänyt %1:tä aikaisemmin päivämäärällä %2. Haluatko tuoda tiedot uuteen %3:in sijaintiin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2016"/>
+        <location filename="src/launcher/Application.cpp" line="2010"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Siirtyminen epäonnistui! Syy: %1</translation>
     </message>
@@ -11006,12 +11006,12 @@ Päivitä %1!</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="535"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">Poistetaan vanhoja ristiriitaisia tiedostoja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="552"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">Vanhojen ristiriitaisten tiedostojen poisto epäonnistui.</translation>
     </message>
@@ -16327,22 +16327,22 @@ Oletko varma?</translation>
 %4 yhteensä</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
         <translation>Kieli</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
         <translation>Valmius</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="409"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
         <translation>Kielen oma nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="412"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Valmius on kokonaan käännettyjen merkkijonojen prosenttiosuus, poislukien automaattisesti veikatut.</translation>
     </message>
