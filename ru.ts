@@ -4786,29 +4786,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка второго загрузчика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Известно, что %1 конфликтует с %2, который включен в этом экземпляре. Одновременное включение обоих, скорее всего, приведет к сбою в работе экземпляра.
+
+Что бы вы хотели сделать с %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Оставить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
