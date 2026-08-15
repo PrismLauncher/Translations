@@ -693,7 +693,7 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
@@ -782,22 +782,22 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Opna mappa</translation>
+        <translation>Opna mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjå mappa for modulbunader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjå mappa for ikonbunader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished">&amp;Kattepakke:</translation>
+        <translation>&amp;Kattepakke:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -807,17 +807,17 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Ikon:</translation>
+        <translation>&amp;Ikon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrifttype på konsollen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
@@ -832,7 +832,7 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
-        <translation type="unfinished">Laga til</translation>
+        <translation>Laga til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
@@ -892,7 +892,7 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] Ein fælsleg uheldig feil!</translation>
     </message>
 </context>
 <context>
@@ -1002,7 +1002,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mappa /tmp er nett no montert med &apos;noexec&apos;-flagget slege på.
+Det kan hende nokre Minecraft-versjonar ikkje byrjar.
+
+Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden eller ved å setja JVM-argumentet java.io.tmpdir som ein mappe ein kan skriva til i eit filsystem der &apos;exec&apos;-flagget er sett (t.d., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1200"/>
@@ -1159,7 +1163,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Åtvaring: Dette er framleis eit pågåande arbeid. Om du møter på problem med ein av moddpakkene, kan det vere ein feil med PolyMC.</translation>
+        <translation>Åtvaring: Dette er framleis eit pågåande arbeid. Om du møter på problem med ein av moddpakkene, kan det vera ein feil med PolyMC.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
@@ -1288,52 +1292,52 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den sjølvstyrte Java-mekanismen fann ein 32-bitarsinstallering av Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fann ingen høvande Java-versjon. Nyttar den førevalde i staden.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet ditt (%1-%2) høver ikkje med sjølvstyrt Java-installering. Nyttar den førevalde Java-filbana.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaopplysningane dine er anten forelda eller vantar naudsynte opplysningar for å avgjera kva for Java-installering som lyt vera i bruk. Nyttar den førevalde Java-filbana.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fann høvande Java i: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fann ingen høvande Java-versjon (den binære fila finst ikkje). Nyttar den førevalde versjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikkje avgjera Java-nedlastingstype!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fann ingen Java-versjonar for operativsystemet ditt: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fann ingen høvande Java-versjon. Nyttar den førevalde versjonen.</translation>
     </message>
 </context>
 <context>
@@ -1341,7 +1345,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -3752,7 +3756,7 @@ Prøv igjen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Val for siling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -7269,7 +7273,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More News...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meir nyhende...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
@@ -7371,22 +7375,22 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modulbunader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opna mappa med modulbunader i ein filutforskar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;konbunad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opna mappa for ikonbunader i ein filutforskar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
@@ -7432,7 +7436,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
@@ -9744,7 +9748,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Val for siling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -11352,7 +11356,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulstil som freistar å likna win32-bunaden din</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
@@ -11372,12 +11376,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Din noverande systembunad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation>Lys</translation>
+        <translation>Ljos</translation>
     </message>
     <message>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
@@ -13143,7 +13147,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Val for siling</translation>
     </message>
 </context>
 <context>
