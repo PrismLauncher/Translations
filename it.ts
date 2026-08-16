@@ -4741,14 +4741,14 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione del secondo loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished">È noto che %1 sia in conflitto con %2, che è abilitato su questa istanza. Abilitarli entrambi contemporaneamente potrebbe causare il malfunzionamento dell&apos;istanza.
+        <translation>%1 è nota per andare in conflitto con %2, che è abilitata su questa istanza. Abilitarli entrambi contemporaneamente potrebbe impedire il funzionamento dell&apos;istanza.
 
 Cosa vorresti fare con %2?</translation>
     </message>
@@ -7071,7 +7071,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation>Apri la finestra di modifica con un doppio clic sull&apos;istanza</translation>
+        <translation>&amp;Apri la finestra di modifica con un doppio clic sull&apos;istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -17262,12 +17262,12 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il modpack che stai installando include mod che non sono ospitate su Modrinth o CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il modpack che stai installando include mod non presenti su Modrinth o CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Le mod dannose vengono spesso diffuse tramite link inviati su piattaforme come Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Raccomandiamo vivamente di importare modpack solo da fonti affidabili.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Le mod malevoli vengono spesso diffuse tramite link condivisi su piattaforme come Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Raccomandiamo vivamente di importare modpack solo da fonti affidabili.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
