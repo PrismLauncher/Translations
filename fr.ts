@@ -3948,12 +3948,12 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Suppression des anciens fichiers en conflit...</translation>
+        <translation>Suppression des anciens fichiers conflictuels...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Échec de la suppression des anciens fichiers en conflit.</translation>
+        <translation>Échec de la suppression des anciens fichiers conflituels.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
