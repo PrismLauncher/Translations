@@ -4759,7 +4759,9 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>该实例上启用的 %2 与 %1 冲突。同时启用两者有可能会导致实例无法正常启动。
+
+你想如何处理 %2？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
@@ -9611,7 +9613,7 @@ Make sure you also trust the URL.
 </source>
         <translation>这是本地整合包。
 只能使用 %1 格式文件或者通过 URL 更新。
-不要使用与上述格式不同的文件更新，这有可能会损坏实例。
+不要使用与上述格式不同的文件更新，这有可能会导致实例无法正常启动。
 还要确保你信任这个 URL。
 </translation>
     </message>
