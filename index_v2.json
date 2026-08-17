@@ -587,12 +587,12 @@
             "untranslated" : 2252
         },
         "pl" : {
-            "file" : "085fa250b96fe015ac3c1ccfe854f45eb00f22c0.class",
-            "sha1" : "085fa250b96fe015ac3c1ccfe854f45eb00f22c0",
-            "size" : 356611,
-            "translated" : 2405,
+            "file" : "fd9d5bcd78674bd6d4265f78802a524c537425e9.class",
+            "sha1" : "fd9d5bcd78674bd6d4265f78802a524c537425e9",
+            "size" : 356743,
+            "translated" : 2406,
             "fuzzy" : 0,
-            "untranslated" : 5
+            "untranslated" : 4
         },
         "pt_PT" : {
             "file" : "82f5c4c8a59c2909a3c7ad6e153fa1a54f1f3752.class",
@@ -683,12 +683,12 @@
             "untranslated" : 41
         },
         "szl" : {
-            "file" : "ab1ab890429772b8526c17c112fe61e989978879.class",
-            "sha1" : "ab1ab890429772b8526c17c112fe61e989978879",
-            "size" : 90163,
-            "translated" : 903,
+            "file" : "5a4a842d3b67322d532bbc6373533beb49a5b83d.class",
+            "sha1" : "5a4a842d3b67322d532bbc6373533beb49a5b83d",
+            "size" : 90585,
+            "translated" : 905,
             "fuzzy" : 0,
-            "untranslated" : 1520
+            "untranslated" : 1518
         },
         "ta" : {
             "file" : "4ccf64fff541f751ef7df2a93466f75c7af5762a.class",
@@ -771,12 +771,12 @@
             "untranslated" : 20
         },
         "zh" : {
-            "file" : "a6ad8e9bf0e297aea952cc8093846bc033292b36.class",
-            "sha1" : "a6ad8e9bf0e297aea952cc8093846bc033292b36",
-            "size" : 247509,
-            "translated" : 2409,
+            "file" : "6bb7f31da3685535a9c6bbbfd149aa0dc0ee39ca.class",
+            "sha1" : "6bb7f31da3685535a9c6bbbfd149aa0dc0ee39ca",
+            "size" : 247845,
+            "translated" : 2410,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "zh_Hant_HK" : {
             "file" : "0679233437e15cadbd419c397e5c6160e3608814.class",
