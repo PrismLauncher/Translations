@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый &amp;URL-адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -4361,32 +4361,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation>На выживание</translation>
+        <translation>Выживание</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation>Творческая</translation>
+        <translation>Творчество</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation>Приключенческая</translation>
+        <translation>Приключение</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation>Зрелищная</translation>
+        <translation>Наблюдение</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation>Неизвестно (%1)</translation>
+        <translation>Неизвестный (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation>Не определено</translation>
+        <translation>Неопределённый</translation>
     </message>
 </context>
 <context>
