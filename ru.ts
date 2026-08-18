@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">&amp;Сервис отправки логов</translation>
+        <translation>&amp;Сервис отправки логов</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Paste Service &amp;Type</translation>
+        <translation>&amp;Тип сервиса отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -1709,7 +1709,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>Не удалось скачать метаданные на 1%2%. Пожалуйста, смените версию или попробуйте ещё раз позже.</translation>
+        <translation>Не удалось скачать метаданные для %1 %2. Пожалуйста, смените версию или попробуйте ещё раз позже.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
