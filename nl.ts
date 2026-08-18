@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Ververs bij starten</translation>
+        <translation>Vernieuwen bij starten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -860,7 +860,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Kat inschakelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1278,12 +1278,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
         <source>Initializing</source>
-        <translation>Aan het initialiseren</translation>
+        <translation>Initialiseren</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="87"/>
         <source>Waiting...</source>
-        <translation>Aan het wachten...</translation>
+        <translation>Wachten...</translation>
     </message>
     <message>
         <source>Working...</source>
@@ -1524,12 +1524,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation>Cape aan het omdoen</translation>
+        <translation>Cape aan doen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation>Cape aan het afdoen</translation>
+        <translation>Cape uit doen</translation>
     </message>
 </context>
 <context>
@@ -1692,7 +1692,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1 taken aan het uitvoeren (%2 van %3 taken voltooid)</translation>
+        <translation>%1 taken uitvoeren (%2 van %3 taken voltooid)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
@@ -1702,12 +1702,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>Aan het wachten op een taak...</translation>
+        <translation>Wachten totdat een taak start...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation>1 taak aan het uitvoeren:</translation>
+        <translation>1 taak uitvoeren:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
@@ -1914,7 +1914,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation>Wereld aan het kopiëren...</translation>
+        <translation>Wereld kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
@@ -2003,7 +2003,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Opmerking: Als een snelkoppeling na aanmaak verplaatst is, wordt het niet verwijderd wanneer de intantie wordt verwijderd.</translation>
+        <translation>Opmerking: als een snelkoppeling na aanmaak verplaatst is, wordt ze niet verwijderd wanneer de instantie wordt verwijderd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -2127,7 +2127,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>Uitgaven</translation>
+        <translation>Releases</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -2141,12 +2141,12 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation>Bèta versies</translation>
+        <translation>Bètaversies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation>Alfa versies</translation>
+        <translation>Alfaversies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -2457,7 +2457,7 @@ Weet u dat zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation>Wereld aan het verwijderen...</translation>
+        <translation>Wereld verwijderen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
@@ -3579,7 +3579,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="144"/>
         <source>Resolving mods...</source>
-        <translation>Mods aan het oplossen...</translation>
+        <translation>Mods oplossen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="154"/>
@@ -3599,7 +3599,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="241"/>
         <source>Creating the instance...</source>
-        <translation>Instantie aan het aanmaken...</translation>
+        <translation>Instantie aanmaken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="304"/>
@@ -3614,12 +3614,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Geblokkeerde Mods aan het Kopiëren...</translation>
+        <translation>Geblokkeerde mods kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="383"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Geblokkeerde Mods aan het Kopiëren (%1 van de %2 zijn klaar)</translation>
+        <translation>Geblokkeerde mods kopiëren (%1 van de %2 zijn klaar)</translation>
     </message>
 </context>
 <context>
@@ -3681,12 +3681,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="33"/>
         <source>Copying files...</source>
-        <translation>Bestanden aan het kopiëren...</translation>
+        <translation>Bestanden kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="48"/>
         <source>Copying settings...</source>
-        <translation>Instellingen aan het kopiëren...</translation>
+        <translation>Instellingen kopiëren...</translation>
     </message>
 </context>
 <context>
@@ -3820,7 +3820,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oude bestanden ophalen mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
@@ -3882,7 +3882,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>De aanbevolen geheugen van de modpack overschrijd 90% van uw systeem-RAM, die het van %1 MiB tot %2 MiB vermindert!</translation>
+        <translation>Het aanbevolen geheugen van de modpack overschrijdt 90 % van je systeem-RAM, waardoor het vermindert van %1 MiB naar %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
@@ -4035,7 +4035,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>Bestanden aan het zoeken...</translation>
+        <translation>Bestanden zoeken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
@@ -4050,7 +4050,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation>Versies voor hashes aan het zoeken...</translation>
+        <translation>Versies voor hashes zoeken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
@@ -4061,12 +4061,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Project informatie van CurseForge aan het zoeken...</translation>
+        <translation>Project informatie van CurseForge zoeken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
         <source>Adding files...</source>
-        <translation>Bestanden aan het toevoegen...</translation>
+        <translation>Bestanden toevoegen...</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -4652,7 +4652,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>OK</source>
-        <translation>Oké</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="111"/>
@@ -4801,7 +4801,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation>Downloading spel bestanden</translation>
+        <translation>Spelbestanden downloaden</translation>
     </message>
 </context>
 <context>
@@ -4810,7 +4810,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Downloaden van modpack:
+        <translation>Modpack downloaden:
 %1</translation>
     </message>
     <message>
@@ -5307,7 +5307,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Downloading spel bestanden</translation>
+        <translation>Spelbestanden downloaden</translation>
     </message>
 </context>
 <context>
@@ -5427,7 +5427,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation>Java Downloaden</translation>
+        <translation>Java downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
@@ -5526,7 +5526,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Java Downloaden</translation>
+        <translation>Java downloaden</translation>
     </message>
 </context>
 <context>
@@ -6433,7 +6433,7 @@ Wilt u de demo spelen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation>Er is een probleem opkomen terwijl het vernieuwen van &apos;%1&apos;</translation>
+        <translation>Er trad een fout op tijdens het verversen van &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
@@ -6454,7 +6454,8 @@ Wilt u de demo spelen?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>Dit account heeft geen Minecraft. Je moet het eerst kopen zodat je de volledige game kan spelen.</translation>
+        <translation>Dit account bezit Minecraft niet.
+Je moet eerst het spel kopen om de volledige versie te spelen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
@@ -6468,12 +6469,12 @@ You need to purchase the game first to play the full version.</source>
 Do you want to play the demo?</source>
         <translation>
 
-Wilt u de demo spelen?</translation>
+Wil je de demo spelen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Choose your demo mode player name</source>
-        <translation>Kies uw spelernaam voor de demomodus</translation>
+        <translation>Kies je spelernaam voor de demomodus</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
@@ -7304,7 +7305,7 @@ Het wordt aanbevolen om %1 toegang te verlenen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>FML-bibliotheken aan het downloaden...</translation>
+        <translation>FML-bibliotheken downloaden...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7313,7 +7314,7 @@ Het wordt aanbevolen om %1 toegang te verlenen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>FML-bibliotheken naar de instantie aan het kopiëren...</translation>
+        <translation>FML-bibliotheken naar de instantie kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
@@ -9284,7 +9285,7 @@ Weet je het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <source>Fetching versions...</source>
-        <translation>Versies aan het ophalen...</translation>
+        <translation>Versies ophalen...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
@@ -11372,7 +11373,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="119"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>API-antwoord van Modrinth aan het verwerken...</translation>
+        <translation>API-antwoord van Modrinth verwerken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="185"/>
@@ -11405,7 +11406,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Aan het wachten voor een antwoord van de Modrinth API...</translation>
+        <translation>Wachten op het API-antwoord van Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -11575,7 +11576,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation>Bestanden aan het zoeken...</translation>
+        <translation>Bestanden zoeken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
@@ -11590,7 +11591,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation>Versies voor hashes aan het zoeken...</translation>
+        <translation>Versies voor hasheszoeken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="194"/>
@@ -11600,7 +11601,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="203"/>
         <source>Adding files...</source>
-        <translation>Bestanden aan het toevoegen...</translation>
+        <translation>Bestanden toevoegen...</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -11820,8 +11821,8 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Verzoekssnelheid beperkt: %n seconde aan het wachten</numerusform>
-            <numerusform>Verzoekssnelheid beperkt: %n seconden aan het wachten</numerusform>
+            <numerusform>Verzoekssnelheid beperkt: %n seconde wachten</numerusform>
+            <numerusform>Verzoekssnelheid beperkt: %n seconden wachten</numerusform>
         </translation>
     </message>
 </context>
@@ -12154,7 +12155,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation>&amp;Vind</translation>
+        <translation>&amp;Zoeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
@@ -12164,7 +12165,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation>&amp;Onderkant</translation>
+        <translation>Naar &amp;beneden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
@@ -12219,7 +12220,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation>&amp;Upload</translation>
+        <translation>&amp;Uploaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
@@ -12434,7 +12435,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation>Configuraties aan het downloaden...</translation>
+        <translation>Configuraties downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
@@ -12449,12 +12450,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation>Optionele mods aan het selecteren...</translation>
+        <translation>Optionele mods selecteren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation>Mods aan het downloaden...</translation>
+        <translation>Mods downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
@@ -12490,12 +12491,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation>Mods aan het uitpakken...</translation>
+        <translation>Mods uitpakken...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation>Modpakket aan het installeren</translation>
+        <translation>Modpakket installeren</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
@@ -13486,7 +13487,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation>Bevestig Upload</translation>
+        <translation>Uploaden bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
@@ -14883,7 +14884,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="366"/>
         <source>Loading versions...</source>
-        <translation>Versies aan het laden...</translation>
+        <translation>Versies laden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="470"/>
@@ -14981,7 +14982,7 @@ De auteur heeft waarschijnlijk derdepartijlaunchers geblokeerd.</translation>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="70"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Resource aan het downloaden:
+        <translation>Resource downloaden:
 %1</translation>
     </message>
     <message>
@@ -16434,7 +16435,7 @@ Ben je zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation>Skin aan het uploaden</translation>
+        <translation>Skin uploaden</translation>
     </message>
 </context>
 <context>
@@ -16549,7 +16550,7 @@ Ben je zeker?</translation>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Downloaden van modpack:
+        <translation>Modpack downloaden:
 %1</translation>
     </message>
     <message>
@@ -16614,7 +16615,7 @@ Ben je zeker?</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation>Downloaden van modpack</translation>
+        <translation>Modpack downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
@@ -17188,7 +17189,7 @@ Bent u zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation>Instantie van versie %1 aan het aanmaken</translation>
+        <translation>Instantie van versie %1 aanmaken</translation>
     </message>
 </context>
 <context>
