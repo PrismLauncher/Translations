@@ -12812,7 +12812,7 @@ Vrátiť predošlú verziu?</translation>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2h %3min</translation>
+        <translation>%1d %2h %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
