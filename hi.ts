@@ -5992,7 +5992,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">इंफो</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
