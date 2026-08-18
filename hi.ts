@@ -933,7 +933,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Incompatible system configuration</source>
-        <translation>सिस्टम configuration is incompatible</translation>
+        <translation>असंगतता सिस्टम कॉन्फ़िगरेशन</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13559,7 +13559,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="279"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>इंफो</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
