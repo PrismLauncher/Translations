@@ -1454,7 +1454,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak klaar.</translation>
     </message>
 </context>
 <context>
@@ -1462,22 +1462,22 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopie Instansie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Groep</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies alles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -4608,7 +4608,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sien nie jou taal nie of is die kwaliteit swak?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help ons vertaal!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
