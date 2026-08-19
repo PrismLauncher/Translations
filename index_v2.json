@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "af" : {
-            "file" : "18d61e924477ec916ad993c94776e90c117ba01c.class",
-            "sha1" : "18d61e924477ec916ad993c94776e90c117ba01c",
-            "size" : 47661,
+            "file" : "c02a09670f7e37685567e254cbd7cd9b09235776.class",
+            "sha1" : "c02a09670f7e37685567e254cbd7cd9b09235776",
+            "size" : 48876,
             "translated" : 191,
-            "fuzzy" : 185,
-            "untranslated" : 2034
+            "fuzzy" : 205,
+            "untranslated" : 2014
         },
         "ar" : {
             "file" : "06f7435b9296a94b6cb90b04cb0b45d2ec3c2020.class",
@@ -339,12 +339,12 @@
             "untranslated" : 705
         },
         "hi" : {
-            "file" : "2252dd4d134139f2d6b0a3930ff3652d484adfab.class",
-            "sha1" : "2252dd4d134139f2d6b0a3930ff3652d484adfab",
-            "size" : 81340,
+            "file" : "953b36788cd7b5dd1a36f2eb2835571d08b3b710.class",
+            "sha1" : "953b36788cd7b5dd1a36f2eb2835571d08b3b710",
+            "size" : 81395,
             "translated" : 358,
-            "fuzzy" : 251,
-            "untranslated" : 1801
+            "fuzzy" : 252,
+            "untranslated" : 1800
         },
         "hr" : {
             "file" : "fbf984364dfbbcd9063d3c8cdc46e6e500e2139c.class",
@@ -563,12 +563,12 @@
             "untranslated" : 613
         },
         "nl" : {
-            "file" : "bf463556a2f751d268a506c4cfabea8ef8be338b.class",
-            "sha1" : "bf463556a2f751d268a506c4cfabea8ef8be338b",
-            "size" : 354065,
-            "translated" : 2352,
-            "fuzzy" : 20,
-            "untranslated" : 38
+            "file" : "8c3ba1a53519ebe2e4412d8e6aa73a4210a6b69f.class",
+            "sha1" : "8c3ba1a53519ebe2e4412d8e6aa73a4210a6b69f",
+            "size" : 355992,
+            "translated" : 2372,
+            "fuzzy" : 15,
+            "untranslated" : 23
         },
         "nn" : {
             "file" : "4919c535c5396dcdb5dc877362e46798aec1ed01.class",
