@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Тип сервіса вставки</translation>
+        <translation>&amp;Тип сервісу надсилання логів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Основне &amp;посилання</translation>
+        <translation>Базова &amp;URL-адреса</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -59,12 +59,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Ви можете змінити цю адресу якщо Ви маєте проблеми із завантаженням застарілих бібліотек FML (Minecraft 1.5.2 і старіші).</translation>
+        <translation>Ви можете вказати інший сервер, якщо у вас виникли проблеми із завантаженням застарілих бібліотек FML (Minecraft 1.5.2 і раніших версій).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API ключі</translation>
+        <translation>&amp;Ключі API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
@@ -1939,12 +1939,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation>Копіюється світ...</translation>
+        <translation>Копіювання світу...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation>Не вдалося копіювати світ.</translation>
+        <translation>Не вдалося скопіювати світ.</translation>
     </message>
 </context>
 <context>
@@ -2482,7 +2482,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation>Видаляється світ...</translation>
+        <translation>Видалення світу...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
@@ -3853,27 +3853,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати старі файли.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати старі файли, оскільки процес було перервано. Це може призвести до дублювання деяких файлів. Бажаєте продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати старі файли з такої причини: %1. Це може призвести до дублювання файлів. Бажаєте продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>No index file.</source>
-        <translation>Немає файлу індекса.</translation>
+        <translation>Файл індексу відсутній.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Ми не знайшли відповідний файл індексу для старої версії. Це може призвести до клонування деяких файлів. Ви хочете продовжити?</translation>
+        <translation>Не вдалося знайти відповідний файл індексу для попередньої версії. Це може призвести до дублювання деяких файлів. Бажаєте продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="289"/>
@@ -3920,12 +3920,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Видаляємо старі конфліктні файли.</translation>
+        <translation>Видалення старих конфліктних файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Не вдалося видалити старі конфліктні файли.</translation>
+        <translation>Не вдалося видалити старі конфліктні файли.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4411,7 +4411,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation>Категорія іконки</translation>
+        <translation>Категорія значків</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
@@ -4709,29 +4709,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлення другого завантажувача</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Відомо, що %1 конфліктує з %2, який увімкнений у цьому екземплярі. Одночасне ввімкнення обох, імовірно, призведе до збою в роботі екземпляра.
+
+Що бажаєте зробити з %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Залишити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити</translation>
     </message>
 </context>
 <context>
@@ -4747,12 +4749,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортування світу...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося імпортувати світ.</translation>
     </message>
 </context>
 <context>
@@ -5317,22 +5319,22 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Пропустити</translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Не вийшло файли гри: %1</translation>
+        <translation>Не вдалося завантажити файли гри: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Завантаження файлів гри</translation>
+        <translation>Завантаження файлів гри</translation>
     </message>
 </context>
 <context>
@@ -5368,12 +5370,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перезапустити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустити запущений екземпляр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -7036,27 +7038,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриває вікно редагування екземпляра після подвійного клацання на ньому замість його запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Відкривати вікно редагування подвійним клацанням</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткові теки екземплярів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Remove</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
@@ -7111,7 +7113,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>Завантажує необхідні ігрові файли саме під час створення екземпляра. Вимкніть це, щоб пропустити початкове завантаження та завантажити файли лише під час запуску екземпляра.</translation>
+        <translation>Під час створення екземпляра завантажуються необхідні ігрові файли. Вимкніть цей параметр, щоб пропустити початкове завантаження й отримати файли під час запуску екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
@@ -7201,23 +7203,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="138"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткова тека екземплярів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Дублікат теки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це вже ваша основна тека екземплярів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цю теку вже додано.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -7788,7 +7790,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation>Виникла помилка під час запуску процесу: %1</translation>
+        <translation>Не вдалося запустити процес: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -10136,7 +10138,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Враховувати час гри в цьому екземплярі в загальному часі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
@@ -10221,12 +10223,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати системну інсталяцію SDL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлях до бібліотеки &amp;SDL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
@@ -10660,7 +10662,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation>Для кожного мода — кількість інших модів, від яких він залежить.</translation>
+        <translation>Для кожного моду вказано кількість інших модів, від яких він залежить.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
@@ -10695,7 +10697,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Буде ввімкнено такі моди:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
@@ -10713,7 +10715,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Буде вимкнено такі моди:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
@@ -11139,7 +11141,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Наведені нижче моди залежать від модів, які ви хочете видалити:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -11572,7 +11574,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Ми не знайшли відповідний файл індексу для старої версії. Це може призвести до клонування деяких файлів. Ви хочете продовжити?</translation>
+        <translation>Ми не знайшли відповідний файл індексу для старої версії. Це може призвести до клонування деяких файлів. Бажаєте продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="190"/>
@@ -11621,12 +11623,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="550"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Видаляємо старі конфліктні файли.</translation>
+        <translation>Видалення старих конфліктних файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="567"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Не вдалося видалити старі конфліктні файли.</translation>
+        <translation>Не вдалося видалити старі конфліктні файли.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -12048,7 +12050,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Розташування:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -12083,17 +12085,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Тека недоступна</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тека екземплярів «%1» більше недоступна. Будь ласка, виберіть інше розташування.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>За замовчуванням (%1)</translation>
     </message>
 </context>
 <context>
@@ -12535,7 +12537,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для збірки не вказано версію завантажувача!</translation>
+        <translation>Для збірки не задано версію завантажувача!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
@@ -14267,7 +14269,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідомо</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
@@ -14372,14 +14374,16 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перейменувати теку екземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Теку екземпляра не можна перейменувати, поки екземпляр запущено.
+
+Буде змінено лише назву екземпляра. Тека збереже свою поточну назву.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
@@ -14656,47 +14660,47 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Нерозпізнаний</translation>
+        <translation>Нерозпізнаний</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">пакети даних</translation>
+        <translation>пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">пакети ресурсів</translation>
+        <translation>пакети ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">ресурс</translation>
+        <translation>ресурс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished"></translation>
+        <translation>ресурси</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">пакети шейдерів</translation>
+        <translation>пакети шейдерів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">пакети текстур</translation>
+        <translation>пакети текстур</translation>
     </message>
 </context>
 <context>
@@ -14827,27 +14831,27 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="340"/>
         <source>mods</source>
-        <translation type="unfinished"></translation>
+        <translation>модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="364"/>
         <source>resource packs</source>
-        <translation type="unfinished">пакети ресурсів</translation>
+        <translation>пакети ресурсів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="385"/>
         <source>texture packs</source>
-        <translation type="unfinished">пакети текстур</translation>
+        <translation>пакети текстур</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
         <source>shader packs</source>
-        <translation type="unfinished">пакети шейдерів</translation>
+        <translation>пакети шейдерів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
         <source>data packs</source>
-        <translation type="unfinished">пакети даних</translation>
+        <translation>пакети даних</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
@@ -17214,22 +17218,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Обережніше!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Збірка модів, яку ви встановлюєте, містить моди, що не розміщені на Modrinth або CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Шкідливі моди часто поширюються через посилання, які надсилають на таких платформах, як Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Наполегливо рекомендуємо імпортувати збірки модів лише з надійних джерел.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Я довіряю цій збірці модів і хочу продовжити попри все</translation>
     </message>
 </context>
 <context>
