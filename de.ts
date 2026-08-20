@@ -3889,12 +3889,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation>Laden der alten Dateien fehlgeschlagen.</translation>
+        <translation>Die alten Dateien konnten nicht geladen werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Die alten Dateien konnten nicht geladen werden da der Vorgang abgebrochen wurde. Dies könnte einige dieser Dateien duplizieren, wollen Sie fortfahren?</translation>
+        <translation>Die alten Dateien konnten nicht abgerufen werden, da der Vorgang abgebrochen wurde. Dadurch können einige Dateien doppelt vorhanden sein. Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
@@ -14580,7 +14580,7 @@ Willst du diese existierenden Dateien als teil des updates löschen?</translatio
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Unüberprüft</translation>
+        <translation>Ungeprüft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
