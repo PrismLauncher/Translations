@@ -844,7 +844,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار القطة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -3706,12 +3706,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر جلب الملفات القديمة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر جلب الملفات القديمة لأن المهمة أُلغيت. قد يؤدي ذلك إلى تكرار بعض الملفات. هل تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
@@ -4539,12 +4539,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء التثبيت</translation>
     </message>
 </context>
 <context>
@@ -13418,17 +13418,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>مع جزيل الشكر لـ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على حساب الماينكرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
@@ -13446,29 +13446,29 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حزم الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished"></translation>
+        <translation>مورد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished"></translation>
+        <translation>موارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حزم التظليل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حزم الخامات</translation>
     </message>
 </context>
 <context>
