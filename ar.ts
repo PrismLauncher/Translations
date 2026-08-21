@@ -13595,17 +13595,17 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="364"/>
         <source>resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="385"/>
         <source>texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الخامات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
         <source>shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم التظليل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
@@ -13616,7 +13616,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="108"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">موارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
@@ -13668,7 +13668,7 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الموارد</translation>
     </message>
 </context>
 <context>
@@ -13676,7 +13676,7 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الموارد</translation>
     </message>
     <message>
         <source>resource pack</source>
@@ -13803,12 +13803,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">موارد</translation>
     </message>
     <message>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مورد</translation>
     </message>
 </context>
 <context>
@@ -13816,7 +13816,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم التظليل</translation>
     </message>
 </context>
 <context>
@@ -13824,7 +13824,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم التظليل</translation>
     </message>
     <message>
         <source>shader pack</source>
@@ -13837,7 +13837,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الخامات</translation>
     </message>
 </context>
 <context>
@@ -13845,7 +13845,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حزم الخامات</translation>
     </message>
     <message>
         <source>texture pack</source>
