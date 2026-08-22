@@ -15514,17 +15514,17 @@ Hiện đang cài đặt phiên bản: %1</translation>
         <translation>Máy chủ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="603"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="734"/>
         <source>Confirm Removal</source>
         <translation>Xác Nhận Xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="735"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -17692,7 +17692,7 @@ Canonical Path: %1</source>
         <translation>Thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="151"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
@@ -17715,63 +17715,63 @@ Bạn chắc chắn muốn tiếp tục chứ?</translation>
         <translation type="vanished">Mở thư mục datapack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>Open World in MCEdit</source>
         <translation>Mở thế giới trong MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>No MCEdit found or set up!</source>
         <translation>Không tìm thấy MCEdit được thiết lập!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="354"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Bạn chưa thiết lập MCEdit hoặc nó đã bị di chuyển.
 Bạn có thể thiết lập nó trong cài đặt chung.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit không khởi động được!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="361"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit không khởi động được.
 Có thể cần phải cài đặt lại nó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Select a Minecraft world zip</source>
         <translation>Chọn tệp nén thế giới Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Minecraft World Zip File</source>
         <translation>Tệp Zip Thế giới Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="453"/>
         <source>Copy World</source>
         <translation>Sao chép thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="438"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Thay đổi thế giới trong khi Minecraft đang chạy có khả năng không an toàn.
 Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="203"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -17782,33 +17782,33 @@ Thế giới có thể biến mất mãi (MỘT THỜI GIAN DÀI).
 Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Manage Data Packs</source>
         <translation>Quản lý gói dữ liệu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
         <source>Data packs for %1</source>
         <translation>Gói dữ liệu cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>World name</source>
         <translation>Tên thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Enter a new name for the copy.</source>
         <translation>Nhập tên mới cho bản sao.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="487"/>
         <source>Rename World</source>
         <translation>Thay đổi tên thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>Enter a new world name.</source>
         <translation>Nhập một tên mới cho thế giới.</translation>
     </message>

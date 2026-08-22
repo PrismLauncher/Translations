@@ -12698,17 +12698,17 @@ Trenutačno instalirana verzija: %1</translation>
         <translation>Serveri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="603"/>
         <source>Context menu</source>
         <translation>Kontekstni izbornik</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="734"/>
         <source>Confirm Removal</source>
         <translation>Potvrdi uklanjanje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="735"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -14439,7 +14439,7 @@ Canonical Path: %1</source>
         <translation>Svijetovi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="151"/>
         <source>Context menu</source>
         <translation>Kontekstni izbornik</translation>
     </message>
@@ -14448,63 +14448,63 @@ Canonical Path: %1</source>
         <translation type="vanished">Otvori mapu paketa podataka svijeta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>Open World in MCEdit</source>
         <translation>Otvori svijet u uređivaču MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit nije pronađen ili nije postavljen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="354"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit nije postavljen ili je premješten.
 Možeš ga postaviti u globalnim postavkama.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit se nije uspio pokrenuti!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="361"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit se nije uspio pokrenuti.
 Možda se mora ponovo instalirati.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Select a Minecraft world zip</source>
         <translation>Odaberi zip datoteku Minecraft svijeta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Minecraft World Zip File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="453"/>
         <source>Copy World</source>
         <translation>Kopiraj svijet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="438"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Mijenjanje svijeta dok je Minecraft pokrenut je potencijalno nesigurno.
 Želiš li nastaviti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
         <source>Confirm Deletion</source>
         <translation>Potvrdi brisanje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="203"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -14515,33 +14515,33 @@ Ovaj svijet može nestati zauvijek (JAKO DUGO VRIJEME).
 Jeste sigurni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Manage Data Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
         <source>Data packs for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>World name</source>
         <translation>Ime svijeta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Enter a new name for the copy.</source>
         <translation>Upiši novo ime za kopiju.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="487"/>
         <source>Rename World</source>
         <translation>Preimenuj svijet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>Enter a new world name.</source>
         <translation>Upiši novo ime svijeta.</translation>
     </message>

@@ -13896,17 +13896,17 @@ Currently installed version: %1</source>
         <translation>சேவையகங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="603"/>
         <source>Context menu</source>
         <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="734"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="730"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="735"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -15711,7 +15711,7 @@ Canonical Path: %1</source>
         <translation>உலகங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="151"/>
         <source>Context menu</source>
         <translation>சூழல் பட்டியல்</translation>
     </message>
@@ -15720,63 +15720,63 @@ Canonical Path: %1</source>
         <translation type="vanished">திறந்த உலக தரவுத்தளங்கள் கோப்புறை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>Open World in MCEdit</source>
         <translation>MCEDIT இல் திறந்த உலகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>No MCEdit found or set up!</source>
         <translation>எந்த MCEDIT கண்டுபிடிக்கப்படவில்லை அல்லது அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="354"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>உங்களிடம் MCEDIT அமைக்கப்படவில்லை அல்லது அது நகர்த்தப்பட்டது.
  நீங்கள் அதை உலகளாவிய அமைப்புகளில் அமைக்கலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEDIT தொடங்கத் தவறிவிட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="361"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEDIT தொடங்கத் தவறிவிட்டது.
  அதை மீண்டும் நிறுவ வேண்டியது தேவை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Select a Minecraft world zip</source>
         <translation>ஒரு Minecraft World Zip ஐத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft உலக zip கோப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="453"/>
         <source>Copy World</source>
         <translation>உலகத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="438"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>மின்கிராஃப்ட் இயங்கும்போது ஒரு உலகத்தை மாற்றுவது பாதுகாப்பற்றது.
  நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
         <source>Confirm Deletion</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="203"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -15787,33 +15787,33 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Manage Data Packs</source>
         <translation>தரவு பொதிகளை நிர்வகிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="242"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
         <source>Data packs for %1</source>
         <translation>%1 க்கான தரவு பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>World name</source>
         <translation>உலக பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Enter a new name for the copy.</source>
         <translation>நகலுக்கு புதிய பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="487"/>
         <source>Rename World</source>
         <translation>உலகத்தை மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
         <source>Enter a new world name.</source>
         <translation>புதிய உலக பெயரை உள்ளிடவும்.</translation>
     </message>
