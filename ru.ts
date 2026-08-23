@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Базовый &amp;URL-адрес</translation>
+        <translation>123Базовый &amp;URL-адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>123User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
