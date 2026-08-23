@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin 服務 (&amp;P)</translation>
+        <translation>Pastebin 服務(&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>貼上服務類型 (&amp;T)</translation>
+        <translation>貼上服務類型(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -864,7 +864,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation>啟用 cat</translation>
+        <translation>啟用貓</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -2611,12 +2611,12 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>當前記憶體設定可能不無法足以啟動此實例。
+        <translation>在目前的記憶體設定下，可用記憶體可能不足以啟動這個實例。
 
-最大分配記憶體：1 MiB
+最大配置記憶體：%1 MiB
+可用記憶體：%2 MiB（總共 %3 MiB）
 
-可用記憶體：2 MiB（總計 3 MiB）
-繼續然啟動？這可能會導致遊戲和系統運作緩慢。</translation>
+仍要啟動嗎？這可能會導致遊戲與您的系統運作變慢。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -3420,7 +3420,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation>JProfiler (&amp;P)</translation>
+        <translation>JProfiler(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
@@ -7129,7 +7129,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation>雙擊實例以開啟編輯視窗 (&amp;O)</translation>
+        <translation>按兩下實例開啟編輯視窗(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -10364,7 +10364,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
         <source>&amp;SDL library path:</source>
-        <translation>SDL 路徑 (&amp;S):</translation>
+        <translation>SDL 程式庫路徑(&amp;S)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
@@ -11218,7 +11218,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation>未安裝模組載入器。請重試。</translation>
+        <translation>未安裝模組載入器，請再試一次。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
@@ -12234,7 +12234,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation>路徑 (&amp;L):</translation>
+        <translation>路徑(&amp;L)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -12450,7 +12450,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation>&amp;尋找</translation>
+        <translation>尋找(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
@@ -12460,7 +12460,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation>&amp;底部</translation>
+        <translation>底部(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
@@ -12470,7 +12470,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation>&amp;刪除</translation>
+        <translation>刪除所選紀錄檔(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
@@ -12480,7 +12480,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation>刪除 &amp;全部</translation>
+        <translation>全部刪除(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
@@ -12527,7 +12527,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="480"/>
         <source>&amp;Reload</source>
-        <translation>&amp;重新載入</translation>
+        <translation>重新載入(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
@@ -14573,14 +14573,14 @@ Would you like to remove those existing saves as part of this update?</source>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation>實例在運行時，無法實例資料夾重新命名。
+        <translation>無法在實例執行時重新命名實例資料夾。
 
 僅會變更實例名稱，資料夾將保留目前名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
         <source>&amp;Remember my choice</source>
-        <translation>記住我的選擇 (R)</translation>
+        <translation>記住我的選擇(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="80"/>
@@ -16292,7 +16292,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>下一步(&amp;N)&gt;</translation>
+        <translation>下一步(&amp;N) &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
@@ -17136,7 +17136,7 @@ inheritsFrom 引數缺失</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The file name of the texture pack.</source>
-        <translation>材質包檔案名稱。</translation>
+        <translation>紋理包檔案名稱。</translation>
     </message>
     <message>
         <source>
@@ -17418,7 +17418,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正在安裝的整合包包含部分未託管在 Modrinth 或 CurseForge 上的模組：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正在安裝的模組包含部分未託管在 Modrinth 或 CurseForge 上的模組：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
@@ -17428,7 +17428,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation>我信任此整合包，並希望繼續使用</translation>
+        <translation>我信任這個模組包，無論如何都要繼續</translation>
     </message>
 </context>
 <context>
@@ -17451,7 +17451,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation>更新可用</translation>
+        <translation>有可用的更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
