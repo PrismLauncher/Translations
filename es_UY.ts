@@ -2369,7 +2369,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished">Descargar paquetes de datos</translation>
+        <translation>Descargar paquetes de datos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
@@ -2382,7 +2382,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -2444,7 +2444,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>Update checker</source>
-        <translation type="unfinished">Comprobador de actualizaciones</translation>
+        <translation>Comprobador de actualizaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
@@ -2464,7 +2464,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished">Eliminando mundo...</translation>
+        <translation>Eliminando mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
@@ -2548,7 +2548,7 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished">Tu sistema está bajo una presión crítica de memoria.
+        <translation>Tu sistema está bajo una presión crítica de memoria.
 Esto puede llevar a una ralentización considerable, cierres inesperados o inestabilidad del sistema.
 Se recomienda cerrar otras aplicaciones o reiniciar tu dispositivo.
 
@@ -3074,7 +3074,7 @@ Esta instancia no puede iniciarse debido a que algunas librerías hacen falta o 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -3465,7 +3465,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished">Herramientas</translation>
+        <translation>Herramientas</translation>
     </message>
 </context>
 <context>
