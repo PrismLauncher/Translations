@@ -214,8 +214,8 @@
             "file" : "c6986cceb523a4a50e727f37a1212653845c343f.class",
             "sha1" : "c6986cceb523a4a50e727f37a1212653845c343f",
             "size" : 308801,
-            "translated" : 1947,
-            "fuzzy" : 117,
+            "translated" : 1954,
+            "fuzzy" : 110,
             "untranslated" : 347
         },
         "et" : {
@@ -619,9 +619,9 @@
             "untranslated" : 29
         },
         "ru" : {
-            "file" : "3e196843103c7676978b5cc379b76e7d4dc83de9.class",
-            "sha1" : "3e196843103c7676978b5cc379b76e7d4dc83de9",
-            "size" : 356271,
+            "file" : "5eba478aa4e229c3947ecc3e875f1f551c234da0.class",
+            "sha1" : "5eba478aa4e229c3947ecc3e875f1f551c234da0",
+            "size" : 356259,
             "translated" : 2411,
             "fuzzy" : 0,
             "untranslated" : 0
