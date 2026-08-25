@@ -3489,7 +3489,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
