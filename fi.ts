@@ -3229,6 +3229,16 @@ Are you sure you want to do this?</source>
 Oletko varma, että haluat tehdä näin?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
+        <source> (%1 installed, %2 enabled, %3 selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
+        <source> (%1 installed, %2 enabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Confirm disable</source>
         <translation type="vanished">Vahvista poistaminen käytöstä</translation>
     </message>
@@ -3239,12 +3249,11 @@ Are you sure you want to do this?</source>
 Oletko varma että haluat tehdä näin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 asennettu, %2 valittu)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
         <source> (%1 installed)</source>
         <translation> (%1 asennettu)</translation>
     </message>
@@ -10160,59 +10169,59 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <translation>Tiedoston nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>Is the mod enabled?</source>
         <translation>Onko modi käytössä?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>The name of the mod.</source>
         <translation>Modin nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The version of the mod.</source>
         <translation>Modin versio.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="228"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Päivämäärä ja aika, jolloin tätä modia viimeksi muokattiin (tai lisättiin).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="230"/>
         <source>The source provider of the mod.</source>
         <translation>Modin lähdetarjoaja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="242"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation>Jokaista modia kohden muiden riippuvaisten modien määrä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="244"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation>Jokaista modia kohden muoden riippuvaisten modien määrä.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="246"/>
         <source>The file name of the mod.</source>
         <translation>Modin tiedostonimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm toggle</source>
         <translation>Vahvista vaihtaminen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Modien vaihtaminen tulee vaikuttamaan muiden modien toimintaan.
 </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="468"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation>
@@ -10223,12 +10232,12 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="469"/>
         <source>The following mods will be enabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="475"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -10239,24 +10248,24 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="479"/>
         <source>The following mods will be disabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="484"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Haluatko automaattisesti ottaa käyttöön nämä muutokset?
 Niiden ohittaminen voi rikkoa pelin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Only Toggle Selected</source>
         <translation>Vaihda vain valitut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Toggle Required Mods</source>
         <translation>Vaihda vaaditut modit</translation>
     </message>
@@ -10321,27 +10330,27 @@ Niiden ohittaminen voi rikkoa pelin.</translation>
         <translation type="vanished">Mistä modi ladattiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="232"/>
         <source>On what environment the mod is running.</source>
         <translation>Missä ympäristössä modi toimii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="234"/>
         <source>The mod loader.</source>
         <translation>Modilataaja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="236"/>
         <source>The supported minecraft versions.</source>
         <translation>Tuetut Minecraft-versiot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="238"/>
         <source>The release type.</source>
         <translation>Julkaisutyyppi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="240"/>
         <source>The size of the mod.</source>
         <translation>Modin koko.</translation>
     </message>

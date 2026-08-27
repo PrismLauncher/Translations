@@ -3338,6 +3338,16 @@ Are you sure you want to do this?</source>
 Продовжити?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
+        <source> (%1 installed, %2 enabled, %3 selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
+        <source> (%1 installed, %2 enabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Confirm disable</source>
         <translation type="vanished">Підтвердити вимкнення</translation>
     </message>
@@ -3348,12 +3358,11 @@ Are you sure you want to do this?</source>
 Продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 встановлено, %2 обрано)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
         <source> (%1 installed)</source>
         <translation> (%1 встановлено)</translation>
     </message>
@@ -10650,39 +10659,39 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Назва Файлу</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="230"/>
         <source>The source provider of the mod.</source>
         <translation>Джерело мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="242"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation>Для кожного мода — кількість інших модів, які від нього залежать.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="244"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation>Для кожного моду вказано кількість інших модів, від яких він залежить.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="246"/>
         <source>The file name of the mod.</source>
         <translation>Назва файла мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm toggle</source>
         <translation>Підтвердити перемикання</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Перемикання цього моду(-ів) може змінити інші моди.
 </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="468"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation>
@@ -10695,12 +10704,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="469"/>
         <source>The following mods will be enabled:</source>
         <translation>Буде ввімкнено такі моди:</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="475"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -10713,24 +10722,24 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="479"/>
         <source>The following mods will be disabled:</source>
         <translation>Буде вимкнено такі моди:</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="484"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Бажаєте автоматично застосувати ці пов&apos;язані зміни?
 Ігнорування може зламати гру.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Only Toggle Selected</source>
         <translation>Перемкнути лише вибране</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Toggle Required Mods</source>
         <translation>Перемкнути необхідні моди</translation>
     </message>
@@ -10809,22 +10818,22 @@ Ignoring them may break the game.</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>Is the mod enabled?</source>
         <translation>Мод увімкнено?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>The name of the mod.</source>
         <translation>Назва моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The version of the mod.</source>
         <translation>Версія моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="228"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Дата і час останньої зміни (або додавання) цього моду.</translation>
     </message>
@@ -10833,27 +10842,27 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Звідки мод був завантажений.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="232"/>
         <source>On what environment the mod is running.</source>
         <translation>У якому середовищі мод працює.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="234"/>
         <source>The mod loader.</source>
         <translation>Завантажувач модів.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="236"/>
         <source>The supported minecraft versions.</source>
         <translation>Підтримані версії майнкрафту.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="238"/>
         <source>The release type.</source>
         <translation>Тип релізу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="240"/>
         <source>The size of the mod.</source>
         <translation>Розмір моду.</translation>
     </message>

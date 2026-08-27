@@ -3175,6 +3175,16 @@ Are you sure you want to do this?</source>
 Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
+        <source> (%1 installed, %2 enabled, %3 selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
+        <source> (%1 installed, %2 enabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Confirm disable</source>
         <translation type="vanished">Sahkan lumpuhkan</translation>
     </message>
@@ -3185,12 +3195,11 @@ Are you sure you want to do this?</source>
 Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="347"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 dipasang, %2 dipilih)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
         <source> (%1 installed)</source>
         <translation> (%1 dipasang)</translation>
     </message>
@@ -9405,84 +9414,84 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
         <source>Is the mod enabled?</source>
         <translation>Adakah mod tersebut didayakan?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="204"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
         <source>The name of the mod.</source>
         <translation>Nama mod tersebut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
         <source>The version of the mod.</source>
         <translation>Versi mod tersebut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="208"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="228"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Tarikh dan masa terakhir mod ini diubah (atau ditambah).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="230"/>
         <source>The source provider of the mod.</source>
         <translation>Penyedia sumber mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="232"/>
         <source>On what environment the mod is running.</source>
         <translation>Pada persekitaran apa mod sedang dijalankan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="214"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="234"/>
         <source>The mod loader.</source>
         <translation>Pemuat mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="236"/>
         <source>The supported minecraft versions.</source>
         <translation>Versi minecraft yang disokong.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="238"/>
         <source>The release type.</source>
         <translation>Jenis pelepasan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="240"/>
         <source>The size of the mod.</source>
         <translation>Saiz mod tersebut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="222"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="242"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation>Bagi setiap mod, bilangan mod lain yang bergantung padanya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="224"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="244"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation>Bagi setiap mod, bilangan mod lain bergantung padanya.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="246"/>
         <source>The file name of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="441"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="461"/>
         <source>Confirm toggle</source>
         <translation>Sahkan togol</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="445"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="465"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Menukar mod ini akan menyebabkan perubahan pada mod lain.
 </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="448"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="468"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation>
@@ -9491,12 +9500,12 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="469"/>
         <source>The following mods will be enabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="475"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -9505,24 +9514,24 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="479"/>
         <source>The following mods will be disabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="484"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Adakah anda ingin menggunakan perubahan berkaitan ini secara automatik?
 Mengabaikannya mungkin akan merosakkan permainan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="442"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="462"/>
         <source>Only Toggle Selected</source>
         <translation>Hanya Togol Yang Dipilih</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="443"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="463"/>
         <source>Toggle Required Mods</source>
         <translation>Togol Mod yang Diperlukan</translation>
     </message>
