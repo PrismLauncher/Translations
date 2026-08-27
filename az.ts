@@ -721,12 +721,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Logun uzunluğu %1 sətri keçdiyi üçün göstərilə bilmir.</translation>
+        <translation>Loqun uzunluğu sətrin %1-i keçdiyi üçün göstərilə bilmir.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="905"/>
         <source>Settings</source>
-        <translation>**Tənzimləmələr**</translation>
+        <translation>Tənzimləmələr</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1081"/>
@@ -772,7 +772,7 @@ for details on the last update attempt.</source>
 
 Zəhmət olmasa, davam etməzdən əvvəl quraşdırmanın düzgün işlədiyindən əmin olun.
 Son yeniləmə cəhdi haqqında təfərrüatlar üçün :
-1%
+1%-də
 Prism Launcher yeniləyici loguna baxın.</translation>
     </message>
     <message>
@@ -1165,7 +1165,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Profiler dayandırıldı</translation>
+        <translation>Profayler dayandırıldı</translation>
     </message>
 </context>
 <context>
@@ -1188,13 +1188,13 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Cancel</source>
-        <translation>Ləğv et</translation>
+        <translation>İmtina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
-        <translation>Yaxşı</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
@@ -1234,12 +1234,12 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; Tapılmadı &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Tapılmadı &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Heş: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -1283,7 +1283,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>İstifadəçi adı yalnız 3-dən 16-ya qədər simvol uzunluğunda olduqda, ingilis hərfləri, rəqəmlər və alt xətlərdən istifadə etdikdə etibarlıdır. Etibarsız istifadəçi adı serverlərə qoşulmağa və tək oyun dünyalarına girməyə mane ola bilər.</translation>
+        <translation>İstifadəçi adı yalnız 3-dən 16-ya qədər simvol uzunluğunda olduqda, ingilis hərfləri, rəqəmlər və alt xətlərdən istifadə etdikdə etibarlıdır. Etibarsız istifadəçi adı serverlərə qoşulmağa və tək oyunçulu dünyalarına girməyə mane ola bilər.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1293,12 +1293,12 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Ləğv et</translation>
+        <translation>İmtina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation>Yaxşı</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1344,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation>Ləğv edildi</translation>
+        <translation>Dayandırldı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
