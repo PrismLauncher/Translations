@@ -1872,12 +1872,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на света...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно копиране на света.</translation>
     </message>
 </context>
 <context>
@@ -2415,12 +2415,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на света...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно изтриване на света.</translation>
     </message>
 </context>
 <context>
@@ -3217,12 +3217,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 инсталирани, %2 включени, %3 избрани)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 инсталирани, %2 включени)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3711,7 +3711,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно извличане на старите файлове.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
@@ -4519,7 +4519,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталира се втори лоудър</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
@@ -4531,17 +4531,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Запази</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивирай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Деинсталирай</translation>
     </message>
 </context>
 <context>
@@ -4557,12 +4557,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортиране на свят...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно импортиране на свят.</translation>
     </message>
 </context>
 <context>
@@ -5030,12 +5030,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рестартирай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Рестартирай текущата инстанция</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -5461,7 +5461,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="288"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -5820,7 +5820,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Сървърите за оторизация са офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
@@ -5832,7 +5832,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Липса на интернет свързаност</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
