@@ -4317,7 +4317,6 @@ Are you sure?</source>
         <translation>ໜ່ວຍຄວາມຈຳ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>ເຕືອນເມື່ອມີໜ່ວຍຄວາມຈຳບໍ່ພຽງພໍ</translation>
     </message>
@@ -4360,6 +4359,11 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>ການໃຊ້ໜ່ວຍຄວາມຈຳຕ່ຳສຸດ:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

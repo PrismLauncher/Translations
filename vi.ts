@@ -5879,7 +5879,6 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
         <translation>Bộ nhớ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>Cảnh báo khi không đủ bộ nhớ</translation>
     </message>
@@ -5930,6 +5929,11 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>Bộ nhớ RAM sử dụng tối thiểu:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

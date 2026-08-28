@@ -5850,7 +5850,6 @@ Javaのバージョンは後で設定で変更できます。
         <translation>メモリ(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>利用可能なメモリが不足している場合に警告する</translation>
     </message>
@@ -5901,6 +5900,11 @@ Javaのバージョンは後で設定で変更できます。
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>最小メモリ使用量(&amp;I):</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

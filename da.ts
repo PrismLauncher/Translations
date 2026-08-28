@@ -5772,7 +5772,6 @@ Du kan ændre Java versionen i indstillingerne senere.
         <translation>&amp;Hukommelse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5823,6 +5822,11 @@ Du kan ændre Java versionen i indstillingerne senere.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>M&amp;inimalt hukommelsesforbrug:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

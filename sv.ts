@@ -5960,7 +5960,6 @@ Du kan ändra Java-versionen i inställningarna senare.
         <translation>Minne (&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>Varna när det inte finns nog med minne tillgängligt</translation>
     </message>
@@ -6011,6 +6010,11 @@ Du kan ändra Java-versionen i inställningarna senare.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>M&amp;inimal Minnesanvändning:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

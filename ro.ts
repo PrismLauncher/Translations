@@ -5890,7 +5890,6 @@ Puteți schimba versiunea de Java din setări ulterior.
         <translation>Memor&amp;ie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>Avertizează când nu e destulă memorie disponibilă</translation>
     </message>
@@ -5937,6 +5936,11 @@ Puteți schimba versiunea de Java din setări ulterior.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>Utilizare memorie m&amp;inimă:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>

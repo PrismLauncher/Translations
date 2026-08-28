@@ -5770,7 +5770,6 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <translation>Pa&amp;mäť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough memory available</source>
         <translation>Upozorniť, keď nie je k dispozícii dostatok pamäte</translation>
     </message>
@@ -5817,6 +5816,11 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="199"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>M&amp;inimálne využitie pamäte:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
+        <source>Warn when there is not enough free memory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
