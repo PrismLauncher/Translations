@@ -3367,12 +3367,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> （已安装 %1 个，已启用 %2 个，已选中 %3 个）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> （已安装 %1 个，已启用 %2 个）</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3386,7 +3386,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
-        <translation> （%1 / %2）</translation>
+        <translation> （已安装 %1 个，已选择 %2 个）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
