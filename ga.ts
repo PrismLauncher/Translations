@@ -2899,12 +2899,12 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 suiteáilte, %2 cumasaithe, %3 roghnaithe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 suiteáilte, %2 cumasaithe)</translation>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
