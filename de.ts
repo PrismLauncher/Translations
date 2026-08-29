@@ -6104,7 +6104,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnen, wenn nicht genügend freier Arbeitsspeicher verfügbar ist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
