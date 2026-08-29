@@ -107,12 +107,12 @@
             "untranslated" : 3
         },
         "cy" : {
-            "file" : "d74143cdd4f9298c2517a56e00b58c9fd05e106c.class",
-            "sha1" : "d74143cdd4f9298c2517a56e00b58c9fd05e106c",
-            "size" : 23477,
+            "file" : "85e4f6f0cb8040cbe874ad38c6d4edd30f9442ab.class",
+            "sha1" : "85e4f6f0cb8040cbe874ad38c6d4edd30f9442ab",
+            "size" : 26117,
             "translated" : 82,
-            "fuzzy" : 154,
-            "untranslated" : 2178
+            "fuzzy" : 195,
+            "untranslated" : 2137
         },
         "da" : {
             "file" : "823338e86c6b5c19dae90aaccc5a865cd74c3258.class",
@@ -123,12 +123,12 @@
             "untranslated" : 193
         },
         "de" : {
-            "file" : "5c4372a826eba07bc0c3fd3d4e7d9cf5ae0b72b0.class",
-            "sha1" : "5c4372a826eba07bc0c3fd3d4e7d9cf5ae0b72b0",
-            "size" : 370343,
-            "translated" : 2413,
+            "file" : "8fffd2894cc4b56770d562547bf25a021f4e49a2.class",
+            "sha1" : "8fffd2894cc4b56770d562547bf25a021f4e49a2",
+            "size" : 370559,
+            "translated" : 2414,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "de_CH" : {
             "file" : "211ac6791f71bdc95e4600a257e488c5b50ecaa8.class",
@@ -619,12 +619,12 @@
             "untranslated" : 28
         },
         "ru" : {
-            "file" : "4f5fa8edb1994542a5cc65940d581fdef632b5f8.class",
-            "sha1" : "4f5fa8edb1994542a5cc65940d581fdef632b5f8",
-            "size" : 356570,
-            "translated" : 2413,
+            "file" : "85c8ae6e3b8bcf42c89a74fa24366ebc06e4d422.class",
+            "sha1" : "85c8ae6e3b8bcf42c89a74fa24366ebc06e4d422",
+            "size" : 356748,
+            "translated" : 2414,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "rue" : {
             "file" : "ea9982d89f15a7a15add7535fc7dec955971fa45.class",
@@ -731,12 +731,12 @@
             "untranslated" : 1626
         },
         "uk" : {
-            "file" : "1e7f9a602c7e20d871d4a74481585f9c98ce9de1.class",
-            "sha1" : "1e7f9a602c7e20d871d4a74481585f9c98ce9de1",
-            "size" : 354292,
-            "translated" : 2413,
+            "file" : "41da233e99af121d107eb86f0262da05550f3b3f.class",
+            "sha1" : "41da233e99af121d107eb86f0262da05550f3b3f",
+            "size" : 354494,
+            "translated" : 2414,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "ur" : {
             "file" : "0ac2fb5177fd7815c9a1d8d904aed5782b755138.class",
