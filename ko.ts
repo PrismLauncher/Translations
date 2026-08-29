@@ -6043,7 +6043,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 메모리가 부족할 때 경고</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
