@@ -2310,12 +2310,12 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished">El tamaño del paquete de datos.</translation>
+        <translation>El tamaño de el paquete de datos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished">El nombre del archivo del paquete de datos.</translation>
+        <translation>El nombre del archivo del paquete de datos.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2331,7 +2331,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished">Está habilitado el paquete de datos? (Solo válido para archivos ZIP)</translation>
+        <translation>¿Está habilitado el paquete de datos? (Solo válido para archivos ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
@@ -2341,7 +2341,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>La fecha y hora que este paquete de datos fue modificado (o añadido).</translation>
+        <translation>Fecha y hora que este paquete de datos fue modificado (o añadido).</translation>
     </message>
 </context>
 <context>
@@ -2349,7 +2349,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Descargar Paquetes</translation>
+        <translation>Descargar Paquetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
@@ -2359,12 +2359,12 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished">Intenta comprobar o actualizar todos los paquetes de datos seleccionados (todos los paquetes de datos si no hay ninguno seleccionado)</translation>
+        <translation>Intenta comprobar o actualizar todos los paquetes de datos seleccionados (todos los paquetes de datos si no hay ninguno seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished">Cambia la versión de un paquete de datos.</translation>
+        <translation>Cambia la versión de un paquete de datos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
@@ -2393,7 +2393,7 @@ Algunas versiones de Minecraft podrían no iniciar.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="161"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="97"/>
@@ -2429,7 +2429,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="141"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">¡&apos;%1&apos; está actualizado! :)</translation>
+        <translation>¡&apos;%1&apos; está actualizado! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
@@ -2439,7 +2439,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="146"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished">Todos los paquetes de datos seleccionados están actualizados! :)</translation>
+        <translation>Todos los paquetes de datos seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
@@ -2449,7 +2449,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Descarte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
@@ -2549,7 +2549,7 @@ It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
         <translation>Tu sistema está bajo una presión crítica de memoria.
-Esto puede llevar a una ralentización considerable, cierres inesperados o inestabilidad del sistema.
+Esto puede llevar a una ralentización severa, cierres inesperados o inestabilidad del sistema.
 Se recomienda cerrar otras aplicaciones o reiniciar tu dispositivo.
 
 ¿Iniciar de todas maneras?</translation>
@@ -2557,12 +2557,12 @@ Se recomienda cerrar otras aplicaciones o reiniciar tu dispositivo.
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished">Presión crítica de memoria</translation>
+        <translation>Presión crítica de memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished">El sistema esta bajo una presión crítica de memoria.</translation>
+        <translation>El sistema esta bajo una presión crítica de memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2630,7 +2630,7 @@ Libre: %2 MiB (de un total de %3 MiB)
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished">
+        <translation>
 Esta instancia no puede iniciarse debido a que algunas librerías hacen falta o no se han descargado aún. Por favor intenta de nuevo en modo Online con una conexión a internet funcional</translation>
     </message>
 </context>
@@ -2676,7 +2676,7 @@ Esta instancia no puede iniciarse debido a que algunas librerías hacen falta o 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Sobrescribir Ajustes &amp;Globales</translation>
+        <translation>Sobrescribir Ajustes Globales</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -3266,12 +3266,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalado, %2 activado, %3 seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 insalado, %2 seleccionado)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3316,12 +3316,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished">Usado para editar componente de archivo JSON,</translation>
+        <translation>Usado para editar componentes de archivos JSON.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEditar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
@@ -3333,22 +3333,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
         <source>&amp;Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profiladores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>Los perfilador es son accesibles desde el menu desplegable de lanzamiento.</translation>
+        <translation>Los profiladores son accesibles desde el menu desplegable de lanzamiento.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>J&amp;Profilador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;VisualesVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3401,24 +3401,25 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
         <source>VisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM Ejecutable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha ocurrido un error mientras se revisaba la instalación de VisualVM:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>El setup de VisualVM parece estar bien.</translation>
+        <translation>El setup de VisualVM parece estar bien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de Texto</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3529,64 +3530,64 @@ Por favor inténtalo nuevamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="82"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Consiguiendo el manifesto...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="90"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">No se pudo encontrar la versión del paquete %1</translation>
+        <translation>No se pudo encontrar la versión del paquete %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="133"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">No se pudo entender el manifiesto del paquete:
+        <translation>No se pudo entender el manifiesto del paquete:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="144"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolviendo mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="154"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifiesto invalido: No hay informacion disponible para descargar el archivo &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="218"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos bloqueados encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="219"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes archivos no estan disponibles para descargar en Launchers pirata.&lt;br/&gt;Tu necesitas descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="241"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Creando la instancia...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="304"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="307"/>
         <source>Mod download</source>
-        <translation type="unfinished">Descarga de mod</translation>
+        <translation>Descargar mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copiando mods bloqueados...</translation>
+        <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="383"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copiando mods bloqueados (%1 de %2 están hechos)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 están hechos)</translation>
     </message>
 </context>
 <context>
@@ -3612,7 +3613,7 @@ Por favor inténtalo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Varios paquetes de mods FTB recientes tambien estan disponibles en CurseForge! Tambien, si tus instancias FTB no estan en la localizacion predeterminada, seleccionalos usando el boton al lado de buscar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3787,17 +3788,17 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido recuperar los archivos antiguos.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudimos recuperar los archivos antiguos debido a que la tarea fue abortada. Esto puede causar que algunos archivos sean duplicados. Deseas continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudimos recuperar los archivos antiguos debido a: %1. Esto puede causar que algunos archivos sean duplicados. Deseas continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
@@ -3854,12 +3855,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminando archivos antiguos en conflicto...</translation>
+        <translation>Eliminando archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">No se pudieron eliminar los archivos antiguos en conflicto.</translation>
+        <translation>No se pudieron eliminar los archivos antiguos en conflicto.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4191,7 +4192,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Varios paquetes de mods FTB recients tambien estan disponibles desde CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4334,12 +4335,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria de iconos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar Iconos...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4348,27 +4349,27 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="106"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquetes de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="154"/>
@@ -4412,7 +4413,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir el archivo %1 para leer: %2</translation>
     </message>
 </context>
 <context>
@@ -4475,7 +4476,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Esta URL no es un modpack valido!</translation>
+        <translation>Esta url no es un modpack valido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="173"/>
@@ -4592,7 +4593,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="111"/>
@@ -4632,29 +4633,31 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando un segundo Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 es conocido por ser incompatible con %2, el cual esta habilitado en esta instancia. Tener ambos habilitados al mismo tiempo garantizara que la instancia se rompa.
+
+¿Que quisieras hacer con %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenerlo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivarlo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalarlo</translation>
     </message>
 </context>
 <context>
@@ -4670,12 +4673,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="31"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falla al importar el mundo.</translation>
     </message>
 </context>
 <context>
@@ -4733,15 +4736,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Saltar</translation>
+        <translation>Saltear</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo descargar los archivos:%1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando los archivos del juego</translation>
     </message>
 </context>
 <context>
@@ -4866,7 +4869,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstancePageProvider.h" line="47"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Otros registros</translation>
+        <translation>Otros registros</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
@@ -5198,22 +5201,22 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltear</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron descargar los archivos del juego:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando los archivos del juego</translation>
     </message>
 </context>
 <context>
@@ -5249,12 +5252,12 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reiniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicia la instancia funcional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -5316,7 +5319,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM iniciado</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -5398,7 +5401,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="295"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru abierto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="301"/>
@@ -5539,7 +5542,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
@@ -5779,22 +5782,22 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Detectar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navegar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished"></translation>
+        <translation>Testear C&amp;onfiguracion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Java&amp;Descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
@@ -5804,7 +5807,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java&amp;Ejecutable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5813,22 +5816,22 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertir cuando no hay mas memoria disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="355"/>
         <source>Memory Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia de memoria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="337"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="288"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>PermGen (Java 7 and earlier):</source>
@@ -5846,12 +5849,12 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="297"/>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen Size:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="239"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="248"/>
