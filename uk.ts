@@ -1251,7 +1251,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3692,7 +3692,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -4148,7 +4148,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -4272,7 +4272,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -11769,7 +11769,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -16878,7 +16878,7 @@ inheritsFrom відсутній</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
