@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сэрвіс устаўкі</translation>
+        <translation>&amp; Тып сэрвісу ўстаўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Заўвага: магчыма, вы пажадаеце змяніць або ачысціць URL пасля змены сэрвіса ўстаўкі.</translation>
+        <translation>Заўвага: магчыма, вы пажадаеце змяніць або ачысціць URL пасля змены сэрвісу ўстаўкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Вы можаце задаць іншы сервер, калі маеце праблемы са сцягваннем рэсурсаў.</translation>
+        <translation>Вы можаце задаць іншы сервер, калі маеце праблемы са спампоўваннем рэсурсаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -537,19 +537,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Выдаліць</translation>
+        <translation>Вы&amp;даліць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Выкарыстоўваць па змаўчанні</translation>
+        <translation>&amp;Выкарыстоўваць па змаўчанні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Няма значэння па змаўчанні</translation>
+        <translation>Няма &amp;значэння па змаўчанні</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -816,7 +816,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключыць коціка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1159,7 +1159,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Выкарыстоўваць «Адкрыты код»</translation>
+        <translation>Выкарыстоўваць код агульнага доступу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1169,7 +1169,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
-        <translation>Увядзіце адкрыты код</translation>
+        <translation>Выберыце код агульнага доступу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
@@ -1179,7 +1179,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
-        <translation>Код агульнага доступу не пазначаны!</translation>
+        <translation>Код агульнага доступу не ўказаны!</translation>
     </message>
 </context>
 <context>
@@ -1211,7 +1211,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1305,7 +1305,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>Unknown account task state: %1</source>
-        <translation>Невядомы стан запросу ўліковага запісу: %1</translation>
+        <translation>Невядомы стан запыту ўліковага запісу: %1</translation>
     </message>
 </context>
 <context>
@@ -2093,7 +2093,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>Снапошты</translation>
+        <translation>Снапшоты</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -3555,7 +3555,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3915,7 +3915,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -4031,7 +4031,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -4548,7 +4548,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="130"/>
         <source>Attempting to determine instance type</source>
-        <translation>Спроба вызначэння тыпу ўстаноўкі</translation>
+        <translation>Спроба вызначэння тыпу ўсталявання</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
@@ -6373,7 +6373,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>&amp;Skins:</source>
-        <translation>Скіны:</translation>
+        <translation>&amp;Скіны:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -6496,7 +6496,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="663"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation>Час чакання да перапынення запыту ў секундах</translation>
+        <translation>Час чакання (секунд) да завяршэння запыту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="642"/>
@@ -6532,12 +6532,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>Замяніць панэль інструментаў панэллю меню</translation>
+        <translation>&amp;Замяніць панэль інструментаў на меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>Перамяшчайце заблякаваныя моды, а не капіюйце іх</translation>
+        <translation>Перамясціць заблакаваныя моды, а не капіяваць іх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
@@ -6552,12 +6552,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>Аўтаматычнае выяўленне, усталяванне і абнаўленне залежнасцяў модаў.</translation>
+        <translation>Аўтаматычнае выяўленне, усталяванне і абнаўленне залежнасцей модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>Install dependencies automatically</source>
-        <translation>Аўтаматычная ўстаноўка залежнасцяў</translation>
+        <translation>Аўтаматычнае ўсталяванне залежнасцей</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
@@ -6567,7 +6567,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>Прапануеце абнавіць існуючы асобнік падчас ўстаноўкі modpack</translation>
+        <translation>Прапануеце абнавіць існуючы асобнік падчас ўсталявання modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
@@ -6668,7 +6668,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Гэты каталог ужо дададзены.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -6683,7 +6683,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
         <source>Downloads Folder</source>
-        <translation>Папка спамовак</translation>
+        <translation>Папка спамповак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="198"/>
@@ -6879,7 +6879,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="193"/>
         <source>No installation method found!</source>
-        <translation>Не знойдзены метад устаноўкі!</translation>
+        <translation>Не знойдзены метад усталявання!</translation>
     </message>
 </context>
 <context>
@@ -6887,7 +6887,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -7165,7 +7165,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -7305,7 +7305,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Стан</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -7708,7 +7708,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Kill the running instance.</source>
-        <translation>Спыніць бягучую ўстаноўку.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
@@ -8467,7 +8467,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation>&lt;КЛЮЧ ДОСТУПУ&gt;</translation>
+        <translation>&lt;ТОКЕН ДОСТУПУ&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
@@ -8676,7 +8676,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation>Запісваць час, затрачаны на прайграванне инстансов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
@@ -9129,7 +9129,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation>Схаваць устаноўленыя элементы</translation>
+        <translation>Схаваць усталяваныя элементы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
@@ -9970,7 +9970,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10522,7 +10522,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Непадтрымліваемы рэжым устаноўкі</translation>
+        <translation type="unfinished">Непадтрымліваемы рэжым усталявання</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
@@ -11354,7 +11354,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтэнтыфікацыя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
@@ -14302,7 +14302,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation>Пошук і фільтраванне...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -15569,7 +15569,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation>Атрымаць токен карыстальніка Xbox</translation>
+        <translation>Атрыманы токен карыстальніка Xbox</translation>
     </message>
 </context>
 <context>
