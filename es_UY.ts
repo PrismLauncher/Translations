@@ -2455,7 +2455,7 @@ Los archivos antiguos pueden no ser eliminados ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished">Está a punto de eliminar los metadatos de %1 packs de shaders.
+        <translation>Está a punto de eliminar los metadatos de %1 paquetes de datos.
 ¿Está seguro?</translation>
     </message>
 </context>
@@ -2535,11 +2535,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished">El sistema está bajo mayor presión de memoria.
-Esto puede llevar a retrasos o desaceleraciones.
+        <translation>El sistema está bajo mayor presión de memoria.
+Esto puede llevar a lag o ralentizaciones.
 De ser posible, cierre otras aplicaciones antes de continuar.
 
-¿Lanzamiento de todos modos?</translation>
+¿Abrir el juego de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -3338,7 +3338,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los perfilador es son accesibles desde el menu desplegable de lanzamiento.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
