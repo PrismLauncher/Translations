@@ -3238,7 +3238,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 نصب شده، %2 فعال)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -4570,7 +4570,9 @@ Please try again.</source>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished">%1شناخته شده است که با آن در تضاد است%2چیزی که که در این نمونه فعال است. فعال بودن همزمان هر دو احتمالاً باعث خرابی نمونه خواهد شد. می‌خواهید با آن چه کار کنید؟</translation>
+        <translation>مشخص شده است که %1 با %2 که در این نمایه فعال است، تداخل دارد. فعال بودن همزمان هر دو احتمالاً نمونه را از کار می‌اندازد.
+
+با %2 چه کاری می‌خواهید انجام دهید؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
@@ -5635,7 +5637,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="348"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>وقتی رم خالی کافی موجود نیست اخطاری بده</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="368"/>
@@ -6731,12 +6733,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>این در حال حاضر دایرکتوری نمایه اصلی شماست.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>این دایرکتوری قبلاً اضافه شده است.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -7354,12 +7356,12 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>شکست در پارس کردن فایل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>استخراج %1 لغو شد، زیرا عملاً خارج از مسیر هدف %2 بود</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
@@ -7378,12 +7380,12 @@ Reason:
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>احراز هویت دستگاه ناموفق بود: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>احراز هویت دستگاه ناموفق بود: فیلدهای الزامی وجود ندارند</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7392,12 +7394,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>دسترسی به دستگاه ناموفق بود: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>توکن MSA گرفته شد</translation>
     </message>
 </context>
 <context>
@@ -7437,12 +7439,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished">کد کوفتی رو اینجا کپی کن کیری</translation>
+        <translation>کد را در کلیپ بورد کپی کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished">جزعیات</translation>
+        <translation>اطلاعات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="77"/>
@@ -7452,7 +7454,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="205"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 را باز کنید یا QR را اسکن کنید و در صورت نیاز کد بالا را وارد کنید.</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
@@ -7464,12 +7466,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>توکن MSA گرفته شد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>شکست در بروزرسانی توکن</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
@@ -7484,7 +7486,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>احراز هویت کاربر Microsoft ناموفق بود - توکن به‌روزرسانی خالی است.</translation>
     </message>
     <message>
         <source>Got </source>
@@ -7746,7 +7748,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>نصب در مسیر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -7771,7 +7773,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>یک میانبر روی پوشه انتخاب شده ایجاد می‌کند تا نمونه انتخاب شده را اجرا کند.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
@@ -7781,7 +7783,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه نمایه ها را در یک مرورگر فایل باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
@@ -7801,7 +7803,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه پوسته ها را در یک مرورگر فایل باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
@@ -7811,17 +7813,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی آیکون‌های نمونه را در یک مرورگر فایل باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>لاگ ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی لاگ ها را در یک مرورگر فایل باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
@@ -7842,13 +7844,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>دیدن لاگ ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>مشاهده لاگ های لانچر فعلی و قبلی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
@@ -7863,7 +7865,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه تم‌های ویجت را در یک مرورگر فایل باز کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
