@@ -3307,12 +3307,12 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 geïnstalleerd, %2 ingeschakeld, geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 geïnstalleerd, %2 ingeschakeld)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3839,7 +3839,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>We konden de oude bestanden niet ophalen omdat: . Dit kan er voor zorgen dat sommige bestanden worden gedupliceerd. Wilt u doorgaan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
