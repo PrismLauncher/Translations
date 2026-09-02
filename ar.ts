@@ -4160,12 +4160,12 @@ Please try again.</source>
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="91"/>
         <source>Get dependencies</source>
         <translation>حصول على التبعيات</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="241"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>حدث خطأ في الشبكة لا يمكن تحميل تبعيات المشروع:%1</translation>
@@ -10814,35 +10814,29 @@ Please update %1!</source>
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="103"/>
         <source>Requesting %1</source>
         <translation>جار إعادة طلب %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="179"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="185"/>
         <source>unknown</source>
         <translation>مجهول</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="187"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /ث (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="190"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 بايت/ث</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/NetRequest.cpp" line="309"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
@@ -10855,10 +10849,71 @@ Please update %1!</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/NetRequest.cpp" line="314"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
+            <numerusform>تم تقييد معدل الشبكة : لا داعي للانتظار</numerusform>
+            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانية واحدة</numerusform>
+            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانيتين</numerusform>
+            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثواني</numerusform>
+            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
+            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>Net::Request</name>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="121"/>
+        <source>Requesting %1</source>
+        <translation type="unfinished">جار إعادة طلب %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
+        <source>%1 / %2</source>
+        <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
+        <translation type="unfinished">%1 / %2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
+        <source>unknown</source>
+        <translation type="unfinished">مجهول</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
+        <source>%1 /s (%2)</source>
+        <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
+        <translation type="unfinished">%1 /ث (%2)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
+        <source>0 B/s</source>
+        <extracomment>Download speed at 0 bytes per second</extracomment>
+        <translation type="unfinished">0 بايت/ث</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
+        <source>Too many redirects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة ثانية واحدة: أعد المحاولة بعد %1</numerusform>
+            <numerusform>‮تم تقييد معدل الطلبات لمدة ثانيتين: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثواني: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
             <numerusform>تم تقييد معدل الشبكة : لا داعي للانتظار</numerusform>
             <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانية واحدة</numerusform>
             <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانيتين</numerusform>

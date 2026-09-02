@@ -3560,12 +3560,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="91"/>
         <source>Get dependencies</source>
         <translation>Merr varësitë</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="241"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Ndodhi një gabim rrjeti. Nuk u mund të ngarkoheshin varësitë e projektit:%1</translation>
@@ -8394,35 +8394,29 @@ Ju lutem përditësoni %1!</translation>
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="103"/>
         <source>Requesting %1</source>
         <translation>Duke kërkuar %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="179"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="185"/>
         <source>unknown</source>
         <translation>i panjohur</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="187"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="190"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/NetRequest.cpp" line="309"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
@@ -8431,10 +8425,63 @@ Ju lutem përditësoni %1!</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/NetRequest.cpp" line="314"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
+            <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekondë</numerusform>
+            <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekonda</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>Net::Request</name>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="121"/>
+        <source>Requesting %1</source>
+        <translation type="unfinished">Duke kërkuar %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
+        <source>%1 / %2</source>
+        <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
+        <translation type="unfinished">%1 / %2</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
+        <source>%1 /s (%2)</source>
+        <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
+        <translation type="unfinished">%1 /s (%2)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
+        <source>0 B/s</source>
+        <extracomment>Download speed at 0 bytes per second</extracomment>
+        <translation type="unfinished">0 B/s</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
+        <source>Too many redirects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
+        <source>Request Rate Limited for %n second(s): Retry After %1</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
+            <numerusform>Shkalla e Kërkesave Kufizuar për %n sekondë: Riprovo Pas %1</numerusform>
+            <numerusform>Shkalla e Kërkesave Kufizuar për %n sekonda: Riprovo Pas %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
+        <source>Rate Limited: Waiting %n second(s)</source>
+        <comment>seconds</comment>
+        <translation type="unfinished">
             <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekondë</numerusform>
             <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekonda</numerusform>
         </translation>
