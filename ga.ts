@@ -5236,7 +5236,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabhadh nuair nach bhfuil dóthain cuimhne saor in aisce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -10015,54 +10015,54 @@ Nuashonraigh %1 le do thoil!</translation>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="121"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Ag iarraidh %1</translation>
+        <translation>Ag iarraidh %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
-        <translation type="unfinished">anaithnid</translation>
+        <translation>anaithnid</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>An iomarca atreoruithe</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Ráta Iarratais Teoranta ar feadh %n soicind: Déan iarracht arís tar éis %1</numerusform>
-            <numerusform>Ráta Iarratais Teoranta ar feadh %n soicindí: Déan iarracht arís tar éis %1</numerusform>
-            <numerusform>Ráta Iarratais Teoranta ar feadh %n soicindí: Déan iarracht arís tar éis %1</numerusform>
+            <numerusform>Ráta Iarratais Teoranta ar feadh %n soicind: Déan iarracht arís tar éis %1</numerusform>
+            <numerusform>Ráta Iarratais Teoranta ar feadh %n soicind: Déan iarracht arís tar éis %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Ráta Teoranta: Ag fanacht %n soicind</numerusform>
-            <numerusform>Ráta Teoranta: Ag fanacht %n soicindí</numerusform>
-            <numerusform>Ráta Teoranta: Ag fanacht %n soicindí</numerusform>
+            <numerusform>Ráta Teoranta: Ag fanacht %n soicind</numerusform>
+            <numerusform>Ráta Teoranta: Ag fanacht %n soicind</numerusform>
         </translation>
     </message>
 </context>
@@ -13460,7 +13460,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Díchumasaigh mods nach bhfuil ar fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
