@@ -932,17 +932,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="685"/>
+        <location filename="src/launcher/Application.cpp" line="684"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Tento protokol nelze zobrazit, jelikož jeho délka přesáhla %1 řádků.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="904"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1081"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -969,12 +969,12 @@ pro podrobnosti o posledním pokusu o aktualizaci.
 Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“ níže.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>Probíhá aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1122"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -989,12 +989,12 @@ Zkontrolujte protokol aktualizačního programu Prism Launcher zde:
 pro podrobnosti o posledním pokusu o aktualizaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1130"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>Aktualizace selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1154"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1014,12 +1014,12 @@ Pro podrobnosti se podívejte na protokol aplikace Prism Launcher:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1162"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>Úspěšně aktualizováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1194"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1040,7 +1040,7 @@ Některé verze Minecraftu se nemusí spustit.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilní konfigurace systémmu</translation>
     </message>
@@ -1049,22 +1049,22 @@ Některé verze Minecraftu se nemusí spustit.
         <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1954"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Byla nalezena stará data z %1, ale pro %2 již máte existující data. Bohužel budete muset provést migraci sami. Chcete být při příštím spuštění %2 upozorněni na probíhající migraci dat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Vypadá to, že jste již dříve použili %1. Chcete svá data přenést do nového umístění %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Vypadá to, že jste již dříve použili %1 na %2. Chcete svá data přenést do nového umístění %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2010"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrace se nezdařila! Důvod: %1</translation>
     </message>
@@ -3388,9 +3388,8 @@ Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="112"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="207"/>
         <source>Browse</source>
         <translation>Procházet</translation>
     </message>
@@ -3400,34 +3399,32 @@ Jste si jisti, že to chcete udělat?</translation>
         <translation>Použito pro úpravu součástí souborů JSON.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
         <translation>&amp;MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="222"/>
         <source>Check</source>
         <translation>Zkontrolovat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="100"/>
         <source>&amp;Profilers</source>
         <translation>&amp;Profilery</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="106"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
         <translation>Profilery jsou dostupné z rozbalovací nabídky u tlačítka Spustit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="132"/>
         <source>J&amp;Profiler</source>
         <translation>J&amp;Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="192"/>
         <source>&amp;VisualVM</source>
         <translation>&amp;VisualVM</translation>
     </message>
@@ -3445,60 +3442,57 @@ Jste si jisti, že to chcete udělat?</translation>
         <translation type="vanished">Externí nástroje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="97"/>
         <source>JProfiler Folder</source>
         <translation>Složka JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Chyba při kontrolování instalace JProfiler:↵
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>Instalace JProfiler se zdá být v pořádku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="126"/>
         <source>VisualVM Executable</source>
         <translation>Spustitelný soubor VisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>Chyba při kontrole instalace VisualVM:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
         <source>VisualVM setup seems to be OK</source>
         <translation>Instalace VisualVM vypadá v pořádku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
         <source>Text Editor</source>
         <translation>Textový editor</translation>
     </message>
@@ -3517,25 +3511,20 @@ Jste si jisti, že to chcete udělat?</translation>
         <translation type="vanished">Instalace JVisualVM se zdá být v pořádku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
         <translation>Aplikace MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
         <translation>Složka MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>Chyba při kontrole instalace MCEdit:↵
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>Instalace MCEdit se zdá v pořádku</translation>
     </message>
@@ -3544,12 +3533,12 @@ Jste si jisti, že to chcete udělat?</translation>
         <translation type="vanished">Editor JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>Invalid</source>
         <translation>Neplatný</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Zvolený soubor se nezdá být spustitelný</translation>
     </message>
@@ -14213,7 +14202,6 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Cesta neexistuje</translation>
     </message>
@@ -14223,12 +14211,10 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <translation>Neplatná instalace JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
         <translation>Cesta je prázná</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
         <translation>Cesta se nezdá být cesta MCEdit</translation>
     </message>
@@ -18485,22 +18471,22 @@ Opravdová cesta: %1</translation>
         <translation>Akce</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="100"/>
         <source>Add</source>
         <translation>Přidat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="105"/>
         <source>Join</source>
         <translation>Připojit se</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="110"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="115"/>
         <source>Copy</source>
         <translation>Kopírovat</translation>
     </message>
@@ -18509,47 +18495,46 @@ Opravdová cesta: %1</translation>
         <translation type="vanished">Smazat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="120"/>
         <source>Delete</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="125"/>
         <source>Copy Seed</source>
         <translation>Zkopírovat seed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="130"/>
         <source>Refresh</source>
         <translation>Obnovit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="135"/>
         <source>View Folder</source>
         <translation>Zobrazit složku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Reset Icon</source>
         <translation>Obnovit ikonu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Odstranit ikonu světa, aby ji hra znovu vygenerovala při jeho dalším načtení.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Data Packs</source>
         <translation>Datové balíčky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Manage data packs inside the world.</source>
         <translation>Spravovat datové balíčky uvnitř světa.</translation>
     </message>
@@ -18562,12 +18547,12 @@ Opravdová cesta: %1</translation>
         <translation type="vanished">Spravovat balíčky dat světa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="57"/>
         <source>Worlds</source>
         <translation>Světy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="150"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
@@ -18590,63 +18575,58 @@ Přejete si pokračovat?</translation>
         <translation type="vanished">Otevřít složku s datapacky světa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>Open World in MCEdit</source>
         <translation>Otevřít svět v programu MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit nebyl nalezen nebo nastaven!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="354"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Nemáte nastavený MCEdit nebo byl přesunut.
 Mužete ho nastavit v globálním nastavení.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>MCEdit failed to start!</source>
         <translation>Příkaz se nepodařilo spustit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="361"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Nepodařílo se spustit MCEdit.
 Možná je nutné ho přeinstalovat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>Select a Minecraft world zip</source>
         <translation>Vyberte ZIP Minecraftového světa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>Minecraft World Zip File</source>
         <translation>Soubor ZIP s Minecraftovým světem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
         <translation>Kopírovat svět</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Změna světa když Minecraft běží je možna riskantní.
 Přejete si pokračovat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="201"/>
         <source>Confirm Deletion</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -18657,33 +18637,33 @@ Svět může být navždy ztracen (FAKT NA DLOUHO).
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="239"/>
         <source>Manage Data Packs</source>
         <translation>Spravovat datové balíčky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="246"/>
         <source>Data packs for %1</source>
         <translation>Datové balíčky %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
         <translation>Název Světa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
         <source>Enter a new name for the copy.</source>
         <translation>Zadejte název instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
         <translation>Přejmenovat svět</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>Enter a new world name.</source>
         <translation>Zadejte název skupiny.</translation>
     </message>

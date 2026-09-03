@@ -932,17 +932,17 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="685"/>
+        <location filename="src/launcher/Application.cpp" line="684"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>نمیتوان لاگ را نشان داد زیرا اندازه آن از %1 لاین گذشته است.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="905"/>
+        <location filename="src/launcher/Application.cpp" line="904"/>
         <source>Settings</source>
         <translation>تنظیمات</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1081"/>
+        <location filename="src/launcher/Application.cpp" line="1075"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -969,12 +969,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 برای حذف این قفل و ادامه دادن دکمه &quot;نادیده گرفتن&quot; را بزنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
         <translation>بروزرسانی درحال انجام</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1122"/>
+        <location filename="src/launcher/Application.cpp" line="1116"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -989,12 +989,12 @@ for details on the last update attempt.</source>
 برای جزئیات روی اخرین تلاش برای اپدیت.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1130"/>
+        <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
         <translation>بروزرسانی ناموفق</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1154"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1015,12 +1015,12 @@ for details.</oldsource>
 برای جزییات بیشتر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1162"/>
+        <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
         <translation>بروزرسانی موفق آمیز بود</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1194"/>
+        <location filename="src/launcher/Application.cpp" line="1188"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1041,7 +1041,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1200"/>
+        <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
         <translation>کانفیگ سیستمی ناسازگار</translation>
     </message>
@@ -1050,22 +1050,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">لغو شده</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1954"/>
+        <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>داده های قدیمی از % 1 پیدا شد، اما از قبل داده های موجود برای % 2 دارید. متأسفانه باید خودتان انتقال داده را انجام دهید. آیا می خواهید دفعه بعد که % 2 را شروع می کنید، انتقال داده های معلق به شما یادآوری شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1958"/>
+        <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>به نظر می رسد قبلاً از %1 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %2 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1964"/>
+        <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>به نظر می رسد قبلاً از %1 در %2 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %3 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2010"/>
+        <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
         <translation>مهاجرت ناموفق بود! دلیل: %1</translation>
     </message>
@@ -3274,9 +3274,8 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="112"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="207"/>
         <source>Browse</source>
         <translation>جستجو</translation>
     </message>
@@ -3286,34 +3285,32 @@ Are you sure you want to do this?</source>
         <translation>برای ویرایش فایل‌های JSON مربوط به بخش های مختلف استفاده می‌شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
         <source>&amp;MCEdit</source>
         <translation>&amp;ٔmcedit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="222"/>
         <source>Check</source>
         <translation>بررسی کردن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="100"/>
         <source>&amp;Profilers</source>
         <translation>&amp;ابزار تحلیل</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="106"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
         <translation>ابزارهای تحلیل از طریق منوی کشویی اجرا قابل دسترسی هستند.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="132"/>
         <source>J&amp;Profiler</source>
         <translation>j&amp;profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="236"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="192"/>
         <source>&amp;VisualVM</source>
         <translation>&amp;visualVM</translation>
     </message>
@@ -3331,60 +3328,57 @@ Are you sure you want to do this?</source>
         <translation type="vanished">ابزارهای خارجی</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="97"/>
         <source>JProfiler Folder</source>
         <translation>پوشه JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
         <source>Error</source>
         <translation>خطا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="107"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>خطا هنگام چک کردن نصب JProfiler:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
         <source>OK</source>
         <translation>تأیید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>راه‌اندازی JProfiler به نظر خوب می‌آید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="126"/>
         <source>VisualVM Executable</source>
         <translation>فایل اجرایی VisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="136"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>خطا هنگام بررسی نصب VisualVM:
 1%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
         <source>VisualVM setup seems to be OK</source>
         <translation>بنظر میرسد تنظیمات VisualVM درست باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
         <source>Text Editor</source>
         <translation>ویرایشگر متن</translation>
     </message>
@@ -3403,25 +3397,20 @@ Are you sure you want to do this?</source>
         <translation type="vanished">راه‌اندازی JVisualVM به نظر خوب می‌آید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
         <translation>برنامه MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
         <translation>پوشه MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>خطا هنگام چک کردن نصب MCEdit:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>راه‌اندازی MCEdit به نظر خوب می‌آید</translation>
     </message>
@@ -3430,12 +3419,12 @@ Are you sure you want to do this?</source>
         <translation type="vanished">ویرایشگر JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>Invalid</source>
         <translation>نامعتبر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>فایلی که انتخاب کرده‌اید به نظر می آید که قابل اجرا نیست</translation>
     </message>
@@ -12313,7 +12302,6 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>مسیر وجود ندارد</translation>
     </message>
@@ -12323,12 +12311,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>نصب JProfiler نامعتبر</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
         <translation>مسیر خالی است</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
         <translation>این مسیر به نظر نمی آید که مسیر MCEdit باشد</translation>
     </message>
@@ -16208,22 +16194,22 @@ Canonical Path: %1</source>
         <translation>اقدامات</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="100"/>
         <source>Add</source>
         <translation>افزودن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="105"/>
         <source>Join</source>
         <translation>ملحق شو</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="110"/>
         <source>Rename</source>
         <translation>تغییرنام</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="115"/>
         <source>Copy</source>
         <translation>کپی</translation>
     </message>
@@ -16232,47 +16218,46 @@ Canonical Path: %1</source>
         <translation type="vanished">حذف</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="120"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="125"/>
         <source>Copy Seed</source>
         <translation>کپی کردن سید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="130"/>
         <source>Refresh</source>
         <translation>تازه‌کردن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="135"/>
         <source>View Folder</source>
         <translation>مشاهده پوشه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Reset Icon</source>
         <translation>بازنشانی آیکن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>حذف آیکن دنیا که باعث می شود دوباره بعد از بارگزاری بعدی، تشکیل گردد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Data Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Manage data packs inside the world.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16285,12 +16270,12 @@ Canonical Path: %1</source>
         <translation type="vanished">مدیریت دیتاپک های یک دنیا.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="57"/>
         <source>Worlds</source>
         <translation>دنیاها</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="150"/>
         <source>Context menu</source>
         <translation>منوی راست کلیک</translation>
     </message>
@@ -16313,63 +16298,58 @@ Do you want to continue?</source>
         <translation type="vanished">پوشه دنیا دیتاپک ها را باز کنید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="333"/>
         <source>Open World in MCEdit</source>
         <translation>باز کردن دنیا در MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="353"/>
         <source>No MCEdit found or set up!</source>
         <translation>هیچ تنظیمی برای MCEdit یافت نشد!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="354"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>شما MCEdit را درست تنظیم نکردید یا جا‌به‌جا شده است.
 شما می توانید آنرا در تنظیمات عمومی تنظیم کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit نتوانست باز شود!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="361"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit نتوانست باز شود.
 احتمالا لازم باشد که دوباره آن را نصب کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>Select a Minecraft world zip</source>
         <translation>یک دنیای ماینکرافت فشرده شده را انتخاب کنید</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>Minecraft World Zip File</source>
         <translation>فایل فشرده دنیا ماینکرفت</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
         <translation>کپی دنیا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>تغییر دنیا هنگامی که ماینکرافت در حال اجراست به احتمال خیلی قویی امن نیست.
 آیا می خواهید که ادامه دهید?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="201"/>
         <source>Confirm Deletion</source>
         <translation>تایید حذف شدن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -16377,33 +16357,33 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="239"/>
         <source>Manage Data Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="246"/>
         <source>Data packs for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
         <translation>نام دنیا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
         <source>Enter a new name for the copy.</source>
         <translation>یک نام برای کپی وارد کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
         <translation>تغییرنام دنیا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="494"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>Enter a new world name.</source>
         <translation>وارد کردن نام دنیای جدید.</translation>
     </message>
