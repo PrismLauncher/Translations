@@ -5990,7 +5990,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>사용 가능한 메모리가 부족할 때 경고 표시</translation>
+        <translation type="vanished">사용 가능한 메모리가 부족할 때 경고 표시</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

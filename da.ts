@@ -5772,10 +5772,6 @@ Du kan ændre Java versionen i indstillingerne senere.
         <translation>&amp;Hukommelse</translation>
     </message>
     <message>
-        <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Memory Notice</source>
         <translation>Hukommelsesbemærkning</translation>

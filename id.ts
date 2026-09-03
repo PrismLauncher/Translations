@@ -5851,7 +5851,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Peringatkan saat memori tidak cukup</translation>
+        <translation type="vanished">Peringatkan saat memori tidak cukup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

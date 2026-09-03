@@ -5751,7 +5751,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Varoita, kun muistia ei ole riittävästi käytettävissä</translation>
+        <translation type="vanished">Varoita, kun muistia ei ole riittävästi käytettävissä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

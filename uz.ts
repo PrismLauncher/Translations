@@ -4506,7 +4506,7 @@ Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Xotira yetarli bo&apos;lmaganda ogohlantirish</translation>
+        <translation type="vanished">Xotira yetarli bo&apos;lmaganda ogohlantirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

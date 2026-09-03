@@ -5920,7 +5920,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Waarschuw bij onvoldoende beschikbaar werkgeheugen</translation>
+        <translation type="vanished">Waarschuw bij onvoldoende beschikbaar werkgeheugen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

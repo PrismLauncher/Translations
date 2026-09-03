@@ -5565,7 +5565,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>להזהיר כאשר אין מספיק זיכרון זמין</translation>
+        <translation type="vanished">להזהיר כאשר אין מספיק זיכרון זמין</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

@@ -6059,7 +6059,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Предупреждать при недостаточном объеме доступной памяти</translation>
+        <translation type="vanished">Предупреждать при недостаточном объеме доступной памяти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

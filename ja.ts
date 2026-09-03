@@ -5851,7 +5851,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>利用可能なメモリが不足している場合に警告する</translation>
+        <translation type="vanished">利用可能なメモリが不足している場合に警告する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

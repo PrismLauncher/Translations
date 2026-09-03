@@ -5687,7 +5687,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>เเจ้งเตือนเมื่อหน่วยความจำไม่เพียงพอ</translation>
+        <translation type="vanished">เเจ้งเตือนเมื่อหน่วยความจำไม่เพียงพอ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

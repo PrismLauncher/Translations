@@ -5977,7 +5977,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Avvisa quando non c&apos;è sufficiente memoria disponibile</translation>
+        <translation type="vanished">Avvisa quando non c&apos;è sufficiente memoria disponibile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

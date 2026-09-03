@@ -5200,10 +5200,6 @@ You can change the Java version in the settings later.
         <translation>நினைவகம் &amp; மற்றும்</translation>
     </message>
     <message>
-        <source>Warn when there is not enough memory available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Memory Notice</source>
         <translation>நினைவக அறிவிப்பு</translation>

@@ -5692,7 +5692,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>تحذير عند عدم توفر ذاكرة كافية</translation>
+        <translation type="vanished">تحذير عند عدم توفر ذاكرة كافية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

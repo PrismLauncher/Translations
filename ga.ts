@@ -5187,7 +5187,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Rabhadh nuair nach bhfuil dóthain cuimhne ar fáil</translation>
+        <translation type="vanished">Rabhadh nuair nach bhfuil dóthain cuimhne ar fáil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

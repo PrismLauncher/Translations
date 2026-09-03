@@ -4132,7 +4132,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>喺記憶體不足嘅時候發出警告</translation>
+        <translation type="vanished">喺記憶體不足嘅時候發出警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

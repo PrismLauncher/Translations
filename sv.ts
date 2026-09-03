@@ -5963,7 +5963,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Varna när det inte finns nog med minne tillgängligt</translation>
+        <translation type="vanished">Varna när det inte finns nog med minne tillgängligt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

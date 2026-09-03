@@ -5512,7 +5512,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Папярэджваць пры недахопе даступнай памяці</translation>
+        <translation type="vanished">Папярэджваць пры недахопе даступнай памяці</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

@@ -6052,7 +6052,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Ostrzegaj, gdy dostępnej pamięci jest za mało</translation>
+        <translation type="vanished">Ostrzegaj, gdy dostępnej pamięci jest za mało</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

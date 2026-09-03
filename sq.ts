@@ -4449,7 +4449,7 @@ Je i sigurt?</translation>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Paralajmëro kur nuk ka memorie të mjaftueshme të disponueshme</translation>
+        <translation type="vanished">Paralajmëro kur nuk ka memorie të mjaftueshme të disponueshme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

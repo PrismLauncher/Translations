@@ -5880,7 +5880,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Cảnh báo khi không đủ bộ nhớ</translation>
+        <translation type="vanished">Cảnh báo khi không đủ bộ nhớ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

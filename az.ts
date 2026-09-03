@@ -4492,7 +4492,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Kifayət qədər yaddaş olmadıqda xəbərdarlıq edin</translation>
+        <translation type="vanished">Kifayət qədər yaddaş olmadıqda xəbərdarlıq edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>

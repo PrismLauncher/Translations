@@ -6009,7 +6009,7 @@ Verzi Javy můžete později změnit v nastavení.
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
-        <translation>Varovat při nedostatku dostupné paměti</translation>
+        <translation type="vanished">Varovat při nedostatku dostupné paměti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
