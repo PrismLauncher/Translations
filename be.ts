@@ -8356,7 +8356,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
-        <translation type="unfinished">Не атрымалася абнавіць</translation>
+        <translation>Абнаўленне не ўдалося</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
@@ -8612,7 +8612,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Налады тут перавызначаюць глабальныя налады.</translation>
+        <translation>Гэтыя налады з&apos;яўляюцца пераназначэннямі глабальных налад.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -8715,7 +8715,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="642"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эмуліраваць старыя, болей недаступныя анлайн-сэрвісы.&lt;/p&gt;&lt;p&gt;З бягучых змен: падтрымка скіноў і анлайн-рэжыму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эмулюе старыя, болей недаступныя анлайн-сэрвісы.&lt;/p&gt;&lt;p&gt;З бягучых змен: падтрымка скіноў і анлайн-рэжыму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="645"/>
@@ -8730,7 +8730,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Выкарыстоўваць сістэмную OpenAL</translation>
+        <translation>Выкарыстоўваць сістэмную OpenAL</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -8739,7 +8739,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Выкарыстоўваць сістэмную GLFW</translation>
+        <translation>Выкарыстоўваць сістэмную GLFW</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -11599,7 +11599,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
-        <translation>%1%1 (выкарыстоўваецца)</translation>
+        <translation>%1 (выкарыстоўваецца)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
