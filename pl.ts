@@ -986,8 +986,9 @@ Aktualizacja z wersji %3 do %4
 Docelowa ścieżka instalacji: %5
 Ścieżka danych: %6
 Najprawdopodobniej oznacza to, że próba aktualizacji nie powiodła się. Przed kontynuowaniem upewnij się, że instalacja działa poprawnie.
-Szczegóły ostatniej próby aktualizacji znajdziesz w logu aktualizatora Prism Launcher:
+Sprawdź logi aktualizatora Prism Launcher w:
 %7
+dla detali na próbie ostatniej aktualiacji.
 
 Aby usunąć tę blokadę i kontynuować, wybierz poniżej „Ignoruj”.</translation>
     </message>
