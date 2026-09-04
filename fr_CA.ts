@@ -2212,7 +2212,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>La date pis l&apos;heure de cte pack de données-là y&apos;ont été dernièrement changées (ou rajoutées).</translation>
     </message>
 </context>
 <context>
@@ -2220,27 +2220,27 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Télécharger des packs</translation>
+        <translation>Télécharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des packs de données depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Essaye de vérifier ou de mettre à jour tous les packs de données sélectionnés (tous les packs de données si aucun est sélectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Change la version d&apos;un pack de données.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
         <source>Download Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger les Packs de Données</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
@@ -2249,7 +2249,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2257,7 +2257,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Téléchargement stoppé par l&apos;utilisateur.</translation>
+        <translation>Téléchargement arrêté par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2277,7 +2277,7 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mises à jour de packs de données sont pas disponibles quand les métadonnées sont désactivées !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="115"/>
@@ -2289,11 +2289,13 @@ Avertissment : Cette ressource est liée fortement ailleurs. L&apos;éditer va a
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les packs de données pendant que le jeu roule encore ça peut dupliquer les packs pis faire crasher le jeu.
+Les vieux fichiers pourraient ne pas être supprimés vu qu&apos;ils sont en train d&apos;être utilisés.
+T&apos;es-tu sûr que tu veux faire ça ?</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour du pack de données a été arrêtée !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="141"/>
@@ -2303,12 +2305,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de données sont à jour ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="146"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de données sélectionnés sont à jour ! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
@@ -2318,13 +2320,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmer la Suppression</translation>
+        <translation>Confirmer la suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>T&apos;es-t&apos;à veille d&apos;enlever les métadonnées pour le pack de données %1.
+T&apos;es-tu sûr ?</translation>
     </message>
 </context>
 <context>
@@ -2332,12 +2335,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression du monde...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>La suppression du monde a chiée.</translation>
     </message>
 </context>
 <context>
@@ -2360,7 +2363,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système subit une pression de mémoire de plus en plus grande.
+Ça pourrait causer du lag ou des ralentissements.
+Si possible, ferme les autres applications avant de continuer.
+
+Lancer pareil ?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2369,22 +2376,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ton système subit une pression de mémoire critique.
+Ça pourrait causer des ralentissements sévères, des crashs ou de l&apos;instabilité.
+C&apos;est recommandé de fermer toutes les autres applications ou de rebooter ton système.
+
+Lancer pareil ?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Haute pression de mémoire</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système subit une haute pression de mémoire</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Basse mémoire disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2394,12 +2405,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ça se peut que y&apos;aille pas assez de RAM disponible pour lancer cette instance-là avec les paramètres de mémoire actuels.
+
+Maximum alloué: %1 MiB
+Disponible: %2 MiB (de %3 MiB au total)
+
+Lancer pareil ? Ça pourrait causer des ralentissements dans le jeu ou dans ton système.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas assez de RAM disponible pour lancer cette instance-là</translation>
     </message>
 </context>
 <context>
@@ -2407,29 +2423,29 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="97"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En train de checker si les ressources ont des métadonnées...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En train de demander les informations de métadonnées de %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En train de demander les informations de métadonnées de %1 pour &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="256"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="347"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyse de la réponse API de Modrinth pour &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="406"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="477"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyse de la réponse API de CurseForge pour &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2438,7 +2454,8 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/minecraft/launch/EnsureOfflineLibraries.cpp" line="49"/>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Cette instance-là peut pas être lancée parce que y&apos;a des librairies qui sont manquantes ou qui ont pas encore été téléchargées. Essaye encore en mode en ligne avec une connexion internet qui marche</translation>
     </message>
 </context>
 <context>
@@ -2446,7 +2463,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En train de déterminer le propriétaire du jeu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
@@ -2469,7 +2486,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
@@ -2504,7 +2521,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2514,12 +2531,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished">O.K.</translation>
+        <translation>Oké</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2530,7 +2547,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas capable d&apos;exporter l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
@@ -2543,7 +2560,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Description</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
@@ -2553,17 +2570,17 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Version :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Auteur :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Résumé</translation>
     </message>
     <message>
         <source>&amp;Name</source>
@@ -2582,7 +2599,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mémoire recommandée :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
@@ -2597,22 +2614,22 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marquer les fichiers désactivés comme étant optionnels</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter le pack de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter le pack de CurseForge</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -2718,7 +2735,12 @@ This instance cannot be launched because some libraries are missing or have not 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cte texte-là supporte ces placeholders-là :
+{name}     - Nom du Mod
+{mod_id}   - ID du Mod
+{url}      - Adresse du Mod
+{version}  - Version du Mod
+{authors}  - Auteurs du Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2980,12 +3002,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installé, %2 activé, %3 sélectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installé, %2 activé)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3056,12 +3078,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Éditeurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Éditeur de texte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
@@ -3077,7 +3099,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="162"/>
@@ -3170,7 +3192,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur de texte</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3178,16 +3200,17 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Application MCEdit</translation>
     </message>
     <message>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier MCEdit</translation>
     </message>
     <message>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur en checkant l&apos;installation de MCEdit :
+%1</translation>
     </message>
     <message>
         <source>MCEdit setup seems to be OK</source>
