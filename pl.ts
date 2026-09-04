@@ -880,7 +880,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation>Włącz cat</translation>
+        <translation>Włącz kota</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -2597,16 +2597,16 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation>Twój system jest pod ciężkim obciążeniem pamięci.
-To może powodować poważne spowolnienia, awarie lub niestabilności systemu.
-Rekomendowane jest zamknięcie innych aplikacji lub ponowne uruchomienie systemu.
+        <translation>Twój system jest pod krytycznym obciążeniem pamięci.
+Może to prowadzić do ogromnych spowolnień, awarii oraz niestabilności systemu.
+Zalecane jest wyłączenie innych aplikacji albo zrestartowanie systemu.
 
 Uruchomić mimo to?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation>Duże obciążenie pamięci</translation>
+        <translation>Wysokie obciążenie pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
@@ -2616,7 +2616,7 @@ Uruchomić mimo to?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation>Niska ilość wolnej pamięci</translation>
+        <translation>Mało wolnej pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2626,17 +2626,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Może nie być wystarczająco dużo wolnej pamięci RAM, aby uruchomić tę instancję z obecnymi ustawieniami pamięci.
+        <translation>Może nie być wystarczająco dużo pamięci RAM aby włączyć tą instancję z aktualnymi ustawieniami.
 
-Maksymalnie przydzielone: %1 MiB
-Wolne: %2 MiB (z łącznie %3 MiB)
+Maksymalna przydzielona pamięć: %1 MiB
+Wolna pamięć: %2 MiB (z %3 MiB ogólnie)
 
-Uruchomić mimo to? Może to spowodować spowolnienia w grze i systemie.</translation>
+Uruchomić mimo to? Może to spowodować spowolnienia w grze i twoim systemie.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>Nie ma wystarczającej ilości pamięci RAM, aby uruchomić tę instancję</translation>
+        <translation>Nie wystarczająco pamięci RAM aby uruchomić tę instancję</translation>
     </message>
 </context>
 <context>
@@ -3367,12 +3367,12 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (1% zainstalowano, 2% włączono, %3 wybrano)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (1% zainstalowano, %2 włączono)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3386,7 +3386,7 @@ Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (zainstalowano %1 z %2 wybranych)</translation>
+        <translation> (1% zainstalowano, 2% wybrano)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
@@ -3631,13 +3631,13 @@ Spróbuj ponownie.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="133"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nie zrozumiano manifestu paczki:
+        <translation>Nie można odczytać manifestu paczki:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="144"/>
         <source>Resolving mods...</source>
-        <translation>Rozstrzyganie modów...</translation>
+        <translation>Analizowanie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="154"/>
@@ -4785,22 +4785,24 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 jest znane z konfliktowania z %2, które jest włączone w tej instancji. Mając obie te opcje włączone jednocześnie prawdopodobnie spowoduje awarię instancji.
+
+Co chcesz zrobić z %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachowaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Odinstaluj</translation>
     </message>
 </context>
 <context>
@@ -6094,7 +6096,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzegaj, gdy brakuje wolnej pamięci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -12205,54 +12207,54 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/net/Request.cpp" line="121"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Żądanie %1</translation>
+        <translation>Żądanie %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
-        <translation type="unfinished">nieznane</translation>
+        <translation>nieznane</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbyt wiele przekierowań</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekundę: Spróbuj Ponownie Za %1</numerusform>
-            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekundy: Spróbuj Ponownie Za %1</numerusform>
-            <numerusform>Tempo Zapytań Jest Limitowane przez %n sekund: Spróbuj Ponownie Za %1</numerusform>
+        <translation>
+            <numerusform>Ograniczono Częstotliwość Żądań na %n sekundę: Spróbuj Ponownie za %1</numerusform>
+            <numerusform>Ograniczono Częstotliwość Żądań na %n sekundy: Spróbuj Ponownie za %1</numerusform>
+            <numerusform>Ograniczono Częstotliwość Żądań na %n sekund: Spróbuj Ponownie za %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Tempo Limitowane: Czekanie %n sekundę</numerusform>
-            <numerusform>Tempo Limitowane: Czekanie %n sekundy</numerusform>
-            <numerusform>Tempo Limitowane: Czekanie %n sekund</numerusform>
+        <translation>
+            <numerusform>Ograniczona Liczba Zapytań: Czekanie %n sekundę</numerusform>
+            <numerusform>Ograniczona Liczba Zapytań: Czekanie %n sekundy</numerusform>
+            <numerusform>Ograniczona Liczba Zapytań: Czekanie %n sekund</numerusform>
         </translation>
     </message>
 </context>
@@ -15914,7 +15916,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz niedostępne mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -16074,7 +16076,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasoby</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
