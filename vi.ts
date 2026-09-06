@@ -4715,12 +4715,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
         <source>Instance folder copy failed.</source>
-        <translation>Sao chép thư mục instance không thành công.</translation>
+        <translation>Sao chép thư mục bản cài đặt thất bại.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Quá trình sao chép thư mục instance đã bị hủy.</translation>
+        <translation>Quá trình sao chép thư mục bản cài đặt đã bị hủy.</translation>
     </message>
 </context>
 <context>
