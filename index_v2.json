@@ -771,9 +771,9 @@
             "untranslated" : 2038
         },
         "vi" : {
-            "file" : "dc1178d0b5228c3f8f8010609eace52bba30c529.class",
-            "sha1" : "dc1178d0b5228c3f8f8010609eace52bba30c529",
-            "size" : 343609,
+            "file" : "3cb2e36a5ba61e9cd537addad570d802d42bbc49.class",
+            "sha1" : "3cb2e36a5ba61e9cd537addad570d802d42bbc49",
+            "size" : 343605,
             "translated" : 2377,
             "fuzzy" : 21,
             "untranslated" : 24
