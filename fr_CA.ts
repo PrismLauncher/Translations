@@ -2121,7 +2121,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation>Certains chemins n&apos;ont pas pu être copiés&#xa0;!</translation>
+        <translation>Certains chemins n&apos;ont pas pu être copiés!</translation>
     </message>
 </context>
 <context>
@@ -2161,7 +2161,7 @@ Certaines versions de Minecraft pourraient ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation>Grandeur</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
