@@ -608,7 +608,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="88"/>
         <source>All Versions</source>
         <translation>அனைத்து பதிப்புகளும்</translation>
     </message>
@@ -8186,77 +8186,77 @@ Make sure you also trust the URL.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>Launch &amp;Offline</source>
         <translation>துவக்க &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+shift+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Launch &amp;Demo</source>
         <translation>துவக்க &amp; டெமோ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+alt+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="321"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="323"/>
         <source>Profilers</source>
         <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="331"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="333"/>
         <source>&amp;No Profiler</source>
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1051"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1056"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1093"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1104"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1107"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1109"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1114"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1116"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1119"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1121"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
@@ -8578,37 +8578,37 @@ Make sure you also trust the URL.
         <translation type="obsolete">விளையாட்டு சாளரம் முடிந்ததும் துவக்கத்தை விட்டு வெளியேறவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="585"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="617"/>
         <source>Java</source>
         <translation>சாவா</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="609"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="641"/>
         <source>Tweaks</source>
         <translation>மாற்றங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="630"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="662"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>&amp; மரபு மாற்றங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="642"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இனி இயங்காத பழைய நிகழ்நிலை சேவைகளின் பயன்பாட்டைப் பின்பற்றுங்கள். &lt;/p&gt; &lt;p&gt; தற்போதைய திருத்தங்கள் பின்வருமாறு: தோல் மற்றும் நிகழ்நிலை பயன்முறை உதவி.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="645"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
         <source>Enable online fixes (experimental)</source>
         <translation>நிகழ்நிலை திருத்தங்களை இயக்கவும் (சோதனை)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="658"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="690"/>
         <source>&amp;Native Libraries</source>
         <translation>&amp; சொந்த நூலகங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>Use system installation of OpenAL</source>
         <translation>ஓபனலின் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
@@ -8617,7 +8617,7 @@ Make sure you also trust the URL.
         <translation type="obsolete">&amp; GLFW நூலக பாதை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="706"/>
         <source>Use system installation of GLFW</source>
         <translation>GLFW இன் கணினி நிறுவலைப் பயன்படுத்தவும்</translation>
     </message>
@@ -8768,67 +8768,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <source>Always use the latest minecraft version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
+        <source>Release</source>
+        <translation type="unfinished">வெளியீடு</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
+        <source>Any</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&amp;GLFW library path:</source>
         <translation>&amp; GLFW நூலக பாதை:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
         <source>&amp;OpenAL library path:</source>
         <translation>&amp; திறந்த நூலக பாதை:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&amp;Performance</source>
         <translation>&amp; செயல்திறன்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="800"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; கேமிங் செயல்திறனை மேம்படுத்த, ஃபெரல் இன்டராக்டிவ் கேம்மோடை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="803"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
         <source>Enable Feral GameMode</source>
         <translation>ஃபெரல் கேம்மோடை இயக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="810"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="842"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மங்கோஊட்டின் மேம்பட்ட செயல்திறன் மேலடுக்கை இயக்கவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="813"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="845"/>
         <source>Enable MangoHud</source>
         <translation>மங்கோஊட்டை இயக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="852"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; முதன்மை GPU க்கு பதிலாக தனித்துவமான GPU ஐப் பயன்படுத்தவும். &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="823"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="855"/>
         <source>Use discrete GPU</source>
         <translation>தனித்துவமான GPU ஐப் பயன்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="830"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation>வல்கனின் மேல் ஓபன்ச்லை செயல்படுத்தும் மெசா ஓபன்சிஎல் டிரைவரான சின்க் பயன்படுத்தவும். நிலைமையைப் பொறுத்து செயல்திறன் மாறுபடலாம். குறிப்பு: பொருத்தமான வல்கன் இயக்கி எதுவும் காணப்படவில்லை என்றால், மென்பொருள் வழங்குதல் பயன்படுத்தப்படும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="833"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="865"/>
         <source>Use Zink</source>
         <translation>சின்க் பயன்படுத்தவும்</translation>
     </message>
@@ -8847,49 +8862,49 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="obsolete">சிங்கிள் பிளேயர் உலகம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="861"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="893"/>
         <source>Custom Commands</source>
         <translation>தனிப்பயன் கட்டளைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="871"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="903"/>
         <source>Environment Variables</source>
         <translation>சுற்றுச்சூழல் மாறிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
         <source>Show time &amp;playing this instance</source>
         <translation>நேரத்தைக் காட்டுங்கள் &amp; இந்த நிகழ்வை விளையாடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&amp;Record time playing this instance</source>
         <translation>&amp; இந்த நிகழ்வை விளையாடும் நேரம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="75"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="76"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
         <translation>&lt;ச்பான் பாணி = &quot;எழுத்துரு-எடை: 600; வண்ணம்:#F5C211;&quot;&gt; முன்னறிவிப்பு &lt;/span&gt; &lt;span சூல் தண்டு = &quot;color:#f5c211;&quot;&gt;: இந்த மின்கிராஃப்ட் பதிப்பில் அதிகபட்ச விருப்பம் முழுமையாக ஆதரிக்கப்படவில்லை. &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="137"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>ஃபெரல் இன்டராக்டிவ் கேம்மோடை உங்கள் கணினியில் காண முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="142"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>உங்கள் கணினியில் மங்கோஊட்டை கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="212"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="219"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="233"/>
         <source>Path to %1 library file</source>
         <translation>%1 நூலகக் கோப்புக்கான பாதை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="582"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="597"/>
         <source>Select Global Data Packs Folder</source>
         <translation>உலகளாவிய டேட்டா பேக்குகள் கோப்புறையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
@@ -9027,7 +9042,87 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
+        <source>Advanced exclusions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
+        <source>AI content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
+        <source>AI content (code)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
+        <source>AI content (assets)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
+        <source>AI content (text)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
+        <source>AI content (functionality)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
+        <source>Advertisements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
+        <source>Epilepsy triggers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
+        <source>System interactions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
+        <source>Telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
+        <source>Telemetry (opt-in)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
+        <source>Telemetry (opt-out)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
+        <source>Telemetry (always active)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
+        <source>Derivative work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
+        <source>Paid features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
+        <source>Archived</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
         <source>All Versions</source>
         <translation>அனைத்து பதிப்புகளும்</translation>
     </message>
@@ -9687,18 +9782,18 @@ Are you sure?</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="349"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>பிணைய பிழை ஏற்பட்டது. மோட்பேக்குகளை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -10728,17 +10823,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="364"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="376"/>
         <source>Aborted</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="607"/>
         <source>Name</source>
         <translation>பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="609"/>
         <source>Version</source>
         <translation>பதிப்பு</translation>
     </message>
@@ -11695,27 +11790,27 @@ HTTP நிலை: %2</translation>
         <translation>நூலகம் %1 பெயர் உடைந்துவிட்டது மற்றும் செயலாக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="195"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation>கூறுகள் கோப்பு %1 இல்லை. இது ஒருபோதும் நடக்கக்கூடாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation>வாசிப்புக்கு %1 ஐ திறக்க முடியவில்லை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation>சாதொபொகு ஆக %1 ஐ அலச முடியவில்லை: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="222"/>
         <source>Invalid component file version, expected %1</source>
         <translation>தவறான கூறு கோப்பு பதிப்பு, எதிர்பார்க்கப்படும் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="230"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation>%1 ஐ பாகுபடுத்த முடியவில்லை: மோசமான கோப்பு வடிவம்</translation>
     </message>
@@ -12563,7 +12658,7 @@ Error message: %3</source>
         <translation type="unfinished">தரவுப் பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="175"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="222"/>
         <source> for %1</source>
         <translation> %1 க்கு</translation>
     </message>
@@ -15279,7 +15374,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="430"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -15375,7 +15470,7 @@ Are you sure?</source>
         <translation>இடைத்தரகர் மேப்பிங்ச் பதிப்பு பட்டியல்களை ஏற்றவோ பதிவிறக்கம் செய்யவோ முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="431"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -15384,17 +15479,17 @@ Please add your Microsoft or Mojang account.</oldsource>
  நுண்மென் கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Error updating instance</source>
         <translation>நிகழ்வைப் புதுப்பிப்பதில் பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="571"/>
         <source>Confirm Reversion</source>
         <translation>தலைகீழ் உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="572"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 

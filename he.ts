@@ -787,7 +787,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>AllVersionProxyModel</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="88"/>
         <source>All Versions</source>
         <translation>כל הגרסאות</translation>
     </message>
@@ -8494,77 +8494,77 @@ Make sure you also trust the URL.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="308"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
         <source>&amp;Launch</source>
         <translation>ה&amp;פעלה</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>Launch &amp;Offline</source>
         <translation>הפעלה במצב &amp;לא מקוון</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Launch &amp;Demo</source>
         <translation>הפעלה במצב הד&amp;גמה</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="321"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="323"/>
         <source>Profilers</source>
         <translation>מנהלי פרופילים</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="331"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="333"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;ללא מנהל פרופילים</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1049"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1051"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;מזהה הפעלה&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1052"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;אסימון גישה&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1054"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1056"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;מזהה פרופיל&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1091"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1093"/>
         <source>broken</source>
         <translation>שבור</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1102"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1104"/>
         <source>Minecraft %1</source>
         <translation>‎Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1107"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1109"/>
         <source>, last played on %1 for %2</source>
         <translation>, המשחק האחרון היה ב־%1 ונמשך %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1114"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1116"/>
         <source>, total played for %1</source>
         <translation>, סך כל זמן המשחק: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1119"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1121"/>
         <source>, has crashed.</source>
         <translation>, קרס.</translation>
     </message>
@@ -8769,42 +8769,42 @@ Make sure you also trust the URL.
         <translation type="obsolete">הצג את לוח הבקרה כשהמשחק קורס?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="585"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="617"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="609"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="641"/>
         <source>Tweaks</source>
         <translation>התאמות</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="630"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="662"/>
         <source>&amp;Legacy Tweaks</source>
         <translation>התאמות מיו&amp;שנות</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="642"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="645"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
         <source>Enable online fixes (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="658"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="690"/>
         <source>&amp;Native Libraries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>Use system installation of OpenAL</source>
         <translation>שימוש בהתקנת OpenAL של המערכת</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="706"/>
         <source>Use system installation of GLFW</source>
         <translation>שימוש בהתקנת GLFW של המערכת</translation>
     </message>
@@ -8955,67 +8955,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="681"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
+        <source>Always use the latest minecraft version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
+        <source>Release</source>
+        <translation type="unfinished">גרסה</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
+        <source>Any</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&amp;GLFW library path:</source>
         <translation>&amp;נתיב לספריית GLFW‏:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="723"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
         <source>&amp;OpenAL library path:</source>
         <translation>נתי&amp;ב לספריית OpenAL‏:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="765"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="788"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&amp;Performance</source>
         <translation>ביצועי&amp;ם</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="800"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="803"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
         <source>Enable Feral GameMode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="810"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="842"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="813"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="845"/>
         <source>Enable MangoHud</source>
         <translation>הפעלת MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="852"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="823"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="855"/>
         <source>Use discrete GPU</source>
         <translation>שימוש במעבד גרפי ייעודי</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="830"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="833"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="865"/>
         <source>Use Zink</source>
         <translation>שימוש ב־Zink</translation>
     </message>
@@ -9034,49 +9049,49 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>כתובת שרת:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="861"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="893"/>
         <source>Custom Commands</source>
         <translation>פקודות מותאמות אישית</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="871"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="903"/>
         <source>Environment Variables</source>
         <translation>משתנים סביבתיים</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
         <source>Show time &amp;playing this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&amp;Record time playing this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="75"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="76"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="137"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="142"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <source>MangoHud could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="212"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="219"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="233"/>
         <source>Path to %1 library file</source>
         <translation>הנתיב לקובץ הספרייה של %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="582"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="597"/>
         <source>Select Global Data Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9228,7 +9243,87 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <translation>לא ידוע</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
+        <source>Advanced exclusions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
+        <source>AI content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
+        <source>AI content (code)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
+        <source>AI content (assets)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
+        <source>AI content (text)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
+        <source>AI content (functionality)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
+        <source>Advertisements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
+        <source>Epilepsy triggers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
+        <source>System interactions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
+        <source>Telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
+        <source>Telemetry (opt-in)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
+        <source>Telemetry (opt-out)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
+        <source>Telemetry (always active)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
+        <source>Derivative work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
+        <source>Paid features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
+        <source>Archived</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
         <source>All Versions</source>
         <translation>כל הגרסאות</translation>
     </message>
@@ -9896,18 +9991,18 @@ Are you sure?</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="349"/>
         <source>Error</source>
         <translation>שגיאה</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>אירעה שגיאת רשת. לא היה ניתן לטעון את ערכות המודים.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -10956,17 +11051,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="364"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="376"/>
         <source>Aborted</source>
         <translation>ננטש</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="588"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="607"/>
         <source>Name</source>
         <translation>שם</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="590"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="609"/>
         <source>Version</source>
         <translation>גרסה</translation>
     </message>
@@ -11890,27 +11985,27 @@ Proceed with truncation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="195"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="222"/>
         <source>Invalid component file version, expected %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="230"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12669,7 +12764,7 @@ Error message: %3</source>
         <translation>חבילות נתונים</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/ModIndex.h" line="175"/>
+        <location filename="src/launcher/modplatform/ModIndex.h" line="222"/>
         <source> for %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15468,7 +15563,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="430"/>
         <source>Error</source>
         <translation>שגיאה</translation>
     </message>
@@ -15564,7 +15659,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="431"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -15580,17 +15675,17 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="vanished">בחר גרסת LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Error updating instance</source>
         <translation>שגיאה בעדכון העותק</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="571"/>
         <source>Confirm Reversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="572"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
