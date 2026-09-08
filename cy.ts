@@ -44,12 +44,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Gweinydd meddiannau</translation>
+        <translation>Gweinydd asedau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rydet ti&apos;n gallu newid hyn i gweinydd arall os oes problemau lawrlwytho asedau.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -70,7 +70,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Awthentigeiddio &amp;Microsoft</translation>
+        <translation>Dilysu &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation type="unfinished"></translation>
+        <translation>Defnyddio dim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Galluogi&apos;r opsiwn i ddefnyddio Modrinth fel dewis arall ar gyfer mods sydd wedi&apos;u flocio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Fersiynau Minecraft</translation>
+        <translation>Gweinydd Meta&amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -181,7 +181,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Nodyn: Dim ond angen i chi osod hwn i gael mynediad i data preifat. Darllenwych yr &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt; dogfennaeth &lt;/a&gt;am fwy gwybodaeth. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -317,7 +317,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mae PolyMC yn lansiwr personol sy&apos;n gwneud rheoli Minecraft yn haws trwy ganiatáu i chi gael sawl fersiynau o Minecraft ar unwaith.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lansiwr addaswyd sy&apos;n wneud yr rheolaeth Minecraft haws trwy cyniatau chi cael nifer o achosion Minecraft ar unwaith. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -332,7 +332,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Rhif Adeiladu:</translation>
+        <translation>Rhif Adeiladu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -425,13 +425,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">All-lein</translation>
+        <translation>All-lein</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>Anghynefin</translation>
+        <translation>Anadnabodedig</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -471,7 +471,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="391"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Math yr cyfrif (MSA neu All-Lein)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -506,7 +506,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Enw defnyddiwr</translation>
     </message>
     <message>
         <source>Account</source>
@@ -529,7 +529,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enw defnyddiwr cysylltiedig gyda&apos;r cyfrif Minecraft.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -565,19 +565,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Gosod rhagosodiad</translation>
+        <translation>&amp;Gosod rhagosodiad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Dim Diofyn</translation>
+        <translation>&amp;Dim Diofyn</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -596,30 +596,30 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rheoli Crwyn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Rheoli Crwyn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Ychwanegu Microsoft</translation>
+        <translation>&amp;Ychwanegu Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ychwanegu &amp;All-lein</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Loywi</translation>
+        <translation>&amp;Adnewyddu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
@@ -629,12 +629,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Symud &amp;Lan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Symud &amp;Lawr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -653,12 +653,13 @@ Os ydych chi&apos;n newydd yma, gallwch glicio ar y botwm &quot;Ychwanegu&quot; 
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Croeso!
+Os ywt ti&apos;n newydd yma, rydet ti&apos;m gallu ddewis yr botwm &quot;Ychwanegu Microsoft&quot; i gysylltu eich cyfrif Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dim ID cleient Dilysu Microsoft cafodd ei osod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -672,7 +673,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae rhaid iddoch ychwanegu cyfrif Microsoft sy&apos;n berchen ar Minecraft cyn gallwch chi ychwanegu cyrfrif all-lein.&lt;br&gt;&lt;br&gt;Os ydych chi wedi colli eich cyfrif gallwch chi cysylltu gyda Microsoft am cefnogaeth.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -686,17 +687,17 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mewnbynnu yr enw defnyddiwr eich eisiau i ychwanegu i eich cyfrif all-lein, os gwelwych yn dda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dileu cyfrif?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ydych chi wir eisiau dileu&apos;r cyfrif hwn?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -747,7 +748,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="88"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pob Fersiwn</translation>
     </message>
 </context>
 <context>
@@ -755,7 +756,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ymddangosiad</translation>
     </message>
 </context>
 <context>
@@ -763,124 +764,124 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gweld y ffolder Pecynnau Cathod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Agor Ffolder</translation>
+        <translation>Agor Ffolder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gweld ffolder themâu teclynnau.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gweld y ffolder themâu eiconau.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pecyn Cathod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ail-lwytho popeth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eiconau:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ffont Consol:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Galluogi cath</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Graddfesur Cath</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ffit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Llenwi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ymestyn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhryloyw Cath</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
         <source>Opaque</source>
-        <translation type="unfinished"></translation>
+        <translation>Afloyw</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="303"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryloyw</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="398"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaenweled</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERWR] WWwwwWWWwwww! Erwr brawychus!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERWR] Erwr brawychus!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[GWYBODAETH] Neges diniwed...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[RHYBUDDIAD] Rhybudd nad yw mor frawychus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DADFYGIO] Neges ddadfygio gyfrinachol...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FARWOL] Gwall angheuol brawychus!</translation>
     </message>
 </context>
 <context>
@@ -888,7 +889,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="684"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Methu ddangoswych yr log hwn achos rhagorodd y hyd yr log ar %1 llinell.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="904"/>
@@ -909,12 +910,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae&apos;r lawrlwythiad yma gyda diweddariad ffeil gloi yn bresennol yn: %1
+
+Stamp amser: %2
+Diweddaru o fersiwn %3 to %4
+Llwybr Larwlythio Targed: %5
+Llwybr Data: %6
+Mae hyn yn debygol o olygu bod ymgais diweddariad wedi methu. Plis sicrhewch fod eich lawrlwythiad yn gweithio cyn bwrw ymlaen.
+Gwiriwch y log diweddaru ar gyfer Lansydd Prism yn: 
+%7
+am fanylion ar yr ymgais diweddariad blaenorol.
+
+I dileu&apos;r clo hwn, ewch ymlaen a dewis &apos;anwybyddu&apos; isod.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Diweddariad mewn Cynydd</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1116"/>
@@ -924,12 +936,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae ymgais diweddariad wedi methu
+
+Plis sicrhewch fod eich lawrlwythiad yn gweithio cyn bwrw ymlaen.
+Gwiriwch y log diweddaru ar gyfer Lansydd Prism yn:
+%1
+am fanylion ar yr ymgais diweddariad blaenorol.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1124"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Methodd y diweddariad</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1148"/>
@@ -945,12 +962,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Llwyddodd y diweddariad
+
+Rydych yn nawr redeg %1.
+Gwiriwch y log diweddaru ar gyfer Lansydd Prism yn:
+%2
+am fanylion.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1156"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Llwyddodd y Diweddariad</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1188"/>
@@ -959,32 +981,36 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mae&apos;r /tmp cyfeiriadur chi wedi&apos;i osod ar hyn o bryd gyda&apos;r faner &apos;noexec&apos; wedi&apos;i galluogi.
+Bydd rhai fersiwnau o Minecraft methu dechrau.
+
+Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y java.io.tmpdir JVM dadl i cyfeiriadur ysgrifenadwy mewn system ffeiliau ble mae&apos;r faner &apos;exec&apos; wedi osod. (e.e., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1194"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyfluniad system anghydnaws</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1948"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Data hen o %1 wedi ei ddarganfod, ond mae gennych ddata presennol ar gyfer %2 eisoes. Yn anffodus, rhaid iddoch chi mudo ar ben eich hunain. Ydych chi moyn gael eich atgoffa am y data sy&apos;n disgwyl mudiant tro nesaf rydych yn dechrau %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1952"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae&apos;n edrych fod chi wedi defnyddio %1 oblaen. Ydych chi moyn mudo eich ddata i&apos;r lle newydd o %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1958"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae&apos;n edyrch fel chi wedi defynyddio %1 ar %2 oblaen. Ydych chi moyn mudo eich ddata i&apos;r lle newydd o %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2004"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudiant wedi methu! Rheswm: %1</translation>
     </message>
 </context>
 <context>
@@ -1007,13 +1033,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cymrid y ffeiliau ased o %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1040,19 +1066,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Trefnu yn ol poblogrwydd</translation>
+        <translation>Trefnu yn ol poblogrwydd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Trefnu yn ol fersiwn gem</translation>
+        <translation>Trefnu yn ol fersiwn gem</translation>
     </message>
 </context>
 <context>
@@ -1085,17 +1111,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Dewis cod rhannu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cod rhannu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dim cod rhannu ei nodi!</translation>
     </message>
 </context>
 <context>
@@ -1103,12 +1129,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ydych chi&apos;n siŵr eich bod chi eisiau galluogi&apos;r mod yma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Rhybudd</translation>
     </message>
 </context>
 <context>
@@ -1127,7 +1153,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1151,17 +1177,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
+        <translation>Dim fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Nid oes fersiynau ar gael ar hyn o bryd</translation>
+        <translation>Nid oes fersiynau ar gael ar hyn o bryd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Methu llwytho na lawrlwytho&apos;r rhestrau fersiwn!</translation>
+        <translation>Methu llwytho na lawrlwytho&apos;r rhestrau fersiwn!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1184,7 +1210,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="87"/>
         <source>Waiting...</source>
-        <translation type="unfinished">Aros...</translation>
+        <translation>Aros...</translation>
     </message>
     <message>
         <source>Working...</source>
@@ -1193,47 +1219,47 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paratoi i mewngofnodi...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Llwyddodd y dasg ddilysu.</translation>
+        <translation>Llwyddodd y dasg ddilysu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="105"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Wedi methu cysylltu â&apos;r gweinydd dilysu.</translation>
+        <translation>Wedi methu cysylltu â&apos;r gweinydd dilysu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="112"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mae&apos;r ID cleient wedi newid. Rhaid creu sesiwn newydd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="119"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Dod o hyd i wall yn ystod y dilysu.</translation>
+        <translation>Dod o hyd i erwr yn ystod y dilysu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="126"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Methu â dilysu. Mae&apos;r sesiwn yn wedi dod i ben.</translation>
+        <translation>Methu â dilysu. Mae&apos;r sesiwn yn wedi dod i ben.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="133"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Wedi methu dilysu. Nid yw&apos;r cyfrif yn bodoli mwyach.</translation>
+        <translation>Wedi methu dilysu. Nid yw&apos;r cyfrif yn bodoli mwyach.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Cyflwr tasg cyfrif anhysbys: %1</translation>
+        <translation>Cyflwr tasg cyfrif anhysbys: %1</translation>
     </message>
 </context>
 <context>
@@ -1241,17 +1267,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Canfu&apos;r mecanwaith awtomatig Java osodiad 32-bit o Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni chafwyd hyd i fersiwn Java gydnaws. Defnyddiwyd yr un diofyn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dydi eich system (%1-%2) ddim yn gydnaws ag awtomatig gosodiad Java. Defnyddiwyd yr llwybr Java diofyn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
