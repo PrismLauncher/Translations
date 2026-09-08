@@ -3368,12 +3368,12 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalado, %2 habilitado, %3 selecionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalado, %2 habilitado)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -6083,7 +6083,7 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisar quando não tiver memória suficiente disponível</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -10394,17 +10394,17 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre utilize a última versão do minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Lançamento</translation>
+        <translation>Lançamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualquer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10747,82 +10747,82 @@ Será bem provável que você deverá mudar o caminho do arquivo ‐ por favor, 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclusões avançadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo IA</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo IA (Código)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo IA (ativos)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo IA (Texto)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo IA (Funcionalidade)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Anúncios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatilhos de epilepsia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Interações do Sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetria (optar por entrar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetria (Optar por sair)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetria (Sempre ativa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Trabalho derivado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades pagas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -12274,41 +12274,41 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/net/Request.cpp" line="121"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Solicitando %1</translation>
+        <translation>Solicitando %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
-        <translation type="unfinished">desconhecido</translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Muitos redirecionamentos</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Taxa de Solicitação Limitada por %n segundo: Tente após %1</numerusform>
             <numerusform>Taxa de Solicitação Limitada por %n segundos: Tente após %1</numerusform>
         </translation>
@@ -12317,7 +12317,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Taxa Limitada: Esperando %n segundo</numerusform>
             <numerusform>Taxa Limitada: Esperando %n segundos</numerusform>
         </translation>
@@ -15962,7 +15962,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Desabilitar mods indisponíveis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
