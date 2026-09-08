@@ -9025,7 +9025,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="226"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="233"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Шлях да файлу бібліятэкі %1</translation>
+        <translation>Шлях да файла бібліятэкі %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="597"/>
@@ -9038,7 +9038,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -9548,7 +9548,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="86"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверыць абнаўленні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
@@ -10097,7 +10097,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>невядомы</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -10144,19 +10144,19 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>невядомы</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /с (%2)</translation>
+        <translation>%1 /с (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0&#xa0;Байт/с</translation>
+        <translation>0&#xa0;Байт/с</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="337"/>
@@ -10357,12 +10357,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Схаваць спіс артыкулаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Паказаць спіс артыкулаў</translation>
     </message>
 </context>
 <context>
@@ -10371,7 +10371,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="23"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="51"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Неназваны</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
@@ -10476,7 +10476,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць выбраны журнал</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
@@ -10501,7 +10501,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">Лініі пераносу</translation>
+        <translation>Перанос радкоў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -10624,7 +10624,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="185"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Бягучыя журналы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="332"/>
@@ -10634,13 +10634,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося выдаліць некаторыя файлы!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося выдаліць некаторыя файлы:
+%1</translation>
     </message>
 </context>
 <context>
@@ -10655,7 +10656,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Непадтрымліваемы рэжым усталявання</translation>
+        <translation>Рэжым усталявання не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
@@ -10665,17 +10666,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Выдаленне існуючых файлаў...</translation>
+        <translation>Выдаленне наяўных файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Незразумелы тып мода: %1</translation>
+        <translation>Невядомы тып мода: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
@@ -10690,7 +10691,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
+        <translation>Рэжым спампоўвання невядомы або не падтрымліваецца : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
@@ -10700,7 +10701,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation type="unfinished">Спампоўванне налад</translation>
+        <translation>Спампоўванне канфігурацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
@@ -10710,7 +10711,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Выбар неабавязковых модаў...</translation>
+        <translation>Выбар неабавязковых модаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
@@ -11059,7 +11060,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл усталявання не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="296"/>
@@ -11583,27 +11584,27 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл версіі змяшчае элемент «tweakers», які не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл версіі змяшчае элемент «-libraries», які не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл версіі змяшчае элемент «-tweakers», які не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл версіі змяшчае элемент «-minecraftArguments», які не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл версіі змяшчае элемент «+minecraftArguments», які не падтрымліваецца</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
