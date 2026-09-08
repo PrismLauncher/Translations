@@ -637,12 +637,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>Flytta &amp; uppåt</translation>
+        <translation>Flytta &amp;uppåt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Flytta &amp; neråt</translation>
+        <translation>Flytta &amp;neråt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -911,7 +911,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[INFO] Ett harmlöst meddelande...</translation>
+        <translation>[INFO] Ett ofarligt meddelande...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
@@ -2028,7 +2028,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Notera: Om en genväg är flyttad efter att den är skapad kommer den inte att bli raderad när man tar bort katalogen.</translation>
+        <translation>Notera: Om en genväg är flyttad efter att den är skapad kommer den inte att bli raderad när man tar bort instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
