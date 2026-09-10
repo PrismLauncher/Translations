@@ -12880,32 +12880,32 @@ Are you sure you want to close this dialog?</source>
         <translation>சார்புகளைச் சரிபார்க்கிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="347"/>
         <source>Change %1 version</source>
         <translation>%1 பதிப்பை மாற்றவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="374"/>
         <source>mods</source>
         <translation type="unfinished">மோட்ச்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
         <translation type="unfinished">வள பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
         <translation type="unfinished">அமைப்பு பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
         <translation type="unfinished">சேடர் பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
         <translation type="unfinished">தரவுப் பொதிகள்</translation>
     </message>

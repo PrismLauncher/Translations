@@ -15079,32 +15079,32 @@ Biztosan bezárod ezt a párbeszédpanelt?</translation>
         <translation>Függőségek keresése…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="347"/>
         <source>Change %1 version</source>
         <translation>%1 verzió megváltoztatása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="374"/>
         <source>mods</source>
         <translation>modok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
         <translation>forráscsomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
         <translation>textúracsomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
         <translation>shadercsomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
         <translation>adatcsomagok</translation>
     </message>

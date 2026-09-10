@@ -14547,32 +14547,32 @@ Are you sure you want to close this dialog?</source>
         <translation>依存関係を確認中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="347"/>
         <source>Change %1 version</source>
         <translation>%1のバージョンを変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="374"/>
         <source>mods</source>
         <translation type="unfinished">Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
         <translation type="unfinished">リソースパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
         <translation type="unfinished">テクスチャパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
         <translation type="unfinished">シェーダーパック</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
         <translation type="unfinished">データパック</translation>
     </message>

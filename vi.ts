@@ -14476,32 +14476,32 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
         <translation>Đang kiểm tra các phần phụ thuộc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="347"/>
         <source>Change %1 version</source>
         <translation>Thay đổi phiên bản của %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="374"/>
         <source>mods</source>
         <translation>các mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
         <translation type="unfinished">gói tài nguyên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
         <translation type="unfinished">gói hình ảnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
         <translation type="unfinished"></translation>
     </message>

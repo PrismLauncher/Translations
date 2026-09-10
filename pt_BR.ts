@@ -15256,32 +15256,32 @@ Tem certeza de que deseja fechar esta caixa de diálogo?</translation>
         <translation>Verificando dependências...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="347"/>
         <source>Change %1 version</source>
         <translation>Alterar a versão de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="374"/>
         <source>mods</source>
         <translation>Mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
         <translation>pacotes de recursos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="427"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
         <translation>Pacotes de Texturas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
         <translation>pacotes de shader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="469"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
         <translation>pacotes de dados</translation>
     </message>
