@@ -6346,26 +6346,30 @@ Você pode mudar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Executando o comando %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>O comando %1 está vazio, ignorando.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O comando %1 falhou com o código %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O comando %1 foi executado com sucesso.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6544,7 +6548,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar profiler na próxima inicialização</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -9822,12 +9826,12 @@ Certifique-se também de confiar no URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1193"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-Lançamento</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1249"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pós-Lançamento</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -15128,7 +15132,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro desconhecido ao analisar a resposta RPC</translation>
     </message>
 </context>
 <context>
@@ -15448,7 +15452,7 @@ Por favor, atualize %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="71"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [selecionado]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="442"/>
