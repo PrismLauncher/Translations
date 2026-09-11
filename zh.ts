@@ -2143,12 +2143,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>加载前命令 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>预启动命令 (&amp;P)</translation>
+        <translation>启动前命令 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
@@ -2158,7 +2158,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;加载前命令在加载实例元数据之前运行，启动前命令在实例启动之前运行，退出后命令在实例退出之后运行。&lt;/p&gt;&lt;p&gt;所有这些命令都会在启动器的工作文件夹中运行，运行时会带有以下这些额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 实例名称&lt;/li&gt;&lt;li&gt;$INST_ID - 实例 ID（它的文件夹名称）&lt;/li&gt;&lt;li&gt;$INST_DIR - 实例的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA - 用于启动的 Java 二进制文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 用于启动的命令行参数（警告：如果参数包含空格，该变量将不会存放正确的值）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装器命令允许用户通过额外的包装器程序来启动实例（比如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -9808,7 +9808,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>加载前</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
