@@ -1609,12 +1609,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>রিসোর্স প্যাক গুলি কপি করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>খেলার সময় রাখুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1815,7 +1815,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;প্রি-লোড কমান্ড</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -1825,7 +1825,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>P&amp;ost-exit Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;পোস্ট-এক্সিট কমান্ড</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
@@ -2131,28 +2131,29 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>সব ডেটা প্যাক আপ-টো-ডেট আছে! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="146"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>সব সিলেক্টেড ডেটা প্যাক আপ-টো-ডেট আছে! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>আপডেট চেকার</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>রিমুভাল কনফার্ম করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনি %1 ডেটা প্যাকের মেটাডেটা মুছে ফেলতে চলেছেন।
+আপনি কি নিশ্চিত?</translation>
     </message>
 </context>
 <context>
@@ -2160,12 +2161,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="101"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>ওয়ার্ল্ড ডিলিট করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="118"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>ওয়ার্ল্ডটি ডিলিট করতে ব্যর্থ হয়েছে।</translation>
     </message>
 </context>
 <context>
@@ -2177,7 +2178,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>সিস্টেমটির মেমোরির উপর অতিরিক্ত চাপ পড়েছে।
+এর ফলে ল্যাগ বা স্লোডাউন হতে পারে।
+সম্ভব হলে, চালিয়ে যাওয়ার আগে অন্যান্য অ্যাপ্লিকেশনগুলো বন্ধ করুন।
+
+তবুও চালু করবেন?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2186,22 +2191,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>আপনার সিস্টেম মারাত্মক মেমোরি চাপের মধ্যে রয়েছে।
+এর ফলে সিস্টেম মারাত্মকভাবে স্লো হয়ে যেতে পারে, ক্র্যাশ করতে পারে অথবা ইনস্টেবিলিটি হতে পারে।
+অন্যান্য অ্যাপ্লিকেশন বন্ধ করতে বা আপনার সিস্টেম রিস্টার্ট করার পরামর্শ দেওয়া হচ্ছে।
+
+তবুও চালু করবেন?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>উচ্চ মেমোরি চাপ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>সিস্টেমটি উচ্চ মেমরি চাপের মধ্যে রয়েছে</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>লো ফ্রী মেমোরি</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2211,12 +2220,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>বর্তমান মেমরি সেটিংস দিয়ে এই ইনস্ট্যান্সটি চালু করার জন্য পর্যাপ্ত খালি র‍্যাম নাও থাকতে পারে।
+
+ম্যাক্সিমাম এলোকেটেড: %1 MiB
+ফ্রী: %1 MiB (মোট %3 MiB এর মধ্যে)
+
+তবুও চালু করবেন? এর ফলে গেম এবং আপনার সিস্টেম শ্লোডাউন হয়ে যেতে পারে।</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>এই ইনস্ট্যান্সটি চালু করার জন্য পর্যাপ্ত র‍্যাম আভাইলেবল নেই</translation>
     </message>
 </context>
 <context>
@@ -2224,29 +2238,29 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="97"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>রিসোর্সগুলিতে মেটাডেটা আছে কিনা তা চেক করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 থেকে মেটাডেটা তথ্যের অনুরোধ করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 থেকে &apos;%2&apos; এর জন্য মেটাডেটা তথ্যের অনুরোধ করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="256"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="347"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>মডরিন্থ থেকে &apos;%1&apos; এর জন্য এপিআই রেসপন্স পার্স করা হচ্ছে..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="406"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="477"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>কার্সফোর্জ থেকে &apos;%1&apos; এর জন্য এপিআই রেসপন্স পার্স করা হচ্ছে..।</translation>
     </message>
 </context>
 <context>
