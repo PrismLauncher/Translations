@@ -1151,12 +1151,10 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
 <context>
     <name>CapeChange</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
         <translation>ກຳລັງໃສ່ຜ້າຄຸມ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
         <translation>ກຳລັງຖອດຜ້າຄຸມ</translation>
     </message>
@@ -3541,7 +3539,6 @@ Are you sure you want to do this?</source>
 <context>
     <name>ImgurUpload</name>
     <message>
-        <location filename="src/launcher/screenshots/ImgurUpload.cpp" line="55"/>
         <source>Could not open file %1 for reading: %2</source>
         <translation>ບໍ່ສາມາດເປີດໄຟລ໌ %1 ເພື່ອອ່ານໄດ້: %2</translation>
     </message>
@@ -8421,40 +8418,40 @@ Please update %1!</source>
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="121"/>
+        <location filename="src/launcher/net/Request.cpp" line="122"/>
         <source>Requesting %1</source>
         <translation type="unfinished">ກຳລັງຮ້ອງຂໍ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="207"/>
+        <location filename="src/launcher/net/Request.cpp" line="208"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation type="unfinished">%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="213"/>
+        <location filename="src/launcher/net/Request.cpp" line="214"/>
         <source>unknown</source>
         <translation type="unfinished">ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="215"/>
+        <location filename="src/launcher/net/Request.cpp" line="216"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation type="unfinished">%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="218"/>
+        <location filename="src/launcher/net/Request.cpp" line="219"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation type="unfinished">0 B/s</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="337"/>
+        <location filename="src/launcher/net/Request.cpp" line="338"/>
         <source>Too many redirects</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="352"/>
+        <location filename="src/launcher/net/Request.cpp" line="353"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -8463,7 +8460,7 @@ Please update %1!</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="357"/>
+        <location filename="src/launcher/net/Request.cpp" line="358"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -9977,12 +9974,12 @@ HTTP Status: %2</source>
         <translation>%1 (ກຳລັງໃຊ້ງານ)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="98"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="105"/>
         <source>Confirm Upload</source>
         <translation>ຢືນຢັນການອັບໂຫຼດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="106"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -9993,12 +9990,12 @@ Are you sure?</source>
 ເຈົ້າແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="111"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="119"/>
         <source>Confirm Truncation</source>
         <translation>ຢືນຢັນການຕັດສັ້ນລົງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="112"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="120"/>
         <source>The log has %1 lines, exceeding mclo.gs&apos; limit of %2.
 The launcher can keep the first %3 and last %4 lines, trimming the middle.
 
@@ -10013,8 +10010,8 @@ Launcher ສາມາດເກັບ %3 ແຖວທຳອິດ ແລະ %4 �
 ຕ້ອງການດຳເນີນການຕັດອອກບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="141"/>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="146"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="148"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="153"/>
         <source>Failed to upload logs!</source>
         <translation>ບໍ່ສາມາດອັບໂຫຼດປູມບັນທຶກໄດ້!</translation>
     </message>
@@ -10027,12 +10024,12 @@ Launcher ສາມາດເກັບ %3 ແຖວທຳອິດ ແລະ %4 �
         <translation>ວຽກງານນີ້ຖືກຍົກເລີກໂດຍຜູ້ໃຊ້ແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="153"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="160"/>
         <source>Upload finished</source>
         <translation>ອັບໂຫຼດສຳເລັດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="154"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="161"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;ລິ້ງໄປຫາປູມບັນທຶກທີ່ອັບໂຫຼດ&lt;/a&gt; ໄດ້ຖືກກັອບປີ້ໄວ້ໃນຄລິບບອດຂອງເຈົ້າແລ້ວ.</translation>
     </message>
@@ -10688,48 +10685,51 @@ Do you wish to proceed?</source>
         <translation>ສ້າງທາງລັດໄປຍັງ %1 ນີ້ແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
         <translation>ເຄືອຂ່າຍຜິດພາດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>ຜິດພາດ: %1 ສົ່ງຄືນລະຫັດສະຖານະທີ່ບໍ່ຄາດຄິດ %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="130"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="153"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
         <translation>ບໍ່ສາມາດອ່ານການຕອບກັບຈາກເຊີບເວີ hastebin: ຄາດຫວັງ JSON ແຕ່ໄດ້ຮັບການຕອບກັບທີ່ບໍ່ຖືກຕ້ອງ. ຜິດພາດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="140"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="167"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="182"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="205"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>ຜິດພາດ: %1 ສົ່ງຄືນເນື້ອຫາການຕອບກັບທີ່ຜິດຮູບແບບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="151"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="169"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
         <translation>ບໍ່ສາມາດອ່ານການຕອບກັບຈາກເຊີບເວີ mclogs: ຄາດຫວັງ JSON ແຕ່ໄດ້ຮັບການຕອບກັບທີ່ບໍ່ຖືກຕ້ອງ. ຜິດພາດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="179"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>ຜິດພາດ: %1 ສົ່ງຄືນຂໍ້ຜິດພາດ: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="190"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
         <translation>ບໍ່ສາມາດອ່ານການຕອບກັບຈາກເຊີບເວີ pasteGG: ຄາດຫວັງ JSON ແຕ່ໄດ້ຮັບການຕອບກັບທີ່ບໍ່ຖືກຕ້ອງ. ຜິດພາດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>ຜິດພາດ: %1 ສົ່ງຄືນລະຫັດຂໍ້ຜິດພາດ: %2
 ຂໍ້ຄວາມຜິດພາດ: %3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
+        <source>Unknown paste type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -10816,6 +10816,12 @@ Error message: %3</source>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
+        <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="65"/>
+        <source>Could not open file %1 for reading: %2</source>
+        <translation type="unfinished">ບໍ່ສາມາດເປີດໄຟລ໌ %1 ເພື່ອອ່ານໄດ້: %2</translation>
     </message>
 </context>
 <context>
@@ -11803,12 +11809,12 @@ Are you sure?</source>
         <translation>ເບິ່ງໂຟນເດີ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="337"/>
         <source>Context menu</source>
         <translation>ເມນູບໍລິບົດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -11819,7 +11825,7 @@ Are you sure?</source>
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="410"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -11848,7 +11854,7 @@ Are you sure?</source>
         <translation>ການອັບໂຫຼດສຳເລັດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>ຍົກເລີກ</translation>
     </message>
@@ -11898,7 +11904,7 @@ Are you sure?</source>
         <translation>ຢືນຢັນການລຶບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
         <source>Screenshots</source>
         <translation>ພາບໜ້າຈໍ</translation>
     </message>
@@ -12264,7 +12270,6 @@ Are you sure?</source>
 <context>
     <name>SkinDelete</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
         <translation>ກຳລັງລຶບສະກິນ</translation>
     </message>
@@ -12392,22 +12397,22 @@ Are you sure?</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="109"/>
         <source>Cancel</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="110"/>
         <source>OK</source>
         <translation>ຕົກລົງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="173"/>
         <source>Select Skin Texture</source>
         <translation>ເລືອກພື້ນຜິວສະກິນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="179"/>
         <source>Selected file is not a valid skin</source>
         <translation>ໄຟລ໌ທີ່ເລືອກບໍ່ແມ່ນສະກິນທີ່ຖືກຕ້ອງ</translation>
     </message>
@@ -12457,101 +12462,101 @@ Are you sure?</source>
         <translation>ເມນູບໍລິບົດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="386"/>
         <source>Delete error</source>
         <translation>ຂໍ້ຜິດພາດໃນການລຶບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="385"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="386"/>
         <source>Can not delete skin that is in use.</source>
         <translation>ບໍ່ສາມາດລຶບສະກິນທີ່ກຳລັງນຳໃຊ้อยູ່ໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="395"/>
         <source>Confirm Deletion</source>
         <translation>ຢືນຢັນການລຶບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="394"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="396"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>ທ່ານກຳລັງຈະລຶບ &quot;%1&quot;.
 ທ່ານແນ່ໃຈບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="411"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
         <source>Invalid url</source>
         <translation>URL ບໍ່ຖືກຕ້ອງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="417"/>
         <source>Download skin</source>
         <translation>ດາວໂຫຼດສະກິນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
         <source>URL is not a valid skin</source>
         <translation>URL ບໍ່ແມ່ນສະກິນທີ່ຖືກຕ້ອງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="427"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
         <translation>ຮູບພາບສະກິນຕ້ອງເປັນໄຟລ໌ PNG ຂະໜາດ 64x64 ຫຼື 64x32 ພິກເຊລ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="426"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="428"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
         <translation>ບໍ່ສາມາດດາວໂຫຼດສະກິນ: &apos;%1&apos; ໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="472"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="478"/>
         <source>Download user skin</source>
         <translation>ດາວໂຫຼດສະກິນຜູ້ໃຊ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="493"/>
         <source>failed to get user UUID</source>
         <translation>ຮັບຄ່າ UUID ຂອງຜູ້ໃຊ້ລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="494"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="500"/>
         <source>failed to get user profile</source>
         <translation>ຮັບຄ່າໂປຣໄຟລ໌ຜູ້ໃຊ້ລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="498"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="504"/>
         <source>failed to download skin</source>
         <translation>ດາວໂຫຼດສະກິນລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="508"/>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="522"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="514"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="528"/>
         <source>failed to parse get user UUID response</source>
         <translation>ການແຍກວິເຄາະການຕອບກັບການຮັບ UUID ຜູ້ໃຊ້ລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="517"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="523"/>
         <source>user id is empty</source>
         <translation>id ຜູ້ໃຊ້ວ່າງເປົ່າ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="531"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="537"/>
         <source>failed to parse get user profile response</source>
         <translation>ການແຍກວິເຄາະການຕອບກັບໂປຣໄຟລ໌ຜູ້ໃຊ້ລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="548"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="554"/>
         <source>the skin is invalid</source>
         <translation>ສະກິນບໍ່ຖືກຕ້ອງ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="550"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="556"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
         <translation>ບໍ່ພົບຊື່ຜູ້ໃຊ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="551"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="557"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>ບໍ່ສາມາດຊອກຫາສະກິນສຳລັບ &apos;%1&apos; ໄດ້
@@ -12561,7 +12566,6 @@ Are you sure?</source>
 <context>
     <name>SkinUpload</name>
     <message>
-        <location filename="src/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
         <translation>ກຳລັງອັບໂຫຼດສະກິນ</translation>
     </message>
