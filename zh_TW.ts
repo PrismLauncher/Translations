@@ -2128,7 +2128,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation>預加載指令（&amp;P）</translation>
+        <translation>載入前指令(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2143,7 +2143,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預加載指令在加載實例元數據前執行，預加載指令在實例啟動之前執行，退出後指令在實例退出之後執行。&lt;/p&gt;&lt;p&gt;它們全都會在啟動器的工作資料夾中執行，執行時會帶有以下這些額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例 ID （它的資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 用來啟動 Java 二進制檔案&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 用來啟動的指令行參數（警告：如果參數中包含空格則無效）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝器指令允許使用者透過額外的包裝器程式來啟動實例（如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預先載入指令會在載入實例的中繼資料前執行，啟動前指令會在實例啟動前執行，而結束後指令則會在實例結束後執行。&lt;/p&gt;&lt;p&gt;所有指令都會在啟動器的工作資料夾中執行，並附帶以下額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（即其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR -實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 用於啟動的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 用於啟動的命令列參數（警告：若參數中含有空格，將無法正常運作）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝器（Wrapper）指令允許使用額外的包裝程式來啟動（例如 Linux 上的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -4759,7 +4759,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation>已知 %1 與 %2 有衝突，而 %2 在此實例中已啟用。
+        <translation>已知 %1 與 %2 有衝突，而 %2 在這個實例中已啟用。
 
 同時啟用兩者可能會導致實例崩潰。您希望如何使用 %2？</translation>
     </message>
@@ -7171,7 +7171,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation>雙擊實例時開啟編輯實例窗口，而非執行實例。</translation>
+        <translation>按兩下實例時開啟編輯視窗，而非啟動實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
@@ -9792,7 +9792,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation>預加載</translation>
+        <translation>預先載入</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
@@ -10779,7 +10779,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation>AI 內容（資源）</translation>
+        <translation>AI 內容（素材）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
@@ -15078,7 +15078,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
-        <translation>解析 RPC 回應時出錯</translation>
+        <translation>解析 RPC 回應時發生錯誤</translation>
     </message>
 </context>
 <context>
