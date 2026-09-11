@@ -856,7 +856,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -2112,7 +2112,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Perintah Pra-pemuatan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2127,7 +2127,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Perintah pra-pemuatan dijalankan sebelum metadata instance dimuat, perintah pra-peluncuran dijalankan sebelum instance diluncurkan, dan perintah pasca-keluar dijalankan setelah instance ditutup.&lt;/p&gt;&lt;p&gt;Semuanya akan dijalankan di folder kerja launcher dengan variabel lingkungan tambahan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nama instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID instance (nama foldernya)&lt;/li&gt;&lt;li&gt;$INST_DIR - path absolut instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - path absolut Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - biner Java yang digunakan untuk peluncuran&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parameter command-line yang digunakan untuk peluncuran (peringatan: tidak akan berfungsi dengan benar jika argumen mengandung spasi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Perintah wrapper memungkinkan peluncuran menggunakan program wrapper tambahan (seperti &apos;optirun&apos; di Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3321,12 +3321,12 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 terpasang, %2 diaktifkan, %3 dipilih)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 terpasang, %2 diaktifkan)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -4656,29 +4656,31 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Memasang loader kedua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 diketahui berkonflik dengan %2, yang diaktifkan pada instance ini. Mengaktifkan keduanya secara bersamaan kemungkinan akan menyebabkan instance tidak berfungsi.
+
+Apa yang ingin Anda lakukan terhadap %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Pertahankan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus instalasi</translation>
     </message>
 </context>
 <context>
@@ -5902,7 +5904,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Beri peringatan saat memori bebas tidak mencukupi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -6165,26 +6167,30 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Menjalankan perintah %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perintah %1 kosong, dilewati.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Perintah %1 gagal dengan kode %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Perintah %1 berhasil dijalankan.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6363,7 +6369,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan profiler pada peluncuran berikutnya</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -6907,12 +6913,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Membuka jendela edit instance saat instance diklik dua kali, alih-alih menjalankan instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Buka jendela Edit saat instance diklik dua kali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -9398,17 +9404,17 @@ Pastikan Anda juga mempercayai URL tersebut.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Pra-pemuatan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pra-peluncuran</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasca-peluncuran</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -9997,17 +10003,17 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selalu gunakan versi Minecraft terbaru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">rilis</translation>
+        <translation>Rilis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Apa pun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10022,12 +10028,12 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan instalasi SDL sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Path pustaka SDL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
@@ -10321,82 +10327,82 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengecualian lanjutan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten AI</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten AI (kode)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten AI (aset)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten AI (teks)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konten AI (fungsionalitas)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Iklan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemicu epilepsi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaksi sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (opt-in)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (opt-out)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (selalu aktif)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Karya turunan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur berbayar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Diarsipkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -11634,50 +11640,50 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="121"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Meminta %1</translation>
+        <translation>Meminta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
-        <translation type="unfinished">tidak diketahui</translation>
+        <translation>tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1/dtk (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/dtk</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Terlalu banyak pengalihan</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Permintaan dibataslajukan untuk %n detik: Coba Lagi Setelah %1</numerusform>
+        <translation>
+            <numerusform>Laju permintaan dibatasi selama %n detik: coba lagi setelah %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Batas Laju: Menunggu %n detik</numerusform>
+        <translation>
+            <numerusform>Laju permintaan dibatasi: menunggu %n detik</numerusform>
         </translation>
     </message>
 </context>
@@ -11787,7 +11793,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lokasi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -11822,17 +11828,17 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori tidak tersedia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori instance &quot;%1&quot; tidak lagi dapat diakses. Silakan pilih lokasi lain.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Default (%1)</translation>
     </message>
 </context>
 <context>
@@ -14361,7 +14367,7 @@ Pesan kesalahan: %3</translation>
     <message>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan tidak diketahui saat mengurai respons RPC</translation>
     </message>
 </context>
 <context>
@@ -14681,7 +14687,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="71"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [terpilih]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="442"/>
@@ -15239,7 +15245,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan mod yang tidak tersedia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -15387,7 +15393,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
@@ -16874,22 +16880,22 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenang dulu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Modpack yang Anda pasang mencakup mod yang tidak dihosting di Modrinth atau CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Mod berbahaya sering didistribusikan melalui tautan yang dikirim di platform seperti Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Kami sangat menyarankan agar Anda hanya mengimpor modpack dari sumber tepercaya.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Saya memercayai modpack ini dan tetap ingin melanjutkan</translation>
     </message>
 </context>
 <context>
