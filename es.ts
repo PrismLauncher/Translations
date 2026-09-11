@@ -2142,7 +2142,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comando de precarga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -6327,26 +6327,30 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando %1 comando: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>El comando %1 está vacío, saltando.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>El comando %1 ha fallado con codigo %2
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>El comando %1 se ha ejecutado correctamente
+
+</translation>
     </message>
 </context>
 <context>
@@ -6525,7 +6529,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar perfilador en el siguiente lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -9803,17 +9807,17 @@ Asegúrate también de que la URL es de confianza.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Carga</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Post-Lanzamiento</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -10422,17 +10426,17 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Siempre usar la última versión de minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Estable</translation>
+        <translation>Lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Cualquiera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10775,22 +10779,22 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclusiones avanzadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido de IA</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido de IA (código)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido de IA (assets)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
