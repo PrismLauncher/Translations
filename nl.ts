@@ -4744,7 +4744,7 @@ Wat wilt u doen met %2?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importeren van de wereld mislukt.</translation>
     </message>
 </context>
 <context>
@@ -14742,7 +14742,7 @@ Foutmelding: %3</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">gegeven</translation>
+        <translation>bron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
@@ -15131,7 +15131,7 @@ De auteur heeft waarschijnlijk derdepartijlaunchers geblokeerd.</translation>
     <message>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished">gegeven</translation>
+        <translation>bron</translation>
     </message>
 </context>
 <context>
