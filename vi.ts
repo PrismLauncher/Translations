@@ -2113,7 +2113,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>&amp;Ghi đè cài đặt toàn cục</translation>
+        <translation>Ghi đè &amp; cài đặt toàn cục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
@@ -2163,12 +2163,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>Bản phát hành</translation>
+        <translation>Các bản phát hành</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>Bản xem trước</translation>
+        <translation>Các bản xem trước</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2187,7 +2187,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation>Bản thử nghiệm</translation>
+        <translation>Các bản thử nghiệm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -2213,22 +2213,22 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>Forge Loader</translation>
+        <translation>Bộ tải mod Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation>Bộ tải mod Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>Quilt Loader</translation>
+        <translation>Bộ tải mod Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation>Lite Loader</translation>
+        <translation>Bộ tải mod LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -2243,7 +2243,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>Không có mod loader nào đã được chọn.</translation>
+        <translation>Không có bộ tải mod nào được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -2266,7 +2266,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation>Đang chép %1…</translation>
+        <translation>Đang sao chép %1…</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2305,7 +2305,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
-        <translation>Định dạng Gói</translation>
+        <translation>Định dạng gói</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2315,7 +2315,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation>Cỡ</translation>
+        <translation>Kích thước</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2325,12 +2325,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation>Kích cỡ của gói dữ liệu.</translation>
+        <translation>Kích thước của gói dữ liệu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation>Tên của gói dữ liệu.</translation>
+        <translation>Tên tệp của gói dữ liệu.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2341,7 +2341,7 @@ Một số phiên bản Minecraft có thể không khởi động.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="159"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>ID của gói dữ liệu, cùng với phiên bản Minecraft gói dữ liệu này hỗ trợ.</translation>
+        <translation>ID của gói dữ liệu, cùng với phiên bản Minecraft mà nó hỗ trợ.</translation>
     </message>
     <message>
         <source>
@@ -2360,7 +2360,7 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="154"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>Gói dữ liệu này được kích hoạt chứ? (Chỉ áp dụng với các tệp ZIP)</translation>
+        <translation>Gói dữ liệu này được kích hoạt rồi chứ? (Chỉ áp dụng với các tệp ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="156"/>
@@ -2370,7 +2370,7 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="161"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>Ngày và giờ mới nhất mà gói dữ liệu này được chỉnh sửa (hoặc thêm mới).</translation>
+        <translation>Ngày và giờ mới nhất mà gói dữ liệu này được chỉnh sửa (hoặc được thêm mới).</translation>
     </message>
 </context>
 <context>
@@ -2383,22 +2383,22 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>Tải các gói dữ liệu từ các nền tảng mod trực tuyến</translation>
+        <translation>Tải các gói dữ liệu từ những nền tảng mod trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>Hãy thử kiểm tra hoặc cập nhật tất cả các gói dữ liệu đã được chọn (tất cả các gói dữ liệu nếu không có gói nào đã được chọn)</translation>
+        <translation>Hãy thử kiểm tra hoặc cập nhật tất cả các gói dữ liệu đã được chọn (tất cả các gói dữ liệu nếu không có gói nào được chọn)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation>Thay đổi phiên bản của gói dữ liệu.</translation>
+        <translation>Thay đổi phiên bản của một gói dữ liệu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
         <source>Download Data Packs</source>
-        <translation>Tải xuống gói dữ liệu</translation>
+        <translation>Tải xuống các gói dữ liệu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
@@ -2411,11 +2411,11 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
     </message>
     <message>
         <source>Aborted</source>
-        <translation>Bị hủy</translation>
+        <translation>Bị hủy bỏ</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>Quá trình tải bị dừng bởi người dùng.</translation>
+        <translation>Quá trình tải đã bị dừng bởi người dùng.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
@@ -2447,13 +2447,13 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Việc cập nhật gói dữ liệu khi trò chơi đang chạy có thể gây lặp gói dữ liệu hoặc văng khỏi trò chơi.
+        <translation>Việc cập nhật dữ liệu khi trò chơi đang chạy có thể gây trùng lặp gói dữ liệu hoặc văng khỏi trò chơi.
 Các tệp cũ có thể không được xóa vì chúng đang được sử dụng.
 Bạn có chắc muốn tiếp tục?</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
-        <translation>Trình cập nhật gói tài nguyên đã bị huỷ!</translation>
+        <translation>Trình cập nhật gói dữ liệu đã bị hủy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="141"/>
@@ -2478,13 +2478,13 @@ Bạn có chắc muốn tiếp tục?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>Confirm Removal</source>
-        <translation>Xác Nhận Xóa</translation>
+        <translation>Xác nhận xóa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Bạn sắp xoá siêu dữ liệu cơ sở cho gói dữ liệu %1
+        <translation>Bạn sắp sửa xóa metadata cho gói dữ liệu %1
 Bạn có chắc không?</translation>
     </message>
 </context>
@@ -2569,8 +2569,8 @@ If possible, close other applications before continuing.
 
 Launch anyway?</source>
         <translation>Hệ thống đang bị quá tải bộ nhớ.
-Việc tiếp tục sẽ có thể khiến thiết bị chậm hoặc giật lag.
-Nếu có thể, vui lòng đóng các cửa sổ khác trước khi tiếp tục.
+Việc tiếp tục có thể khiến thiết bị chậm hoặc giật lag.
+Nếu có thể, vui lòng đóng các ứng dụng khác trước khi tiếp tục.
 
 Vẫn tiếp tục khởi chạy?</translation>
     </message>
@@ -2590,7 +2590,7 @@ Vẫn tiếp tục khởi chạy?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation>Bộ nhớ quá tải</translation>
+        <translation>Quá tải bộ nhớ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
