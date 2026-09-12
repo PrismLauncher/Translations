@@ -2600,7 +2600,7 @@ Vẫn tiếp tục khởi chạy?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation>Bộ nhớ trống thấp</translation>
+        <translation>Bộ nhớ khả dụng thấp</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
