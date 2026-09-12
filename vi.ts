@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Dịch vụ &amp;Pastebin</translation>
+        <translation>%Dịch vụ Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Loại Dịch vụ lưu trữ</translation>
+        <translation>Dịch vụ lưu trữ &amp;Loại</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -33,7 +33,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>Sử dụng Mặc định</translation>
+        <translation>Sử dụng cài đặt mặc định</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lưu ý: bạn chỉ cần đặt nếu bạn muốn truy cập những thông tin riêng tư&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lưu ý: bạn chỉ cần đặt nếu bạn muốn truy cập những thông tin riêng tư.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom GUID client ID for Technic here.</source>
@@ -1435,7 +1435,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Có tính năng mới&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Có tính năng mới!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
@@ -1537,7 +1537,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt; Mã Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Mã Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -3904,7 +3904,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
+        <translation>Các tệp sau đã bị chặn đối với các launcher của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="608"/>
@@ -3953,7 +3953,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Chú ý!&lt;/h1&gt;&lt;h4&gt; Pack ID của bạn hiện đang bị thiếu. Đây là một lỗi trong các phiên bản khởi chạy cũ.&lt;br/&gt; Chúng tôi cần thông tin này để yêu cầu các API cần thiết.&lt;br/&gt;&lt;br/&gt;Vì vậy, bạn sẽ cần tải lại gói mod bằng trình tải tích hợp sẵn để cho tính năng này hoạt động. &lt;br/&gt;&lt;br/&gt;Đừng lo, quá trình này sẽ yêu cầu bạn cập nhật thực thể này, cho nên nó sẽ không bị mất!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Này bạn hiền!&lt;/h1&gt;&lt;h4&gt; Có vẻ như pack ID của bạn hiện đang bị thiếu. Đây là một lỗi trong các phiên bản launcher cũ.&lt;br/&gt; Thật không may là, chúng tôi không thể tạo các yêu cầu API cần thiết nếu không có thông tin này.&lt;br/&gt;&lt;br/&gt;Vì vậy, bạn sẽ cần tải lại gói mod bằng trình tải tích hợp sẵn để tính năng này hoạt động. &lt;br/&gt;&lt;br/&gt; Nhưng đừng lo, quá trình này sẽ yêu cầu bạn cập nhật thay vì cài lại phiên bản này, nên sẽ không có thứ gì bị mất!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
@@ -4699,7 +4699,7 @@ Bạn muốn làm gì với %2?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="48"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished">Nhập thế giới không thành công.</translation>
+        <translation>Nhập thế giới không thành công.</translation>
     </message>
 </context>
 <context>
@@ -5273,7 +5273,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">Đang tải xuống các tệp game</translation>
+        <translation>Đang tải xuống các tệp game</translation>
     </message>
 </context>
 <context>
@@ -5882,7 +5882,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
         <source>Memory Notice</source>
-        <translation>Thông báo bộ nhớ RAM</translation>
+        <translation>Thông báo bộ nhớ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
@@ -5920,12 +5920,12 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation>Bộ nhớ RAM sử dụng tối đa:</translation>
+        <translation>Bộ nhớ sử dụng tối đa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="202"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation>Bộ nhớ RAM sử dụng tối thiểu:</translation>
+        <translation>Bộ nhớ sử dụng tối thiểu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
@@ -5985,12 +5985,12 @@ Hãy chắc rằng cài đặt giá trị tối đa của bộ nhớ là nhỏ h
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>Dung lượng bộ nhớ RAM tối đa được cung cấp gần bằng dung lượng bộ nhớ RAM hệ thống.</translation>
+        <translation>Dung lượng RAM tối đa cho phép gần bằng dung lượng RAM của hệ thống.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="305"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>Dung lượng bộ nhớ RAM tối đa được cung cấp thấp hơn dung lượng bộ nhớ RAM tối thiểu được cung cấp.</translation>
+        <translation>Dung lượng RAM tối đa cho phép thấp hơn dung lượng RAM tối thiểu cho phéo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6047,7 +6047,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Bạn đã chọn phiên bản cài đặt 32-bit của Java, nhưng phân bổ hơn 2GB làm bộ nhớ tối đa.
+        <translation>Bạn đã chọn phiên bản cài đặt 32-bit của Java, nhưng đã phân bổ hơn 2GB làm bộ nhớ tối đa.
 %1 sẽ không thể khởi chạy Minecraft
 Bạn có muốn tiếp tục không?
 
@@ -6448,7 +6448,7 @@ Bạn có muốn chơi bản demo không?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation>&apos;%1&apos; đã hết hạn và cần được xác thực lại.</translation>
+        <translation>&apos;%1&apos; đã hết hạn và cần được xác thực lại</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
@@ -6458,7 +6458,7 @@ Bạn có muốn chơi bản demo không?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation>&apos;%1&apos; không còn tồn tại trên máy chủ nữa.</translation>
+        <translation>&apos;%1&apos; không còn tồn tại trên máy chủ nữa</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
@@ -6986,7 +6986,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Add</source>
-        <translation type="unfinished">Thêm</translation>
+        <translation>Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
@@ -8329,7 +8329,7 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
         <source>Manage &amp;Skins...</source>
-        <translation>quản lý trang phục</translation>
+        <translation>&amp;Quản lý skins...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
@@ -9069,7 +9069,7 @@ Bạn có chắc chắn không ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Bạn có hai sự lựa chọn: &lt;br/&gt; - thay đổi thư mục của phiên bản trong cài đặt&lt;br/&gt; - Dời phiên bản %1 này sang một thư mục khác</translation>
+        <translation>Bây giờ bạn có hai sự lựa chọn: &lt;br/&gt; - thay đổi thư mục phiên bản trong cài đặt&lt;br/&gt; - di dời bản cài đặt của %1 sang một thư mục khác</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
@@ -9395,12 +9395,12 @@ Hãy đảm bảo rằng bạn tin tưởng cái URL
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiền khởi chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hậu khởi chạy</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -9973,17 +9973,17 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Luôn sử dụng phiên bản minecraft mới nhất</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Chính thức</translation>
+        <translation>Chính thức</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Bất kỳ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10289,82 +10289,82 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ lọc loại trừ nâng cao</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nội dung AI</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nội dung AI (code)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nội dung AI (tài nguyên)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nội dung AI (văn bản)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nội dung AI (tính năng)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Quảng cáo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Tác nhân gây động kinh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tương tác hệ thống</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Gửi dữ liệu chẩn đoán</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu thập dữ liệu (tự nguyện)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu thập dữ liệu (tùy chọn tắt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu thập dữ liệu (luôn hoạt động)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Sản phẩm cải biên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Tính năng trả phí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã được lưu trữ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -10900,7 +10900,7 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có trình tải mod nào được cài đặt. Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
@@ -10938,7 +10938,7 @@ Bạn có muốn vô hiệu hoá chúng không?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Các bản mod sau đây sẽ bị lỗi nếu gỡ bỏ (những) bản mod này:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -11361,12 +11361,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="551"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Đang xoá những tệp tin xung đột cũ...</translation>
+        <translation>Đang xóa những tệp tin cũ bị xung đột...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="568"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Không thể xóa các tệp tin xung đột cũ.</translation>
+        <translation>Không thể xóa các tệp tin cũ bị xung đột.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -11624,50 +11624,50 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/net/Request.cpp" line="122"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Yêu cầu %1</translation>
+        <translation>Đang yêu cầu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="214"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>chưa xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="216"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="219"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="338"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Chuyển hướng quá nhiều lần</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="353"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Tỷ lệ yêu cầu bị giới hạn trong %n giây: Thử lại sau %1</numerusform>
+        <translation>
+            <numerusform>Yêu cầu bị giới hạn tần suất trong %n giây: Thử lại sau %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="358"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Tỷ lệ bị giới hạn: Chờ %n giây</numerusform>
+        <translation>
+            <numerusform>Tần suất bị giới hạn: Chờ %n giây</numerusform>
         </translation>
     </message>
 </context>
@@ -11777,7 +11777,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vị trí lưu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -11812,17 +11812,17 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Đường dẫn không tồn tại</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đường dẫn phiên bản &quot;%1&quot; không còn truy cập được nữa. Xin hãy chọn vị trí lưu khác.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="235"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mặc định (%1)</translation>
     </message>
 </context>
 <context>
@@ -13143,7 +13143,7 @@ Trạng thái HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Điều này chỉ áp dụng cho PolyMC. Minecraft không chấp nhận cài đặt proxy.</translation>
+        <translation>Điều này chỉ áp dụng cho launcher. Minecraft không chấp nhận cài đặt proxy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -13208,7 +13208,7 @@ Trạng thái HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Lưu ý: Tên người dùng và mật khẩu proxy được lưu trữ dưới dạng văn bản thuần túy bên trong tệp cấu hình của PolyMC!</translation>
+        <translation>Lưu ý: Tên người dùng và mật khẩu proxy được lưu trữ dưới dạng văn bản thuần túy bên trong tệp cấu hình của launcher!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -14054,14 +14054,16 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể đổi tên thư mục phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục phiên bản không thể bị đổi tên trong khi đang chạy.
+
+Chỉ có tên phiên bản sẽ được đổi. Thư mục sẽ giữ nguyên tên hiện tại.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
@@ -14092,7 +14094,7 @@ Tên mới: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="105"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>Một lỗi đã xảy ra khi thực hiện việc đặt tên: &lt;br/&gt;- Nguồn của phiên cũ: %1&lt;br/&gt;Nguồn của phiên cũ: %2&lt;br/&gt;Chỉ có dữ liệu cơ sở là đã hoàn tất việc đặt tên.</translation>
+        <translation>Một lỗi đã xảy ra khi thực hiện quá trình đổi tên: &lt;br/&gt; - Nguồn của phiên bản cũ: %1&lt;br/&gt; - Nguồn của phiên bản mới: %2&lt;br/&gt;Chỉ có metadata đã hoàn tất đổi tên.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="119"/>
@@ -14286,7 +14288,7 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểu dán chưa xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -14327,58 +14329,58 @@ Tin nhắn báo lỗi: %3</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Không thể nhận dạng</translation>
+        <translation>Không thể nhận dạng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>các gói dữ liệu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">các mod</translation>
+        <translation>các mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">gói tài nguyên</translation>
+        <translation>các gói tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">tài nguyên</translation>
+        <translation>tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">các tài nguyên</translation>
+        <translation>tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">các gói shader</translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">gói hình ảnh</translation>
+        <translation>các gói kết cấu</translation>
     </message>
     <message>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi không xác định khi đang phân tích phản hồi RPC</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="65"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Không thể mở tệp %1 để đọc %2</translation>
+        <translation>Không thể mở tệp %1 để đọc: %2</translation>
     </message>
 </context>
 <context>
@@ -14514,22 +14516,22 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="410"/>
         <source>resource packs</source>
-        <translation type="unfinished">gói tài nguyên</translation>
+        <translation>gói tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="431"/>
         <source>texture packs</source>
-        <translation type="unfinished">gói hình ảnh</translation>
+        <translation>các gói kết cấu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="452"/>
         <source>shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="473"/>
         <source>data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>các gói dữ liệu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
@@ -14690,7 +14692,7 @@ Vui lòng cập nhật %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="71"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [đã được chọn]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="442"/>
@@ -15248,7 +15250,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt những mod không có sẵn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -15396,7 +15398,7 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
@@ -16854,22 +16856,22 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Úi giời, bình tĩnh cái nào!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bản modpack bạn đang cài đặt có bao gồm những mod không được lưu trữ trên Modrinth hay CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Những bản mod độc hại thường được phán tán qua các liên kết được gửi trên các nền tảng như Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Chúng tôi thực sự khuyên bạn chỉ nên tải các bản modpack từ những nguồn đáng tin cậy.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Tôi tin tưởng bản modpack này và vẫn muốn tiếp tục bất kể nguy cơ</translation>
     </message>
 </context>
 <context>
@@ -18053,12 +18055,12 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>Máy chủ đã thay đổi hash ủy quyền người dùng %1 trong thư trả lời. Có cái gì đó không đúng.</translation>
+        <translation>Máy chủ đã thay đổi hash ủy quyền người dùng %1 trong thư trả lời. Có gì đó sai sai.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
-        <translation>Được ủy quyền để truy cập %1</translation>
+        <translation>Đã được ủy quyền để truy cập %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
@@ -18073,7 +18075,7 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation>Tài khoản Microsoft này không có tài khoản Xbox Live. Hãy mua trò chơi tại %1.</translation>
+        <translation>Tài khoản Microsoft này không có tài khoản Xbox Live. Hãy mua trò chơi tại %1 trước.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
@@ -18093,7 +18095,7 @@ Bạn có chắc không?</translation>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>Tài khoản Microsoft này không được phân cấp và không được liên kết với một gia đình.
+        <translation>Tài khoản Microsoft này chưa đủ tuổi và không được liên kết với một gia đình.
 
 Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
@@ -18110,7 +18112,7 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation>Tài khoản Microsoft này đã bị Xbox cấm vì vi phạm một hoặc nhiều Tiêu chuẩn cộng đồng dành cho Xbox và không thể sử dung được.</translation>
+        <translation>Tài khoản Microsoft này đã bị Xbox cấm vì vi phạm một hoặc nhiều Tiêu chuẩn cộng đồng dành cho Xbox và không thể sử dụng được.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
@@ -18120,7 +18122,7 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>Tài khoản Microsoft này chưa chấp nhận Điều khoản dịch vụ của Xbox. Vui lòng đăng nhập và chap nhận chúng.</translation>
+        <translation>Tài khoản Microsoft này chưa chấp nhận Điều khoản dịch vụ của Xbox. Vui lòng đăng nhập và chấp nhận chúng.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
