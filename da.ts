@@ -945,12 +945,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <translation>Denne log kan ikke vises eftersom loglængden oversteg %1 linjer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="915"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1085"/>
+        <location filename="src/launcher/Application.cpp" line="1087"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -977,12 +977,12 @@ for detaljer om det sidste opdateringsforsøg.
 For at slette denne lås og fortsætte skal du vælge &quot;Ignorer&quot; nedenfor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1102"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
         <translation>Opdatering Igang</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1126"/>
+        <location filename="src/launcher/Application.cpp" line="1128"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -997,12 +997,12 @@ Check Prism Launcer updateringsloggen på:
 For flere detalier på sidste opdaterings forsøg.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1134"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
         <translation>Opdatering Fejlede</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1158"/>
+        <location filename="src/launcher/Application.cpp" line="1160"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1023,12 +1023,12 @@ Tjek Prism Launcherens-opdateringsloggen ved:
 for detaljer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1166"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
         <translation>Opdatering fuldført</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1198"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1048,7 +1048,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1204"/>
+        <location filename="src/launcher/Application.cpp" line="1206"/>
         <source>Incompatible system configuration</source>
         <translation>Inkompatibel systemkonfiguration</translation>
     </message>
@@ -1057,22 +1057,22 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <translation type="vanished">Afbrudt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1968"/>
+        <location filename="src/launcher/Application.cpp" line="1970"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gamle data fra %1 blev fundet, men du har allerede eksisterende data for %2. Det betyder desværre, at du må migrere på egen hånd. Vil du mindes om den afventende datamigrering næste gang du starter %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1972"/>
+        <location filename="src/launcher/Application.cpp" line="1974"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Det ser ud til, at du har brugt %1 før. Vil du migrere dine data til den nye placering af %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1980"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det ser ud som du tidligere brugt %1 på %2. Vil du migrere din data til det nye sted %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2024"/>
+        <location filename="src/launcher/Application.cpp" line="2026"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration mislykket! Årsag: %1</translation>
     </message>
@@ -3289,6 +3289,36 @@ Er du sikker på at du fortsætte?</translation>
         <translation>Bruges til at redigere komponent JSON-filer.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
+        <source>World Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
+        <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Tilføj</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Fjern</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
+        <source>Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;MCEdit</source>
         <translation>&amp;MCEdit</translation>
     </message>
@@ -3332,57 +3362,82 @@ Er du sikker på at du fortsætte?</translation>
         <translation type="vanished">Eksterne værktøjer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
+        <source>Executables (*.exe *.bat);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
+        <source>All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
+        <source>Select Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>The selected file is not executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
         <source>JProfiler Folder</source>
         <translation>JProfiler-mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Fejl under kontrol af JProfiler-installation:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>JProfiler-opsætning ser ud til at være okay</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>VisualVM Executable</source>
         <translation>VisualVM Eksekverbar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>Fejl under verificering af VisualVM-installation:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>VisualVM setup seems to be OK</source>
         <translation>VisualVM-opsætning lader til at være OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="230"/>
         <source>Text Editor</source>
         <translation>Teksteditor</translation>
     </message>
@@ -3423,17 +3478,17 @@ Er du sikker på at du fortsætte?</translation>
         <translation type="vanished">JSON-redigeringsprogram</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>Invalid</source>
         <translation>Ugyldig</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Den valgte fil ser ikke ud til at være en eksekverbar fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="55"/>
         <source>Tools</source>
         <translation>Værktøjer</translation>
     </message>
@@ -17242,7 +17297,7 @@ Er du sikker?</translation>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
+        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="223"/>
         <source>Customize toolbar actions</source>
         <translation>Tilpas værktøjslinje handlinger</translation>
     </message>
@@ -17334,22 +17389,22 @@ Canonical Sti: %1</translation>
         <translation>Handlinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
         <source>Add</source>
         <translation>Tilføj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
         <translation>Deltag</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
         <source>Rename</source>
         <translation>Omdøb</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
         <source>Copy</source>
         <translation>Kopier</translation>
     </message>
@@ -17358,7 +17413,7 @@ Canonical Sti: %1</translation>
         <translation type="vanished">Fjern</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
         <source>Delete</source>
         <translation>Slet</translation>
     </message>
@@ -17367,37 +17422,47 @@ Canonical Sti: %1</translation>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>Copy Seed</source>
         <translation>Kopier Seed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
         <source>Refresh</source>
         <translation>Opdater</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>View Folder</source>
         <translation>Se Mappe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>Reset Icon</source>
         <translation>Nulstil Ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="144"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Fjern verden ikonet for at få spillet til at genskabe det ved næste indlæsning.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
+        <source>Tools</source>
+        <translation type="unfinished">Værktøjer</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
+        <source>Run an external tool on the selected world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Data Packs</source>
         <translation>Datapakker</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
         <source>Manage data packs inside the world.</source>
         <translation>Administrér datapakker inde i verdenen.</translation>
     </message>
@@ -17410,12 +17475,12 @@ Canonical Sti: %1</translation>
         <translation type="vanished">Administrer datapacks i verden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
         <translation>Verdener</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="170"/>
         <source>Context menu</source>
         <translation>Kontekst menu</translation>
     </message>
@@ -17458,34 +17523,34 @@ It may be necessary to reinstall it.</source>
 Det kan være nødvendigt at geninstallere det.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Select a Minecraft world zip</source>
         <translation>Vælg en Minecraft verdens zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft Verden Zip Fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Copy World</source>
         <translation>Kopier Verden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="446"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>At ændre en verden mens Minecraft kører er potentielt usikkert.
 Ønsker du at fortsætte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Confirm Deletion</source>
         <translation>Bekræft Sletning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="222"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -17496,33 +17561,64 @@ Verden kan være væk for altid (LANG TID).
 Er du sikker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="239"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="259"/>
         <source>Manage Data Packs</source>
         <translation>Administrér datapakker</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="267"/>
         <source>Data packs for %1</source>
         <translation>Datapakker til %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
+        <source>No Tools Added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <source>Open Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>The tool command is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
+        <source>Tool failed to start!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <source>The tool could not be started.
+Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>World name</source>
         <translation>Verdens navn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
         <source>Enter a new name for the copy.</source>
         <translation>Indtast et nyt navn til kopien.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="495"/>
         <source>Rename World</source>
         <translation>Omdøb Verden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>Enter a new world name.</source>
         <translation>Indtast et nyt verdens navn.</translation>
     </message>

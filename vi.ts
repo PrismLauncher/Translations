@@ -941,12 +941,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Không thể hiển thị văn bản nhật ký này khi độ dài nhật ký vượt quá %1 dòng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="915"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1085"/>
+        <location filename="src/launcher/Application.cpp" line="1087"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -973,12 +973,12 @@ Kiểm tra tệp log cho việc cập nhật Prism Launcher ở:
 Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Bỏ Mặc&quot; ở dưới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1102"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
         <translation>Đang cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1126"/>
+        <location filename="src/launcher/Application.cpp" line="1128"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -993,12 +993,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1134"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
         <translation>Cập nhật thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1158"/>
+        <location filename="src/launcher/Application.cpp" line="1160"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1019,12 +1019,12 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 để biết thêm.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1166"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
         <translation>Cập nhật thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1198"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1045,7 +1045,7 @@ Một số phiên bản Minecraft có thể không khởi động.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1204"/>
+        <location filename="src/launcher/Application.cpp" line="1206"/>
         <source>Incompatible system configuration</source>
         <translation>Cấu hình hệ thống của bạn không tương thích</translation>
     </message>
@@ -1054,22 +1054,22 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation type="vanished">Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1968"/>
+        <location filename="src/launcher/Application.cpp" line="1970"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Dữ liệu cũ từ %1 đã được tìm thấy, nhưng bạn đã có dữ liệu cho %2. Thật buồn khi bạn sẽ phải di chuyển dữ liệu của mình đi. Bạn có muốn được nhắc nhở về việc di chuyển dữ liệu đang chờ xử lý khi bạn bắt đầu % 2 ở lần kế tiếp không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1972"/>
+        <location filename="src/launcher/Application.cpp" line="1974"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Hình như bạn đã dùng %1 trước đây. Bạn có muốn di chuyển dữ liệu của bạn sang vị trí mới ở %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1980"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Hình như bạn đã dùng %1 trên %2 trước đây. Bạn có muốn di chuyển dữ liệu sang vị trí mới ở %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2024"/>
+        <location filename="src/launcher/Application.cpp" line="2026"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Di chuyển không thành công! Lí do: %1</translation>
     </message>
@@ -3351,6 +3351,36 @@ Bạn có chắc bạn muốn làm điều này?</translation>
         <translation>Được dùng để sửa các tệp JSON.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
+        <source>World Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
+        <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Thêm</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
+        <source>Name</source>
+        <translation type="unfinished">Tên</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
+        <source>Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;MCEdit</source>
         <translation>&amp;MCEdit</translation>
     </message>
@@ -3394,57 +3424,82 @@ Bạn có chắc bạn muốn làm điều này?</translation>
         <translation type="vanished">Các công cụ khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
+        <source>Executables (*.exe *.bat);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
+        <source>All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
+        <source>Select Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>The selected file is not executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
         <source>JProfiler Folder</source>
         <translation>Thư mục JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Có lỗi khi kiểm tra JProfiler:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>OK</source>
         <translation>Hoàn tất</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>Phiên bản JProfiler có vẻ đã hoạt động đúng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>VisualVM Executable</source>
         <translation>Tệp khởi chạy VisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>Gặp lỗi trong khi kiểm tra VisualVM trên máy:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>VisualVM setup seems to be OK</source>
         <translation>Thiết lập của VisualVM có vẻ ổn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="230"/>
         <source>Text Editor</source>
         <translation>Soạn thảo văn bản</translation>
     </message>
@@ -3485,17 +3540,17 @@ Bạn có chắc bạn muốn làm điều này?</translation>
         <translation type="vanished">Công cụ chỉnh sửa JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>Invalid</source>
         <translation>Không hợp lệ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Tập tin được chọn này dường như không phải là tệp để thực thi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="55"/>
         <source>Tools</source>
         <translation>Công cụ</translation>
     </message>
@@ -17736,7 +17791,7 @@ Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn.</translation>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
+        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="223"/>
         <source>Customize toolbar actions</source>
         <translation>Tùy chỉnh hành động thanh công cụ</translation>
     </message>
@@ -17828,22 +17883,22 @@ Canonical Path: %1</source>
         <translation>Các hành động</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
         <source>Add</source>
         <translation>Thêm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
         <translation>Tham gia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
         <source>Rename</source>
         <translation>Đổi tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
         <source>Copy</source>
         <translation>Sao chép</translation>
     </message>
@@ -17852,7 +17907,7 @@ Canonical Path: %1</source>
         <translation type="vanished">Loại bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
         <source>Delete</source>
         <translation>Xoá</translation>
     </message>
@@ -17861,37 +17916,47 @@ Canonical Path: %1</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>Copy Seed</source>
         <translation>Sao chép seed</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
         <source>Refresh</source>
         <translation>Làm mới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>View Folder</source>
         <translation>Xem thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>Reset Icon</source>
         <translation>Đặt lại biểu tượng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="144"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Xóa biểu tượng thế giới để trò chơi tạo lại trong lần vào tiếp theo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
+        <source>Tools</source>
+        <translation type="unfinished">Công cụ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
+        <source>Run an external tool on the selected world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Data Packs</source>
         <translation>Gói dữ liệu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
         <source>Manage data packs inside the world.</source>
         <translation>Quản lý gói dữ liệu bên trong thế giới.</translation>
     </message>
@@ -17904,12 +17969,12 @@ Canonical Path: %1</source>
         <translation type="vanished">Quản lí datapack trong thế giới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
         <translation>Thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="170"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
@@ -17956,34 +18021,34 @@ It may be necessary to reinstall it.</source>
 Có thể cần phải cài đặt lại nó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Select a Minecraft world zip</source>
         <translation>Chọn tệp nén thế giới Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Minecraft World Zip File</source>
         <translation>Tệp Zip Thế giới Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Copy World</source>
         <translation>Sao chép thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="446"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Thay đổi thế giới trong khi Minecraft đang chạy có khả năng không an toàn.
 Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="222"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -17994,33 +18059,64 @@ Thế giới có thể biến mất mãi (MỘT THỜI GIAN DÀI).
 Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="239"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="259"/>
         <source>Manage Data Packs</source>
         <translation>Quản lý gói dữ liệu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="267"/>
         <source>Data packs for %1</source>
         <translation>Gói dữ liệu cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
+        <source>No Tools Added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <source>Open Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>The tool command is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
+        <source>Tool failed to start!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <source>The tool could not be started.
+Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>World name</source>
         <translation>Tên thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
         <source>Enter a new name for the copy.</source>
         <translation>Nhập tên mới cho bản sao.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="495"/>
         <source>Rename World</source>
         <translation>Thay đổi tên thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>Enter a new world name.</source>
         <translation>Nhập một tên mới cho thế giới.</translation>
     </message>

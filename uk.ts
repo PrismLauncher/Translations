@@ -937,12 +937,12 @@ Please update both your operating system and %1.</source>
         <translation>Неможливо відобразити цей журнал, оскільки його довжина перевищила %1 рядків.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="913"/>
+        <location filename="src/launcher/Application.cpp" line="915"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1085"/>
+        <location filename="src/launcher/Application.cpp" line="1087"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -969,12 +969,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Виберіть «Ігнорувати» нижче, щоб видалити цей файл оновлення та продовжити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1102"/>
+        <location filename="src/launcher/Application.cpp" line="1104"/>
         <source>Update In Progress</source>
         <translation>Йде оновлення</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1126"/>
+        <location filename="src/launcher/Application.cpp" line="1128"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -989,12 +989,12 @@ for details on the last update attempt.</source>
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1134"/>
+        <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Update Failed</source>
         <translation>Не вдалося оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1158"/>
+        <location filename="src/launcher/Application.cpp" line="1160"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1015,12 +1015,12 @@ for details.</oldsource>
 щоб побачити подробиці останньої спроби оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1166"/>
+        <location filename="src/launcher/Application.cpp" line="1168"/>
         <source>Update Succeeded</source>
         <translation>Оновлення виконано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1198"/>
+        <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1041,7 +1041,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1204"/>
+        <location filename="src/launcher/Application.cpp" line="1206"/>
         <source>Incompatible system configuration</source>
         <translation>Несумісні системні налаштування</translation>
     </message>
@@ -1050,22 +1050,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1968"/>
+        <location filename="src/launcher/Application.cpp" line="1970"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Знайдено старі дані з %1, проте у вас вже є наявні дані для %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запустите %2 наступного разу?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1972"/>
+        <location filename="src/launcher/Application.cpp" line="1974"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Схоже ви використовували %1 раніше. Чи хочете ви перенести ваші дані до %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1980"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2024"/>
+        <location filename="src/launcher/Application.cpp" line="2026"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Міграція не вдалася! Причина: %1</translation>
     </message>
@@ -3399,6 +3399,36 @@ Are you sure you want to do this?</source>
         <translation>Використовується для редагування компонентів JSON-файлів.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
+        <source>World Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
+        <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Додати</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Видалити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
+        <source>Name</source>
+        <translation type="unfinished">Назва</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
+        <source>Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;MCEdit</source>
         <translation>&amp;MCEdit</translation>
     </message>
@@ -3442,57 +3472,82 @@ Are you sure you want to do this?</source>
         <translation type="vanished">Зовнішні інструменти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
+        <source>Executables (*.exe *.bat);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
+        <source>All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
+        <source>Select Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
+        <source>The selected file is not executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
         <source>JProfiler Folder</source>
         <translation>Тека JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Помилка під час перевірки встановлення JProfile:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>Налаштування JProfile здається виконано успішно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>VisualVM Executable</source>
         <translation>Виконуваний файл VisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>Помилка під час перевірки встановлення VisualVM:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>VisualVM setup seems to be OK</source>
         <translation>Налаштування VisualVM здається в порядку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="230"/>
         <source>Text Editor</source>
         <translation>Редаактор Тексту</translation>
     </message>
@@ -3533,17 +3588,17 @@ Are you sure you want to do this?</source>
         <translation type="vanished">Редактор JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>Invalid</source>
         <translation>Недійсний</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Вибраний файл не є виконуваним</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="55"/>
         <source>Tools</source>
         <translation>Інструменти</translation>
     </message>
@@ -18379,7 +18434,7 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
+        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="223"/>
         <source>Customize toolbar actions</source>
         <translation>Налаштування дій на панелі інструментів</translation>
     </message>
@@ -18471,22 +18526,22 @@ Canonical Path: %1</source>
         <translation>Дії</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
         <source>Add</source>
         <translation>Додати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="106"/>
         <source>Join</source>
         <translation>Приєднатись</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
         <source>Rename</source>
         <translation>Перейменувати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
@@ -18495,7 +18550,7 @@ Canonical Path: %1</source>
         <translation type="vanished">Видалити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
@@ -18504,37 +18559,47 @@ Canonical Path: %1</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="126"/>
         <source>Copy Seed</source>
         <translation>Копіювати Зерно Світу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
         <source>Refresh</source>
         <translation>Оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>View Folder</source>
         <translation>Переглянути теку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>Reset Icon</source>
         <translation>Скинути іконки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="144"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Видалити піктограму світу, щоб гра повторно згенерувала її під час наступного завантаження.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
+        <source>Tools</source>
+        <translation type="unfinished">Інструменти</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
+        <source>Run an external tool on the selected world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
         <source>Data Packs</source>
         <translation>Пакети даних</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
         <source>Manage data packs inside the world.</source>
         <translation>Керувати пакетами даних всередині світу.</translation>
     </message>
@@ -18547,12 +18612,12 @@ Canonical Path: %1</source>
         <translation type="vanished">Керування пакетами даних у світі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
         <translation>Світи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="170"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
@@ -18599,34 +18664,34 @@ It may be necessary to reinstall it.</source>
 Можливо, його треба буде перевстановити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Select a Minecraft world zip</source>
         <translation>Вибрати zip-архів світу Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Minecraft World Zip File</source>
         <translation>Світ Minecraft Zip Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
         <source>Copy World</source>
         <translation>Копіювати світ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="446"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Зміна світу під час гри є потенційно небезпечною.
 Точно бажаєте продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Confirm Deletion</source>
         <translation>Підтвердити Видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="222"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -18637,33 +18702,64 @@ Are you sure?</source>
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="239"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="259"/>
         <source>Manage Data Packs</source>
         <translation>Керувати пакетами даних</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="267"/>
         <source>Data packs for %1</source>
         <translation>Пакети даних для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
+        <source>No Tools Added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <source>Open Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>Invalid command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <source>The tool command is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
+        <source>Tool failed to start!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <source>The tool could not be started.
+Error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>World name</source>
         <translation>Назва світу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введіть нове ім&apos;я для копії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="495"/>
         <source>Rename World</source>
         <translation>Перейменувати Світ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
         <source>Enter a new world name.</source>
         <translation>Введіть нове ім&apos;я світу.</translation>
     </message>
