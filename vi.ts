@@ -2118,7 +2118,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lệnh được tải trước</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2133,7 +2133,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh được tải trước sẽ hoạt động trước khi metadata của phiên bản được tải, lệnh tiền khởi chạy hoạt động ngay trước khi khởi động game và lệnh hậu thoát hoạt động sau khi game đóng hẳn.&lt;/p&gt;&lt;p&gt;Tất cả lệnh trên đều sẽ được chạy trong thư mục làm việc của trình khởi chạy cùng với các biến môi trường bổ sung sau:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của phiên bản&lt;/li&gt;&lt;li&gt;$INST_ID - ID của phiên bản (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - Đường dẫn tuyệt đối đến phiên bản&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Đường dẫn tuyệt đối đến thư mục Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Tệp thực thi Java được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Các tham số dòng lệnh được dùng để khởi chạy (cảnh báo: sẽ không hoạt động chính xác nếu tham số chứa khoảng trống)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh bao bọc cho phép khởi chạy game thông qua một chương trình bổ sung bên ngoài (ví dụ như &apos;optirun&apos; trên hệ điều hành Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2484,7 +2484,7 @@ Bạn có chắc muốn tiếp tục?</translation>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Bạn sắp sửa xóa metadata cho gói dữ liệu %1
+        <translation>Bạn sắp sửa gỡ bỏ metadata cho gói dữ liệu %1
 Bạn có chắc không?</translation>
     </message>
 </context>
@@ -2610,17 +2610,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và làm hệ thống của bạn hoạt động không ổn định.
+        <translation>Có thể không có đủ bộ nhớ khả dụng để khởi chạy phiên bản này với cài đặt bộ nhớ hiện tại. 
 
 Bộ nhớ được phân bổ tối đa: %1 MiB
 Bộ nhớ trống: %2 MiB (trong tổng số %3 MiB)
 
-Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và làm hệ thống của bạn hoạt động không ổn định.</translation>
+Bạn vẫn muốn khởi chạy? Điều này có thể làm chậm game và làm hệ thống của bạn hoạt động không ổn định.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>Không đủ RAM để khởi động phiên bản này</translation>
+        <translation>Không đủ bộ nhớ để khởi chạy phiên bản này</translation>
     </message>
 </context>
 <context>
@@ -2632,7 +2632,7 @@ Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và l�
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="97"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Kiểm tra metadata của tài nguyên...</translation>
+        <translation>Đang kiểm tra xem liệu các tài nguyên có metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
@@ -2668,7 +2668,7 @@ Bạn vẫn muốn khởi chạy? Điều này có thể gây chậm game và l�
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Không thể chạy đối tượng này do một vài thư viện đang bị thiếu hoặc chưa được tải xuống. Hãy thử lại trong chế độ trực tuyến với một kết nối ổn định</translation>
+Không thể khởi chạy phiên bản này do một vài thư viện đang bị thiếu hoặc chưa được tải xuống. Vui lòng thử lại trong chế độ trực tuyến với một kết nối Internet ổn định</translation>
     </message>
 </context>
 <context>
@@ -2681,7 +2681,7 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>Đã có entitlements</translation>
+        <translation>Đã xác thực quyền sở hữu</translation>
     </message>
 </context>
 <context>
@@ -2689,7 +2689,7 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation>Hình thức</translation>
+        <translation>Bảng thiết lập</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
@@ -2713,17 +2713,17 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation>Ghi đè &amp; Cài đặt Toàn cục</translation>
+        <translation>Ghi đè &amp; Cài đặt toàn cục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Xoá</translation>
+        <translation>&amp;Gỡ bỏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation>%Xóa</translation>
+        <translation>%Xóa toàn bộ</translation>
     </message>
 </context>
 <context>
@@ -3086,7 +3086,7 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Xoá</translation>
+        <translation>&amp;Gỡ bỏ</translation>
     </message>
     <message>
         <source>Remove selected item</source>
@@ -3130,7 +3130,7 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove all selected items.</source>
-        <translation>Xóa bỏ mọi mục đã chọn.</translation>
+        <translation>Gỡ bỏ mọi mục đã chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
@@ -3263,7 +3263,7 @@ Không thể chạy đối tượng này do một vài thư viện đang bị th
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Bạn đang định xóa %1 thứ.
+        <translation>Bạn sắp sửa loại bỏ %1 mục.
 Nó sẽ bị xóa vĩnh viễn và biến mất khỏi thư mục này.
 
 Bạn có chắc không?</translation>
@@ -3274,10 +3274,10 @@ Bạn có chắc không?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Bạn chuẩn bị xóa thư mục &quot;%1&quot;.
+        <translation>Bạn sắp sửa gỡ bỏ thư mục &quot;%1&quot;.
 Nó sẽ bị xóa vĩnh viễn và biến mất khỏi thư mục mẹ.
 
-Bạn đã chắc chắn muốn xoá thư mục?</translation>
+Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
@@ -3293,7 +3293,7 @@ Bạn đã chắc chắn muốn xoá thư mục?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Nếu như bạn loại bỏ tài nguyên này khi trò chơi đang chạy nó có thể làm hỏng trò chơi của bạn.
+        <translation>Nếu bạn loại bỏ tài nguyên này trong khi trò chơi đang chạy nó có thể làm trò chơi của bạn bị sập.
 Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
@@ -3867,7 +3867,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Các dấu chấm bí ẩn đã xóa khỏi phiên bản Minecraft khi đang nhập gói.</translation>
+        <translation>Các dấu chấm lửng bí ẩn ở cuối đã bị xóa khỏi phiên bản Minecraft khi đang nhập gói.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
@@ -3882,7 +3882,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Không thể xóa các tập tin cũ gây xung đột.</translation>
+        <translation>Không thể loại bỏ các tập tin cũ gây xung đột.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4661,22 +4661,24 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>v%1 có tiền sử xung đột với %2, vốn đang được bật trên phiên bản này. Việc cả hai được bật cùng lúc rất có thể sẽ làm hỏng phiên bản.
+
+Bạn muốn làm gì với %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Giữ lại nó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt nó đi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ cài đặt nó</translation>
     </message>
 </context>
 <context>
@@ -4751,7 +4753,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Không thể xóa các tệp tin xung đột cũ.</translation>
+        <translation>Không thể loại bỏ các tệp tin cũ gây xung đột.</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -5266,7 +5268,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Không thể tải xuống tệp trò chơi: %1</translation>
+        <translation>Không thể tải xuống các tệp trò chơi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
@@ -5712,7 +5714,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Bạn sắp xóa cài đặt Java tên &quot;%1&quot;.
+        <translation>Bạn sắp sửa gỡ bỏ bản cài đặt Java có tên &quot;%1&quot;.
 Bạn có chắc không?</translation>
     </message>
 </context>
@@ -5928,7 +5930,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Cảnh báo khi không có đủ bộ nhớ khả dụng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -6191,26 +6193,30 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang chạy %1 lệnh: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh %1 trống, đang bỏ qua.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh %1 đã thất bại với lỗi %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh %1 đã khởi chạy thành công.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6389,7 +6395,7 @@ Bạn có muốn chơi bản demo không?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt bộ phân tích hiệu năng trong lần khởi chạy tới</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -9384,7 +9390,7 @@ Hãy đảm bảo rằng bạn tin tưởng cái URL
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải trước</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
