@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>ডিফল্ট মোড</translation>
+        <translation>ডিফল্ট ব্যবহার করুন</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>দ্রষ্টব্য: পেস্ট সার্ভিস পরিবর্তন করার পরে আপনি সম্ভবত বেস ইউআরএল (URL) পরিবর্তন বা ক্লিয়ার করতে চান।</translation>
+        <translation>দ্রষ্টব্য: পেস্ট সার্ভিস পাল্টানোর পর আপনি সম্ভবত বেস ইউআরএল (URL) পাল্টাতে বা ক্লিয়ার করতে চান।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>এস্সেটস সার্ভার</translation>
+        <translation>এস্সেটসের সার্ভার</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
