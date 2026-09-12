@@ -2098,7 +2098,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;事前ロードコマンド</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2113,7 +2113,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;事前ロードコマンドは、要素のメタデータが読み込まれる前に実行され、要素が起動する前と終了した後に post-exit コマンドが実行されます。&lt;/p&gt;&lt;p&gt;これらはすべてランチャーの動作するフォルダ内で追加の環境変数とともに動作します。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 要素の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 要素のID(フォルダ名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 要素の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用されるJavaバイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS -起動に使用されるコマンドラインパラメータ(警告:引数がスペースを含む場合正しく動作しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラッパーコマンドを使用すると、追加のラッパープログラムを介して起動することができます。(Linuxの&apos;optirun&apos;のようなものです)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3327,12 +3327,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 インストール済, %2 有効, %3 選択済)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 インストール済, %2 有効)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3823,12 +3823,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>タスクが中断されたため、古いファイルを取得することができません。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>タスクが中断されたため、古いファイルを取得することができません: %1。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="277"/>
@@ -3885,12 +3885,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="786"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">古い競合ファイルを削除中…</translation>
+        <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="803"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">古い競合ファイルの削除に失敗しました。</translation>
+        <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4657,7 +4657,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>セカンダリ&#x3000;ローダーをインストール中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
