@@ -1893,17 +1893,17 @@ o alasa sin.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>kule namako ni li nasa li ken ala.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>open ante pi namako li pakala</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>lawa %1 pi nasin nasa la, ante pona li pakala</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
