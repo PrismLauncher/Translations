@@ -15000,7 +15000,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的粘贴类型</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -15092,7 +15092,7 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="65"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">无法打开 %1 文件进行读取：%2</translation>
+        <translation>无法打开 %1 文件进行读取：%2</translation>
     </message>
 </context>
 <context>
