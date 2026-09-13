@@ -3008,32 +3008,32 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Uirlisí Domhanda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uirlisí saincheaptha ar féidir iad a sheoladh ar shaolta ón roghchlár &apos;Worlds&apos; san institiúid. Tacaíonn an t-ordú leis an sealbhóir áite ${WORLD_PATH}.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">Cuir le</translation>
+        <translation>&amp;Cuir leis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Bain</translation>
+        <translation>&amp;Bain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Ainm</translation>
+        <translation>Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordú</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3081,27 +3081,27 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comhaid Inrite (*.exe *.bat);;Gach Comhad (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gach Comhad (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an comhad inrite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordú neamhbhailí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní comhad inrite é an comhad roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -14072,7 +14072,7 @@ Leagan suiteáilte faoi láthair: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <source>&amp;Name</source>
-        <translation>Ainm</translation>
+        <translation>&amp;Ainm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
@@ -15932,12 +15932,12 @@ Cosán Canónach: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished">Uirlisí</translation>
+        <translation>Uirlisí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rith uirlis sheachtrach ar an saol roghnaithe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
@@ -16034,33 +16034,34 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Gan uirlisí breise</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail Socruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordú neamhbhailí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá ordú na huirlise folamh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an uirlis tosú!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an uirlis a thosú.
+Earráid: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
