@@ -2135,7 +2135,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>%Yükleme-öncesi Komutu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2150,7 +2150,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yükleme-öncesi komutları profil metaverisi başlamadan önce çalışır, yükleme-öncesi komutu profil çalışmaya başlamadan önce çalışır ve çıkış-sonrası komutlar çıkıştan sonra çalışır.&lt;/p&gt;&lt;p&gt;Şunların hepsi başlatıcıda çalışan klasör içinde ekstra çevre değişkenlerliyle çalışır:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Profilin adı&lt;/li&gt;&lt;li&gt;$INST_ID Profilin IDsi (profilin klasör adı)&lt;/li&gt;&lt;li&gt;$INST_DIR profilin bilgisayarda nerde olduğu&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ın bilgisayarda nerde olduğu&lt;/li&gt;&lt;li&gt;$INST_JAVA - Çalışırken kullanılar Java binarysi&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Çalışırken kullanılan komut-satırı parametreleri (dikkat: argümanda boşluk varsa düzgün çalışmayacaktır)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; Sarmalayıcı komut ekstra sarmalayıcı programın çalışmasına izin verir (Linux&apos;daki &apos;optirun&apos; gibi)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3368,12 +3368,12 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 yüklendi, %2 aktif, %3 seçildi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 yüklendi, %2 aktif)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3422,32 +3422,32 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünya araçları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil Dünyaları menüsünden çalıştırılabilir özel araçlar. Komut ${WORLD_PATH} yer tutucusunu destekler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Ekle</translation>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Kaldır</translation>
+        <translation>&amp;Kaldır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>İsim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3495,27 +3495,27 @@ Bunu yapmak istediğinize emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Executable (*.exe, *.bat);;Tüm Dosyalar (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm dosyalar (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Executable Seç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz komut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen dosya çalıştırılabilir (executable) değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -4803,7 +4803,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation>%1 ve bu profilde etkinleştirilmiş olan %2 çakışıyor. Her ikisinin de aynı anda etkinleştirilmesi, profilin çalışmaz hale gelmesine neden olabilir.
+        <translation>%1 ile bu profilde etkin olan %2 birbiri ile çakışıyor. İkisini de açmak büyük ihtimalle profili bozacaktır.
 
 %2 ile ne yapmak istersiniz?</translation>
     </message>
@@ -6100,7 +6100,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeterli boş hafıza olmayınca uyar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -6363,26 +6363,30 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Çalıştırılıyor, Komut: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komutu boş, es geçiliyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komutu %2 koduyla hata verdi
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komutu başarıyla çalıştırıldı.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6561,7 +6565,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili sonraki çalıştırmamda devre dışı bırak</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -9810,17 +9814,17 @@ URL&apos;ye güvendiğinizden emin olun.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükleme-öncesi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalıştırma-öncesi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalıştırma-sonrası</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -10429,17 +10433,17 @@ Büyük olasılıkla yolu değiştirmeniz gerekecektir - lütfen modun web sites
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Her zaman en güncel minecraft versiyonunu kullan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Yayım</translation>
+        <translation>Sürüm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhangi birisi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10837,7 +10841,7 @@ Büyük olasılıkla yolu değiştirmeniz gerekecektir - lütfen modun web sites
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished">Telemetri (vazgeçme seçeneği)</translation>
+        <translation>Telemetri (vazgeçme seçeneği)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
@@ -12255,41 +12259,41 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/net/Request.cpp" line="122"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 isteniyor</translation>
+        <translation>%1 isteniyor</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="214"/>
         <source>unknown</source>
-        <translation type="unfinished">bilinmeyen</translation>
+        <translation>bilinmeyen</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="216"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1/s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="219"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="338"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Çok fazla yönlendirme</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="353"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>İstek oranı %n saniye boyunca sınırlandırıldı: %1 sonra tekrar deneyin</numerusform>
         </translation>
     </message>
@@ -12297,8 +12301,8 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <location filename="src/launcher/net/Request.cpp" line="358"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>Hız Sınırlı: %n saniye bekleniyor</numerusform>
+        <translation>
+            <numerusform>Hız Sınırlandırıldı: %n saniye bekleniyor</numerusform>
         </translation>
     </message>
 </context>
@@ -14970,7 +14974,7 @@ Hata mesajı: %3</translation>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinmiyen yapıştırma türü</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -15056,13 +15060,13 @@ Hata mesajı: %3</translation>
     <message>
         <location filename="src/launcher/net/RPCSink.h" line="53"/>
         <source>Unknown error while parsing RPC response</source>
-        <translation type="unfinished"></translation>
+        <translation>RPC cevabını parse ederken bilinmeyen hata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="65"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">%1 dosyası okuma için açılamadı: %2</translation>
+        <translation>%1 dosyası okuma için açılamadı: %2</translation>
     </message>
 </context>
 <context>
@@ -15382,7 +15386,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="71"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [seçildi]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="442"/>
@@ -15944,7 +15948,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="198"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut olmayan modları devre dışı bırak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="237"/>
@@ -18693,12 +18697,12 @@ Kanonik Yol: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Araçlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen dünyada harici araç kullan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
@@ -18821,33 +18825,34 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiçbir Araç eklenmedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarları Aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz komut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç komutu boş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç başlatılamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç başlatılamadı
+Hata:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
