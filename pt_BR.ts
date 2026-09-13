@@ -2142,7 +2142,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Comandos de Pr&amp;é-Carregamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
