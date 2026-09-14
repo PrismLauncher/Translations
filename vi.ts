@@ -9347,7 +9347,7 @@ Hãy đảm bảo rằng bạn tin tưởng cái URL
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="115"/>
         <source>Loading local file</source>
         <translation>Đang tải tệp cục bộ</translation>
     </message>
@@ -11677,40 +11677,40 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="122"/>
+        <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
         <translation>Đang yêu cầu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="208"/>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="214"/>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
         <translation>chưa xác định</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="216"/>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="219"/>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="338"/>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
         <translation>Chuyển hướng quá nhiều lần</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="353"/>
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
@@ -11718,7 +11718,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="358"/>
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
@@ -13727,7 +13727,7 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
         <translation>Không thể tìm thấy thư viện của trình kiểm tra Java. Vui lòng kiểm tra cài đặt của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="151"/>
         <source>Download of meta file %1</source>
         <translation>Tải xuống tệp meta %1</translation>
     </message>
@@ -14427,7 +14427,7 @@ Tin nhắn báo lỗi: %3</translation>
         <translation>các gói kết cấu</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/RPCSink.h" line="53"/>
+        <location filename="src/launcher/net/RPCSink.h" line="54"/>
         <source>Unknown error while parsing RPC response</source>
         <translation>Lỗi không xác định khi đang phân tích phản hồi RPC</translation>
     </message>

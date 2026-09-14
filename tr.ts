@@ -9716,7 +9716,7 @@ URL&apos;ye güvendiğinizden emin olun.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="115"/>
         <source>Loading local file</source>
         <translation>Yerel dosya yükleniyor</translation>
     </message>
@@ -12257,40 +12257,40 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="122"/>
+        <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
         <translation>%1 isteniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="208"/>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1/%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="214"/>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
         <translation>bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="216"/>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1/s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="219"/>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="338"/>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
         <translation>Çok fazla yönlendirme</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="353"/>
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
@@ -12298,7 +12298,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="358"/>
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
@@ -14334,7 +14334,7 @@ Bu mesaj, ilgili argümanı JVM argümanlarından kaldırana kadar gösterilecek
         <translation>Java denetleyici kütüphanesi bulunamadı. Lütfen kurulumunuzu kontrol edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="151"/>
         <source>Download of meta file %1</source>
         <translation>Meta dosyası indiriliyor: %1</translation>
     </message>
@@ -15058,7 +15058,7 @@ Hata mesajı: %3</translation>
         <translation>doku paketleri</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/RPCSink.h" line="53"/>
+        <location filename="src/launcher/net/RPCSink.h" line="54"/>
         <source>Unknown error while parsing RPC response</source>
         <translation>RPC cevabını parse ederken bilinmeyen hata</translation>
     </message>

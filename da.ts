@@ -9201,7 +9201,7 @@ Make sure you also trust the URL.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="115"/>
         <source>Loading local file</source>
         <translation>Indlæser lokal fil</translation>
     </message>
@@ -11529,40 +11529,40 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="122"/>
+        <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
         <translation type="unfinished">Anmoder %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="208"/>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation type="unfinished">%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="214"/>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
         <translation type="unfinished">Ukendt</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="216"/>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation type="unfinished">%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="219"/>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation type="unfinished">0 B/s</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="338"/>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="353"/>
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -11571,7 +11571,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="358"/>
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -13467,7 +13467,7 @@ Denne meddelelse vil blive vist indtil du fjerner denne fra JVM argumenterne.</t
         <translation>Java checker-bibliotek kunne ikke findes. Kontroller venligst din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="151"/>
         <source>Download of meta file %1</source>
         <translation>Hentning af metafil %1</translation>
     </message>
@@ -14171,7 +14171,7 @@ Fejlmeddelelse: %3</translation>
         <translation type="unfinished">texture packs</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/RPCSink.h" line="53"/>
+        <location filename="src/launcher/net/RPCSink.h" line="54"/>
         <source>Unknown error while parsing RPC response</source>
         <translation type="unfinished"></translation>
     </message>

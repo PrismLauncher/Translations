@@ -9789,7 +9789,7 @@ Certifique-se também de confiar no URL.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="115"/>
         <source>Loading local file</source>
         <translation>Carregando arquivo local</translation>
     </message>
@@ -12384,40 +12384,40 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="122"/>
+        <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
         <translation>Solicitando %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="208"/>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="214"/>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
         <translation>desconhecido</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="216"/>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="219"/>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="338"/>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
         <translation>Muitos redirecionamentos</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="353"/>
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
@@ -12426,7 +12426,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="358"/>
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
@@ -14468,7 +14468,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>Não foi possível achar o verificador de Java. Verifique a sua instalação.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="151"/>
         <source>Download of meta file %1</source>
         <translation>Download do arquivo meta %1</translation>
     </message>
@@ -15199,7 +15199,7 @@ Mensagem de erro: %3</translation>
         <translation>Pacotes de Texturas</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/RPCSink.h" line="53"/>
+        <location filename="src/launcher/net/RPCSink.h" line="54"/>
         <source>Unknown error while parsing RPC response</source>
         <translation>Erro desconhecido ao analisar a resposta RPC</translation>
     </message>

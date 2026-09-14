@@ -9676,7 +9676,7 @@ Győződj meg róla, hogy az URL megbízható.
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="124"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="115"/>
         <source>Loading local file</source>
         <translation>Helyi fájl betöltése</translation>
     </message>
@@ -12225,40 +12225,40 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>Net::Request</name>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="122"/>
+        <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
         <translation type="unfinished">%1 kérése</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="208"/>
+        <location filename="src/launcher/net/Request.cpp" line="207"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation type="unfinished">%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="214"/>
+        <location filename="src/launcher/net/Request.cpp" line="213"/>
         <source>unknown</source>
         <translation type="unfinished">ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="216"/>
+        <location filename="src/launcher/net/Request.cpp" line="215"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation type="unfinished">%1/mp. (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="219"/>
+        <location filename="src/launcher/net/Request.cpp" line="218"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation type="unfinished">0 B/mp.</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/Request.cpp" line="338"/>
+        <location filename="src/launcher/net/Request.cpp" line="337"/>
         <source>Too many redirects</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="353"/>
+        <location filename="src/launcher/net/Request.cpp" line="352"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -12266,7 +12266,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/net/Request.cpp" line="358"/>
+        <location filename="src/launcher/net/Request.cpp" line="357"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation type="unfinished">
@@ -14298,7 +14298,7 @@ Ez az üzenet addig lesz megjelenítve, amíg el nem távolítod ezt a JVM-argum
         <translation>Java ellenőrző könyvtár nem található, ellenőrizd a telepítést.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="160"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="151"/>
         <source>Download of meta file %1</source>
         <translation>A(z) %1 metaadat letöltése</translation>
     </message>
@@ -15022,7 +15022,7 @@ Hibaüzenet: %3</translation>
         <translation>textúracsomagok</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/RPCSink.h" line="53"/>
+        <location filename="src/launcher/net/RPCSink.h" line="54"/>
         <source>Unknown error while parsing RPC response</source>
         <translation type="unfinished"></translation>
     </message>
