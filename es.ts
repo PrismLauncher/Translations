@@ -4729,12 +4729,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
 <context>
     <name>InfoFrame</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
         <translation>Licencia: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
         <translation>Informar de los problemas a: </translation>
     </message>
@@ -9850,27 +9850,27 @@ Asegúrate también de que la URL es de confianza.
         <translation>&amp;No Perfiladores</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID DE SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1174"/>
         <source>Pre-Load</source>
         <translation>Pre-Carga</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1195"/>
         <source>Pre-Launch</source>
         <translation>Pre-Lanzamiento</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1251"/>
         <source>Post-Launch</source>
         <translation>Post-Lanzamiento</translation>
     </message>
@@ -9879,22 +9879,22 @@ Asegúrate también de que la URL es de confianza.
         <translation type="vanished">&lt;TOKEN DE CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1055"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DEL PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, last played on %1 for %2</source>
         <translation>, jugado por última vez el %1 por %2</translation>
     </message>
@@ -9907,12 +9907,12 @@ Asegúrate también de que la URL es de confianza.
         <translation type="vanished">, la última vez se jugó por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1110"/>
         <source>, total played for %1</source>
         <translation>, se ha jugado un total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, has crashed.</source>
         <translation>, se ha cerrado de forma inesperada.</translation>
     </message>
@@ -10920,7 +10920,6 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>

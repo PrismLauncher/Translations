@@ -4758,12 +4758,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InfoFrame</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
         <translation>Лицензия: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
         <translation>Сообщайте о проблемах на: </translation>
     </message>
@@ -9905,27 +9905,27 @@ Make sure you also trust the URL.
         <translation>&amp;Без профилировщика</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1174"/>
         <source>Pre-Load</source>
         <translation>Предзагрузочная</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1195"/>
         <source>Pre-Launch</source>
         <translation>Предстартовая</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1251"/>
         <source>Post-Launch</source>
         <translation>Постстартовая</translation>
     </message>
@@ -9934,22 +9934,22 @@ Make sure you also trust the URL.
         <translation type="vanished">&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1055"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>broken</source>
         <translation>повреждён</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, last played on %1 for %2</source>
         <translation>, в последний раз играли %1 в течение %2</translation>
     </message>
@@ -9962,12 +9962,12 @@ Make sure you also trust the URL.
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1110"/>
         <source>, total played for %1</source>
         <translation>, общее время игры %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, has crashed.</source>
         <translation>, аварийное завершение.</translation>
     </message>
@@ -10975,7 +10975,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>

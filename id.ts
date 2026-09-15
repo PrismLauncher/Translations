@@ -4622,12 +4622,12 @@ Coba ulang lagi.</translation>
 <context>
     <name>InfoFrame</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
         <translation>Lisensi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
         <translation>Laporkan masalah ke: </translation>
     </message>
@@ -9444,27 +9444,27 @@ Pastikan Anda juga mempercayai URL tersebut.
         <translation>Tidak Ada Pemrofil (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1174"/>
         <source>Pre-Load</source>
         <translation>Pra-pemuatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1195"/>
         <source>Pre-Launch</source>
         <translation>Pra-peluncuran</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1251"/>
         <source>Post-Launch</source>
         <translation>Pasca-peluncuran</translation>
     </message>
@@ -9473,22 +9473,22 @@ Pastikan Anda juga mempercayai URL tersebut.
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1055"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>broken</source>
         <translation>rusak</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, last played on %1 for %2</source>
         <translation>, terakhir dimainkan %1 selama %2</translation>
     </message>
@@ -9501,12 +9501,12 @@ Pastikan Anda juga mempercayai URL tersebut.
         <translation type="vanished">, terakhir dimain untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1110"/>
         <source>, total played for %1</source>
         <translation>, total waktu bermain %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, has crashed.</source>
         <translation>, telah crash.</translation>
     </message>
@@ -10465,7 +10465,6 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>Folder</translation>
     </message>
