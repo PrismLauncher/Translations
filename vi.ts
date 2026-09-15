@@ -2118,7 +2118,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation>&amp;Lệnh được tải trước</translation>
+        <translation>&amp;Lệnh tải trước</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2133,7 +2133,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh được tải trước sẽ hoạt động trước khi metadata của phiên bản được tải, lệnh tiền khởi chạy hoạt động ngay trước khi khởi động game và lệnh hậu thoát hoạt động sau khi game đóng hẳn.&lt;/p&gt;&lt;p&gt;Tất cả lệnh trên đều sẽ được chạy trong thư mục làm việc của trình khởi chạy cùng với các biến môi trường bổ sung sau:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của phiên bản&lt;/li&gt;&lt;li&gt;$INST_ID - ID của phiên bản (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - Đường dẫn tuyệt đối đến phiên bản&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Đường dẫn tuyệt đối đến thư mục Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Tệp thực thi Java được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Các tham số dòng lệnh được dùng để khởi chạy (cảnh báo: sẽ không hoạt động chính xác nếu tham số chứa khoảng trống)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh bao bọc cho phép khởi chạy game thông qua một chương trình bổ sung bên ngoài (ví dụ như &apos;optirun&apos; trên hệ điều hành Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh được tải trước sẽ hoạt động trước khi metadata của phiên bản được tải, lệnh tiền khởi chạy (pre-load command) hoạt động ngay trước khi khởi động game và lệnh hậu thoát (post-exit command) hoạt động sau khi game đóng hẳn.&lt;/p&gt;&lt;p&gt;Tất cả lệnh trên đều sẽ được chạy trong thư mục làm việc của trình khởi chạy cùng với các biến môi trường bổ sung sau:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của phiên bản&lt;/li&gt;&lt;li&gt;$INST_ID - ID của phiên bản (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - Đường dẫn tuyệt đối đến phiên bản&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Đường dẫn tuyệt đối đến thư mục Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Tệp thực thi Java được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Các tham số dòng lệnh được dùng để khởi chạy (cảnh báo: sẽ không hoạt động chính xác nếu tham số chứa khoảng trống)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh bao bọc (wrapper command) cho phép khởi chạy game thông qua một chương trình bổ sung bên ngoài (ví dụ như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3353,32 +3353,32 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Công cụ thế giới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Các công cụ tùy chỉnh có thể chạy cho thế giới từ menu Thế giới của phiên bản. Lệnh có hỗ trợ sử dụng biến giữ chỗ ${WORLD_PATH}.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Thêm</translation>
+        <translation>&amp;Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Loại bỏ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Tên</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Câu lệnh</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3426,27 +3426,27 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp thực thi (*.exe *.bat);;Tất cả tệp tin (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tất cả tệp tin (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn tệp thực thi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Câu lệnh không hợp lệ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể thực thi tệp được chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -17943,12 +17943,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished">Công cụ</translation>
+        <translation>Công cụ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi chạy một công cụ bên ngoài cho thế giới được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
@@ -18071,33 +18071,34 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Chưa có công cụ nào được thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở cài đặt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Câu lệnh không hợp lệ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lệnh của công cụ đang trống.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Công cụ đã gặp lỗi khi khởi động!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể khởi động công cụ.
+Lỗi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
