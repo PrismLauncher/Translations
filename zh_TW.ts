@@ -12442,12 +12442,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>未能停止所有 NetJob 的工作！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在執行 %1 項工作（已完成 %2 項，共 %3 項）</translation>
     </message>

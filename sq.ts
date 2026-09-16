@@ -8733,12 +8733,12 @@ Ju lutem përditësoni %1!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Dështoi ndërprerja e të gjitha detyrave në NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Duke ekzekutuar %1 detyrë(a) (%2 nga %3 janë kryer)</translation>
     </message>

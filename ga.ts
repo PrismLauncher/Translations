@@ -10316,12 +10316,12 @@ Nuashonraigh %1 le do thoil!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Theip ar gach tasc sa NetJob a chur ar ceal!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Ag cur %1 tasc(anna) i gcrích (tá %2 as %3 críochnaithe)</translation>
     </message>
