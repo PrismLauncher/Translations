@@ -8271,6 +8271,20 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
         <translation>Theip ar an sampla a nuashonrú go leagan %1 den phacáiste. Seiceáil logaí an lainseálaí le haghaidh tuilleadh eolais.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="458"/>
+        <source>Confirm Update</source>
+        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="459"/>
+        <source>You are about to update the modpack to version &quot;%1&quot;.
+Irreversible changes may be made to the instance&apos;s files.
+As such, it is strongly recommended to create a backup copy of the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pack information</source>
         <translation type="vanished">Faisnéis faoin bpacáiste</translation>
     </message>
@@ -9572,10 +9586,10 @@ Ar mhaith leat iad a dhíchumasú?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Earráid</translation>
     </message>
@@ -9588,30 +9602,30 @@ Ar mhaith leat iad a dhíchumasú?</translation>
         <translation>Stopadh an íoslódáil ag an úsáideoir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
         <source>Warnings</source>
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="281"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Níl nuashonruithe mod ar fáil nuair a bhíonn meiteashonraí díchumasaithe!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
         <source>Confirm Update</source>
         <translation>Deimhnigh Nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -9627,44 +9641,56 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
         <translation>Cuireadh deireadh leis an nuashonraitheoir mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="258"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Tá na modanna roghnaithe go léir cothrom le dáta! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
         <source>Update checker</source>
         <translation>Seiceálaí nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="296"/>
         <source>Confirm Removal</source>
         <translation>Deimhnigh Baint</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="297"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Tá tú ar tí na meiteashonraí a bhaint do %1 mod. 
 An bhfuil tú cinnte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <source>Confirm Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="408"/>
         <source>Missing Mod Loader</source>
         <translation>Luchtaire Mod ar Iarraidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="409"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Ní mór duit luchtóir mod comhoiriúnach a shuiteáil sula suiteálann tú mods. Ar mhaith leat é sin a dhéanamh?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="424"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation>Níor suiteáladh luchtóir mod. Déan iarracht arís.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="253"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>Tá &apos;%1&apos; cothrom le dáta! :)</translation>
     </message>
@@ -9685,7 +9711,7 @@ An bhfuil tú cinnte?</translation>
         <translation>Féach ar leathanaigh bhaile na modanna roghnaithe go léir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Tá na modanna go léir cothrom le dáta! :)</translation>
