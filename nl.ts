@@ -2104,7 +2104,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;De pre-load-opdracht wordt uitgevoerd voordat de metagegevens van de instantie worden geladen. De pre-launch-opdracht wordt uitgevoerd voordat de instantie wordt gestart en de post-exit-opdracht wordt uitgevoerd nadat de instantie is afgesloten.&lt;/p&gt;&lt;p&gt;Ze worden allemaal uitgevoerd in de werkmap van de launcher, met extra omgevingsvariabelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Naam van de instantie&lt;/li&gt;&lt;li&gt;$INST_ID - ID van de instantie (de mapnaam ervan)&lt;/li&gt;&lt;li&gt;$INST_DIR - absoluut pad van de instantie&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absoluut pad van Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary die wordt gebruikt voor het starten&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - opdrachtregelparameters die worden gebruikt voor het starten (waarschuwing: werkt niet correct als de argumenten spaties bevatten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Met de wrapper-opdracht kan worden opgestart met behulp van een extra wrapper-programma (zoals &apos;optirun&apos; op Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3368,7 +3368,7 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Wereld-gereedschap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
@@ -3378,22 +3378,22 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Toevoegen</translation>
+        <translation>&amp;Toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Ve&amp;rwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdracht</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -11760,7 +11760,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="568"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Verwijderen van oude conflicterende bestanden is mislukt.</translation>
+        <translation>Het verwijderen van oude conflicterende bestanden is mislukt.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -18484,7 +18484,7 @@ Canoniek Pad: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished">Gereedschappen</translation>
+        <translation>Gereedschap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
