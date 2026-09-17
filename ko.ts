@@ -2130,7 +2130,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>로드 전 명령어(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -3427,22 +3427,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>추가(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>제거(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>명령</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
