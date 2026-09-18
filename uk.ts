@@ -2372,36 +2372,36 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>DataPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download Packs</source>
         <translation>Завантажити пакети</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="33"/>
         <source>Download data packs from online mod platforms</source>
         <translation>Завантажити пакети даних з онлайн-платформ модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="39"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
         <translation>Спробувати перевірити або оновити всі вибрані пакети даних (або всі пакети даних, якщо жодного не вибрано)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="53"/>
         <source>Change a data pack&apos;s version.</source>
         <translation>Зміни версію пакета даних.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="78"/>
         <source>Download Data Packs</source>
         <translation>Завантажити пакети даних</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -2415,21 +2415,21 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="161"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="227"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="97"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="236"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="202"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>Оновлення пакета даних недоступно, коли метадані вимкнені!</translation>
     </message>
@@ -2472,12 +2472,12 @@ Are you sure you want to do this?</source>
         <translation>Перевірка оновлень</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="184"/>
         <source>Confirm Removal</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Ви збираєтеся видалити метадані для %1 пакетів даних.
@@ -3300,13 +3300,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="207"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Обрати %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -3317,7 +3317,7 @@ Are you sure?</source>
 Продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="242"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -3328,29 +3328,29 @@ Are you sure?</source>
 Продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
         <source>Confirm Removal</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="263"/>
         <source>Confirm Delete</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="264"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Видалення ресурсів запущеної гри може призвести до її аварійного завершення.
 Продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="344"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
         <translation> (%1 встановлено, %2 увімкнено, %3 вибрано)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed, %2 enabled)</source>
         <translation> (%1 встановлено, %2 увімкнено)</translation>
     </message>
@@ -3369,7 +3369,7 @@ Are you sure you want to do this?</source>
         <translation> (%1 встановлено, %2 обрано)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="350"/>
         <source> (%1 installed)</source>
         <translation> (%1 встановлено)</translation>
     </message>
@@ -8882,7 +8882,7 @@ Reason:
         <translation type="vanished">Ви&amp;далити збірку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="252"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -9010,14 +9010,14 @@ Reason:
         <translation type="vanished"> на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="443"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
         <source>No instance selected</source>
         <translation>Не обрана збірка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
         <source>Total playtime: 0s</source>
         <translation>Загальний час гри: 0 с</translation>
     </message>
@@ -9026,13 +9026,13 @@ Reason:
         <translation type="vanished">Профілі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>Створити &amp;збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Видалити групу</translation>
@@ -9067,7 +9067,7 @@ Reason:
         <translation>Облікових записів не додано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -9082,17 +9082,17 @@ Reason:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="797"/>
         <source>Loading news...</source>
         <translation>Завантаження новин...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
         <source>No news available.</source>
         <translation>Немає новин.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
@@ -9105,9 +9105,9 @@ Reason:
         <translation>Процес було перервано користувачем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
@@ -9120,28 +9120,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Будь ласка, додайте свою обліковий запис Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Збірка, мод, чи ресурс %1 заблоковано для третіх-сторін! Будь ласка завантажте її вручну.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
         <source>Modpack download</source>
         <translation>Завантаження збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
         <source>Group name</source>
         <translation>Назва групи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>Enter a new group name.</source>
         <translation>Введіть нову назву групи.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1279"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Delete group</source>
         <translation>Видалити групу</translation>
     </message>
@@ -9150,39 +9150,39 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="vanished">Ви впевнені, що бажаєте видалити групу %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1407"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1396"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Instance not editable</source>
         <translation>Збірка не підлягає редагуванню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1397"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Цю збірку не можна змінювати. Вона може бути несправною, недійсною або занадто старою. Перевірте звіти для докладнішої інформації.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1461"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Успішно додано %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1462"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1451"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 було успішно додано до вашого PATH. Тепер ви можете запустити його, виконавши `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1465"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Не вдалося додати %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1466"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Виникла помилка при спробі додати %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
         <source>Confirm Deletion</source>
         <translation>Підтвердити видалення</translation>
     </message>
@@ -9279,27 +9279,27 @@ Are you sure?</source>
         <translation type="vanished">Лаунчер діє як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Перейменувати групу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1064"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Недійсне посилання для імпорту: відсутній параметр «url».</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Недійсне посилання для імпорту: URL-адреса має бути http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1082"/>
         <source>Install modpack</source>
         <translation>Встановити збірку модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1094"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1083"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9312,56 +9312,56 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1141"/>
         <source>No instance!</source>
         <translation>Немає збірки!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1142"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Немає доступної збірки для додавання ресурсу.
 Будь ласка, створіть нову збірку перед спробою встановити цей ресурс знову.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1279"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Ви дійсно хочете видалити групу «%1»?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>Rename group</source>
         <translation>Перейменувати групу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Cannot rename group</source>
         <translation>Не вдається перейменувати групу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Cannot set empty name.</source>
         <translation>Неможливо задати порожнє ім&apos;я.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Group already exists. :/</source>
         <translation>Група вже існує. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>Failed to undo trashing instance</source>
         <translation>Не вдалося скасувати видалення збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Деякі збірки та ярлики не вдалося відновити.
 Будь ласка, перевірте свій кошик, щоб відновити їх вручну.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1439"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9370,17 +9370,17 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Не Можна Видалити Запущену Збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Вибрана збірка наразі працює та її не можна видалити. Будь ласка, зупиніть збірку перед спробою її видалення.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> та його %n зареєстрованого ярлика</numerusform>
@@ -9389,7 +9389,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9400,7 +9400,7 @@ Are you sure?</source>
 Продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Deleting</source>
         <translation>Видалення</translation>
     </message>
@@ -9429,50 +9429,50 @@ Are you sure?</source>
         <translation type="vanished">Ярлик збірки успішно створено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Rename Instance</source>
         <translation>Перейменувати збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Ваша тека збірки містить символ &apos;!&apos;, і відомо, що це спричиняє проблеми з Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>У вас є два варіанти: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до іншої теки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Це проблема: &lt;br/&gt; - лаунчер, ймовірно, буде видалено операційною системою без попередження. &lt;br/&gt; - закрийте лаунчер зараз і розпакуйте його в справжнє місце, а не в тимчасову теку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1750"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Тека вашого екземпляра містить «Rar$» — це означає, що ви не розпакували архів лаунчера!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Тека вашої збірки перебуває в тимчасовій теці: &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1781"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
         <source>Total playtime: %1</source>
         <translation>Загальний час гри: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1118"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="991"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1064"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -9488,7 +9488,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="722"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="761"/>
         <source>Accounts</source>
         <translation>Облікові записи</translation>
     </message>
@@ -9738,62 +9738,62 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>&amp;Launch</source>
         <translation>За&amp;пустити</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Launch &amp;Offline</source>
         <translation>Запустити &amp;офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <source>Launch &amp;Demo</source>
         <translation>Запустити &amp;демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="322"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
         <source>Profilers</source>
         <translation>Профайлери</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="332"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="335"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Без профайлера</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕСІЇ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1051"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПУ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1176"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
         <translation>Перед завантаженням</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1197"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
         <translation>Перед запуском</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
         <translation>Після запуску</translation>
     </message>
@@ -9802,22 +9802,22 @@ Are you sure?</source>
         <translation type="vanished">&lt;КЛЮЧ КЛІЄНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФІЛЮ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>broken</source>
         <translation>пошкоджено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1100"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1105"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
         <source>, last played on %1 for %2</source>
         <translation>, остання сесія була запущена %1, і тривала %2</translation>
     </message>
@@ -9830,12 +9830,12 @@ Are you sure?</source>
         <translation type="vanished">, останній раз грав %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, total played for %1</source>
         <translation>; всього зіграно %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
         <source>, has crashed.</source>
         <translation>, зазнав краху.</translation>
     </message>
@@ -11195,7 +11195,7 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Завантажити моди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Download mods from online mod platforms</source>
         <translation>Завантажити моди з онлайн-платформ</translation>
     </message>
@@ -11217,12 +11217,12 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Додати локально завантажений файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
         <source>Check for Updates</source>
         <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>Спробувати знайти оновлення для обраних модів (для всіх модів якщо обраних немає)</translation>
@@ -11236,7 +11236,7 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Спробуйте перевірити наявність оновлень та залежності для всіх виділених модів(для всіх модів, якщо жоден не виділений)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
         <translation>Експортувати метадані мода у текст.</translation>
@@ -11274,23 +11274,23 @@ Ignoring them may break the game.</source>
         <translation type="vanished">Перейти на сторінки обраних модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>Confirm Delete</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Видалення модифікацій запущеної гри може призвести до її аварійного завершення.
 Ви дійсно хочете це зробити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="427"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -11307,30 +11307,30 @@ Are you sure you want to do this?</source>
         <translation>Завантаження припинене користувачем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
         <source>Abort</source>
         <translation>Відмінити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Оновлення модифікацій не є доступним, якщо вимкнено метадані!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>Confirm Update</source>
         <translation>Підтвердити оновлення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -11346,94 +11346,94 @@ Are you sure you want to do this?</oldsource>
         <translation>Оновлювання моду було скасовано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="259"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Усі обрані моди оновлені до найновішої версії! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
         <source>Update checker</source>
         <translation>Перевірка оновлень</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="297"/>
         <source>Confirm Removal</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Ви збираєтесь видалити метадані %1 модів.
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Confirm Change Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
         <source>Missing Mod Loader</source>
         <translation>Відсутній завантажувач модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation>Перед встановленням модів потрібно встановити сумісний завантажувач модів. Бажаєте це зробити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="427"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation>Завантажувач модів не встановлено. Спробуйте ще раз.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; актуальної версії! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
         <source>Download Mods</source>
         <translation>Завантажити моди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
         <source>Change a mod&apos;s version.</source>
         <translation>Змінити версію моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
         <source>View the homepages of all selected mods.</source>
         <translation>Переглянути головні сторінки всіх вибраних модів.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
         <source>Confirm Disable</source>
         <translation>Підтвердити вимкнення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="147"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
         <translation>Моди які ви пробуєте видалити потрібні %1 mods.
 Ви хочете їх вимкнути?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
         <translation>Наведені нижче моди залежать від модів, які ви хочете видалити:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Всі моди оновлені! :)</translation>
@@ -16137,7 +16137,7 @@ Are you sure?</source>
         <translation>Копіювати файл(и)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="65"/>
         <source>Screenshots</source>
         <translation>Знімки екрана</translation>
     </message>
@@ -16436,7 +16436,7 @@ Currently installed version: %1</source>
         <translation>Оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="63"/>
         <source>Servers</source>
         <translation>Сервери</translation>
     </message>
@@ -16446,12 +16446,12 @@ Currently installed version: %1</source>
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="740"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="733"/>
         <source>Confirm Removal</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="741"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="734"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -18115,34 +18115,34 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>Внести існуючі JSON-файли компонентів.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="193"/>
         <source>%1 possibly has issues.</source>
         <translation>%1, можливо, має проблеми.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="196"/>
         <source>%1 has issues!</source>
         <translation>%1 має проблеми!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>Error: </source>
         <translation>Помилка: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="210"/>
         <source>Warning: </source>
         <translation>Увага: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="285"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="403"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -18151,12 +18151,12 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>Не вдалося завантажити профіль збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
         <source>Confirm Removal</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -18167,27 +18167,27 @@ Are you sure?</source>
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Не вдалося видалити файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Select jar mods</source>
         <translation>Виберіть jar-моди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Minecraft.jar mods</source>
         <translation>Minecraft.jar моди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Minecraft.jar replacement</source>
         <translation>Заміна Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Java agents</source>
         <translation>Агенти Java</translation>
     </message>
@@ -18196,7 +18196,7 @@ Are you sure?</source>
         <translation type="vanished">Моди Minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Select jar</source>
         <translation>Виберіть jar</translation>
     </message>
@@ -18205,27 +18205,27 @@ Are you sure?</source>
         <translation type="vanished">Заміна Minecraft.jar (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select components</source>
         <translation>Оберіть компоненти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Components</source>
         <translation>Компоненти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Failed to import components</source>
         <translation>Не вдалось імпортувати компоненти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>Деякі компоненти не вдалось імпортувати. Для подробиць перегляньте звіти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select agents</source>
         <translation>Вибрати агенти</translation>
     </message>
@@ -18234,22 +18234,22 @@ Are you sure?</source>
         <translation type="vanished">Агенти Java (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="367"/>
         <source>Change %1 version</source>
         <translation>Змінити версію %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="369"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>На даний момент немає версій intermediary mappings.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Не вдалося завантажити чи інсталювати список версій intermediary mappings!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="404"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -18258,12 +18258,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Будь ласка, додайте обліковий запис Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="544"/>
         <source>Confirm Reversion</source>
         <translation>Підтвердити Скидання</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="557"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="545"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -18330,7 +18330,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <translation type="vanished">Не вдалося завантажити або скачати список версій LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="496"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Error updating instance</source>
         <translation>Помилка оновлення збірки</translation>
     </message>
@@ -18518,7 +18518,6 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="223"/>
         <source>Customize toolbar actions</source>
         <translation>Налаштування дій на панелі інструментів</translation>
     </message>
@@ -18696,12 +18695,12 @@ Canonical Path: %1</source>
         <translation type="vanished">Керування пакетами даних у світі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="56"/>
         <source>Worlds</source>
         <translation>Світи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="164"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
@@ -18748,34 +18747,34 @@ It may be necessary to reinstall it.</source>
 Можливо, його треба буде перевстановити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Select a Minecraft world zip</source>
         <translation>Вибрати zip-архів світу Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Minecraft World Zip File</source>
         <translation>Світ Minecraft Zip Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="455"/>
         <source>Copy World</source>
         <translation>Копіювати світ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="440"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Зміна світу під час гри є потенційно небезпечною.
 Точно бажаєте продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="215"/>
         <source>Confirm Deletion</source>
         <translation>Підтвердити Видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="216"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -18786,65 +18785,65 @@ Are you sure?</source>
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="253"/>
         <source>Manage Data Packs</source>
         <translation>Керувати пакетами даних</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="261"/>
         <source>Data packs for %1</source>
         <translation>Пакети даних для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>No Tools Added</source>
         <translation>Немає доданих інструментів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
         <source>Open Settings</source>
         <translation>Відкрити налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Invalid command</source>
         <translation>Невалідна команда</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>The tool command is empty.</source>
         <translation>Команда інструмента порожня.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="384"/>
         <source>Tool failed to start!</source>
         <translation>Помилка запуску інструменту!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="385"/>
         <source>The tool could not be started.
 Error: %1</source>
         <translation>Інструмент не вдалося запустити.
 Помилка: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
         <source>World name</source>
         <translation>Назва світу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="463"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введіть нове ім&apos;я для копії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="495"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
         <source>Rename World</source>
         <translation>Перейменувати Світ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
         <source>Enter a new world name.</source>
         <translation>Введіть нове ім&apos;я світу.</translation>
     </message>

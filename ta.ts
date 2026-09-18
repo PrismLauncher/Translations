@@ -2112,36 +2112,36 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>DataPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
         <source>Download Packs</source>
         <translation>பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="33"/>
         <source>Download data packs from online mod platforms</source>
         <translation>நிகழ்நிலை மோட் இயங்குதளங்களிலிருந்து தரவுப் பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="39"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து தரவுப் பொதிகளையும் சரிபார்க்க அல்லது புதுப்பிக்க முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படாவிட்டால் அனைத்து தரவுப் பொதிகளும்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="53"/>
         <source>Change a data pack&apos;s version.</source>
         <translation>டேட்டா பேக்கின் பதிப்பை மாற்றவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="78"/>
         <source>Download Data Packs</source>
         <translation>தரவு பொதிகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="80"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="110"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="156"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="223"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -2155,21 +2155,21 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="84"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="161"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="227"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="97"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="236"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="110"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="202"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது டேட்டா பேக் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
@@ -2212,12 +2212,12 @@ Are you sure you want to do this?</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="184"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="185"/>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>%1 தரவுப் பொதிகளுக்கான மெட்டாடேட்டாவை நீங்கள் அகற்ற உள்ளீர்கள். 
@@ -2855,13 +2855,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="207"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>%1 ஐத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -2872,7 +2872,7 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="242"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2883,29 +2883,29 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="263"/>
         <source>Confirm Delete</source>
         <translation>நீக்கு என்பதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="264"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>விளையாட்டு இயங்கும்போது இந்த வளத்தை நீங்கள் அகற்றினால், அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="351"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="344"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="348"/>
         <source> (%1 installed, %2 enabled)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2924,7 +2924,7 @@ Are you sure you want to do this?</source>
         <translation> ( %1 நிறுவப்பட்டது, %2 தேர்ந்தெடுக்கப்பட்டது)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="350"/>
         <source> (%1 installed)</source>
         <translation> (%1 நிறுவப்பட்டது)</translation>
     </message>
@@ -7630,7 +7630,7 @@ Reason:
         <translation>Ctrl+g</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="263"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="252"/>
         <source>Backspace</source>
         <translation>பேக்ச்பேச்</translation>
     </message>
@@ -7641,7 +7641,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="722"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="761"/>
         <source>Accounts</source>
         <translation>கணக்குகள்</translation>
     </message>
@@ -7711,25 +7711,25 @@ Reason:
         <translation type="vanished">தேர்ந்தெடுக்கப்பட்ட நிகழ்வைத் தொடங்க உங்கள் டெச்க்டாப்பில் குறுக்குவழியை உருவாக்குகிறது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="443"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
         <source>No instance selected</source>
         <translation>எந்த உதாரணமும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
         <source>Total playtime: 0s</source>
         <translation>மொத்த விளையாட்டு நேரம்: 0 கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp; உதாரணத்தை உருவாக்குங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp; குழுவை நீக்கு</translation>
@@ -7740,7 +7740,7 @@ Reason:
         <translation>கணக்குகள் எதுவும் சேர்க்கப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl%1</translation>
     </message>
@@ -7755,20 +7755,20 @@ Reason:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1118"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="991"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1064"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1107"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="866"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
@@ -7781,34 +7781,34 @@ Reason:
         <translation>பணி பயனரால் கைவிடப்பட்டுள்ளது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1030"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>மூன்றாம் தரப்பினருக்கு மோட்பேக், மோட் அல்லது வள %1 தடுக்கப்பட்டுள்ளது! தயவுசெய்து அதை கைமுறையாக பதிவிறக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1064"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1076"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1082"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1094"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1083"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -7817,64 +7817,64 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1101"/>
         <source>Modpack download</source>
         <translation>Modpack பதிவிறக்கம்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1141"/>
         <source>No instance!</source>
         <translation>சான்று இல்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1142"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>வளத்தைச் சேர்க்க எந்த உதாரணமும் கிடைக்கவில்லை. 
 இந்த வளத்தை மீண்டும் நிறுவ முயற்சிக்கும் முன் ஒரு புதிய நிகழ்வை உருவாக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
         <source>Group name</source>
         <translation>குழு பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>Enter a new group name.</source>
         <translation>புதிய குழு பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1279"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Delete group</source>
         <translation>குழுவை நீக்கு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>Failed to undo trashing instance</source>
         <translation>குப்பைத் தொட்டியை செயல்தவிர்க்கத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>சில நிகழ்வுகளையும் குறுக்குவழிகளையும் மீட்டெடுக்க முடியவில்லை. 
 அவற்றை கைமுறையாக மீட்டெடுக்க உங்கள் டிராச்பின் சரிபார்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1407"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1396"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Instance not editable</source>
         <translation>சான்று திருத்தக்கூடியது அல்ல</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1408"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1397"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>இந்த நிகழ்வு திருத்தக்கூடியது அல்ல. இது உடைக்கப்படலாம், செல்லாது அல்லது பழையதாக இருக்கலாம். விவரங்களுக்கு பதிவுகளை சரிபார்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1439"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -7883,37 +7883,37 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1461"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>Successfully added %1 to PATH</source>
         <translation>பாதையில் %1 ஐ வெற்றிகரமாகச் சேர்த்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1462"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1451"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 உங்கள் பாதையில் வெற்றிகரமாக சேர்க்கப்பட்டது. `%2` ஐ இயக்குவதன் மூலம் இப்போது அதைத் தொடங்கலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1465"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
         <source>Failed to add %1 to PATH</source>
         <translation>பாதையில் %1 ஐ சேர்க்கத் தவறிவிட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1466"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>பாதையில் %1 ஐ சேர்க்க முயற்சிக்கும்போது பிழை ஏற்பட்டது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>Cannot Delete Running Instance</source>
         <translation>இயங்கும் நிகழ்வை நீக்க முடியாது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1499"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வு தற்போது இயங்குகிறது மற்றும் நீக்க முடியாது. அதை நீக்க முயற்சிக்கும் முன் தயவுசெய்து நிறுத்தவும்.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழி</numerusform>
@@ -7921,7 +7921,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
         <source>Confirm Deletion</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
@@ -8009,37 +8009,37 @@ Do you wish to proceed?</source>
         <translation type="vanished">துவக்கி தவறாக கட்டமைக்கப்பட்ட பயன்பாடாக இயங்குகிறதா? ($ அபிமேச் சூழல் மாறி இல்லை)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>&amp;Rename group</source>
         <translation>&amp; குழு மறுபெயரிடுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1279"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1268"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; குழுவை நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>Rename group</source>
         <translation>குழு மறுபெயரிடுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Cannot rename group</source>
         <translation>குழுவை மறுபெயரிட முடியாது</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Cannot set empty name.</source>
         <translation>வெற்று பெயரை அமைக்க முடியாது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Group already exists. :/</source>
         <translation>குழு ஏற்கனவே உள்ளது. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8050,7 +8050,7 @@ Are you sure?</source>
 நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Deleting</source>
         <translation>நீக்குதல்</translation>
     </message>
@@ -8063,37 +8063,37 @@ Are you sure?</source>
         <translation type="vanished">உங்கள் மேடையில் ஆதரிக்கப்படவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>Rename Instance</source>
         <translation>உதாரணத்தை மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1747"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>உங்கள் நிகழ்வு கோப்புறையில் &apos;!&apos; இது சாவா பிரச்சினைகளை ஏற்படுத்தும் என்று அறியப்படுகிறது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>உங்களிடம் இப்போது இரண்டு விருப்பங்கள் உள்ளன: &lt;br/&gt; - அமைப்புகளில் நிகழ்வு கோப்புறையை மாற்றவும் &lt;br/&gt; - இந்த %1 இன் நிறுவலை வேறு கோப்புறைக்கு நகர்த்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>இது ஒரு சிக்கல்: &lt;br/&gt; - இயக்க முறைமையின் எச்சரிக்கை இல்லாமல் துவக்கி நீக்கப்படும் &lt;br/&gt; - இப்போது துவக்கியை மூடி, உண்மையான இடத்திற்கு பிரித்தெடுக்கவும், தற்காலிக கோப்புறை அல்ல</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1750"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>உங்கள் நிகழ்வு கோப்புறையில் &apos;ரார் $&apos; உள்ளது - அதாவது நீங்கள் லாஞ்சர் காப்பகத்தை பிரித்தெடுக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>உங்கள் நிகழ்வு கோப்புறை ஒரு தற்காலிக கோப்புறையில் உள்ளது: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1781"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
         <source>Total playtime: %1</source>
         <translation>மொத்த விளையாட்டு நேரம்: %1</translation>
     </message>
@@ -8112,12 +8112,12 @@ Are you sure?</source>
         <translation>%1 பற்றிய கூடுதல் செய்திகளைப் படிக்க மேம்பாட்டு வலைப்பதிவைத் திறக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="797"/>
         <source>Loading news...</source>
         <translation>செய்திகளை ஏற்றுகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="807"/>
         <source>No news available.</source>
         <translation>செய்தி எதுவும் கிடைக்கவில்லை.</translation>
     </message>
@@ -8344,92 +8344,92 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
         <source>&amp;Launch</source>
         <translation>&amp; ஏவுதல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Launch &amp;Offline</source>
         <translation>துவக்க &amp; இணைப்பில்லாத</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+shift+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <source>Launch &amp;Demo</source>
         <translation>துவக்க &amp; டெமோ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+alt+o</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="322"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="325"/>
         <source>Profilers</source>
         <translation>சுயவிவரங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="332"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="335"/>
         <source>&amp;No Profiler</source>
         <translation>&amp; விவரக்குறிப்பு இல்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;அமர்வு ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1051"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;அணுகல் டோக்கன்&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;சுயவிவர ஐடி&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1090"/>
         <source>broken</source>
         <translation>உடைந்த</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1100"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1105"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
         <source>, last played on %1 for %2</source>
         <translation>, கடைசியாக %2 க்கு %1 இல் விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, total played for %1</source>
         <translation>, மொத்தம் %1 க்கு விளையாடியது</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
         <source>, has crashed.</source>
         <translation>, செயலிழந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1176"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1197"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9578,56 +9578,56 @@ Ignoring them may break the game.</source>
 <context>
     <name>ModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="86"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
         <source>Check for Updates</source>
         <translation>புதுப்பிப்புகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து மோட்களையும் சரிபார்க்க அல்லது புதுப்பிக்க முயற்சிக்கவும் (எதுவும் தேர்ந்தெடுக்கப்படாவிட்டால் அனைத்து மோட்களும்)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
         <translation>மோடின் மெட்டாடேட்டாவை உரைக்கு ஏற்றுமதி செய்யுங்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>Confirm Delete</source>
         <translation>நீக்கு என்பதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>விளையாட்டு இயங்கும்போது நீங்கள் மோட்சை அகற்றினால், அது உங்கள் விளையாட்டை செயலிழக்கச் செய்யலாம்.
  இதை நீங்கள் செய்ய விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
         <source>Confirm Disable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="147"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="268"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="427"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -9644,30 +9644,30 @@ Do you want to disable them?</source>
         <translation>பதிவிறக்கம் பயனரால் நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="273"/>
         <source>Warnings</source>
         <translation>எச்சரிக்கைகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
         <source>Abort</source>
         <translation>கருக்கலைப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>மேனிலை தரவு முடக்கப்பட்டிருக்கும் போது மோட் புதுப்பிப்புகள் கிடைக்கவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>Confirm Update</source>
         <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -9683,83 +9683,83 @@ Are you sure you want to do this?</oldsource>
         <translation>மோட் புதுப்பிப்பு நிறுத்தப்பட்டது!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="259"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து மோட்களும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="262"/>
         <source>Update checker</source>
         <translation>செக்கரைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="297"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>நீங்கள் %1 மோட்களுக்கு மெட்டாடேட்டாவை அகற்ற உள்ளீர்கள்.
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Confirm Change Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
         <source>Missing Mod Loader</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="427"/>
         <source>No mod loader was installed. Please try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="254"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; புதுப்பித்த நிலையில் உள்ளது! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
         <source>Download Mods</source>
         <translation>மோட்சைப் பதிவிறக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="102"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
         <source>Change a mod&apos;s version.</source>
         <translation>மோடின் பதிப்பை மாற்றவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="107"/>
         <source>View the homepages of all selected mods.</source>
         <translation>தேர்ந்தெடுக்கப்பட்ட அனைத்து மோட்களின் முகப்புப்பக்கங்களையும் காண்க.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>எல்லா மோட்களும் புதுப்பித்தவை! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Download mods from online mod platforms</source>
         <translation>நிகழ்நிலை மோட் இயங்குதளங்களிலிருந்து மோட்சைப் பதிவிறக்கவும்</translation>
     </message>
@@ -14050,7 +14050,7 @@ Are you sure?</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="68"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="65"/>
         <source>Screenshots</source>
         <translation>திரைக்காட்சிகள்</translation>
     </message>
@@ -14238,7 +14238,7 @@ Currently installed version: %1</source>
         <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="63"/>
         <source>Servers</source>
         <translation>சேவையகங்கள்</translation>
     </message>
@@ -14248,12 +14248,12 @@ Currently installed version: %1</source>
         <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="740"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="733"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="741"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="734"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -15545,34 +15545,34 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>ஏற்கனவே உள்ள கூறு சாதொபொகு கோப்புகளை இறக்குமதி செய்யுங்கள்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
         <source>Context menu</source>
         <translation>சூழல் பட்டியல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="193"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 இல் சிக்கல்கள் இருக்கலாம்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="196"/>
         <source>%1 has issues!</source>
         <translation>%1 க்கு சிக்கல்கள் உள்ளன!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>Error: </source>
         <translation>பிழை: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="210"/>
         <source>Warning: </source>
         <translation>எச்சரிக்கை: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="285"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="403"/>
         <source>Error</source>
         <translation>பிழை</translation>
     </message>
@@ -15581,12 +15581,12 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>நிகழ்வு சுயவிவரத்தை ஏற்ற முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
         <source>Confirm Removal</source>
         <translation>அகற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -15597,77 +15597,77 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
         <source>Couldn&apos;t remove file</source>
         <translation>கோப்பை அகற்ற முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Select jar mods</source>
         <translation>குடுவை மோட்சைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Minecraft.jar mods</source>
         <translation>Minecraft.jar மோட்ச்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Minecraft.jar replacement</source>
         <translation>Minecraft.jar மாற்று</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Java agents</source>
         <translation>சாவா முகவர்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Select jar</source>
         <translation>சாடியைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select components</source>
         <translation>கூறுகளைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Components</source>
         <translation>கூறுகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Failed to import components</source>
         <translation>கூறுகளை இறக்குமதி செய்வதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>சில கூறுகளை இறக்குமதி செய்ய முடியவில்லை. விவரங்களுக்கு பதிவுகளை சரிபார்க்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select agents</source>
         <translation>முகவர்களைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="367"/>
         <source>Change %1 version</source>
         <translation>%1 பதிப்பை மாற்றவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="369"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>இடைத்தரகர் மேப்பிங்ச் பதிப்புகள் தற்போது கிடைக்கவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>இடைத்தரகர் மேப்பிங்ச் பதிப்பு பட்டியல்களை ஏற்றவோ பதிவிறக்கம் செய்யவோ முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="404"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -15676,17 +15676,17 @@ Please add your Microsoft or Mojang account.</oldsource>
  நுண்மென் கணக்கைச் சேர்க்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="496"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Error updating instance</source>
         <translation>நிகழ்வைப் புதுப்பிப்பதில் பிழை</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="544"/>
         <source>Confirm Reversion</source>
         <translation>தலைகீழ் உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="557"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="545"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -15880,7 +15880,6 @@ Are you sure?</source>
 <context>
     <name>WideBar</name>
     <message>
-        <location filename="src/launcher/ui/widgets/WideBar.cpp" line="223"/>
         <source>Customize toolbar actions</source>
         <translation>கருவிப்பட்டி செயல்களைத் தனிப்பயனாக்குங்கள்</translation>
     </message>
@@ -16054,12 +16053,12 @@ Canonical Path: %1</source>
         <translation type="vanished">உலகிற்குள் டேட்டாபேக்குகளை நிர்வகிக்கவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="56"/>
         <source>Worlds</source>
         <translation>உலகங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="164"/>
         <source>Context menu</source>
         <translation>சூழல் பட்டியல்</translation>
     </message>
@@ -16092,34 +16091,34 @@ It may be necessary to reinstall it.</source>
  அதை மீண்டும் நிறுவ வேண்டியது தேவை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Select a Minecraft world zip</source>
         <translation>ஒரு Minecraft World Zip ஐத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft உலக zip கோப்பு</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="461"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="455"/>
         <source>Copy World</source>
         <translation>உலகத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="440"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>மின்கிராஃப்ட் இயங்கும்போது ஒரு உலகத்தை மாற்றுவது பாதுகாப்பற்றது.
  நீங்கள் தொடர விரும்புகிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="215"/>
         <source>Confirm Deletion</source>
         <translation>நீக்குதலை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="216"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -16130,64 +16129,64 @@ Are you sure?</source>
  நீங்கள் உறுதியாக இருக்கிறீர்களா?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="253"/>
         <source>Manage Data Packs</source>
         <translation>தரவு பொதிகளை நிர்வகிக்கவும்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="261"/>
         <source>Data packs for %1</source>
         <translation>%1 க்கான தரவு பொதிகள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>No Tools Added</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
         <source>Open Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Invalid command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>The tool command is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="384"/>
         <source>Tool failed to start!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="385"/>
         <source>The tool could not be started.
 Error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
         <source>World name</source>
         <translation>உலக பெயர்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="463"/>
         <source>Enter a new name for the copy.</source>
         <translation>நகலுக்கு புதிய பெயரை உள்ளிடவும்.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="495"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
         <source>Rename World</source>
         <translation>உலகத்தை மறுபெயரிடுங்கள்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
         <source>Enter a new world name.</source>
         <translation>புதிய உலக பெயரை உள்ளிடவும்.</translation>
     </message>
