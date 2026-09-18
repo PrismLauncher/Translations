@@ -8276,7 +8276,7 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="458"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Deimhnigh Nuashonrú</translation>
+        <translation>Deimhnigh an nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="459"/>
@@ -8285,7 +8285,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an pacáiste modanna a nuashonrú go dtí an leagan &quot;%1&quot;.
+D’fhéadfaí athruithe nach féidir a chur ar ceal a dhéanamh ar chomhaid na hionstance.
+Dá bhrí sin, moltar go láidir cóip chúltaca den ionstans a chruthú.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Pack information</source>
@@ -9668,14 +9672,16 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Deimhnigh athrú leagain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>D’fhéadfadh dúbláil modanna agus tuairteáil an chluiche tarlú má athraítear leagan na modanna agus an cluiche á imirt.
+B’fhéidir nach scriosfar na sean-chomhaid toisc go bhfuil siad in úsáid.
+An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="410"/>
@@ -11347,7 +11353,7 @@ Ní féidir leis an nuashonraitheoir leanúint ar aghaidh go dtí go réitíonn 
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="514"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="980"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an manuscript a léamh: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
@@ -11487,7 +11493,7 @@ Chun an glasáil seo a athscríobh agus leanúint ar aghaidh leis an nuashonrú 
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="910"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar scríobh loga athruithe: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
@@ -11959,7 +11965,7 @@ Stádas HTTP: %2</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an comhad a pharsáil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
