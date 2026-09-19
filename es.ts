@@ -13130,7 +13130,7 @@ Esta acción puede ser definitiva y el archivo desaparecerá de la carpeta de re
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="899"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 out of %2 completados</translation>
+        <translation>%1 de %2 completado</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="934"/>
