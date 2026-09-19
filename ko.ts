@@ -2145,7 +2145,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;로드 전 명령어는 인스턴스의 메타데이터를 불러오기 전에 실행되며, 실행 전 명령어는 인스턴스 시작 전에, 종료 후 명령어는 종료 이후에 실행됩니다.&lt;/p&gt;&lt;p&gt;모두 다음의 환경 변수를 사용하여 런처가 실행 중인 폴더에서 실행됩니다:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 인스턴스 이름&lt;/li&gt;&lt;li&gt;$INST_ID - 인스턴스 ID(폴더명)&lt;/li&gt;&lt;li&gt;$INST_DIR - 인스턴스 절대 경로&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - 마인크래프트 절대 경로&lt;/li&gt;&lt;li&gt;$INST_JAVA - 실행에 사용되는 Java 바이너리&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 실행에 사용되는 명령줄 인자&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;래퍼 명령어는 별도의 래퍼 프로그램을 이용한 실행을 가능하게 합니다(Linux에서의 &apos;optirun&apos; 등).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2459,9 +2459,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중인 상태에서 데이터 팩을 업데이트하면 팩 중복 및 게임 충돌이 발생할 수 있습니다.
-이전 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
-정말로 이 작업을 수행하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 데이터 팩을 업데이트하면 팩이 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
@@ -3327,10 +3327,10 @@ This instance cannot be launched because some libraries are missing or have not 
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 항목을 제거하려고 합니다.
+        <translation>항목 %1개를 제거하려고 합니다.
 이는 영구적이며 폴더에서 사라질 것입니다.
 
-확실합니까?</translation>
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="242"/>
@@ -3338,10 +3338,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>폴더 &quot;%1&quot;을 제거하려고 합니다.
+        <translation>폴더 &apos;%1&apos;을(를) 제거하려고 합니다.
 이는 영구적이며 상위 폴더에서 사라질 것입니다.
 
-확실합니까?</translation>
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -3357,8 +3357,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="264"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>게임을 실행하는 중에 이 리소스를 삭제하면 게임이 충돌할 수 있습니다.
-정말로 삭제하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 이 리소스를 제거하면 게임이 충돌할 수 있습니다.
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="344"/>
@@ -3417,12 +3417,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>세계 도구</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 세계 메뉴의 세계 내에서 실행할 수 있는 사용자 정의 도구입니다. 이 명령어는 ${WORLD_PATH} 자리 표시자를 지원합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
@@ -3490,27 +3490,27 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 파일(*.exe *.bat);;모든 파일(*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 파일(*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 파일 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 명령어</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 파일은 실행 파일이 아님</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -5866,8 +5866,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>&quot;%1&quot;이라는 Java 설치를 제거하려고 합니다.
-정말로 제거하시겠습니까?</translation>
+        <translation>&apos;%1&apos;이라는 Java 설치를 제거하려고 합니다.
+제거하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -6017,7 +6017,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>테스트 설정(&amp;E)</translation>
+        <translation>설정 테스트(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
@@ -7186,22 +7186,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="308"/>
         <source>&amp;Auto Downloaded Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 다운로드된 Java(&amp;A):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 아이콘(&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>모드(바로 가기)(&amp;M):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>추가 인스턴스 폴더</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
@@ -8614,17 +8614,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
         <source>I&amp;con Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>아이콘 테마(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>고양이 팩(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="774"/>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 다운로드된 Java(&amp;A)</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -8701,32 +8701,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="549"/>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 데이터(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>모드(바로 가기)(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 탐색기로 모드 폴더를 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="582"/>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 아이콘(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="593"/>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 로그(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
@@ -9441,8 +9441,8 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;%2을(를) 삭제하려고 합니다.
-이 작업은 영구적이며 인스턴스가 완전히 삭제될 수 있습니다.
+        <translation>&apos;%1&apos;%2을(를) 삭제하려고 합니다.
+이 작업은 되돌릴 수 없으며, 인스턴스가 완전히 삭제됩니다.
 
 삭제하시겠습니까?</translation>
     </message>
@@ -9728,7 +9728,7 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="458"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">업데이트 확인</translation>
+        <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="459"/>
@@ -9737,7 +9737,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩을 &apos;%1&apos; 버전으로 업데이트하려고 합니다.
+인스턴스 파일에 되돌릴 수 없는 변경 사항이 발생할 수 있습니다.
+따라서 인스턴스의 백업 사본을 만들 것을 강력히 권장합니다.
+
+계속하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -9848,7 +9852,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>로드 전</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
@@ -10472,12 +10476,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">일반 릴리스</translation>
+        <translation>릴리스 버전</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 버전</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10808,32 +10812,32 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>고급 제외 설정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>AI 콘텐츠</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI 콘텐츠(코드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI 콘텐츠(애셋)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI 콘텐츠(텍스트)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI 콘텐츠(기능)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
@@ -10843,7 +10847,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>간질 유발 요소</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
@@ -10853,27 +10857,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>원격 측정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>원격 측정(사용자 동의)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>원격 측정(사용자 거부)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>원격 측정(항상 활성화)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>2차 창작물</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
@@ -11375,9 +11379,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>게임이 실행 중일 때 모드를 업데이트하면 모드 중복이 발생하고 게임이 충돌할 수 있습니다.
-오래된 파일은 사용 중일 경우 삭제되지 않을 것입니다.
-확실합니까?</translation>
+        <translation>게임을 실행하는 중에 모드를 업데이트하면 모드가 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>The mod updater was aborted!</source>
@@ -11402,20 +11406,22 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>모드 %1의 메타데이터를 제거하려고 합니다.
+        <translation>모드 %1개의 메타데이터를 제거하려고 합니다.
 제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 변경 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>게임을 실행하는 중에 모드 버전을 변경하면 모드가 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
@@ -11462,8 +11468,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중일 때 모드를 제거하면 게임이 충돌할 수 있습니다.
-정말로 제거하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 모드를 제거하면 게임이 충돌할 수 있습니다.
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -12839,7 +12845,7 @@ Are you sure?</source>
         <translation>&quot;%1&quot;을 삭제하려고 합니다.
 이는 영구적이며 로그 폴더에서 사라질 것입니다.
 
-확실합니까?</translation>
+삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="414"/>
@@ -13423,7 +13429,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="514"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="980"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>매니페스트를 읽을 수 없음: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
@@ -13563,7 +13569,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="910"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>변경 내역 기록에 실패함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
@@ -14032,7 +14038,7 @@ Are you sure?</source>
         <translation>&quot;%1&quot;을 %2로 업로드하려고 합니다.
 개인 정보를 다시 확인하십시오.
 
-확실합니까?</translation>
+계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="122"/>
@@ -14168,7 +14174,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 파싱할 수 없음: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -15029,7 +15035,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>알 수 없는 붙여넣기 유형</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -15120,7 +15126,7 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">파일 %1을(를) 읽기 모드로 열 수 없음: %2</translation>
+        <translation>파일 %1을(를) 읽기 모드로 열 수 없음: %2</translation>
     </message>
 </context>
 <context>
@@ -15613,8 +15619,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="279"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중일 때 이 리소스를 활성화/비활성화하면 게임이 충돌할 수 있습니다.
-확실합니까?</translation>
+        <translation>게임을 실행하는 중에 이 리소스를 활성화/비활성화하면 게임이 충돌할 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="640"/>
@@ -15846,9 +15852,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중인 상태에서 리소스 팩을 업데이트하면 팩 중복 및 게임 충돌이 발생할 수 있습니다.
-이전 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
-정말로 이 작업을 수행하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 리소스 팩을 업데이트하면 팩이 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>The resource pack updater was aborted!</source>
@@ -16311,7 +16317,7 @@ Are you sure?</source>
         <translation>%1 스크린샷을 삭제하려고 합니다.
 이는 영구적이며 폴더에서 사라질 것입니다.
 
-확실합니까?</translation>
+삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
@@ -16322,7 +16328,7 @@ Are you sure?</source>
         <translation>선택된 스크린샷을 삭제하려고 합니다.
 이는 영구적이며 폴더에서 사라질 것입니다.
 
-확실합니까?</translation>
+삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
@@ -16533,10 +16539,10 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;을 제거하려고 합니다.
+        <translation>&apos;%1&apos;을(를) 제거하려고 합니다.
 이는 영구적이며 서버가 목록에서 영원히 사라질 것입니다.
 
-확실합니까?</translation>
+제거하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -16658,9 +16664,9 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중인 상태에서 셰이더 팩을 업데이트하면 팩 중복 및 게임 충돌이 발생할 수 있습니다.
-이전 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
-정말로 이 작업을 수행하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 셰이더 팩을 업데이트하면 팩이 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>The shader pack updater was aborted!</source>
@@ -17511,9 +17517,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>게임이 실행 중일 때 텍스처 팩을 업데이트하면 팩이 중복되거나 게임이 충돌할 수 있습니다.
-이전 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
-정말로 이 작업을 수행하시겠습니까?</translation>
+        <translation>게임을 실행하는 중에 텍스처 팩을 업데이트하면 팩이 중복되거나 게임이 충돌할 수 있습니다.
+기존 파일은 사용 중이므로 삭제되지 않을 수 있습니다.
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>The texture pack updater was aborted!</source>
@@ -17548,7 +17554,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="204"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>텍스처 팩 %1의 메타데이터를 제거하려고 합니다.
+        <translation>텍스처 팩 %1개의 메타데이터를 제거하려고 합니다.
 제거하시겠습니까?</translation>
     </message>
 </context>
@@ -18238,10 +18244,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;을 제거하려고 합니다.
+        <translation>&apos;%1&apos;을(를) 제거하려고 합니다.
 이는 영구적이며 사용자 설정 요소를 완전히 제거할 것입니다.
 
-확실합니까?</translation>
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
@@ -18345,10 +18351,10 @@ Microsoft 계정을 추가하십시오.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;을 되돌리려고 합니다.
+        <translation>&apos;%1&apos;을(를) 되돌리려고 합니다.
 이는 영구적이며 사용자 설정 사항들을 완전히 되돌릴 것입니다.
 
-확실합니까?</translation>
+계속하시겠습니까?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -18744,12 +18750,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished">도구</translation>
+        <translation>도구</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 세계에 대하여 외부 도구를 실행합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="157"/>
@@ -18854,7 +18860,7 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;을 삭제하려고 합니다.
+        <translation>&apos;%1&apos;을(를) 삭제하려고 합니다.
 세계가 영원히 사라지게 됩니다.
 
 삭제하시겠습니까?</translation>
@@ -18872,33 +18878,34 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="339"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>도구 추가 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="342"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 명령어</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>도구 명령이 비어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="384"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>도구를 시작하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="385"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>도구를 시작할 수 없습니다.
+오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="463"/>
