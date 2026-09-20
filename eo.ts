@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualigi lanĉe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -54,12 +54,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servilo de Heredaĵaj FML librejoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi povas agordi ĉi tion al alia servilo se vi havas problemojn kun elŝatado de heredaĵaj FML librejoj (Minecraft 1.5.2 kaj pli fruaj versioj).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Enŝalti reveni al Modrinth por blokitaj modifaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -637,12 +637,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Supreniri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Malsupreniri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -856,7 +856,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivigi la katon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -959,14 +959,14 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 
 Timestamp: %2
 Ĝisdatiganta de versio %3 al %4
-Celo instalas vojon: %5
+Cela instala vojo: %5
 Datuma Vojo: %6
-Tio ĉi probable signifas ke ĝisdatiga provo malsukcesita. Bonvolu certigi vian instalaĵon estas en laboranta ordon antaŭ procedanta.
-Kontrolas la Prismon Launcher updater ŝtipo ĉe: 
+Tio ĉi probable signifas, ke ĝisdatiga provo malsukcesis. Bonvolu certigi, ke via instalaĵo estas en laboranta ordon antaŭ ol procedi.
+Kontroli la ŝtipon de Prism Launcher ĝisdatigilo ĉe: 
 %7
-por detaloj sur la lasta ĝisdatiga provo.
+por detaloj pri la lasta ĝisdatiga provo.
 
-Forigi ĉi tiun seruron kaj procedi elektitan &quot;Ignoras&quot; malsupre.</translation>
+Por forigi ĉi tiun seruron kaj procedi elektitu &quot;Ignoras&quot; malsupre.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1111"/>
@@ -1264,7 +1264,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
         <source>Preparing to log in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparante ensaluti...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
@@ -1578,7 +1578,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝargante komponantojn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
@@ -1593,7 +1593,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝutante metadatumojn por %1 komponantoj</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -1608,7 +1608,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"> </translation>
+        <translation>Apero havas nesolvitajn dependecojn dum ŝarĝado/kontrolado por lanĉo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
@@ -1637,38 +1637,39 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasko malsukcesis</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pluraj subtaskoj malsuckesis</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pluraj subtaskoj malsukcesis
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Plenumas %1 tasko(j)n (%2 el %3 estas finitaj)</translation>
+        <translation>Plenumante %1 tasko(j)n (%2 el %3 estas finitaj)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Bonvolu atendi...</translation>
+        <translation>Bonvolu atendi...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished">Atendante, ke tasko komencos...</translation>
+        <translation>Atendante, ke tasko komencos...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished">Plenumante 1 taskon:</translation>
+        <translation>Plenumante 1 taskon:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
@@ -1696,7 +1697,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished">Elekti ĉion</translation>
+        <translation>Elekti ĉion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1875,12 +1876,12 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="66"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiante mondon...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="83"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Malsuckesis kopii mondon.</translation>
     </message>
 </context>
 <context>
@@ -1892,7 +1893,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kernaj modifikaĵoj</translation>
     </message>
 </context>
 <context>
@@ -1908,12 +1909,12 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Krei instancan ligilon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konservi je:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
@@ -1928,48 +1929,48 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzi malsaman konton ol la specifitan defaŭltan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Superregi la defaŭltan konton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Precizigi mondon aŭ servilon por aŭtomate aliri lanĉe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti celon aliri lanĉe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
         <source>World:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mondo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="168"/>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="181"/>
         <source>Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servila adreso:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="190"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Servila adreso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto: Se simbola ligilo estas movita post sia kreado, ĝi ne estos forigita kiam oni forigas la instancon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se tio estas la kazo, vi devos mane forigi ilin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="84"/>
@@ -1979,47 +1980,47 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="87"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alia...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="95"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [%2] - Laste ludita: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="111"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (uzanta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="178"/>
         <source>%1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="180"/>
         <source>%1 - Server %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Servilo %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="195"/>
         <source>instance</source>
-        <translation type="unfinished"></translation>
+        <translation>instanco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="199"/>
         <source>world</source>
-        <translation type="unfinished"></translation>
+        <translation>mondo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="202"/>
         <source>server</source>
-        <translation type="unfinished"></translation>
+        <translation>servilo</translation>
     </message>
 </context>
 <context>
@@ -2047,7 +2048,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Superregi %globajn agordojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
@@ -2244,7 +2245,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Laste modifita</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2254,17 +2255,17 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomo de dosiero</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="163"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>La grandeco de la datumpakaĵo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dosiera nomo de la datumpakaĵo.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
