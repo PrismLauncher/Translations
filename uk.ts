@@ -9665,7 +9665,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="458"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="459"/>
@@ -9674,7 +9674,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви збираєтеся оновити модпак до версії &quot;%1&quot;.
+Файли екземпляра можуть зазнати незворотних змін.
+Тому наполегливо рекомендується створити резервну копію екземпляра.
+
+Ви впевнені?</translation>
     </message>
 </context>
 <context>
@@ -11370,14 +11374,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити зміну версії</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна версії модів під час роботи гри може призвести до дублювання модів та збоїв у грі.
+Старі файли можуть не видалитися, оскільки вони використовуються.
+Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
@@ -13353,7 +13359,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="514"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="980"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося прочитати маніфест: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="525"/>
@@ -13493,7 +13499,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="910"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося записати список змін: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="913"/>
@@ -14089,7 +14095,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося розібрати файл: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
