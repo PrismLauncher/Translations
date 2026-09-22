@@ -4609,7 +4609,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Modpacks</source>
-        <translation>Модпаки</translation>
+        <translation>Сборки модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
@@ -9896,8 +9896,8 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation>Это локальный модпак.
-Обновить его можно либо с помощью файла в формате %1, либо по URL-адресу.
+        <translation>Это локальная сборка модов.
+Обновить её можно либо с помощью файла в формате %1, либо по URL-адресу.
 Не используйте формат, отличный от указанного, так как это может нарушить работу экземпляра.
 Также убедитесь, что вы доверяете указанному URL-адресу
 </translation>
@@ -13285,7 +13285,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="407"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для модпака не задана версия загрузчика!</translation>
+        <translation>Для сборки модов не задана версия загрузчика!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="539"/>
