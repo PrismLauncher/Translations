@@ -1390,7 +1390,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">جار تحميل الملفات المحلية</translation>
+        <translation>جار تحميل الملفات المحلية</translation>
     </message>
 </context>
 <context>
@@ -2112,7 +2112,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation>نسخ تقريبية (بيتا)</translation>
+        <translation>نسخ ثانوية (بيتا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
@@ -2133,7 +2133,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>محمل الإضافات</translation>
+        <translation>محمل المود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
