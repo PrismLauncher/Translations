@@ -10276,39 +10276,39 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
         <translation>Biến môi trường</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="69"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
         <source>Show time &amp;playing this instance</source>
         <translation>Hiển thị thời gian &amp;phát bản này</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&amp;Record time playing this instance</source>
         <translation>&amp;Ghi lại thời gian chơi bản này</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="75"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="76"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
         <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Cảnh báo&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Tùy chọn tối đa hóa không được hỗ trợ đầy đủ trên phiên bản Minecraft này.&lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="143"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Không tìm thấy GameMode của Feral Interactive trên hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="148"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>Không tìm thấy MangoHud trên hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="220"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="227"/>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="234"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="221"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="228"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="235"/>
         <source>Path to %1 library file</source>
         <translation>Đường dẫn đến tệp thư viện %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="624"/>
+        <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="625"/>
         <source>Select Global Data Packs Folder</source>
         <translation>Chọn thư mục Data Packs chung</translation>
     </message>
