@@ -1483,7 +1483,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Lade lokale Datei</translation>
+        <translation>Lokale Datei laden</translation>
     </message>
 </context>
 <context>
@@ -2171,7 +2171,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load-Befehle werden vor dem Laden der Instanzmetadaten ausgeführt, Pre-launch-Befehle werden for dem Start des Launcher ausgeführt und Post-exit-Befehle werden nach dem Beenden der Instanz ausgeführt.&lt;/p&gt;&lt;p&gt;Alle Befehle werden im Arbeitsverzeichnis des Launchers mit den folgenden Umgebungsvariablen ausgeführt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Der Name der Instanz&lt;/li&gt;&lt;li&gt;$INST_ID - Die ID der Instanz (ihr Ordnername)&lt;/li&gt;&lt;li&gt;$INST_DIR - Der absolute Pfad der Instanz&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Der absolute Pfad von Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Die beim Start genutzte Java-Binärdatei&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Kommandozeilenparameter, die für den Start verwendert werden (Vorsicht: Der Start wird nicht richtig funktionieren, wenn die Parameter Leerzeichen enthalten!)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-Befehle ermöglichen den Start durch ein extra Wrapper-Programm (wie &apos;optirun&apos; auf Linux).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2181,7 +2181,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Vor-Start-Befehle werden ausgeführt, bevor die Instanz startet; Nach-Beenden-Befehle, nachdem die Instanz beendet wurde.&lt;/p&gt;&lt;p&gt;Beide werden im Hauptverzeichnis vom Launcher mit zusätzlichen Umgebungsvariablen gestartet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name der Instanz&lt;/li&gt;&lt;li&gt;$INST_ID - ID der Instanz (der Name des Instanzordners)&lt;/li&gt;&lt;li&gt;$INST_DIR - Absoluter Pfad der Instanz&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Absoluter Pfad von Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Für den Start genutzte Java-Instanz&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Für den Start genutzte Konsolen-Parameter (Warnung: funktioniert nicht korrekt, wenn die Argumente Leerzeichen enthalten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-Befehle erlauben es, Java mittels eines Wrapper-Programms auszuführen (wie z.B. &apos;optirun&apos; unter Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch-Befehle werden ausgeführt, bevor die Instanz startet und Post-exit-Befehle werden ausgeführt, nachdem die Instanz beendet wurde.&lt;/p&gt;&lt;p&gt;Beide werden im Hauptverzeichnis vom Launcher mit zusätzlichen Umgebungsvariablen gestartet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name der Instanz&lt;/li&gt;&lt;li&gt;$INST_ID - ID der Instanz (der Name des Instanzordners)&lt;/li&gt;&lt;li&gt;$INST_DIR - Absoluter Pfad der Instanz&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Absoluter Pfad von Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Für den Start genutzte Java-Instanz&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Für den Start genutzte Konsolen-Parameter (Warnung: funktioniert nicht korrekt, wenn die Argumente Leerzeichen enthalten)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-Befehle erlauben es, Java mittels eines Wrapper-Programms auszuführen (wie z.B. &apos;optirun&apos; unter Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3332,7 +3332,7 @@ Diese Instanz kann nicht gestartet werden, da einige Bibliotheken fehlen oder no
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Entsperre die Ressource um ihr Update zu ermöglichen</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3483,12 +3483,12 @@ Bist du dir sicher, du willst das tun?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Welt-Werkzeuge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Werkzeuge sind startbar für Welten des Welten Instanz-Menüs. Befehle unterstützen den ${WORLD_PATH} Platzhalter.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
