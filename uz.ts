@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin Servis</translation>
+        <translation>&amp;Pastebin servisi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Paste Servis &amp;Turi</translation>
+        <translation>Matn ulashish servis &amp;turi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Boshlang&apos;ich &amp;URL</translation>
+        <translation>Bazaviy &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -29,58 +29,58 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation>Oddiy holatda ishlatish</translation>
+        <translation>Birlamchi boʻyicha ishlatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>E&apos;tibor bering: paste servis turinig o&apos;zgartirgandan so&apos;ng, Boshlang&apos;ich URLni o&apos;zgartirishingiz kerak bo&apos;lsa kerak.</translation>
+        <translation>Eʼtibor bering: paste servis turini oʻzgartirganingizdan soʻng, bazaviy URLʼni oʻzgartirishingiz yoki tozalashingiz kerak boʻlishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Ishga tushirishda yangilash</translation>
+        <translation>Ishga tushirganda yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Aktiv sozlamalar serveri</translation>
+        <translation>Resurslar serveri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Agarda assetlarni yuklab olish bo&apos;yicha muammoingiz bo&apos;lsa, buni boshqa serverga sozlashingiz mumkin.</translation>
+        <translation>Agar resurslarni yuklashda muammoga duch kelsangiz, buni boshqa serverga sozlashingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Legacy FML Kutubxonalari Serveri</translation>
+        <translation>Eskirgan FML kutubxonalari serveri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Agar sizda Legacy FML kutubxolarini yuklab o&apos;lish bo&apos;yicha muammolaringiz bo&apos;lsa, buni boshqa serverga sozlashingiz mumkin (Minecraft 1.5.2 va oldingi).</translation>
+        <translation>Agar eskirgan FML kutubxonalarini (Minecraft 1.5.2 yoki undan oldingi) yuklashda muammoga duch kelsangiz, buni boshqa serverga sozlashingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>API kalitlari</translation>
+        <translation>&amp;API kalitlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;Microsoft Autentifikatsiya</translation>
+        <translation>&amp;Microsoft yordamida autentifikatsiya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Yo&apos;q</translation>
+        <translation>Hech qaysi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -90,12 +90,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Bloklangan modlar uchun Modrinth-ga qaytishni yoqish</translation>
+        <translation>Bloklangan modlar uchun Modrinth ishlatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Texnika</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
