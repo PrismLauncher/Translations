@@ -2948,7 +2948,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation> МБ</translation>
+        <translation> МиБ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -8687,7 +8687,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp; Гильдия в Discord</translation>
+        <translation>Гильдия в &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
