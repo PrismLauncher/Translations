@@ -1371,12 +1371,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="vanished">Отвори ги Сите</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation type="unfinished">Пронајдени се сите модови</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
         <translation>Ве молиме преземете ги модовите што недостасуваат.</translation>
     </message>
@@ -1392,12 +1391,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
         <translation type="unfinished">Во ред</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Skip</source>
         <translation type="unfinished"></translation>
     </message>

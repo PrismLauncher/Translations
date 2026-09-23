@@ -1469,12 +1469,11 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation type="obsolete">Buka Semua</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation>Semua mod yang ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
         <translation>Mohon mengunduh mod yang hilang.</translation>
     </message>
@@ -1490,12 +1489,11 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
         <translation>OKE</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Skip</source>
         <translation>Lewati</translation>
     </message>

@@ -1217,12 +1217,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
 <context>
     <name>BlockedModsDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation>அனைத்து மோட்சும் காணப்பட்டன</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
         <translation>காணாமல் போன மோட்சைப் பதிவிறக்கவும்.</translation>
     </message>
@@ -1238,12 +1237,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
         <translation>சரி</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Skip</source>
         <translation>தவிர்</translation>
     </message>

@@ -1371,12 +1371,11 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
         <translation type="vanished">Odpri vse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation>Vse modifikacije najdene</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
         <translation>Prosimo, prenesite manjkajoče modifikacije.</translation>
     </message>
@@ -1392,12 +1391,11 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
         <translation type="unfinished">V redu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Skip</source>
         <translation>Preskoči</translation>
     </message>
