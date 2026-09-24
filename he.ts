@@ -3853,92 +3853,92 @@ Please try again.</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="383"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
         <translation> (גרסה %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>Failed to fetch the old files.</source>
         <translation>נכשלה השגת הקבצים הישנים.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="278"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>No index file.</source>
         <translation>אין קובץ אינדקס.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="278"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>לא הצלחנו למצוא קובץ אינדקס מתאים לגרסה הישנה יותר. ייתכן שחלק מהקבצים יהיו כפולים. האם ברצונך להמשיך?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="290"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>נכשלה קבלת מפתח נתוני העל המקומי עבור %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="328"/>
         <source>Failed to find version for %1 loader</source>
         <translation>לא נמצאה גרסה עבור הטוען %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="331"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="333"/>
         <source>No loader version set for modpack!</source>
         <translation>לא הוגדרה גרסת טוען לערכת המודים!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="399"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="401"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>לא ניתן היה לשנות את שם תיקיית העקיפות:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="404"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="406"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>תיקיית העקיפות שצוינה (%1) חסרה. ייתכן שערכת המודים הייתה כבר בשימוש לפני כן?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="441"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>מטען מודים לא מוכר במניפסט: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="454"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>הוסרו נקודות עודפות מסתוריות מגרסת Minecraft בעת הייבוא של הערכה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="488"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>הזיכרון המומלץ של חבילת המודים עולה על 90% מזיכרון ה-RAM של המערכת שלך - מה שמפחית אותו מ-%1 MiB ל-%2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="785"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="787"/>
         <source>Removing old conflicting files...</source>
         <translation>מתבצעת הסרה של הקבצים הישנים שמתנגשים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="804"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>נכשלה מחיקת הקבצים הישנים שמתנגשים.</translation>
     </message>
@@ -3947,40 +3947,40 @@ Please try again.</source>
         <translation type="obsolete">לא ניתן היה למפות את גרסת ה-Forge המומלצת עבור Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="525"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>לא ניתן היה לפתור את מזהי המודים:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>Blocked mods found</source>
         <translation>נמצאו מודים חסומים</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="585"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="609"/>
         <source>Mod Download Flame</source>
         <translation>הורדת מוד להבה</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="638"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="640"/>
         <source>%1 out of %2 complete</source>
         <translation>הושלמו %1 מתוך %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="651"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="653"/>
         <source>Copying Blocked Mods...</source>
         <translation>המודים החסומים מועתקים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="667"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="669"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>העתקת מודים חסומים (%1 מתוך %2 הסתיימו)</translation>
     </message>
@@ -4001,7 +4001,7 @@ Please try again.</source>
         <translation type="obsolete">סוג חבילה לא מזוהה / לא מטופל עבור: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="643"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="645"/>
         <source>Downloading mods...</source>
         <translation>המודים מתקבלים...</translation>
     </message>
@@ -13658,12 +13658,12 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="774"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="784"/>
         <source>Override Columns Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="787"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="797"/>
         <source>Show / Hide Columns</source>
         <translation type="unfinished"></translation>
     </message>

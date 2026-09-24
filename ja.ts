@@ -3900,14 +3900,14 @@ Please try again.</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="383"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <source> (version %1)</source>
         <translation> (バージョン %1)</translation>
     </message>
@@ -3916,80 +3916,80 @@ Please try again.</source>
         <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>Failed to fetch the old files.</source>
         <translation>古いファイルの取得に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>タスクが中断されたため、古いファイルを取得することができません。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>タスクが中断されたため、古いファイルを取得することができません: %1。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="278"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>No index file.</source>
         <translation>インデックスファイルがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="278"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>現在のバージョン向けの適切なインデックスファイルが見つけられませんでした。これによりいくつかのファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="290"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="328"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="331"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="333"/>
         <source>No loader version set for modpack!</source>
         <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="399"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="401"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>上書き先のフォルダの名前を変更できませんでした:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="404"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="406"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>指定されたoverridesフォルダ (%1) がありません。このModパックを以前に使用しませんでしたか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="441"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>マニフェストに不明なModローダーがあります: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="454"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>パックのインポート中にMinecraftバージョンからドットを削除しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="488"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Modパックの推奨メモリがシステムのRAMの90%を超えているため、%1 MiBから%2 MiBに削減します！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="785"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="787"/>
         <source>Removing old conflicting files...</source>
         <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="804"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
@@ -3998,40 +3998,40 @@ Please try again.</source>
         <translation type="vanished">ForgeのMinecraft %1 向けの推奨バージョンをインストールできませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="525"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod IDを処理できません。
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="586"/>
         <source>Blocked mods found</source>
         <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="585"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="607"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="609"/>
         <source>Mod Download Flame</source>
         <translation>Modダウンロードフレーム</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="638"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="640"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 / %2 完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="651"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="653"/>
         <source>Copying Blocked Mods...</source>
         <translation>ブロックされたModをコピー中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="667"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="669"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>ブロックされたModをコピー中 (%1 / %2 完了)</translation>
     </message>
@@ -4052,7 +4052,7 @@ Please try again.</source>
         <translation type="vanished">%1のパッケージタイプが認識できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="643"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="645"/>
         <source>Downloading mods...</source>
         <translation>Modをダウンロード中…</translation>
     </message>
@@ -15231,12 +15231,12 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="774"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="784"/>
         <source>Override Columns Visibility</source>
         <translation>列の表示設定を上書き</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="787"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="797"/>
         <source>Show / Hide Columns</source>
         <translation>列を表示/非表示</translation>
     </message>
