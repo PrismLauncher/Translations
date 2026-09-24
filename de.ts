@@ -9915,7 +9915,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du wirst das Modpack zu einer neuen Version aktualisieren.
+Die Instanz wird unwiderruflich verändert.
+Daher ist es äußerst empfehlenswert, ein Backup der Instanz zu erstellen.
+
+Bist du dir sicher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
@@ -10043,17 +10047,17 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
         <source>Pre-Load</source>
-        <translation type="unfinished">Pre-Load</translation>
+        <translation>Vorabladen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished">Pre-Launch</translation>
+        <translation>Vorabstarten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
         <source>Post-Launch</source>
-        <translation type="unfinished">Post-Launch</translation>
+        <translation>nach Start</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
