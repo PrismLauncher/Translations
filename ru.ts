@@ -7407,7 +7407,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished">Канал обновлений мода:</translation>
+        <translation>Канал обновлений мода:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
@@ -9943,7 +9943,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь обновить сборку модов до новой версии.
+В файлы экземпляра могут быть внесены необратимые изменения.
+Поэтому настоятельно рекомендуется создать резервную копию экземпляра.
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
