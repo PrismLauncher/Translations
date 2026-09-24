@@ -34,22 +34,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Neem in ag: jy sal waarskynlik die &quot;Base URL&quot; wil verander or verwyder na jy die tipe &quot;paste service&quot; verander.</translation>
+        <translation>Neem in ag: jy sal waarskynlik die &quot;Base URL&quot; wil verander of verwyder nadat jy die tipe &quot;paste service&quot; verander het.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>Verfris op begin</translation>
+        <translation type="unfinished">Verfris met oopmaak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Bates Bediener</translation>
+        <translation>Bate Bedieners</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Jy kan dié na &apos;n ander bediener stel indien jy probleme ondervind met die aflaai van bates.</translation>
+        <translation>You kan hierdie na &apos;n ander bednier stel indien jy probleme ondervind met die aflaai van bate.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Jy kan dit na ’n ander server stel as jy probleme ondervind met die aflaai van legacy FML-biblioteke (Minecraft 1.5.2 en vroeër).</translation>
+        <translation>Jy kan hierdie na ’n ander server stel as jy probleme ondervind met die aflaai van legacy FML-biblioteke (Minecraft 1.5.2 en vroeër).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>wysigings</translation>
+        <translation>Toelaat terugval na Modrinth vir geblocked mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Let wel: Jy hoef dit waarskynlik nie te stel as aanmelding via Microsoft-verifikasie reeds werk nie.</translation>
+        <translation>Let wel: Jy hoef dit waarskynlik nie te stel nie indien aanmelding via Microsoft-verifikasie reeds werk.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -167,7 +167,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Jy kan dit op &apos;n derdeparty-metadatabediener stel om &apos;gepatchte&apos; biblioteke of ander &apos;hacks&apos; te gebruik.</translation>
+        <translation type="unfinished">Jy kan dit op &apos;n derdeparty-metadatabediener stel om reggemaakte biblioteke of ander kuberkrake te gebruik.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -185,7 +185,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Let wel: jy hoef waarskynlik nie die te stel as CurseForge reeds werk nie.</translation>
+        <translation>Let wel: jy hoef waarskynlik nie die te stel nie indien as CurseForge reeds werk.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -332,7 +332,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>Pleeg:</translation>
+        <translation type="unfinished">Pleeg:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -372,7 +372,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>Commit: %1</translation>
+        <translation>Voer uit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
@@ -430,7 +430,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Tipe van die rekening (MSA of Vanlyn)</translation>
+        <translation type="unfinished">Tipe van die rekening (MSA of Aflyn)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -447,7 +447,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="348"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Vanlyn</translation>
+        <translation>Aflyn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
@@ -556,12 +556,12 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot;-knoppie kies om jou 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <source>Context menu</source>
-        <translation>Kontekslys</translation>
+        <translation type="unfinished">Konteks Kieslys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Jy moet &apos;n Microsoft rekening byvoeg wat reeds Minecraft besit voordat jy &apos;n vanlyn rekening kan byvoeg.&lt;br&gt;&lt;br&gt;As jy jou rekening verloor het kan jy Microsoft kontak vir ondersteuning.</translation>
+        <translation>Jy moet &apos;n Microsoft rekening byvoeg wat reeds Minecraft besit voordat jy &apos;n aflybn rekening kan byvoeg.&lt;br&gt;&lt;br&gt;As jy jou rekening verloor het kan jy Microsoft kontak vir ondersteuning.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -582,7 +582,7 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot;-knoppie kies om jou 
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Voeg by &amp;Vanlyn</translation>
+        <translation>Voeg by &amp;Aflyn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
