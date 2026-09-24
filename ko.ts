@@ -7314,7 +7314,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished">모드 업데이트 채널:</translation>
+        <translation>모드 업데이트 채널:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
@@ -9805,7 +9805,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩을 새 버전으로 업데이트하려고 합니다.
+인스턴스 파일에 되돌릴 수 없는 변경 사항이 발생할 수 있습니다.
+따라서 인스턴스의 백업 사본을 만들 것을 강력히 권장합니다.
+
+계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
