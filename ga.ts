@@ -1198,7 +1198,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Comhad áitiúil á lódáil</translation>
+        <translation>Ag luchtú comhaid áitiúil</translation>
     </message>
 </context>
 <context>
@@ -2062,22 +2062,22 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="175"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar cheart an pacáiste sonraí seo a nuashonrú?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="49"/>
         <source>Version</source>
-        <translation type="unfinished">Leagan</translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="164"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan an phacáiste sonraí.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
@@ -2877,22 +2877,22 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonruithe Glasála</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Glasáil an acmhainn chun cosc a chur ar í a nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="231"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Díghlasáil Nuashonruithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Díghlasáil an acmhainn chun ligean di a bheith nuashonraithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
@@ -6245,28 +6245,28 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="512"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an cainéal eisiúna is fearr leat agus tú ag seiceáil an bhfuil nuashonruithe modanna ann.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cainéal Nuashonraithe Mod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gach ceann (Eisiúint, Béite, Alfa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Le heisiúint amháin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="536"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Eisiúint agus Béite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
@@ -6863,7 +6863,7 @@ Cúis:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7860,7 +7860,9 @@ Cúis:
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní thacaítear leis an nasc Modrinth seo.
+
+Ní thacaíonn Prism Launcher faoi láthair ach le naisc modpack ar nós modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1026"/>
@@ -8368,7 +8370,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an pacáiste modanna a nuashonrú go leagan nua.
+D’fhéadfaí athruithe nach féidir a chur ar ceal a dhéanamh ar chomhaid na hinsití.
+Dá bhrí sin, moltar go láidir cóip chúltaca den insití a chruthú.
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
@@ -9442,7 +9448,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="233"/>
@@ -9512,7 +9518,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="259"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar cheart an mod seo a nuashonrú?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="474"/>
@@ -9665,17 +9671,17 @@ D’fhéadfadh neamhaird a dhéanamh orthu an cluiche a chur as feidhm.</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil le haghaidh nuashonruithe (Eisiúint amháin)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil le haghaidh nuashonruithe (Eisiúint agus Béite)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiceáil le haghaidh nuashonruithe (Eisiúint, Béite agus Alfa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="123"/>
@@ -13488,7 +13494,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="254"/>
         <source>Version</source>
-        <translation type="unfinished">Leagan</translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="255"/>
@@ -13508,7 +13514,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="255"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="278"/>
@@ -13536,7 +13542,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="657"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan an acmhainne.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="659"/>
@@ -13561,7 +13567,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar cheart an mod seo a nuashonrú?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="784"/>
@@ -13594,7 +13600,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
-        <translation type="unfinished">Leagan</translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
@@ -13609,12 +13615,12 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="178"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan an phacáiste acmhainní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="189"/>
@@ -13624,7 +13630,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="191"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar cheart an mod seo a nuashonrú?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -15128,7 +15134,7 @@ tá inheritsFrom ar iarraidh</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonrú</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="162"/>
@@ -15138,7 +15144,7 @@ tá inheritsFrom ar iarraidh</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="164"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar cheart an mod seo a nuashonrú?</translation>
     </message>
     <message>
         <source>
