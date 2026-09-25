@@ -7197,7 +7197,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods (Acesso Rápido):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
@@ -11269,7 +11269,7 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="259"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse mod deve ser atualizado?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="474"/>
