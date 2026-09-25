@@ -7892,7 +7892,7 @@ Reason:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">마인크래프트 %1</translation>
+        <translation>마인크래프트 %1</translation>
     </message>
 </context>
 <context>
@@ -9417,7 +9417,9 @@ Are you sure?</source>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>지원하지 않는 Modrinth 링크입니다.
+
+Prism Launcher는 현재 modrinth://modpack/fabulously-optimized와 같은 모드 팩 링크만 지원합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
