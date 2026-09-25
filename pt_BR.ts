@@ -15974,7 +15974,7 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esse mod deve ser atualizado?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="784"/>
@@ -16042,7 +16042,7 @@ Você tem certeza de que quer fazer isso?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="191"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esse mod deve ser atualizado?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -17740,7 +17740,7 @@ inheritsFrom está ausente</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="164"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esse mod deve ser atualizado?</translation>
     </message>
     <message>
         <source>
