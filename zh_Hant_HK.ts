@@ -105,7 +105,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要訪問私有數據時需要設置此項。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
@@ -130,17 +130,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>可以將此設置為第三方中繼數據服務器來使用修改過的庫或其他資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要訪問私有數據時才需要設置此項。 詳見&lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;官方文檔&lt;/a&gt; 。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>注：如果 CurseForge 服務已經可以正常工作，通常不需要設置此項。</translation>
     </message>
 </context>
 <context>
@@ -153,7 +153,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款允許同時擁有多個 Minecraft 實例的自定義啟動器，可以更加便利地管理 Minecraft。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -164,17 +164,17 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>構建日期：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>提交：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
@@ -209,17 +209,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>提交：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>構建日期：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>賬戶類型（Microsoft 賬戶或離線）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -270,7 +270,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>該賬戶的當前狀態。</translation>
     </message>
 </context>
 <context>
@@ -382,7 +382,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>未設置 Microsoft 身份驗證的客戶端 ID。</translation>
     </message>
 </context>
 <context>
@@ -418,12 +418,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽控件主題文件夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽圖標主題文件夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -513,7 +513,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[WARN] 一條不太合時宜的警告信息。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
@@ -523,7 +523,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] 一條嚇人的嚴重性錯誤信息！</translation>
     </message>
 </context>
 <context>
@@ -531,7 +531,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="699"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法顯示此日誌，因為日誌長度超過了%1行。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="923"/>
