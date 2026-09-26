@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API 秘鑰</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注：如果通過 Microsoft 身份驗證的登錄已經有效，則此項可能不需要設置。</translation>
+        <translation>注意：如果通過 Microsoft 身份驗證的登錄已經有效，則此項可能不需要設置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>用戶代理 (User Agent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>在此處輸入自定義用戶代理 (User Agent)。可用 $LAUNCHER_VER 替代啟動器的版本號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -265,7 +265,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="390"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>與帳戶關聯的Minecraft用戶名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
@@ -334,7 +334,8 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎！
+從“添加 Microsoft 賬戶”按鈕來鏈接你的 Microsoft 賬戶。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -344,7 +345,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>您必須先添加擁有Minecraft的Microsoft帳戶，然後才能添加離線帳戶。 &lt;br&gt;&lt;br&gt;如果您遺失了帳戶，可以聯系Microsoft尋求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -452,7 +453,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用猫猫圖片</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -497,17 +498,17 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR]哦哦哦！ 一個可怕的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[ERROR]可怕的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[INFO]一條人畜無害的消息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
@@ -517,7 +518,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] 一條隱藏的調試信息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
@@ -556,7 +557,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>正在更新...</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1140"/>
@@ -571,7 +572,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>更新失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1176"/>
@@ -592,7 +593,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>更新成功！</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1220"/>
