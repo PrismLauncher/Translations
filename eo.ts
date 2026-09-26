@@ -8077,7 +8077,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ŝargas lokan dosieron</translation>
     </message>
 </context>
 <context>
