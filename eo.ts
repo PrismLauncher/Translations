@@ -1394,7 +1394,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝargas lokan dosieron</translation>
     </message>
 </context>
 <context>
@@ -1619,7 +1619,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne povis elŝuti metadatenojn por %1 %2. Bonvolu ŝanĝi la version aŭ provu denove poste.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
@@ -1981,7 +1981,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="84"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Deskto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="87"/>
