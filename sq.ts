@@ -3687,12 +3687,12 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <translation>Zgjidh ikonën</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="24"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="22"/>
         <source>Icon category</source>
         <translation>Kategoria e ikonës</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="44"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="42"/>
         <source>Search Icons...</source>
         <translation>Kërko Ikona...</translation>
     </message>
