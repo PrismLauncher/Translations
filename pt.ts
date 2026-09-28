@@ -3963,39 +3963,44 @@ Por favor tenta de novo.</translation>
         <translation>Nenhuma versão do loader definida para o pacote de mods!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="402"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
+        <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Não foi possível renomear a pasta de substituições:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="413"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>A pasta de substituições especificada (%1) está ausente. Talvez o pacote de mods já tenha sido usado anteriormente?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="448"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader desconhecido no manifesto: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="463"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Pontos misteriosos foram removidos da versão do Minecraft quando o pacote de modsfoi importado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>A memória recomendada para o pacote de mods excede 90% da sua RAM - reduzindo de %1 MiB para %2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="788"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="794"/>
         <source>Removing old conflicting files...</source>
         <translation>A remover ficheiros antigos em conflito...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="805"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="811"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Não foi possível remover ficheiros antigos em conflito....</translation>
     </message>
@@ -4004,40 +4009,40 @@ Por favor tenta de novo.</translation>
         <translation type="vanished">Não foi possível encontrar a versão recomendada do Forge para o Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="526"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Não foi possível resolver os IDs de mods:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>Blocked mods found</source>
         <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Os seguintes ficheiros estão indisponíveis para transferência utilizando launchers de terceiros.&lt;br/&gt;Terás de os transferir manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="610"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="616"/>
         <source>Mod Download Flame</source>
         <translation>Transferir Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="641"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="647"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="654"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
         <source>Copying Blocked Mods...</source>
         <translation>A copiar Mods bloqueados...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="670"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="676"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>A copiar Mods bloqueados (%1 de %2 estão concluídos)</translation>
     </message>
@@ -4058,7 +4063,7 @@ Por favor tenta de novo.</translation>
         <translation type="vanished">PackageType não reconhecido/processado para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="646"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Downloading mods...</source>
         <translation>A transferir mods...</translation>
     </message>

@@ -3864,39 +3864,44 @@ Please try again.</source>
         <translation>هیچ نسخه‌ی بارگذار برای مادپک تنظیم نشده!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="402"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
+        <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>نمی توان نام پوشه overrides را تغییر داد:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="413"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>پوشه overrides مشخص شده (%1) یافت نمی شود. شاید مودپک از قبل استفاده شده؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="448"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>بارگذار ناشناخته مود در manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="463"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>نقاط پشت نوشتار(trailing dots) عجیبی از نسخه ماینکرافت درحین وارد کردن مودپک حذف شده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>حافظهٔ پیشنهادی این ماد از بیش از ۹۰٪ حافظهٔ RAM سیستم شما عبور کرده—در حال کاهش آن از %1 مگابایت به %2 مگابایت!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="788"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="794"/>
         <source>Removing old conflicting files...</source>
         <translation>در حال حذف فایل‌های قدیمیِ دارای تداخل...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="805"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="811"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>حذف فایل‌های قدیمیِ دارای تداخل، با شکست مواجه شد.</translation>
     </message>
@@ -3905,40 +3910,40 @@ Please try again.</source>
         <translation type="vanished">نمی توان نسخه پیشنهادی forge را برای ماینکرافت طرح نمود %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="526"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>ناتوانی در دریافت شناسه مود ها:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>Blocked mods found</source>
         <translation>مودهای مسدود شده پیدا شد</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>‌فایل‌های زیر در لانچرهای شخص ثالث برای بارگیری در دسترس نیستند. باید آنها را به صورت دستی دانلود کرده و به نمونه اضافه کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="610"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="616"/>
         <source>Mod Download Flame</source>
         <translation>بارگیری ماد Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="641"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="647"/>
         <source>%1 out of %2 complete</source>
         <translation>1% از %2 تکمیل شده است</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="654"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
         <source>Copying Blocked Mods...</source>
         <translation>کپی کردن مودهای مسدود شده...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="670"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="676"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>کپی کردن مودهای مسدود شده (%1 از %2 تکمیل شده)</translation>
     </message>
@@ -3959,7 +3964,7 @@ Please try again.</source>
         <translation type="vanished">PackageType ناشناخته/کنترل نشده برای: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="646"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Downloading mods...</source>
         <translation>دانلودکردن مودها...</translation>
     </message>

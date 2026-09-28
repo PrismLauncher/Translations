@@ -3192,82 +3192,87 @@ Are you sure you want to do this?</source>
         <translation>ບໍ່ໄດ້ກຳນົດເວີຊັນຕົວຕິດຕັ້ງມອດສຳລັບມອດແພັກ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="402"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
+        <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>ບໍ່ສາມາດປ່ຽນຊື່ໂຟນເດີ overrides ໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="413"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>ບໍ່ພົບໂຟນເດີ overrides ທີ່ລະບຸ (%1). ມອດແພັກນີ້ອາດຈະເຄີຍຖືກໃຊ້ໄປແລ້ວ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="448"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>ພົບຕົວຕິດຕັ້ງມອດທີ່ບໍ່ຮູ້ຈັກໃນ manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="463"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>ຈຸດທີ່ເກີນມາທາງທ້າຍເວີຊັນ Minecraft ຖືກລຶບອອກແລ້ວໃນຂະນະທີ່ນຳເຂົ້າແພັກ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>ໜ່ວຍຄວາມຈຳທີ່ແນະນຳສຳລັບມອດແພັກນີ້ເກີນ 90% ຂອງ RAM ໃນເຄື່ອງຂອງທ່ານ—ລະບົບຈຶ່ງປັບລົງຈາກ %1 MiB ເປັນ %2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="526"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>ບໍ່ສາມາດກວດສອບ ID ຂອງມອດໄດ້:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>Blocked mods found</source>
         <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="594"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນລັນເຊີພາກສ່ວນທີສາມ.&lt;br/&gt;ທ່ານຈຳເປັນຕ້ອງດາວໂຫຼດພວກມັນດ້ວຍຕົນເອງ ແລະ ເພີ່ມເຂົ້າໃນອິນສະແຕນຊ໌.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="610"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="616"/>
         <source>Mod Download Flame</source>
         <translation>ດາວໂຫຼດມອດ Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="641"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="647"/>
         <source>%1 out of %2 complete</source>
         <translation>ສຳເລັດ %1 ຈາກທັງໝົດ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="654"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
         <source>Copying Blocked Mods...</source>
         <translation>ກຳລັງຄັດລອກມອດທີ່ຖືກບລັອກ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="670"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="676"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>ກຳລັງຄັດລອກມອດທີ່ຖືກບລັອກ (ສຳເລັດ %1 ຈາກທັງໝົດ %2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="788"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="794"/>
         <source>Removing old conflicting files...</source>
         <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="805"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="811"/>
         <source>Failed to remove old conflicting files.</source>
         <translation type="unfinished">ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="646"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>Downloading mods...</source>
         <translation>ກຳລັງດາວໂຫຼດມອດ...</translation>
     </message>
