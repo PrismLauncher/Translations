@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>فعالسازی بازگشتی به Modrinth برای مود های مسدود شده</translation>
+        <translation>استفاده از Modrinth به‌عنوان جایگزین برای مودهای مسدودشده</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -1147,7 +1147,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>مود ها را برای نصب انتخاب کنید</translation>
+        <translation>ماد ها را برای نصب انتخاب کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1414,7 +1414,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">درحال بارگذاری فایل محلی</translation>
+        <translation>درحال بارگذاری فایل محلی</translation>
     </message>
 </context>
 <context>
@@ -1429,12 +1429,12 @@ Some versions of Minecraft may not launch.
     <name>BlockedModsDialog</name>
     <message>
         <source>All mods found</source>
-        <translation>همه ی مود ها پیدا شد</translation>
+        <translation>همه ی ماد ها پیدا شد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
-        <translation>لطفا مودهای گم شده را دانلود کنید.</translation>
+        <translation>لطفاً مادهای نصب‌ نشده را دانلود کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
@@ -2075,7 +2075,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>دستور پیش از اجرا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2090,7 +2090,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;دستور پیش از بارگذاری، قبل از بارگذاری متادیتای نمایه اجرا می‌شود. دستور پیش از اجرا، قبل از اجرای نمایه اجرا می‌شود و دستور پس از خروج، بعد از خروج آن اجرا می‌شود.&lt;/p&gt;&lt;p&gt;همهٔ این دستورات در پوشه کاری لانچر و با متغیرهای محیطی اضافی زیر اجرا می‌شوند:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - نام نمایه&lt;/li&gt;&lt;li&gt;$INST_ID - شناسهٔ اینستنس (نام پوشهٔ آن)&lt;/li&gt;&lt;li&gt;$INST_DIR - مسیر مطلق نمایه&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - مسیر مطلق Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - باینری Java مورد استفاده برای اجرا&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - پارامترهای خط فرمان مورد استفاده برای اجرا (توجه: اگر پارامترها شامل فاصله باشند، این متغیر به‌درستی کار نمی‌کند)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;دستور Wrapper امکان اجرای لانچر با استفاده از یک برنامهٔ Wrapper اضافی را فراهم می‌کند (مانند &lt;code&gt;optirun&lt;/code&gt; در لینوکس).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2282,12 +2282,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="49"/>
         <source>Version</source>
-        <translation type="unfinished">نسخه</translation>
+        <translation>نسخه</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">بروزرسانی</translation>
+        <translation>بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="90"/>
@@ -2309,7 +2309,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="164"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخه ی دیتا پک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="169"/>
@@ -2329,7 +2329,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="175"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>باید این دیتا پک بروزرسانی بشود؟</translation>
     </message>
 </context>
 <context>
@@ -3182,22 +3182,22 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>قفل کردن بروزرسانی ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>منبع را قفل کنید تا از بروزرسانی شدن آن جلوگیری کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="231"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>فعال کردن بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>منبع را از حالت قفل خارج کنید تا امکان به‌روزرسانی آن فراهم شود</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3340,7 +3340,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزار های جهان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
@@ -3350,22 +3350,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;اضافه کردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حذف کردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">نام</translation>
+        <translation>نام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>دستور</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3418,7 +3418,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>همه ی فایل ها (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -3428,12 +3428,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>دستور اشتباه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل انتخاب شده قابل اجرا نیست</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -5985,7 +5985,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1دستور خالی است.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
@@ -7327,7 +7327,7 @@ Reason:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">ماینکرفت %1</translation>
+        <translation>ماینکرفت %1</translation>
     </message>
 </context>
 <context>
@@ -7978,7 +7978,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="571"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;اسکین ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="574"/>
@@ -8056,7 +8056,7 @@ Reason:
     </message>
     <message>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته های گربه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="766"/>
@@ -8559,7 +8559,7 @@ Please check your trashbin to manually restore them.</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایه قابل ویرایش نیست</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
@@ -8862,7 +8862,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">تایید به‌روزرسانی</translation>
+        <translation>تایید به‌روزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -9170,7 +9170,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
         <source>General</source>
-        <translation type="unfinished">عمومی</translation>
+        <translation>عمومی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
@@ -9729,7 +9729,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ناشناخته</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
@@ -9910,7 +9910,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Update</source>
-        <translation type="unfinished">بروزرسانی</translation>
+        <translation>بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="233"/>
@@ -10586,12 +10586,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">درحال حذف کردن فایل‌های ناسازگار قبلی...</translation>
+        <translation>درحال حذف کردن فایل‌های ناسازگار قبلی...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="570"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">حذف فایل های قبلی دارای تداخل با شکست مواجه شد.</translation>
+        <translation>حذف فایل های قبلی دارای تداخل با شکست مواجه شد.</translation>
     </message>
 </context>
 <context>
@@ -11215,7 +11215,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished">خط های رنگی</translation>
+        <translation>خط های رنگی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
@@ -11918,7 +11918,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="761"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="961"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>بله</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="761"/>
@@ -12830,7 +12830,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="27"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
@@ -12915,17 +12915,17 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="151"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">مرتب‌سازی بر اساس مرتبط بودن</translation>
+        <translation>مرتب‌سازی بر اساس مرتبط بودن</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="153"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">مرتب‌سازی بر اساس دنبال‌کنندگان</translation>
+        <translation>مرتب‌سازی بر اساس دنبال‌کنندگان</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="154"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">مرتب سازی بر اساس جدیدترین</translation>
+        <translation>مرتب سازی بر اساس جدیدترین</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
@@ -13324,7 +13324,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">ناشناخته</translation>
+        <translation>ناشناخته</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
@@ -13342,7 +13342,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
@@ -13370,7 +13370,7 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">قادرنیست به باز کردن فایل 1% برای خواندن : 2%</translation>
+        <translation>قادرنیست به باز کردن فایل 1% برای خواندن : 2%</translation>
     </message>
 </context>
 <context>
@@ -13390,7 +13390,7 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>دیتا پک ها</translation>
     </message>
 </context>
 <context>
@@ -13398,12 +13398,12 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>دیتا پک ها</translation>
     </message>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>دیتا پک</translation>
     </message>
 </context>
 <context>
@@ -13497,7 +13497,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
         <source>resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
@@ -13507,12 +13507,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
         <source>shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>شیدر پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
         <source>data packs</source>
-        <translation type="unfinished"></translation>
+        <translation>دیتا پک ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
@@ -13570,7 +13570,7 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک ها</translation>
     </message>
 </context>
 <context>
@@ -13578,12 +13578,12 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک ها</translation>
     </message>
     <message>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک</translation>
     </message>
 </context>
 <context>
@@ -13613,7 +13613,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Donate information: </source>
-        <translation type="unfinished">اطلاعات اهدای کمک مالی: </translation>
+        <translation>اطلاعات اهدای کمک مالی: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
@@ -13727,7 +13727,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شیدر ها</translation>
     </message>
 </context>
 <context>
@@ -13735,12 +13735,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شیدر ها</translation>
     </message>
     <message>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>شیدر</translation>
     </message>
 </context>
 <context>
@@ -13816,7 +13816,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="254"/>
         <source>Version</source>
-        <translation type="unfinished">نسخه</translation>
+        <translation>نسخه</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="255"/>
@@ -13836,7 +13836,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="255"/>
         <source>Update</source>
-        <translation type="unfinished">بروزرسانی</translation>
+        <translation>بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="278"/>
@@ -13921,7 +13921,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
-        <translation type="unfinished">نسخه</translation>
+        <translation>نسخه</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
@@ -13931,7 +13931,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>ارائه دهنده</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
@@ -13941,7 +13941,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="56"/>
         <source>Update</source>
-        <translation type="unfinished">بروزرسانی</translation>
+        <translation>بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="93"/>
@@ -13953,12 +13953,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا ریسورس پک فعال است؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="178"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>ورژن ریسورس پک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="185"/>
@@ -13968,12 +13968,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="187"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازه ی ریسورس پک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="189"/>
         <source>The file name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام فایل ریسورس پک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="191"/>
@@ -13997,7 +13997,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="176"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>نام ریسورس پک.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="183"/>
@@ -14057,7 +14057,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
@@ -14079,7 +14079,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>آپدیت کردن ریسورس پک ها متوقف شد!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
@@ -14089,12 +14089,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>همه ی ریسورس پک ها بروز هستند :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>همه ی ریسورس پک های انتخاب شده به روز هستند 3:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -14115,7 +14115,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پک ها</translation>
     </message>
 </context>
 <context>
@@ -15509,7 +15509,7 @@ inheritsFrom گم شده</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">بروزرسانی</translation>
+        <translation>بروزرسانی</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="158"/>
@@ -16635,7 +16635,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">جزعیات</translation>
+        <translation>جزعیات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
@@ -16731,7 +16731,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Tools</source>
-        <translation type="unfinished">ابزار ها</translation>
+        <translation>ابزار ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
