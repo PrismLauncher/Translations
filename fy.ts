@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
         <source>Use Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebrûk Standert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Op &apos;e nij lade op lansearring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
