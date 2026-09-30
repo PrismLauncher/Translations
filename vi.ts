@@ -9491,12 +9491,16 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn sắp cập nhật modpack lên một phiên bản mới.
+Các tệp của bản cài đặt có thể bị thay đổi theo cách không thể đảo ngược.
+Vì thế, cực kì khuyến nghị tạo một bản sao lưu của bản cài đặt.
+
+Bạn chắc chắn chứ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Xác nhận cập nhật</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -9505,7 +9509,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn sắp cập nhật modpack lên phiên bản &quot;%1&quot;.
+Các tệp của bản cài đặt có thể bị thay đổi theo cách không thể đảo ngược.
+Vì thế, cực kì khuyến nghị tạo một bản sao lưu của bản cài đặt.
+
+Bạn chắc chắn chứ?</translation>
     </message>
 </context>
 <context>
@@ -9595,7 +9603,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi chạy &amp;As</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
