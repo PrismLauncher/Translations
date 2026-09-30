@@ -2398,9 +2398,6 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Interrompre</translation>
     </message>
@@ -2738,7 +2735,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>No s&apos;ha pogut exportar la instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
@@ -2890,7 +2886,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>La tasca va ser avortada per l&apos;usuari.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Avortar</translation>
     </message>
@@ -4499,7 +4494,6 @@ Si us plau, intenta-ho una altra vegada.</translation>
         <translation>Aquest URL no és un paquet de mods vàlid!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -5457,7 +5451,6 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
         <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -6381,8 +6374,6 @@ Vols jugar la demo?</translation>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
@@ -8821,9 +8812,6 @@ Motiu:
         <translation type="unfinished">La tasca va ser avortada per l&apos;usuari.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
@@ -9298,7 +9286,6 @@ Només pots actualitzar-lo amb un arxiu en format %1
         <translation type="unfinished">La tasca va ser avortada per l&apos;usuari.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -10980,8 +10967,6 @@ Els vols desactivar?</translation>
         <translation>Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
@@ -13236,6 +13221,11 @@ HTTP Status: %2</source>
         <source>Skip</source>
         <translation>Omet</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -14564,7 +14554,6 @@ Are you sure you want to close this dialog?</source>
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -15164,8 +15153,6 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -15298,9 +15285,6 @@ Are you sure?</source>
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -15578,7 +15562,6 @@ Are you sure?</source>
         <translation>La pujada ha finalitzat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -15912,8 +15895,6 @@ Are you sure?</source>
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>
@@ -16700,8 +16681,6 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
         <translation type="unfinished">Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation type="unfinished">Cancel·lar</translation>
     </message>

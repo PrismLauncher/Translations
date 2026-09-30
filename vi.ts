@@ -2451,9 +2451,6 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
         <translation>Các cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -2801,7 +2798,6 @@ Không thể khởi chạy phiên bản này do một vài thư viện đang b�
         <translation>Không thể xuất gói phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -2953,7 +2949,6 @@ Không thể khởi chạy phiên bản này do một vài thư viện đang b�
         <translation>Tác vụ bị hủy bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -4605,7 +4600,6 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Đường dẫn này là một modpack không hợp lệ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -5587,7 +5581,6 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -6540,8 +6533,6 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -8979,9 +8970,6 @@ Bạn có chắc không?</translation>
         <translation>Tác vụ bị hủy bỏ bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -9417,7 +9405,6 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation>Tác vụ bị gián đoạn bởi người dùng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -11080,8 +11067,6 @@ Bạn có chắc muốn tiếp tục?</translation>
         <translation>Cảnh Báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -13415,6 +13400,11 @@ Trạng thái HTTP: %2</translation>
         <source>Skip</source>
         <translation>Bỏ qua</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Hủy bỏ</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -14779,7 +14769,6 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -15394,8 +15383,6 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -15531,9 +15518,6 @@ Bạn có chắc?</translation>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -15821,7 +15805,6 @@ Bạn có chắc không?</translation>
         <translation>Tải lên hoàn tất</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -16174,8 +16157,6 @@ Bạn có chắc không?</translation>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
@@ -17014,8 +16995,6 @@ Cảnh báo: Tài nguyên này đã được liên kết cứng ở đâu đó. 
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>

@@ -2475,9 +2475,6 @@ Advertencia: Este recurso está vinculado de forma rígida a otra ubicación. Si
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -2825,7 +2822,6 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o aún no s
         <translation>No se puede exportar la instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -3021,7 +3017,6 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o aún no s
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -4700,7 +4695,6 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <translation>Esta url no es un pack de mods válido!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -5709,7 +5703,6 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -6674,8 +6667,6 @@ Necesitas comprar el juego primero para jugarlo.
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -9320,9 +9311,6 @@ Motivo:
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -9834,7 +9822,6 @@ Solo puede actualizarse mediante un archivo con formato %1
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -11579,8 +11566,6 @@ Ignorarlos puede provocar fallos en el juego.</translation>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -14107,6 +14092,11 @@ Estado de HTTP: %2</translation>
         <source>Aborted by user</source>
         <translation type="vanished">Abortado por el usuario</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15509,7 +15499,6 @@ Are you sure you want to close this dialog?</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -16136,8 +16125,6 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -16273,9 +16260,6 @@ Are you sure?</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -16591,7 +16575,6 @@ Comprueba que no contenga información personal.
         <translation>Subida finalizada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Aborto</translation>
     </message>
@@ -16948,8 +16931,6 @@ Esta acción es definitiva y el servidor desaparecerá de tu lista para siempre 
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -17811,8 +17792,6 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>

@@ -2463,9 +2463,6 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -2813,7 +2810,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>인스턴스를 내보낼 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -3009,7 +3005,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -4685,7 +4680,6 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>해당 URL은 유효한 모드 팩이 아닙니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -5683,7 +5677,6 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -6648,8 +6641,6 @@ Do you want to play the demo?</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -9253,9 +9244,6 @@ Reason:
         <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -9753,7 +9741,6 @@ This can be updated only using a file in %1 format
         <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -11477,8 +11464,6 @@ Ignoring them may break the game.</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -13970,6 +13955,11 @@ HTTP 상태: %2</translation>
         <source>Aborted by user</source>
         <translation type="vanished">사용자가 강제 종료했습니다</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15378,7 +15368,6 @@ Are you sure you want to close this dialog?</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -16005,8 +15994,6 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -16142,9 +16129,6 @@ Are you sure?</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -16460,7 +16444,6 @@ Are you sure?</source>
         <translation>업로드 완료함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -16817,8 +16800,6 @@ Are you sure?</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -17680,8 +17661,6 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>

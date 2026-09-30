@@ -2475,9 +2475,6 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <translation>Ostrzeżenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -2825,7 +2822,6 @@ Ta instancja nie może zostać uruchomiona, ponieważ brakuje niektórych biblio
         <translation>Nie udało się wyeksportować instancji</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -3021,7 +3017,6 @@ Ta instancja nie może zostać uruchomiona, ponieważ brakuje niektórych biblio
         <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -4725,7 +4720,6 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Ten url nie jest prawidłową paczką modyfikacji!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -5748,7 +5742,6 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -6713,8 +6706,6 @@ Czy chcesz zagrać w demo?</translation>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -9355,9 +9346,6 @@ Powód:
         <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -9881,7 +9869,6 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
         <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -11629,8 +11616,6 @@ Zignorowanie ich może zepsuć grę.</translation>
         <translation>Uwagi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -14177,6 +14162,11 @@ Status HTTP: %2</translation>
         <source>Aborted by user</source>
         <translation type="vanished">Anulowano przez użytkownika</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15596,7 +15586,6 @@ Czy na pewno chcesz zamknąć to okno?</translation>
         <translation>Ostrzeżenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -16223,8 +16212,6 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
         <translation>Uwagi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -16360,9 +16347,6 @@ Czy chcesz kontynuować?</translation>
         <translation>Ostrzeżenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Anuluj</translation>
     </message>
@@ -16678,7 +16662,6 @@ Czy jesteś pewien?</translation>
         <translation>Przesyłanie zakończone</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -17035,8 +17018,6 @@ Jesteś tego pewien?</translation>
         <translation>Uwagi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
@@ -17898,8 +17879,6 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
         <translation>Uwagi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>

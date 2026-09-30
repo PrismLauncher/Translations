@@ -2463,9 +2463,6 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -2813,7 +2810,6 @@ Questa istanza non può essere lanciata perché alcune librerie mancano o non so
         <translation>Impossibile esportare l&apos;istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -3009,7 +3005,6 @@ Questa istanza non può essere lanciata perché alcune librerie mancano o non so
         <translation>L&apos;operazione è stata interrotta dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -4685,7 +4680,6 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <translation>Questo url non corrisponde a un valido modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -5682,7 +5676,6 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -6635,8 +6628,6 @@ Vuoi giocare alla demo?</translation>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -9228,9 +9219,6 @@ Causa:
         <translation>L&apos;operazione è stata interrotta dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -9728,7 +9716,6 @@ Può essere aggiornato solo tramite file in formato %1
         <translation>L&apos;operazione è stata interrotta dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -11452,8 +11439,6 @@ Ignorarle potrebbe impedire il funzionamento del gioco.</translation>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -13941,6 +13926,11 @@ Stato HTTP: %2</translation>
         <source>Aborted by user</source>
         <translation type="vanished">Interrotto dall&apos;utente</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15338,7 +15328,6 @@ Sei sicuro di voler chiudere questo dialogo?</translation>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -15961,8 +15950,6 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -16098,9 +16085,6 @@ Sei sicuro/a?</translation>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Termina</translation>
     </message>
@@ -16416,7 +16400,6 @@ Sei sicuro?</translation>
         <translation>Caricamento completato</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -16773,8 +16756,6 @@ Sei sicuro?</translation>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
@@ -17636,8 +17617,6 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>

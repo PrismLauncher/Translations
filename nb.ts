@@ -2410,9 +2410,6 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
         <translation>Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -2720,7 +2717,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Klarte ikke eksportere instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -2872,7 +2868,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -4447,7 +4442,6 @@ Prøv på nytt.</translation>
         <translation>Denne URL-en er ikke en gyldig modpakke!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -5383,7 +5377,6 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -6294,8 +6287,6 @@ Vil du prøve demoen?</translation>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -8610,9 +8601,6 @@ Er du sikker?</translation>
         <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -9037,7 +9025,6 @@ Den kan bare oppdateres med en fil i %1-formatet
         <translation>Oppgaven ble avbrutt av brukeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -10604,8 +10591,6 @@ Do you want to disable them?</source>
         <translation>Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -12577,6 +12562,11 @@ HTTP Status: %2</source>
         <source>Skip</source>
         <translation>Hopp over</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -13809,7 +13799,6 @@ Er du sikker på at du vil lukke denne dialogboksen?</translation>
         <translation type="unfinished">Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
@@ -14410,8 +14399,6 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
         <translation type="unfinished">Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
@@ -14552,9 +14539,6 @@ Are you sure?</source>
         <translation type="unfinished">Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
@@ -14832,7 +14816,6 @@ Are you sure?</source>
         <translation>Opplasting fullført</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
@@ -15162,8 +15145,6 @@ Are you sure?</source>
         <translation type="unfinished">Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
@@ -15929,8 +15910,6 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
         <translation type="unfinished">Advarsler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>

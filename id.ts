@@ -2443,9 +2443,6 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <translation>Peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -2793,7 +2790,6 @@ Instansi ini tidak dapat diluncurkan karena beberapa librari tidak ditemukan ata
         <translation>Tidak dapat mengekspor instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -2965,7 +2961,6 @@ Instansi ini tidak dapat diluncurkan karena beberapa librari tidak ditemukan ata
         <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -4604,7 +4599,6 @@ Coba ulang lagi.</translation>
         <translation>Url ini bukanlah modpack yang valid !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -5546,7 +5540,6 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -6511,8 +6504,6 @@ Apakah Anda ingin memainkan demo?</translation>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -8986,9 +8977,6 @@ Apakah Anda yakin?</translation>
         <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -9428,7 +9416,6 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -11103,8 +11090,6 @@ Mengabaikannya dapat menimbulkan masalah.</translation>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Hentikan</translation>
     </message>
@@ -13420,6 +13405,11 @@ Status HTTP: %2</translation>
         <source>Skip</source>
         <translation>Lewati</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -14764,7 +14754,6 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -15387,8 +15376,6 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <translation>Peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Hentikan</translation>
     </message>
@@ -15524,9 +15511,6 @@ Apakah Anda yakin?</translation>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -15814,7 +15798,6 @@ Apakah Anda yakin?</translation>
         <translation>Selesai mengunggah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Hentikan</translation>
     </message>
@@ -16171,8 +16154,6 @@ Apakah Anda yakin?</translation>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Hentikan</translation>
     </message>
@@ -17034,8 +17015,6 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Hentikan</translation>
     </message>

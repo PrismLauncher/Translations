@@ -2431,9 +2431,6 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
         <translation>Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -2781,7 +2778,6 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
         <translation>Nepodarilo sa exportovať inštanciu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -2933,7 +2929,6 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
         <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -4544,7 +4539,6 @@ Prosím skúste to znova.</translation>
         <translation>Táto URL adresa nie je platný modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -5476,7 +5470,6 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -6413,8 +6406,6 @@ Chcete si zahrať demo?</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -8811,9 +8802,6 @@ Ste si istí?</translation>
         <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -9249,7 +9237,6 @@ Môže byť aktualizovaný iba pomocou súboru vo formáte %1
         <translation>Úloha bola prerušená používateľom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -10832,8 +10819,6 @@ Chcete ich deaktivovať?</translation>
         <translation>Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -12856,6 +12841,11 @@ Stav HTTP: %2</translation>
         <source>Skip</source>
         <translation>Prekočiť</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -14152,7 +14142,6 @@ Naozaj chcete toto dialógové okno zavrieť?</translation>
         <translation>Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -14752,8 +14741,6 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
         <translation type="unfinished">Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -14886,9 +14873,6 @@ Are you sure?</source>
         <translation type="unfinished">Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -15158,7 +15142,6 @@ Are you sure?</source>
         <translation>Odosielanie ukončené</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -15497,8 +15480,6 @@ Naozaj to chcete urobiť?</translation>
         <translation type="unfinished">Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
@@ -16300,8 +16281,6 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
         <translation type="unfinished">Upozornenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>

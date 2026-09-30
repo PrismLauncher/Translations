@@ -2369,9 +2369,6 @@ Upozorenje: Ovaj resurs je hard-linked negde drugo. Izmena njega takođe menja o
         <translation>Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Obustavi</translation>
     </message>
@@ -2672,7 +2669,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Neuspeo izvoz instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Prekini</translation>
     </message>
@@ -2812,7 +2808,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Zadatak je prekinuo korisnik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Prekini</translation>
     </message>
@@ -4333,7 +4328,6 @@ Molimo pokušajte ponovo.</translation>
         <translation>Ova URL adresa nije važeći paket modova !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Obustavi</translation>
     </message>
@@ -4973,7 +4967,6 @@ What would you like to do with %2?</source>
         <translation>Greška</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -5603,8 +5596,6 @@ You can change the Java version in the settings later.
         <translation>Greška</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -7383,9 +7374,6 @@ Reason:
         <translation type="unfinished">Zadatak je prekinuo korisnik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -7705,7 +7693,6 @@ Are you sure?</source>
         <translation type="unfinished">Zadatak je prekinuo korisnik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -8949,8 +8936,6 @@ Do you want to disable them?</source>
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -10799,6 +10784,11 @@ HTTP Status: %2</source>
         <source>Skip</source>
         <translation type="unfinished">Preskoči</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -11982,7 +11972,6 @@ Are you sure you want to close this dialog?</source>
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -12573,8 +12562,6 @@ Upozorenje: Ovaj resurs je hard-linked negde drugo. Izmena njega takođe menja o
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -12707,9 +12694,6 @@ Are you sure?</source>
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -12979,7 +12963,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -13297,8 +13280,6 @@ Are you sure?</source>
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>
@@ -14017,8 +13998,6 @@ Upozorenje: Ovaj resurs je hard-linked negde drugo. Izmena njega takođe menja o
         <translation type="unfinished">Upozorenja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation type="unfinished">Prekini</translation>
     </message>

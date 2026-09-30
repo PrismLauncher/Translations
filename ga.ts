@@ -2182,9 +2182,6 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -2484,7 +2481,6 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
         <translation>Ní féidir an sampla a easpórtáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -2609,7 +2605,6 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
         <translation>Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -4088,7 +4083,6 @@ Déan iarracht arís.</translation>
         <translation>Ní bearta leasaithe é an URL seo!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -4920,7 +4914,6 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
         <translation>Earráid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -5779,8 +5772,6 @@ Ar mhaith leat an taispeántas a imirt?</translation>
         <translation>Earráid</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -7854,9 +7845,6 @@ Cúis:
         <translation>Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -8305,7 +8293,6 @@ Ní féidir é seo a nuashonrú ach amháin trí chomhad i bhformáid %1 a úsá
         <translation>Tá an tasc curtha ar ceal ag an úsáideoir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -9752,8 +9739,6 @@ Ar mhaith leat iad a dhíchumasú?</translation>
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -11882,6 +11867,11 @@ Stádas HTTP: %2</translation>
         <source>Skip</source>
         <translation>Léim</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Tobscoir</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -13158,7 +13148,6 @@ An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</translation>
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -13761,8 +13750,6 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -13902,9 +13889,6 @@ An bhfuil tú cinnte?</translation>
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -14171,7 +14155,6 @@ An bhfuil tú cinnte?</translation>
         <translation>Uaslódáil críochnaithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -14525,8 +14508,6 @@ An bhfuil tú cinnte?</translation>
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>
@@ -15251,8 +15232,6 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <translation>Rabhaidh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Tobscoir</translation>
     </message>

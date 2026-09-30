@@ -2433,9 +2433,6 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -2783,7 +2780,6 @@ Den här instansen kan inte startas eftersom vissa bibliotek saknas eller inte h
         <translation>Kunde inte exportera instansen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -2979,7 +2975,6 @@ Den här instansen kan inte startas eftersom vissa bibliotek saknas eller inte h
         <translation>Arbetet har avbrutits av användaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -4651,7 +4646,6 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation>Denna URL är inte ett giltigt modpaket!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -5656,7 +5650,6 @@ Se till att det maximala minnesvärdet är lägre.</translation>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -6613,8 +6606,6 @@ Vill du spela i demoläget?</translation>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -9198,9 +9189,6 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation>Arbetet har avbrutits av användaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -9668,7 +9656,6 @@ Detta kan endast uppdateras med en fil i formatet %1
         <translation>Arbetet har avbrutits av användaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -11377,8 +11364,6 @@ Ignorerande kan förstöra spelet.</translation>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -13857,6 +13842,11 @@ HTTP Status: %2</translation>
         <source>Skip</source>
         <translation>Hoppa över</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15251,7 +15241,6 @@ Are you sure you want to close this dialog?</source>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -15878,8 +15867,6 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -16015,9 +16002,6 @@ Are you sure?</source>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -16333,7 +16317,6 @@ Kontrollera att den inte innehåller personlig information.
         <translation>Uppladdning slutförd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -16690,8 +16673,6 @@ Detta är permanent och servern kommer att försvinna från din lista för allti
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
@@ -17553,8 +17534,6 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>

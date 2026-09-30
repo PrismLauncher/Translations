@@ -2117,9 +2117,6 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -2400,7 +2397,6 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
         <translation>Nuk u mund të eksportohej instanca</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -2512,7 +2508,6 @@ Kjo instancë nuk mund të niset sepse disa biblioteka mungojnë ose nuk janë s
         <translation>Detyra u ndërpre nga përdoruesi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -3832,7 +3827,6 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
         <translation>Kjo URL nuk asht një paketë modesh e vlefshme!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -4359,7 +4353,6 @@ What would you like to do with %2?</source>
         <translation>Gabim</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -4975,8 +4968,6 @@ Mund të ndryshosh versionin e Java-s në cilësime ma vonë.
         <translation>Gabim</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -6770,9 +6761,6 @@ Arsyeja:
         <translation>Detyra u ndërpre nga përdoruesi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -7108,7 +7096,6 @@ Je i sigurt?</translation>
         <translation>Detyra u ndërpre nga përdoruesi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -8344,8 +8331,6 @@ Dëshiron t&apos;i çaktivizosh?</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Ndërprit</translation>
     </message>
@@ -10151,6 +10136,11 @@ Statusi HTTP: %2</translation>
         <source>Skip</source>
         <translation>Anashkalo</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -11365,7 +11355,6 @@ Jeni i sigurt që doni ta mbyllni këtë dialog?</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>
@@ -11942,8 +11931,6 @@ Jeni i sigurt që doni ta bëni këtë?</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>
@@ -12075,9 +12062,6 @@ Jeni i sigurt?</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>
@@ -12336,7 +12320,6 @@ Jeni i sigurt?</translation>
         <translation>Ngarkimi përfundoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>
@@ -12682,8 +12665,6 @@ Jeni i sigurt?</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>
@@ -13382,8 +13363,6 @@ mungon inheritsFrom</translation>
         <translation>Paralajmërime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Anulo</translation>
     </message>

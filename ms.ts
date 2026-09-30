@@ -2350,9 +2350,6 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <translation type="unfinished">Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation type="unfinished">Batalkan</translation>
     </message>
@@ -2650,7 +2647,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Tidak dapat mengeksport pemasangan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -2838,7 +2834,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -4348,7 +4343,6 @@ Sila cuba lagi.</translation>
         <translation>Url ini bukan pek mod yang sah !</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -5208,7 +5202,6 @@ Sila pastikan nilai memori maximum rendah.</translation>
         <translation type="unfinished">Ralat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation type="unfinished">Batalkan</translation>
     </message>
@@ -6085,8 +6078,6 @@ Adakah anda mahu bermain demo?</translation>
         <translation>Ralat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -8187,9 +8178,6 @@ Sebab:
         <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -8616,7 +8604,6 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -10048,8 +10035,6 @@ Adakah anda ingin menyahdayakannya?</translation>
         <translation>Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -12055,6 +12040,11 @@ HTTP Status: %2</source>
         <source>Skip</source>
         <translation>Langkau</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Batalkan</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -13311,7 +13301,6 @@ Are you sure you want to close this dialog?</source>
         <translation>Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -13911,8 +13900,6 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <translation>Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -14047,9 +14034,6 @@ Are you sure?</source>
         <translation type="unfinished">Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation type="unfinished">Batalkan</translation>
     </message>
@@ -14312,7 +14296,6 @@ Adakah anda pasti?</translation>
         <translation>Muat naik selesai</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -14668,8 +14651,6 @@ Adakah anda pasti?</translation>
         <translation>Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
@@ -15428,8 +15409,6 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <translation>Amaran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>

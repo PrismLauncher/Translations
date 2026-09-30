@@ -2174,9 +2174,6 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
         <translation type="unfinished">Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation type="unfinished">Interomp</translation>
     </message>
@@ -2437,7 +2434,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>Impussibil espuartâ la istance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -2562,7 +2558,6 @@ This instance cannot be launched because some libraries are missing or have not 
         <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -4041,7 +4036,6 @@ Par plasê, prove di gnûf.</translation>
         <translation>Chest url nol è un modpack valit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -4877,7 +4871,6 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
         <translation>Erôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -5740,8 +5733,6 @@ Desideristu zuiâ ae dimostrazion?</translation>
         <translation>Erôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -7823,9 +7814,6 @@ Motîf:
         <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -8268,7 +8256,6 @@ Al è pussibil inzornâlu nome doprant un file in formât %1
         <translation>La ativitât e je stade interote dal utent.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -9744,8 +9731,6 @@ Do you want to disable them?</source>
         <translation>Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -11859,6 +11844,11 @@ Stât HTTP: %2</translation>
         <source>Skip</source>
         <translation>Salte</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Interomp</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -13121,7 +13111,6 @@ Sierâ pardabon chest dialic?</translation>
         <translation>Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -13724,8 +13713,6 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
         <translation>Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -13865,9 +13852,6 @@ Gjavâ pardabon?</translation>
         <translation>Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -14134,7 +14118,6 @@ Cjariâ pardabon?</translation>
         <translation type="unfinished">Cjariament copletât</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Interomp</translation>
     </message>
@@ -14488,8 +14471,6 @@ Gjavâ pardabon?</translation>
         <translation type="unfinished">Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation type="unfinished">Interomp</translation>
     </message>
@@ -15214,8 +15195,6 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
         <translation type="unfinished">Avîs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation type="unfinished">Interomp</translation>
     </message>

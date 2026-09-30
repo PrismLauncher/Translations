@@ -2454,9 +2454,6 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="172"/>
-        <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="239"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -2804,7 +2801,6 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation>Nepodařilo se exportovat instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -3000,7 +2996,6 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="204"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -4679,7 +4674,6 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Na zadané adrese se nenachází platný modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="178"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -5702,7 +5696,6 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -6663,8 +6656,6 @@ Chcete si zahrát demo?</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="170"/>
-        <location filename="src/launcher/LaunchController.cpp" line="484"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -9268,9 +9259,6 @@ Důvod:
         <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1035"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -9774,7 +9762,6 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
         <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="159"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -11522,8 +11509,6 @@ Jejich ignorování může rozbít hru.</translation>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -14048,6 +14033,11 @@ Stav HTTP: %2</translation>
         <source>Aborted by user</source>
         <translation type="vanished">Přerušeno uživatelem</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
+        <source>Abort</source>
+        <translation type="unfinished">Přerušit</translation>
+    </message>
 </context>
 <context>
     <name>ProjectItemDelegate</name>
@@ -15452,7 +15442,6 @@ Opravdu chcete zavřít tuto nabídku?</translation>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="190"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -16079,8 +16068,6 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -16216,9 +16203,6 @@ Jste si jisti?</translation>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="244"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -16534,7 +16518,6 @@ Jste si jisti?</translation>
         <translation>Nahrávání dokončeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -16891,8 +16874,6 @@ Jste si jisti?</translation>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="112"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="185"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -17754,8 +17735,6 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="191"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
