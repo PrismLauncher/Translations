@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Server imovine</translation>
+        <translation>Resurse Servera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
@@ -59,18 +59,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Ovo možete postaviti na drugi server ukoliko ima problema s preuzimanjem nasljednih FML biblioteka. (Minecraft 1.5.2 i predhodne verzije)</translation>
+        <translation>Ovo možete postaviti na drugi server ukoliko ima problema s preuzimanjem nasljednih FML bibliotekama (Minecraft 1.5.2 i ranije).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;API ključevi</translation>
+        <translation>&amp;API Ključevi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>&amp;Microsoft autentifikacija</translation>
+        <translation>&amp;Microsoft Autentifikacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="295"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Omogući pričuvni prijelaz na Modrinth za blokirane modove.</translation>
+        <translation>Omogući pričuvni prijelaz na Modrinth za blokirane modove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation>Korisnički agent</translation>
+        <translation>Korisnički Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;data server</translation>
+        <translation>Meta&amp;data Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -181,7 +181,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Natuknica: trebate samo postaviti ovo kako bi pristupili privatnim podatcima. Pročitajte &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaciju&lt;/a&gt; za više informacija.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Napomena: trebate samo postaviti ovo kako bi pristupili privatnim podatcima. Pročitajte &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaciju&lt;/a&gt; za više informacija.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -605,12 +605,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>Pomakni &amp;gore</translation>
+        <translation>Pomakni &amp;Gore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Pomakni &amp;dolje</translation>
+        <translation>Pomakni &amp;Dolje</translation>
     </message>
     <message>
         <source>Welcome!
@@ -779,7 +779,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Pogledaj cat pack folder.</translation>
+        <translation>Pogledaj cat packs mapu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -826,7 +826,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation>Omogući mačku</translation>
+        <translation>Omogući cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -3707,7 +3707,7 @@ Jeste li sigurni da to želite napraviti?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamjena sadrži put koja vodi na proizvoljnu lokaciju (%1). To predstavlja sigurnosni rizik i nije dopušteno.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
@@ -4729,7 +4729,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Unable to open supplied zip file.</translation>
+        <translation>Nije moguće otvoriti priloženu zip datoteku.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
@@ -6256,7 +6256,7 @@ Treba li ga sada ukloniti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Are you sure you want to remove pack %1?</translation>
+        <translation>Jeste li sigurni da želite ukloniti paket %1?</translation>
     </message>
 </context>
 <context>
@@ -7383,9 +7383,9 @@ Za ručno brisanje predmemorije metapodataka pritisnite Folders -&gt; View Launc
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and its %n registered shortcut</numerusform>
-            <numerusform> and its %n registered shortcuts</numerusform>
-            <numerusform></numerusform>
+            <numerusform> i njegov registrirani prečac %n</numerusform>
+            <numerusform> i njegovih registriranih prečaca %n</numerusform>
+            <numerusform> i njegovih registriranih prečaca %n</numerusform>
         </translation>
     </message>
     <message>
@@ -7805,7 +7805,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni &amp;As</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
@@ -9317,7 +9317,7 @@ Ažurirajte %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="263"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</translation>
+        <translation>Jedna od datoteka ima put koja vodi do proizvoljne lokacije (%1). To predstavlja sigurnosni rizik i nije dopušteno.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="275"/>
@@ -9344,7 +9344,7 @@ Ažurirajte %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="409"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Could not understand pack index:
+        <translation>Nije bilo moguće razumjeti indeks paketa:
 </translation>
     </message>
     <message>
@@ -10936,7 +10936,7 @@ HTTP status: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished">Prekini</translation>
+        <translation>Prekini</translation>
     </message>
 </context>
 <context>
@@ -13726,7 +13726,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <source>Skin file does not exist!</source>
-        <translation>Skin file does not exist!</translation>
+        <translation>Skin datoteka nepostoji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
@@ -13736,7 +13736,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="318"/>
         <source>Reset skin</source>
-        <translation>Reset skin</translation>
+        <translation>Resetiraj skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
@@ -13828,7 +13828,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="505"/>
         <source>user id is empty</source>
-        <translation>korisnički ID je prazan</translation>
+        <translation>korisnički id je prazan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="515"/>
