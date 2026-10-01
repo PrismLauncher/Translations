@@ -595,7 +595,7 @@ Si eres nou ací, pots polsar el botó &quot;Afig Microsoft&quot; per a enllaça
     <message>
         <location filename="src/launcher/Application.cpp" line="799"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustaments</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="944"/>
@@ -616,7 +616,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="961"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització en procés</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="985"/>
@@ -626,12 +626,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;intent d&apos;actualització ha fallat
+
+Assegura&apos;t que la instal·lació funciona correctament abans de continuar.
+Comprova el registre d&apos;actualització de Prism Launcher a:
+%1
+per a detalls de l&apos;últim intent d&apos;actualització.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="993"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualització ha fallat</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1017"/>
@@ -647,12 +652,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualització acabada amb èxit
+
+Ara estàs utilitzant la versió %1.
+Fes una ullada al registre de l&apos;actualitzador de Prism Launcher a:·
+%1
+per a obtindre&apos;n els detalls.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1025"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització conclosa</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1057"/>
