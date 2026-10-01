@@ -7734,7 +7734,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hleð staðbundna skrá</translation>
     </message>
 </context>
 <context>
