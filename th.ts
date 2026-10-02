@@ -13687,12 +13687,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>รีซอร์ซแพ็กทั้งหมดคือเวอร์ชั่นปัจจุบันแล้ว :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>รีซอร์ซแพ็กที่เลือกทั้งหมดคือเวอร์ชั่นปัจจุบันแล้ว :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -13713,7 +13713,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>รีซอร์ซแพ็ก</translation>
     </message>
 </context>
 <context>
@@ -13725,7 +13725,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชั่นที่เลือก:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -13777,7 +13777,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="400"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้มเหลว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="138"/>
@@ -13914,7 +13914,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>กลับ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="46"/>
@@ -13993,7 +13993,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปโหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
@@ -14064,7 +14064,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="487"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปโหลดเสร็จสิ้น</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -14133,12 +14133,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่เผยแพร่</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเวอร์ชั่นเพื่อดาวน์โหลด</translation>
     </message>
 </context>
 <context>
@@ -14161,14 +14161,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่เผยแพร่</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเวอร์ชั่นเพื่อดาวน์โหลด
+
+ปัจจุบันดาวโหลดเวอร์ชั่น: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -14199,7 +14201,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่มา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
