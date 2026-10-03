@@ -2353,7 +2353,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy zaktualizować tą paczkę danych?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2368,7 +2368,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja paczki danych.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -3302,22 +3302,22 @@ Ta instancja nie może zostać uruchomiona, ponieważ brakuje niektórych biblio
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstrzymaj aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokuj element aby zatrzymać jego aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="231"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Wznów aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Odblokuj zasób, aby zezwolić na jego aktualizacje</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3541,7 +3541,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation>Executables (*.exe *.bat);;All Files (*)</translation>
+        <translation>Pliki wykonywalne (*.exe *.bat);;Wszystkie pliki (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
@@ -7396,17 +7396,17 @@ Może być konieczne naprawienie modyfikacji, ponieważ gra nadal zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wszystkie (wydania, bety, alfy)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tylko wydania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="536"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wydanie i Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
@@ -7975,7 +7975,7 @@ Powód:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9536,7 +9536,9 @@ Czy chcesz kontynuować?</translation>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewspierany link Modrinth.
+
+PrismLauncher aktualnie wspiera jedynie linki do paczek modyfikacji, tj. modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
@@ -9940,7 +9942,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Właśnie zamierzasz zaktualizować paczkę modyfikacji do nowszej wersji.
+Nieodwracalne zmiany mogą nastąpić w plikach instancji.
+Dlatego też zaleca się utworzenie lokalnej kopii zapasowej instancji.
+
+Kontynuować?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
@@ -11278,7 +11284,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="288"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy ta modyfikacja powinna zostać zaktualizowana?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="503"/>
@@ -11707,17 +11713,17 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź aktualizacje (tylko wydania)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdź aktualizacje (tylko wydania i Beta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdź aktualizacje (wydania, Beta i Alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
@@ -13676,7 +13682,6 @@ The updater cannot continue until you fix this problem.</source>
         <translation>Aktualizator nie mógł utworzyć pliku dziennika – %1.
 
 Upewnij się, że masz uprawnienia do zapisu w folderze danych.
-
 (%2)
 
 Aktualizator nie będzie mógł kontynuować działania, dopóki nie rozwiążesz tego problemu.</translation>
@@ -14161,7 +14166,7 @@ Status HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Przerwij</translation>
     </message>
 </context>
 <context>
@@ -15986,7 +15991,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja zasobu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="677"/>
@@ -16011,7 +16016,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy ta modyfikacja powinna zostać zaktualizowana?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="811"/>
@@ -16082,7 +16087,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="198"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy ta modyfikacja powinna zostać zaktualizowana?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -17770,7 +17775,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="171"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy ta modyfikacja powinna zostać zaktualizowana?</translation>
     </message>
     <message>
         <source>
@@ -19270,7 +19275,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>The tool command is empty.</source>
-        <translation>Narzędzie Komendy nie może być puste</translation>
+        <translation>Narzędzie Komendy nie może być puste.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="384"/>
