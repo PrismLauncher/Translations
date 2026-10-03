@@ -1932,7 +1932,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri kopírovaní sveta nastalo zlyhanie.</translation>
     </message>
 </context>
 <context>
@@ -2309,22 +2309,22 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Má sa tento dátový balík aktualizovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Vylepšenie</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzia dátového balíka.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -2494,12 +2494,12 @@ Naozaj chcete vykonať túto akciu?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazávam svet...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazávanie sveta zlyhalo.</translation>
     </message>
 </context>
 <context>
@@ -3214,7 +3214,7 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzamknúť aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
@@ -3224,12 +3224,12 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="231"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Odomknúť aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odomknite zdroj, aby bolo možné ho aktualizovať</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3382,22 +3382,22 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Pridať</translation>
+        <translation>&amp;Pridať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vymazať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Názov</translation>
+        <translation>Názov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Príkaz</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3450,7 +3450,7 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Všetky súbory (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -3460,12 +3460,12 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný príkaz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybraný súbor nie je spustiteĺný</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3858,17 +3858,17 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítanie starých súborov zlyhalo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa načítať staré súbory, pretože akcia bola prerušená. To môže mať za následok duplicitu niektorých súborov. Želáte si pokračovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa načítať staré súbory, z dôvodu: %1. To môže mať za následok duplicitu niektorých súborov. Želáte si pokračovať?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
