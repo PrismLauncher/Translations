@@ -1252,42 +1252,42 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
         <translation>ກຳລັງໂຫຼດສ່ວນປະກອບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="219"/>
         <source>Aborted</source>
         <translation>ຖືກຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="243"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>ວຽກການໂຫຼດ metadata ຂອງບາງສ່ວນປະກອບບໍ່ສຳເລັດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="248"/>
         <source>Downloading metadata for %1 components</source>
         <translation>ກຳລັງດາວໂຫຼດ metadata ສຳລັບ %1 ສ່ວນປະກອບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="487"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>ກວດພົບຄວາມຕ້ອງການທີ່ຂັດແຍ້ງກັນໃນລະຫວ່າງການກວດສອບຄວາມກ່ຽວພັນ (dependencies)!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="504"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>ຊຸດເກມມີຄວາມກ່ຽວພັນທີ່ຂັດແຍ້ງກັນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="510"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>ຊຸດເກມມີຄວາມກ່ຽວພັນທີ່ຍັງແກ້ໄຂບໍ່ໄດ້ໃນລະຫວ່າງການໂຫຼດ/ກວດສອບເພື່ອເລີ່ມເກມ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="810"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
         <translation>ບໍ່ສາມາດດາວໂຫຼດ metadata ສຳລັບ %1 %2. ກະລຸນາປ່ຽນເວີຊັນ ຫຼື ລອງໃໝ່ອີກຄັ້ງ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="817"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>ວຽກອັບເດດ metadata ຂອງສ່ວນປະກອບຫຼົ້ມເຫຼວໃນຂະນະທີ່ດາວໂຫຼດຈາກເຊີເວີ:
@@ -10653,37 +10653,37 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished">ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="628"/>
         <source>No compatible version of %1 found for %2 %3</source>
         <translation>ບໍ່ພົບເວີຊັນທີ່ເຂົ້າກັນໄດ້ຂອງ %1 ສຳລັບ %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="632"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="634"/>
         <source>No version list in metadata index for %1</source>
         <translation>ບໍ່ມີລາຍຊື່ເວີຊັນໃນ metadata index ສຳລັບ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="705"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="707"/>
         <source>%1 is missing requirement %2 %3</source>
         <translation>%1 ຂາດສິ່ງທີ່ຕ້ອງການ %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="712"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="714"/>
         <source>%1, a dependency of this component, has reported issues</source>
         <translation>%1, ເຊິ່ງເປັນສ່ວນປະກອບຂອງອົງປະກອບນີ້, ໄດ້ລາຍງານບັນຫາ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="716"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="718"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
         <translation>%1, ເຊິ່ງເປັນສ່ວນປະກອບຂອງອົງປະກອບນີ້, ບໍ່ແມ່ນເວີຊັນທີ່ຕ້ອງການ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="720"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="722"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
         <translation>%1, ເຊິ່ງເປັນສ່ວນປະກອບຂອງອົງປະກອບນີ້, ບໍ່ແມ່ນເວີຊັນທີ່ແນະນຳ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="734"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="736"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
         <translation>%1 ແລະ %2 ເປັນທີ່ຮູ້ຈັກວ່າບໍ່ສາມາດເຮັດວຽກຮ່ວມກັນໄດ້. ແນະນຳໃຫ້ລຶບອັນໃດອັນໜຶ່ງອອກ.</translation>
     </message>
