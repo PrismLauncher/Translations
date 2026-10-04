@@ -2622,29 +2622,31 @@ Toch starten? Dit kan vertragingen in het spel en op uw systeem veroorzaken.</tr
         <translation type="vanished">Controleren of mods metadata hebben...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="97"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="98"/>
         <source>Checking if resources have metadata...</source>
         <translation>Controleren of bronnen metadata hebben...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="171"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Metadata informatie opvragen van %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="173"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Metadata informatie voor %1 opvragen van &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="252"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="325"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="253"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="334"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>API antwoord voor &apos;%1&apos; van Modrinth analyseren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="392"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="470"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="445"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="486"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
     </message>
@@ -3789,18 +3791,18 @@ Probeer het opnieuw.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="53"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod-ID&apos;s opzoeken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="98"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="123"/>
         <source>Invalid data returned from the API.</source>
         <translation>Ongeldige gegevens geretourneerd door de API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="221"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API-antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
     </message>
@@ -3812,7 +3814,7 @@ Probeer het opnieuw.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="39"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Bronnen voorbereiden voor CurseForge...</translation>
@@ -3827,37 +3829,39 @@ Probeer het opnieuw.</translation>
         <translation type="vanished">API antwoord voor &apos;%1&quot; ophalen van CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="84"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="90"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="91"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Geen geldige versie voor deze bron gevonden. Het is waarschijnlijk niet beschikbaar voor de huidige spelversie / modlader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Geen geldige versie gevonden voor deze bron. Het is waarschijnlijk niet beschikbaar voor de huidige spelversie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="172"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API antwoord van CurseForge analyseren voor &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="177"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Bron heeft een nieuwe update beschikbaar, maar is niet downloadbaar met CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="110"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="111"/>
         <source>Not installed</source>
         <translation>Niet geïnstalleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="112"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="113"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
     </message>
@@ -4156,7 +4160,8 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="214"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="295"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API antwoord voor &apos;%1&apos; van CurseForge analyseren...</translation>
     </message>
@@ -4166,7 +4171,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <translation>Project informatie van CurseForge zoeken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
         <translation>Bestanden toevoegen...</translation>
     </message>
@@ -4271,27 +4276,27 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="295"/>
         <source> by </source>
         <translation> door </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>External links:</source>
         <translation>Externe links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Verbeterpunten: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="308"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="311"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Broncode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -4417,7 +4422,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <translation>Haal afhankelijkheden op</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="238"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="222"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Er is een netwerkfout opgetreden. Projectafhankelijkheden konden niet worden geladen:%1</translation>
@@ -11735,18 +11740,18 @@ Gelieve %1 bij te werken!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="359"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Er is een netwerkfout opgetreden. Kon geen modpacks laden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="363"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -12086,48 +12091,48 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <translation>Sorteren op totaal aantal downloads</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="211"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="255"/>
         <source> by </source>
         <translation> door </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dit project is gearchiveerd. Het zal geen verdere updates ontvangen tenzij de auteur besluit het project te unarchiveren.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>Donate information: </source>
         <translation>Donatie-informatie: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>External links:</source>
         <translation>Externe links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Verbeterpunten: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Broncode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -14045,7 +14050,7 @@ Doorgaan met inkorten?</translation>
         <translation>Minecraft server</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="276"/>
         <source>Patch is not loaded yet.</source>
         <translation>Patch is nog niet geladen.</translation>
     </message>
@@ -14509,44 +14514,44 @@ Wil je deze als onderdeel van deze update verwijderen?</translation>
         <translation>onbekend</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="160"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
         <source>Sort by Featured</source>
         <translation>Sorteer op Aanbevolen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="161"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <source>Sort by Popularity</source>
         <translation>Sorteer op Populariteit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="162"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="155"/>
         <source>Sort by Last Updated</source>
         <translation>Sorteer op laatst bijgewerkt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <source>Sort by Name</source>
         <translation>Sorteer op Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
         <source>Sort by Author</source>
         <translation>Sorteer op Auteur</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="134"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="152"/>
         <source>Sort by Downloads</source>
         <translation>Sorteer op Downloads</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="135"/>
         <source>Sort by Category</source>
         <translation>Sorteer op Categorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <source>Sort by Game Version</source>
         <translation>Op spelversie sorteren</translation>
     </message>
@@ -15196,10 +15201,10 @@ Weet u zeker dat u dit venster wil afsluiten?</translation>
 <context>
     <name>ResourceDownload::ResourceModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="264"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="471"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
@@ -15212,28 +15217,28 @@ Weet u zeker dat u dit venster wil afsluiten?</translation>
         <translation type="vanished">Er is een netwerkfout opgetreden. Kon niet projectinfo laden:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="270"/>
         <source>A network error occurred. Could not load project versions: %1</source>
         <translation>Er heeft een verbingdingsfout plaats gevonden. Kon projectversies niet laden: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="298"/>
         <source>A network error occurred. Could not load project info: %1</source>
         <translation>Er heeft een verbingdingsfout plaats gevonden. Kon projectinformatie niet laden: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="304"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Het verzoek is afgebroken om een onbekende reden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="471"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Een netwerkfout is opgetreden. Mods konden niet geladen worden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="487"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API-versie te oud!
@@ -15463,7 +15468,7 @@ De auteur heeft waarschijnlijk derdepartijlaunchers geblokeerd.</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -15472,7 +15477,7 @@ Waarschuwing: Deze bron is al ergens anders symbolisch gelinkt. Hem bijwerken za
 Canoniek Pad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -15522,70 +15527,70 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <translation type="vanished">Laatst gewijzigd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="279"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>Confirm toggle</source>
         <translation>Omschakelen bevestigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="271"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Als je deze bron in- of uitschakelt terwijl het spel actief is, kan het spel crashen.
 Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="671"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Is het gegeven ingeschakeld?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
         <source>The name of the resource.</source>
         <translation>De naam van het gegeven.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="666"/>
         <source>The version of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="677"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="668"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>De datum en tijd dat dit gegeven voor het laatst is aangepast (of toegevoegd).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="679"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="670"/>
         <source>The source provider of the resource.</source>
         <translation>De bronleverancier van de hulpbron.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="672"/>
         <source>The size of the resource.</source>
         <translation>De grootte van de bron.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="683"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
         <source>The file name of the resource.</source>
         <translation>De bestandsnaam van de bron.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="676"/>
         <source>Should this mod be updated?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="802"/>
         <source>Override Columns Visibility</source>
         <translation>Kolomzichtbaarheid Overschrijden</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="815"/>
         <source>Show / Hide Columns</source>
         <translation>Kolommen weergeven/verbergen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
         <translation type="unfinished">Afbeelding</translation>
     </message>

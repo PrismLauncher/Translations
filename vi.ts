@@ -2651,29 +2651,31 @@ Bạn vẫn muốn khởi chạy? Điều này có thể làm chậm game và l�
         <translation type="vanished">Kiểm tra nếu mods có metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="97"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="98"/>
         <source>Checking if resources have metadata...</source>
         <translation>Đang kiểm tra xem liệu các tài nguyên có metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="171"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Đang yêu cầu thông tin metadata từ %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="173"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Đang yêu cầu thông tin metadata cho &apos;%2&apos; từ %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="252"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="325"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="253"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="334"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Đang phân tích cú pháp API phản hồi từ Modrinth cho &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="392"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="470"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="445"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="486"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích cú pháp API phản hồi từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
@@ -3774,18 +3776,18 @@ Vui lòng thử lại.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="53"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
         <translation>Đang giải quyết mod IDs...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="98"/>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="123"/>
         <source>Invalid data returned from the API.</source>
         <translation>Dữ liệu không hợp lệ được trả về từ API.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="221"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích phản hồi từ CurseForge API cho &apos;%1&apos;...</translation>
     </message>
@@ -3797,7 +3799,7 @@ Vui lòng thử lại.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="38"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="39"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
         <translation>Đang chuẩn bị tài nguyên cho CurseForge...</translation>
@@ -3812,37 +3814,39 @@ Vui lòng thử lại.</translation>
         <translation type="vanished">Nhận phản hồi API từ CurseForge cho &apos;% 1&apos; ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="84"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Xử lý phản hồi API từ CurseForge cho &apos;% 1&apos; ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="90"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="91"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Không tìm thấy phiên bản hợp lệ cho tài nguyên này. Rất có thể nó không có sẵn cho phiên bản game / mod loader hiện tại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="93"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Không tìm thấy phiên bản phù hợp cho tài nguyên này. Rất có thể nó không có sẵn cho phiên bản game hiện tại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="172"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích phản hồi API từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="177"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
         <translation>Tài nguyên có cập nhật mới, nhưng không thể tải xuống được từ CurseForge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="110"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="111"/>
         <source>Not installed</source>
         <translation>Chưa được cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="112"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="113"/>
         <source>Unknown</source>
         <translation>Không xác định</translation>
     </message>
@@ -4141,7 +4145,8 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="214"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="259"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="295"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích cú pháp API phản hồi từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
@@ -4151,7 +4156,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Đang tìm thông tin dự án từ CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="319"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
         <translation>Đang thêm tập tin...</translation>
     </message>
@@ -4240,27 +4245,27 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="295"/>
         <source> by </source>
         <translation> bởi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>External links:</source>
         <translation>Liên kết ngoài:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Vấn đề: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="308"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="311"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Mã nguồn: &lt;a href=%1&gt;% 1 &lt;/a&gt;</translation>
     </message>
@@ -4386,7 +4391,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Tải các mod cần thiết</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="238"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="222"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Đã xảy ra lỗi mạng. Không thể tải các phần phụ thuộc của dự án:%1</translation>
@@ -11455,18 +11460,18 @@ Bạn có muốn vô hiệu hoá chúng không?</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="359"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Lỗi mạng. Không thể tải modpacks.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="363"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -11759,43 +11764,43 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Sắp xếp theo thứ tự cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="211"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dự án này đã đóng. Nó sẽ không nhận bất cứ cập nhật nào khác trừ khi tác giả quyết định mở lại dự án.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>Donate information: </source>
         <translation>Thông tin quyên góp: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>External links:</source>
         <translation>Liên kết ngoài:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Vấn đề: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Mã nguồn: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -11811,7 +11816,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Sắp xếp theo lượt tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="255"/>
         <source> by </source>
         <translation> bởi </translation>
     </message>
@@ -13692,7 +13697,7 @@ Xác nhận cắt bớt?</translation>
         <translation>Máy chủ Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="276"/>
         <source>Patch is not loaded yet.</source>
         <translation>Bản vá chưa được tải.</translation>
     </message>
@@ -14132,44 +14137,44 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
         <translation>không xác định</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="160"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
         <source>Sort by Featured</source>
         <translation>Sắp xếp theo Nổi bật</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="161"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <source>Sort by Popularity</source>
         <translation>Sắp xếp theo Độ phổ biến</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="162"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="155"/>
         <source>Sort by Last Updated</source>
         <translation>Sắp xếp theo Cập nhật mới nhất</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="163"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <source>Sort by Name</source>
         <translation>Sắp xếp theo tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
         <source>Sort by Author</source>
         <translation>Sắp xếp theo tác giả</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="134"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="152"/>
         <source>Sort by Downloads</source>
         <translation>Sắp xếp theo lượt tải</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="135"/>
         <source>Sort by Category</source>
         <translation>Lọc theo Phân loại</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <source>Sort by Game Version</source>
         <translation>Sắp xếp theo phiên bản trò chơi</translation>
     </message>
@@ -14818,36 +14823,36 @@ Bạn có chắc là muốn đóng cửa sổ này không?</translation>
 <context>
     <name>ResourceDownload::ResourceModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="264"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="471"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="270"/>
         <source>A network error occurred. Could not load project versions: %1</source>
         <translation>Đã có lỗi xảy ra. Không thể tải phiên bản của dự án: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="298"/>
         <source>A network error occurred. Could not load project info: %1</source>
         <translation>Đã có lỗi xảy ra. Không thể tải thông tin của dự án: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="304"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Yêu cầu bị hủy bỏ bởi nguyên nhân không rõ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="471"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Đã có lỗi xảy ra. Không thể tải mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="479"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="487"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Phiên bản API quá cũ!
@@ -15077,7 +15082,7 @@ Có thể tác giả đã chặn các trình khởi chạy của bên thứ ba (
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="576"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="567"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -15086,7 +15091,7 @@ Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉn
 Đường dẫn gốc: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="582"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -15132,70 +15137,70 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="279"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>Confirm toggle</source>
         <translation>Xác nhận thay đổi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="271"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Nếu bạn bật/tắt tài nguyên này trong lúc game đang chạy, nó có thể gây crash game.
 Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="671"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Có phải tài nguyên đã được bật?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
         <source>The name of the resource.</source>
         <translation>Tên của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="666"/>
         <source>The version of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="677"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="668"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Thời gian thay đổi (hoặc được thêm vào) gần đây nhất của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="679"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="670"/>
         <source>The source provider of the resource.</source>
         <translation>Nguồn cung cấp tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="681"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="672"/>
         <source>The size of the resource.</source>
         <translation>Kích cỡ của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="683"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="674"/>
         <source>The file name of the resource.</source>
         <translation>Tên tệp của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="685"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="676"/>
         <source>Should this mod be updated?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="802"/>
         <source>Override Columns Visibility</source>
         <translation>Vượt quá khả năng hiển thị của cột</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="815"/>
         <source>Show / Hide Columns</source>
         <translation>Hiện / Ẩn các cột</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
         <translation type="unfinished">Hình ảnh</translation>
     </message>
