@@ -1450,7 +1450,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังโหลดไฟล์ในเครื่อง</translation>
     </message>
 </context>
 <context>
@@ -2316,22 +2316,22 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>ควรอัปเดตแพ็กข้อมูลนี้หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชัน</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชันของ Data pack</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -3209,22 +3209,22 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกการอัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกทรัพยากรไว้เพื่อไม่ให้มีการอัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="231"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกการอัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="234"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>ปลดล็อกทรัพยากร เพื่อให้สามารถอัพเดตได้</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3367,22 +3367,22 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือการจัดการโลก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือที่กำหนดเองสำหรับเรียกใช้งานในโลกต่างๆ จากเมนู &quot;โลก&quot; ของ Instance คำสั่งรองรับตัวแทนที่ ${WORLD_PATH}</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;ลบ</translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
@@ -3392,7 +3392,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>คำสั่ง</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3440,27 +3440,27 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์โปรแกรม (*.exe *.bat);;ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ทั้งหมด (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกไฟล์โปรแกรม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>คำสั่งไม่ถูกต้อง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่เลือกไม่ใช่ไฟล์โปรแกรม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3851,17 +3851,17 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>การดึงไฟล์เก่าล้มเหลว</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>เราไม่สามารถดึงไฟล์เก่าได้เพราะงานถูกยกเลิกไปกลางคัน ซึ่งอาจทำให้ไฟล์บางส่วนถูกทำซ้ำ คุณต้องการทำต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>เราไม่สามารถดึงไฟล์เก่าได้เพราะ: %1 ซึ่งอาจทำให้ไฟล์บางส่วนถูกทำซ้ำ คุณต้องการดำเนินการต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
@@ -3891,7 +3891,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า Override มีเส้นทางที่ชี้ไปยังตำแหน่งใดก็ได้ (%1) ซึ่งถือเป็นความเสี่ยงด้านความปลอดภัยและไม่อนุญาตให้ใช้งาน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
@@ -3961,12 +3961,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="794"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">กำลังลบไฟล์เก่าที่ซ้ำกันอยู่</translation>
+        <translation>กำลังลบไฟล์เก่าที่ซ้ำกันอยู่...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="811"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">ไม่สามารถลบไฟล์เก่าที่ซ้ำกันอยู่ได้</translation>
+        <translation>ไม่สามารถลบไฟล์เก่าที่ซ้ำกันได้</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
@@ -4661,29 +4661,31 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังติดตั้งตัวโหลดตัวที่สอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ทำให้เกิดความขัดเเย้งกับ %2 ซึ่งถูกเปิดอยู่ใน Instance นี้, การที่ทั้งคู่ถูกเปิดใช้งานพร้อมกันอาจทำให้ Instance พังได้
+
+คุณต้องการทำกับ %2 อย่างไร?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>เก็บไว้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้งานมัน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>ถอนการติดตั้ง</translation>
     </message>
 </context>
 <context>
@@ -4699,12 +4701,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังนำเข้าโลก...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในการนำเข้าโลก</translation>
     </message>
 </context>
 <context>
@@ -5192,17 +5194,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">ข้าม</translation>
+        <translation>ข้าม</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">ไม่สามารถดาวน์โหลดไฟล์เกมได้</translation>
+        <translation>ไม่สามารถดาวน์โหลดไฟล์เกมได้: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
@@ -5243,12 +5245,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ต Instance ที่ทำงานอยู่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -5388,7 +5390,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
@@ -5774,7 +5776,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation type="unfinished">จาวา &amp; ตัวสั่งใช้</translation>
+        <translation>ไฟล์โปรแกรม &amp;Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
@@ -5798,7 +5800,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -5817,7 +5819,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
@@ -5832,7 +5834,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>เตือน เมื่อมีพื้นที่ใน ram ไม่พอ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -6087,26 +6089,30 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรันคำสั่ง %1 อยู่: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>คำสั่ง %1 นั้นว่างเปล่า, กำลังข้าม</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>คำสั่ง %1 ทำงานล้มเหลว ด้วยรหัสข้อผิดพลาด %2
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>คำสัง %1 ทำงานเสร็จสมบูรณ์
+
+</translation>
     </message>
 </context>
 <context>
@@ -6279,7 +6285,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>เซิร์ฟเวอร์สำหรับการยืนยันตัวตนปิดอยู่</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
@@ -6293,14 +6299,16 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีการเชื่อมต่ออินเตอร์เน็ต</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>คุณยังไม่ได้เชื่อมต่ออินเตอร์เน็ต กำลังเปิดใช้งานในโหมดออฟไลน์
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
@@ -6328,7 +6336,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาด error ในขณะที่กำลังรีเฟรช &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
