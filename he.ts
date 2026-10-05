@@ -3586,9 +3586,13 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>לא ניתן היה לחלץ את קובץ ה-jar הילידי &apos;%1&apos; ליעד &apos;%2&apos;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4772,12 +4776,12 @@ What would you like to do with %2?</source>
         <translation>העותק %1 משוכפל</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>שכפול תיקיית העותק נכשלה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>שכפול תיקיית העותק ננטש.</translation>
     </message>
@@ -4839,18 +4843,18 @@ What would you like to do with %2?</source>
         <translation>מתבצע ניסיון לזיהוי סוג העותק</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>ערכת המודים מחולצת</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>לא ניתן היה לפתוח את קובץ ה־zip של ערכת המודים שסופקה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>הארכיון לא מכיל ערכת מודים מזוהה.</translation>
     </message>
@@ -4859,7 +4863,7 @@ What would you like to do with %2?</source>
         <translation type="vanished">חילוץ המודפאק נכשל</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>לא ניתן היה לתקן הרשאות עבור %1</translation>
     </message>
@@ -5298,6 +5302,11 @@ What would you like to do with %2?</source>
         <translation>מתבצע חילוץ Java</translation>
     </message>
     <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="obsolete">מחלץ Java (התהליך אינו מדווח עבור ארכיונים מסוג tar)</translation>
     </message>
@@ -5310,7 +5319,6 @@ What would you like to do with %2?</source>
         <translation type="obsolete">אין אפשרות לחלץ את קובץ ה-tar שסופק.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
         <translation>אין אפשרות לפתוח את קובץ ה־zip שסופק.</translation>
     </message>
@@ -7338,11 +7346,29 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>לא היה ניתן ליצור את הקובץ</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>לא היה ניתן להוסיף את:</translation>
     </message>
@@ -7351,12 +7377,10 @@ Reason:
         <translation type="vanished">לא היה ניתן ליצור:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>לא היה ניתן לקרוא ולדחוס את %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>אירעה שגיאת zip</translation>
     </message>
@@ -7368,27 +7392,29 @@ Reason:
         <translation type="obsolete">אין אפשרות לפתוח את קובץ ה-zip שסופק.</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>ניתוח הקובץ %1 נכשל</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>נכשל חילוץ הקובץ %1 לתוך %2</translation>
     </message>
@@ -10167,6 +10193,10 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>נכשלה יצירת קובץ ה־jar המותאם אישית של Minecraft.</translation>
     </message>
@@ -15064,11 +15094,15 @@ Are you sure?</source>
         <translation>ערכת המודים מחולצת</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="vanished">לא ניתן היה לפתוח את קובץ ה־zip של ערכת המודים שסופקה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack</source>
         <translation>חילוץ ערכת המודים נכשל</translation>
     </message>
@@ -15114,17 +15148,21 @@ Are you sure?</source>
         <translation>ערכת המודים מחולצת</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>חילוץ ערכת המודים נכשל</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>לא ניתן היה לתקן הרשאות עבור %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>ייבוא העותק ננטש.</translation>
     </message>
@@ -15132,17 +15170,14 @@ Are you sure?</source>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>לא ניתן היה לפתוח את הקובץ &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15153,7 +15188,6 @@ Are you sure?</source>
         <translation>לא היה ניתן למצוא את „version.json” בתוך „bin/modpack.jar”, אך לא ידוע מה הגרסה של Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15163,8 +15197,24 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

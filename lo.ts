@@ -2941,9 +2941,13 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>ບໍ່ສາມາດແຕກໄຟລ໌ native jar &apos;%1&apos; ໄປຫາປາຍທາງ &apos;%2&apos; ໄດ້</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3905,12 +3909,12 @@ What would you like to do with %2?</source>
         <translation>ກຳລັງຄັດລອກອິນສະແຕນຊ໌ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>ການຄັດລອກໂຟນເດີອິນສະແຕນຊ໌ຫຼົ້ມເຫຼວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>ການຄັດລອກໂຟນເດີອິນສະແຕນຊ໌ຖືກຍົກເລີກ.</translation>
     </message>
@@ -3968,23 +3972,23 @@ What would you like to do with %2?</source>
         <translation>ກຳລັງກວດສອບປະເພດອິນສະແຕນຊ໌</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>ກຳລັງແຕກໄຟລ໌ມອດແພັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>ບໍ່ສາມາດເປີດໄຟລ໌ zip ຂອງມອດແພັກທີ່ລະບຸໄດ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>ໄຟລ໌ບີບອັດບໍ່ມີປະເພດມອດແພັກທີ່ລະບົບຮູ້ຈັກ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>ບໍ່ສາມາດແກ້ໄຂສິດການເຂົ້າເຖິງສຳລັບ %1 ໄດ້</translation>
     </message>
@@ -4161,6 +4165,10 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied zip file.</source>
         <translation>ບໍ່ສາມາດເປີດໄຟລ໌ zip ທີ່ລະບຸໄດ້.</translation>
     </message>
@@ -5848,21 +5856,37 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>ບໍ່ສາມາດສ້າງໄຟລ໌ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>ບໍ່ສາມາດເພີ່ມໄດ້:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>ບໍ່ສາມາດອ່ານ ແລະ ບີບອັດ %1 ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>ເກີດຂໍ້ຜິດພາດກ່ຽວກັບ zip</translation>
     </message>
@@ -5870,27 +5894,29 @@ Reason:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>ບໍ່ສາມາດນັບໄຟລ໌ໃນແຟ້ມຈັດເກັບໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>ການແຕກແຟ້ມຈັດເກັບທີ່ຫວ່າງເປົ່າເບິ່ງຄືວ່າແປກ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>ບໍ່ສາມາດວິເຄາະໄຟລ໌ %1 ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>ການແຕກໄຟລ໌ %1 ຖືກຍົກເລີກ, ເນື່ອງຈາກວ່າມັນຢູ່ນອກເສັ້ນທາງເປົ້າໝາຍ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>ບໍ່ສາມາດແຕກໄຟລ໌ %1 ໄປຍັງ %2 ໄດ້</translation>
     </message>
@@ -8311,6 +8337,10 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>ບໍ່ສາມາດສ້າງໄຟລ໌ Minecraft jar ແບບກຳນົດເອງໄດ້.</translation>
     </message>
@@ -12926,6 +12956,10 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>ການແຕກໄຟລ໌ມັອດແພັກລົ້ມເຫຼວ</translation>
     </message>
@@ -12967,17 +13001,21 @@ Are you sure?</source>
         <translation>ກຳລັງແຕກໄຟລ໌ມັອດແພັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>ການແຕກໄຟລ໌ມັອດແພັກລົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>ບໍ່ສາມາດແກ້ໄຂການອະນຸຍາດສຳລັບ %1 ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>ການນຳເຂົ້າອິນສະແຕນຖືກຍົກເລີກແລ້ວ.</translation>
     </message>
@@ -12985,17 +13023,14 @@ Are you sure?</source>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>ບໍ່ສາມາດເປີດໄຟລ໌ &quot;bin/modpack.jar&quot; ໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>ບໍ່ສາມາດເປີດ &quot;fmlversion.properties&quot; ໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>ບໍ່ສາມາດເປີດ &quot;version.json&quot; ໄດ້!</translation>
     </message>
@@ -13006,7 +13041,6 @@ Are you sure?</source>
         <translation>ບໍ່ພົບ &quot;version.json&quot; ພາຍໃນ &quot;bin/modpack.jar&quot;, ແຕ່ບໍ່ຮູ້ລຸ້ນຂອງ Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>ບໍ່ສາມາດເປີດ &quot;forgeversion.properties&quot; ໄດ້</translation>
     </message>
@@ -13016,9 +13050,25 @@ Are you sure?</source>
         <translation>&quot;forgeversion.properties&quot; ບໍ່ຖືກຕ້ອງ!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
         <translation>ບໍ່ສາມາດເປີດ &quot;version.json&quot;: %1 ໄດ້</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>

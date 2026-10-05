@@ -3066,9 +3066,13 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Yerli(native) &apos;%1&apos; jar faylı &apos;%2&apos; ünvanına çıxarıla bilmədi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4069,12 +4073,12 @@ What would you like to do with %2?</source>
         <translation>%1 profili kopyalanır</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>Profil qovluğunun kopyalanması uğursuz oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Profil qovluğunun kopyalanması ləğv edildi.</translation>
     </message>
@@ -4132,23 +4136,23 @@ What would you like to do with %2?</source>
         <translation>Profil növü müəyyən edilməyə çalışılır</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Mod-paketi çıxarılır</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Təqdim olunan mod-paket zip faylını açmaq mümkün olmadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arxivdə tanınan mod-paketi növü yoxdur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 üçün icazələri düzəltmək mümkün olmadı</translation>
     </message>
@@ -4335,6 +4339,10 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied zip file.</source>
         <translation>Təqdim olunan zip faylı açıla bilmədi.</translation>
     </message>
@@ -6104,21 +6112,37 @@ Səbəb:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>Faylı yaratmaq mümkün olmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>Əlavə etmək mümkün olmadı:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>%1 oxuna və sıxıla bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>Zip xətası baş verdi</translation>
     </message>
@@ -6126,27 +6150,29 @@ Səbəb:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>Arxivdəki faylları sadalamaq mümkün olmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>Boş arxivlərin çıxarılması qəribə görünür...</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>%1 faylı təhlil edilə bilmədi</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>%1 çıxarılması ləğv edildi, çünki o, hədəf yolun %2 faktiki olaraq kənarında idi</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>%1 faylını %2 yoluna çıxarmaq mümkün olmadı</translation>
     </message>
@@ -8610,6 +8636,10 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Xüsusi Minecraft jar faylı yaradıla bilmədi.</translation>
     </message>
@@ -13291,6 +13321,10 @@ Səbəb: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>Modpaketi çıxarmaq alınmadı</translation>
     </message>
@@ -13332,17 +13366,21 @@ Səbəb: %2.</translation>
         <translation>Mod-paketi çıxarılır</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>Modpaketi çıxarmaq alınmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 üçün icazələri düzəltmək mümkün olmadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>Profilin idxalı ləğv edildi.</translation>
     </message>
@@ -13350,17 +13388,14 @@ Səbəb: %2.</translation>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>&quot;bin/modpack.jar&quot; faylını açmaq mümkün olmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>&quot;fmlversion.properties&quot; faylını açmaq mümkün olmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>&quot;version.json&quot; faylını açmaq mümkün olmadı!</translation>
     </message>
@@ -13371,7 +13406,6 @@ Səbəb: %2.</translation>
         <translation>&quot;bin/modpack.jar&quot; daxilində &quot;version.json&quot; tapılmadı, lakin Minecraft versiyası naməlumdur</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>&quot;forgeversion.properties&quot;i açmaq mümkün deyil</translation>
     </message>
@@ -13381,9 +13415,25 @@ Səbəb: %2.</translation>
         <translation>Etibarsız &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
         <translation>&quot;version.json&quot;u açmaq mümkün deyil: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>

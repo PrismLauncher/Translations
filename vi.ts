@@ -3599,9 +3599,13 @@ Bạn có chắc bạn muốn làm điều này?</translation>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Không thể trích xuất jar gốc &apos;%1&apos; đến &apos;%2&apos;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4823,12 +4827,12 @@ Bạn muốn làm gì với %2?</translation>
         <translation>Sao chép phiên bản %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>Sao chép thư mục bản cài đặt thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Quá trình sao chép thư mục bản cài đặt đã bị hủy.</translation>
     </message>
@@ -4890,18 +4894,18 @@ Bạn muốn làm gì với %2?</translation>
         <translation>Đang cố gắng xác định loại phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Đang giải nén modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Không thể mở tập tin modpack zip đã cho.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Kho lưu trữ không chứa một modpack với định dạng phù hợp.</translation>
     </message>
@@ -4910,7 +4914,7 @@ Bạn muốn làm gì với %2?</translation>
         <translation type="vanished">Không thể giải nén được modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>Không thể sửa quyền truy cập cho %1</translation>
     </message>
@@ -5503,6 +5507,11 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation>Đang giải nén Java</translation>
     </message>
     <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="vanished">Đang giải nén Java (Tiến trình không được hiển thị cho tệp nén .tar)</translation>
     </message>
@@ -5515,7 +5524,6 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
         <translation type="vanished">Không thể giải nén tệp tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
         <translation>Không thể mở được tệp zip.</translation>
     </message>
@@ -7930,11 +7938,29 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>Không tạo được thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>Không thể thêm:</translation>
     </message>
@@ -7943,12 +7969,10 @@ Lý do:
         <translation type="vanished">Không tạo được:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>Không thể đọc và nén %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>Đã xảy ra một lỗi nén</translation>
     </message>
@@ -7960,17 +7984,20 @@ Lý do:
         <translation type="vanished">Không thể mở được tệp zip.</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>Thất bại khi liệt kê các tệp trong kho lưu trữ</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>Trích xuất các kho lưu trữ trống có vẻ kỳ lạ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>Không phân tính được tệp%1</translation>
     </message>
@@ -7979,12 +8006,11 @@ Lý do:
         <translation type="vanished">Đã thất bại trong việc tìm tệp đầu tiên trong tệp zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>Việc trích xuất %1 đã bị hủy vì nó thực sự nằm ngoài đường dẫn đích %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Đã thất bại khi trích xuất tệp %1 qua %2</translation>
     </message>
@@ -11226,6 +11252,10 @@ Bạn có muốn vô hiệu hoá chúng không?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Không thể tạo tập tin tuỳ chỉnh Minecraft jar.</translation>
     </message>
@@ -16653,11 +16683,15 @@ Bạn có chắc?</translation>
         <translation>Đang giải nén modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="vanished">Không thể mở tập tin nén của modpack đã cho.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack</source>
         <translation>Giải nén modpack thất bại</translation>
     </message>
@@ -16719,17 +16753,21 @@ Bạn có chắc?</translation>
         <translation>Đang giải nén modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>Giải nén modpack thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>Không thể sửa quyền hạn cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>Xuất instance đã huỷ bỏ.</translation>
     </message>
@@ -16737,19 +16775,26 @@ Bạn có chắc?</translation>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>Không thể mở tệp &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>Không thể mở &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>Không thể mở &quot;version.json&quot;!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -16759,6 +16804,10 @@ Bạn có chắc?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>Không thể mở &quot;forgeversion.properties&quot;</translation>
     </message>
@@ -16768,6 +16817,7 @@ Bạn có chắc?</translation>
         <translation>&quot;forgeversion.properties&quot; không hợp lệ!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
         <translation>Không thể mở &quot;version.json&quot;: %1</translation>

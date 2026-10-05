@@ -3525,9 +3525,13 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>تعذر استخراج ملف jar المحلي &apos;%1&apos; إلى الوجهة &apos;%2&apos;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4695,12 +4699,12 @@ What would you like to do with %2?</source>
         <translation>جار نسخ النموذج: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>تعذر نسخ مجلد النموذج.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>تم إيقاف نسخ مجلد النموذج.</translation>
     </message>
@@ -4762,18 +4766,18 @@ What would you like to do with %2?</source>
         <translation>جار محاولة تحديد نوع النموذج</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>جار استخراج حزمة الإضافات</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>لا يمكن فتح الملف المحدد لحزمة الإضافات المضغوطة.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>الأرشيف لا يحتوي على أي نوع من حزم الإضافات المدعومة.</translation>
     </message>
@@ -4782,7 +4786,7 @@ What would you like to do with %2?</source>
         <translation type="vanished">فشل في استخراج حزمة الإضافات</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>تعذر إصلاح الأذونات لـ %1</translation>
     </message>
@@ -5327,6 +5331,11 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>جار استخراج الجافا</translation>
     </message>
     <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="vanished">جار استخراج الجافا (العملية غير معلنة لأرشيفات تار)</translation>
     </message>
@@ -5339,7 +5348,6 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">فشلت محاولة استخراج أرشيف تار الموفر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
         <translation>فشلت محاولة فتح أرشيف زيب الموفر.</translation>
     </message>
@@ -7654,11 +7662,29 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>تعذر إنشاء ملف</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>تعذر الإضافة:</translation>
     </message>
@@ -7667,12 +7693,10 @@ Reason:
         <translation type="vanished">تعذر الإنشاء:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>تعذر القراءة أو الضغط %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>حصل خطأ في الزيب</translation>
     </message>
@@ -7684,27 +7708,29 @@ Reason:
         <translation type="vanished">فشلت محاولة فتح أرشيف زيب الموفر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>تعذر إحصاء الملفات في الأرشيف</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>استخراج الملفات الفارغة يبدو أمراً غريباً...</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>فشل تحليل الملف %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>تم إلغاء استخراج %1, لأنه كان خارج المسار الهدف %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>تعذر استخراج الملف %1 إلى %2</translation>
     </message>
@@ -10692,6 +10718,10 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>فشل في إنشاء ملف جار مخصص لماين كرافت.</translation>
     </message>
@@ -15901,11 +15931,15 @@ Are you sure?</source>
         <translation>جار استخراج حزمة الإضافات</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="vanished">لا يمكن فتح الملف المحدد لحزمة الإضافات المضغوطة.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack</source>
         <translation>فشل في إستخراج حزمة الإضافات</translation>
     </message>
@@ -15967,17 +16001,21 @@ Are you sure?</source>
         <translation>جار استخراج حزمة الإضافات</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>فشل في إستخراج حزمة الإضافات</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>تعذر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>نم إلغاء استيراد النموذج.</translation>
     </message>
@@ -15985,19 +16023,26 @@ Are you sure?</source>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>لا يمكن فتح ملف &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>لا يمكن فتح &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>لا يمكن فتح &quot;version.json&quot;!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -16007,6 +16052,10 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>لا يمكن فتح &quot;forgeversion.properties&quot;</translation>
     </message>
@@ -16016,6 +16065,7 @@ Are you sure?</source>
         <translation>ملف &quot;forgeversion.properties&quot; خاطئ!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
         <translation>تعذر فتح &quot;version.json &quot;: %1</translation>

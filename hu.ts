@@ -3659,9 +3659,13 @@ Biztosan ezt akarod csinálni?</translation>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Nem sikerült kicsomagolni a(z) „%1” natív jar-t a(z) „%2” célhelyre</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4896,12 +4900,12 @@ What would you like to do with %2?</source>
         <translation>%1 példány másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>A példánymappa másolása sikertelen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>A példánymappa másolása megszakadt.</translation>
     </message>
@@ -4963,18 +4967,18 @@ What would you like to do with %2?</source>
         <translation>Kísérlet a példány típusának meghatározására</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>Modcsomag kicsomagolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nem sikerült megnyitni a mellékelt modcsomag zip fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Az archívum nem tartalmaz felismerhető modcsomag típust.</translation>
     </message>
@@ -4983,7 +4987,7 @@ What would you like to do with %2?</source>
         <translation type="vanished">Nem sikerült kicsomagolni a modpackot</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nem sikerült javítani az engedélyeket a(z) %1 példánynak</translation>
     </message>
@@ -5592,6 +5596,11 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <translation>Java kibontása</translation>
     </message>
     <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="vanished">Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
     </message>
@@ -5604,7 +5613,6 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
         <translation type="vanished">Nem sikerült kibontani a mellékelt tar fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
         <translation>Nem lehet megnyitni a mellékelt zip fájlt.</translation>
     </message>
@@ -8078,11 +8086,29 @@ Indok:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>Nem sikerült létrehozni a fájlt</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation>Nem sikerült hozzáadni:</translation>
     </message>
@@ -8091,12 +8117,10 @@ Indok:
         <translation type="vanished">Nem sikerült létrehozni:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>Nem sikerült beolvasni és tömöríteni a(z) %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>Zip hiba történt</translation>
     </message>
@@ -8108,17 +8132,20 @@ Indok:
         <translation type="vanished">Nem lehet megnyitni a mellékelt zip fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>Nem sikerült kiolvasni a fájlokat az archívumból</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>Az üres archívumok kibontása furcsának tűnik…</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation>%1 fájl feldolgozása sikertelen volt</translation>
     </message>
@@ -8127,12 +8154,11 @@ Indok:
         <translation type="vanished">Nem sikerült megtalálni a zip első fájlját</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>A(z) %1 kibontása megszakadt, mert ténylegesen a(z) %2 célútvonalon kívül volt</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Nem sikerült kibontani a(z) %1 fájlt a(z) %2 fájlba</translation>
     </message>
@@ -11625,6 +11651,10 @@ Szeretnéd letiltani őket?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>Nem sikerült létrehozni az egyéni Minecraft jar fájlt.</translation>
     </message>
@@ -17303,11 +17333,15 @@ ok: %2.</translation>
         <translation>Modcsomag kicsomagolása</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="vanished">Nem sikerült megnyitni a mellékelt modcsomag zip fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack</source>
         <translation>Nem sikerült kicsomagolni a modcsomagot</translation>
     </message>
@@ -17369,17 +17403,21 @@ ok: %2.</translation>
         <translation>Modcsomag kicsomagolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>Nem sikerült kicsomagolni a modcsomagot</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nem sikerült javítani az engedélyeket %1 példánynak</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>A példány importálása megszakadt.</translation>
     </message>
@@ -17387,19 +17425,26 @@ ok: %2.</translation>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>Nem lehet megnyitni a „bin/modpack.jar” fájlt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>Nem lehet megnyitni az „fmlversion.properties” fájlt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>Nem lehet megnyitni a „version.json” fájlt!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17409,6 +17454,10 @@ ok: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>Nem lehet megnyitni a „forgeversion.properties” fájlt</translation>
     </message>
@@ -17418,6 +17467,7 @@ ok: %2.</translation>
         <translation>Érvénytelen „forgeversion.properties”!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
         <translation>Nem sikerült megnyitni a „version.json” fájlt: %1</translation>

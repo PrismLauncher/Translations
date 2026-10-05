@@ -3246,9 +3246,13 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>இலக்கு &apos;%2&apos; க்கு சொந்த சாடியை &apos;%1&apos; பிரித்தெடுக்க முடியவில்லை</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4292,12 +4296,12 @@ What would you like to do with %2?</source>
         <translation>உதாரணத்தை நகலெடுக்கும் %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
         <translation>நிகழ்வு கோப்புறை நகல் தோல்வியடைந்தது.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="194"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>நிகழ்வு கோப்புறை நகல் நிறுத்தப்பட்டுள்ளது.</translation>
     </message>
@@ -4355,23 +4359,23 @@ What would you like to do with %2?</source>
         <translation>நிகழ்வு வகையை தீர்மானிக்க முயற்சிக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="179"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="253"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>காப்பகத்தில் அங்கீகரிக்கப்பட்ட மோட்பேக் வகை இல்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
@@ -4841,6 +4845,11 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>சாவாவைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
+        <source>Unable to open supplied zip file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
         <translation type="vanished">சாவாவைப் பிரித்தெடுப்பது (தார் காப்பகங்களுக்கு முன்னேற்றம் தெரிவிக்கப்படவில்லை)</translation>
     </message>
@@ -4853,7 +4862,6 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">வழங்கப்பட்ட தார் கோப்பை பிரித்தெடுக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file.</source>
         <translation>வழங்கப்பட்ட சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
@@ -7047,11 +7055,29 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
+        <source>Failed to open output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
+        <source>Could not add %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
+        <source>Could not read and compress %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
+        <source>Failed to close output file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not create file</source>
         <translation>கோப்பை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7060,12 +7086,10 @@ Reason:
         <translation type="vanished">உருவாக்க முடியவில்லை:</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
         <translation>%1 ஐப் படித்து சுருக்க முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
         <source>A zip error occurred</source>
         <translation>ஒரு சிப் பிழை ஏற்பட்டது</translation>
     </message>
@@ -7077,17 +7101,20 @@ Reason:
         <translation type="vanished">வழங்கப்பட்ட சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="42"/>
         <source>Failed to enumerate files in archive</source>
         <translation>காப்பகத்தில் கோப்புகளை கணக்கிடுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="45"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>வெற்று காப்பகங்களை பிரித்தெடுப்பது ஒற்றைப்படை என்று தோன்றுகிறது ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="108"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
+        <source>Failed to extract file %1 to %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to parse file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7096,12 +7123,11 @@ Reason:
         <translation type="vanished">ZIP இல் முதல் கோப்பைத் தேடுவதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="93"/>
+        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="90"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>%1 ஐ பிரித்தெடுப்பது ரத்து செய்யப்பட்டது, ஏனெனில் இது இலக்கு பாதை %2 க்கு வெளியே திறம்பட இருந்தது</translation>
     </message>
     <message>
-        <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>கோப்பை %1 முதல் %2 வரை பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
@@ -9952,6 +9978,10 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
+        <source>Failed to create the custom Minecraft jar file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to create the custom Minecraft jar file.</source>
         <translation>தனிப்பயன் மின்கிராஃப்ட் குடுவை கோப்பை உருவாக்கத் தவறிவிட்டது.</translation>
     </message>
@@ -14950,11 +14980,15 @@ Are you sure?</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="vanished">வழங்கப்பட்ட மோட்பேக் சிப் கோப்பைத் திறக்க முடியவில்லை.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
@@ -14996,17 +15030,21 @@ Are you sure?</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுக்கிறது</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
+        <source>Failed to extract modpack: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to extract modpack</source>
         <translation>மோட்பேக்கைப் பிரித்தெடுப்பதில் தோல்வி</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 க்கான அனுமதிகளை சரிசெய்ய முடியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="207"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
         <translation>உதாரணமாக இறக்குமதி கைவிடப்பட்டுள்ளது.</translation>
     </message>
@@ -15014,17 +15052,14 @@ Are you sure?</source>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
         <translation>&quot;பின்/Modpack.jar&quot; கோப்பைத் திறக்க முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
         <translation>&quot;Fmlversion.properties&quot; ஐ திறக்க முடியவில்லை!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>&quot;பதிப்பு. சேசன்&quot; ஐ திறக்க முடியவில்லை!</translation>
     </message>
@@ -15035,7 +15070,6 @@ Are you sure?</source>
         <translation>&quot;Bin/bin/modpack.jar&quot; க்குள் &quot;பதிப்பு.சான்&quot; கண்டுபிடிக்க முடியவில்லை, ஆனால் Minecraft பதிப்பு தெரியவில்லை</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>&quot;Forgeversion.properties&quot; ஐ திறக்க முடியவில்லை</translation>
     </message>
@@ -15045,8 +15079,24 @@ Are you sure?</source>
         <translation>தவறான &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
