@@ -15207,7 +15207,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
-        <translation type="unfinished">Gambar</translation>
+        <translation>Gambar</translation>
     </message>
 </context>
 <context>
