@@ -15813,7 +15813,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
-        <translation type="unfinished">이미지</translation>
+        <translation>이미지</translation>
     </message>
 </context>
 <context>
