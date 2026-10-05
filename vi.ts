@@ -14072,22 +14072,22 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
         <translation type="obsolete">Tùy chỉnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="315"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Background Cat (từ MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="316"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (họa bởi Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="317"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (bản flat, họa bởi Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="318"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (họa bởi SympathyTea)</translation>
     </message>

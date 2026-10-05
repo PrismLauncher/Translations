@@ -14543,22 +14543,22 @@ Vill du ta bort dessa befintliga sparfiler som en del av uppdateringen?</transla
         <translation type="vanished">Egna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="315"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Bakgrundskatt (från MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="316"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (ritad av Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="317"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (platt version, ritad av Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="318"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (ritad av SympathyTea)</translation>
     </message>

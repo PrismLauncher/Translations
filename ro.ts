@@ -13756,22 +13756,22 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
         <translation type="obsolete">Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="315"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Pisică de fundal (de la MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="316"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (desenat de Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="317"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (versiunea plată, desenat de Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="318"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (desenat de SympathyTea)</translation>
     </message>

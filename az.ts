@@ -10847,22 +10847,22 @@ Would you like to remove those existing saves as part of this update?</source>
 Bu yeniləmə zamanı həmin mövcud save-ləri silmək istəyirsiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="315"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Arxa plan Pişiyi (MultiMC-dən)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="316"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (rəssam Ashtaka tərəfindən çəkilmişdir)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="317"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (düz versiya, rəssam Ashtaka tərəfindən çəkilmişdir)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="318"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (rəssam SympathyTea tərəfindən çəkilmişdir)</translation>
     </message>

@@ -14788,22 +14788,22 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="vanished">自定义</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="315"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫（来自 MultiMC）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="316"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11（Ashtaka 绘）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="317"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11（扁平化版本，Ashtaka 绘）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="318"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie（SympathyTea 绘）</translation>
     </message>
