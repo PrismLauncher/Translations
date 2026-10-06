@@ -16034,7 +16034,7 @@ Are you sure you want to do this?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="198"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Should this mod be updated?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
