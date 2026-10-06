@@ -1362,12 +1362,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="126"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>인증하지 못했습니다. 세션이 만료되었습니다.</translation>
+        <translation>인증하지 못하였습니다. 세션이 만료되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="133"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>인증에 실패하였습니다. 계정이 더 이상 존재하지 않습니다.</translation>
+        <translation>인증하지 못하였습니다. 계정이 더 이상 존재하지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
@@ -1964,7 +1964,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>세계를 복사하는 데 실패하였습니다.</translation>
+        <translation>세계를 복사하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2279,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="40"/>
         <source>Failed to scan source path.</source>
-        <translation>소스 경로를 스캔하지 못했습니다.</translation>
+        <translation>소스 경로를 스캔하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="53"/>
@@ -2531,7 +2531,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>세계를 삭제하는 데 실패하였습니다.</translation>
+        <translation>세계를 삭제하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -3664,12 +3664,12 @@ Are you sure you want to do this?</source>
     <name>ExtractNatives</name>
     <message>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>네이티브 JAR &apos;%1&apos;을(를) &apos;%2&apos;로 추출하지 못함</translation>
+        <translation>네이티브 JAR &apos;%1&apos;을(를) 대상 위치 &apos;%2&apos;(으)로 추출할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>네이티브 JAR &apos;%1&apos;을(를) 대상 위치 &apos;%2&apos;(으)로 추출할 수 없음: %3</translation>
     </message>
 </context>
 <context>
@@ -3721,7 +3721,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="90"/>
         <source>Failed to find pack version %1</source>
-        <translation>팩 버전 %1을 찾을 수 없음</translation>
+        <translation>팩 버전 %1을 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="126"/>
@@ -3974,7 +3974,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="271"/>
         <source>Failed to fetch the old files.</source>
-        <translation>이전 파일을 가져오는 데 실패하였습니다.</translation>
+        <translation>이전 파일을 가져오지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="267"/>
@@ -4880,12 +4880,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation>세계 내보내는 중...</translation>
+        <translation>세계 가져오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>세계를 내보내는 데 실패하였습니다.</translation>
+        <translation>세계를 가져오지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -4996,7 +4996,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
-        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한을 수정할 수 없음</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -5605,7 +5605,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>지정한 ZIP 파일을 열 수 없습니다: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5621,12 +5621,12 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>ZIP 파일을 열 수 없습니다.</translation>
+        <translation>지정한 ZIP 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation>ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
+        <translation>지정한 ZIP 파일에서 파일을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -6799,7 +6799,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>마인크래프트 액세스 토큰을 가져오지 못했습니다: %1</translation>
+        <translation>마인크래프트 액세스 토큰을 가져오지 못하였습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
@@ -8091,22 +8091,22 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 파일을 열지 못함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 추가할 수 없음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 읽거나 압축할 수 없음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 파일을 닫지 못함: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8147,11 +8147,11 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 파일을 %2(으)로 압축 해제하지 못함: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
-        <translation>파일 %1을 파싱하지 못함</translation>
+        <translation>%1 파일을 파싱하지 못함</translation>
     </message>
     <message>
         <source>Failed to seek to first file in zip</source>
@@ -8164,7 +8164,7 @@ Reason:
     </message>
     <message>
         <source>Failed to extract file %1 to %2</source>
-        <translation>파일을 %1에서 %2(으)로 추출하지 못함</translation>
+        <translation>%1 파일을 %2(으)로 압축 해제하지 못함</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
@@ -11664,7 +11664,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자 지정 마인크래프트 JAR 파일을 생성하지 못하였습니다: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -12217,7 +12217,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation>파일을 검색할 수 없습니다</translation>
+        <translation>파일을 검색할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
@@ -12232,7 +12232,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="172"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>버전 응답 파싱 실패: %1</translation>
+        <translation>버전 응답을 파싱하지 못함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
@@ -13165,17 +13165,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Failed to extract mods...</source>
-        <translation>모드 추출에 실패하였습니다...</translation>
+        <translation>모드를 압축 해제하지 못하였습니다...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="941"/>
         <source>Extracting mods...</source>
-        <translation>모드 추출 중...</translation>
+        <translation>모드를 압축 해제하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1022"/>
         <source>Installing modpack</source>
-        <translation>모드 팩 설치 중</translation>
+        <translation>모드 팩을 설치하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1034"/>
@@ -13366,14 +13366,14 @@ Error message: %3</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="131"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation>5초 이후에 시작 실패
+        <translation>5초 후 시작하지 못함
 이유: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="151"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation>업데이터를 60초 동안 닫지 못했습니다
+        <translation>업데이터를 60초 동안 닫지 못함
 이유: %1.</translation>
     </message>
     <message>
@@ -13722,12 +13722,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation>변경 내역 기록에 실패함: %1</translation>
+        <translation>변경 내역을 기록하지 못함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
         <source>Updating from %1 to %2</source>
-        <translation>%1을 %2로 업데이트 중</translation>
+        <translation>%1에서 %2(으)로 업데이트 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="949"/>
@@ -13757,7 +13757,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="996"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation>&apos;%1&apos; 실행 실패 %2</translation>
+        <translation>&apos;%1&apos;을(를) 실행하지 못함 %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
@@ -15080,12 +15080,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation>응용 프로그램 아이콘 생성에 실패함: %1</translation>
+        <translation>응용 프로그램 아이콘을 생성하지 못하였습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation>애플리케이션 아이콘을 만들지 못하였습니다.</translation>
+        <translation>응용 프로그램 아이콘을 생성하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
@@ -15096,13 +15096,13 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation>바로 가기 아이콘 생성에 실패함: %1</translation>
+        <translation>바로 가기 아이콘을 생성하지 못하였습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>바로 가기 아이콘을 만들지 못하였습니다.</translation>
+        <translation>바로 가기 아이콘을 생성하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -16768,12 +16768,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation>.index 파일에서 셰이더 팩 메타데이터 마이그레이션 실패</translation>
+        <translation>.index 파일에서 셰이더 팩 메타데이터를 마이그레이션하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation>기존 .index 디렉터리 제거 실패</translation>
+        <translation>이전 .index 디렉터리를 제거하지 못함</translation>
     </message>
 </context>
 <context>
@@ -17351,7 +17351,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩을 압축 해제하지 못함: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17359,12 +17359,12 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation>모드 팩 압축 해제 실패</translation>
+        <translation>모드 팩을 압축 해제하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="110"/>
         <source>Could not fix permissions for %1</source>
-        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한을 수정할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
@@ -17421,16 +17421,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩을 압축 해제하지 못함: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation>모드 팩 압축 해제 실패</translation>
+        <translation>모드 팩을 압축 해제하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
-        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한을 수정할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
@@ -17450,28 +17450,28 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>&quot;version.json&quot;를 열 수 없습니다!</translation>
+        <translation>&quot;version.json&quot;을 열 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;bin/modpack.jar&quot; 파일을 열 수 없습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;fmlversion.properties&quot;를 열 수 없습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
+        <translation>&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾을 수 없으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot;를 열 수 없음: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
