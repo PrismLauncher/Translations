@@ -7834,7 +7834,7 @@ Jeste li sigurni?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation>Pokreni &amp;As</translation>
+        <translation>Pokreni &amp;kao</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
