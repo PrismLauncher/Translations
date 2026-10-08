@@ -3260,7 +3260,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir an comhad jar dúchais &apos;%1&apos; a bhaint amach chuig an gceann scríbe &apos;%2&apos;: %3</translation>
     </message>
 </context>
 <context>
@@ -3567,7 +3567,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="398"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá cosán ag na sáruithe a théann chuig suíomh treallach (%1). Is riosca slándála é seo agus ní cheadaítear é.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="408"/>
@@ -4842,7 +4842,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad zip a cuireadh ar fáil a oscailt: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
@@ -7047,22 +7047,22 @@ Cúis:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chomhad aschuir a oscailt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir %1 a chur leis: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir %1 a léamh agus a chomhbhrú: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar dhúnadh an chomhaid aschuir: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -7099,7 +7099,7 @@ Cúis:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an gcomhad %1 a bhaint amach go %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -8501,7 +8501,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>lainseáil M&amp;ar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
@@ -9956,7 +9956,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chruthú an chomhaid jar saincheaptha Minecraft: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -11901,7 +11901,7 @@ Stádas HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished">Tobscoir</translation>
+        <translation>Tobscoir</translation>
     </message>
 </context>
 <context>
@@ -13611,7 +13611,7 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
-        <translation type="unfinished">Íomhá</translation>
+        <translation>Íomhá</translation>
     </message>
 </context>
 <context>
@@ -14979,7 +14979,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an modpack a bhaint amach: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -15029,7 +15029,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar an modpack a bhaint amach: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -15084,17 +15084,17 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir an comhad &quot;bin/modpack.jar&quot; a oscailt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir &quot;fmlversion.properties&quot; a oscailt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ní féidir &quot;forgeversion.properties&quot; a oscailt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
