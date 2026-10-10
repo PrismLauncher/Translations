@@ -3814,7 +3814,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="676"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αντιγραφή αποκλεισμένων mod (ολοκληρώθηκαν %1 από %2)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -8586,7 +8586,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -16468,7 +16468,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μη έγκυρη εντολή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
