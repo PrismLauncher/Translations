@@ -12995,7 +12995,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>&quot;%1&quot;을 삭제하려고 합니다.
+        <translation>&apos;%1&apos;을(를) 삭제하려고 합니다.
 이는 영구적이며 로그 폴더에서 사라질 것입니다.
 
 삭제하시겠습니까?</translation>
@@ -16504,7 +16504,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 스크린샷을 삭제하려고 합니다.
+        <translation>스크린샷 %1개를 삭제하려고 합니다.
 이는 영구적이며 폴더에서 사라질 것입니다.
 
 삭제하시겠습니까?</translation>
@@ -17111,7 +17111,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>&quot;%1&quot;을(를) 삭제하려고 합니다.
+        <translation>&apos;%1&apos;을(를) 삭제하려고 합니다.
 삭제하시겠습니까?</translation>
     </message>
     <message>
@@ -19083,14 +19083,17 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>&apos;%1&apos;을(를) 삭제하려고 합니다.
+세계가 영원히 사라지게 됩니다.
+
+삭제하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>세계를 삭제하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
