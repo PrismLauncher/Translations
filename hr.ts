@@ -3438,7 +3438,7 @@ Jeste li sigurni da to želite napraviti?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije bilo moguće izdvojiti izvornu .jar datoteku „%1” na odredište „%2”: %3</translation>
     </message>
 </context>
 <context>
@@ -4736,7 +4736,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti priloženu zip datoteku: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
@@ -6481,22 +6481,22 @@ razlog:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti izlaznu datoteku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije bilo moguće dodati %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije bilo moguće pročitati i sažeti %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspjelo zatvaranje izlazne datoteke: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -6529,7 +6529,7 @@ razlog:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuspjelo raspakiravanje datoteke %1 u %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -9146,7 +9146,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspjelo stvaranje prilagođene Minecraft .jar datoteke: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -12621,7 +12621,7 @@ Jeste li sigurni da to želite učiniti?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="818"/>
         <source>Image</source>
-        <translation type="unfinished">Slika</translation>
+        <translation>Slika</translation>
     </message>
 </context>
 <context>
@@ -13964,7 +13964,7 @@ jer: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspjelo raspakiranje modpacka: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -14010,7 +14010,7 @@ jer: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspjelo raspakiranje modpacka: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -14065,17 +14065,17 @@ jer: %2.</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti datoteku &quot;bin/modpack.jar&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti &quot;fmlversion.properties&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti &quot;forgeversion.properties&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
@@ -15286,16 +15286,25 @@ Jeste sigurni?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Upravo ćete izbrisati %n svijet.
+Ti bi svjetovi mogli zauvijek nestati (NA DUGO VRIJEME).
+
+Jeste li sigurni?</numerusform>
+            <numerusform>Upravo ćete izbrisati %n svjetova.
+Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).
+
+Jeste li sigurni?</numerusform>
+            <numerusform>Upravo ćete izbrisati %n svjetova.
+Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).
+
+Jeste li sigurni?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrisavanje svjetova</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
