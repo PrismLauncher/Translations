@@ -18397,14 +18397,17 @@ Apakah Anda yakin?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Anda akan menghapus %n dunia.
+Dunia-dunia ini mungkin akan tiada selamanya (WAKTU YANG PANJANG).
+
+Apakah Anda yakin?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Menghapus dunia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
