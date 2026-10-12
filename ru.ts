@@ -2377,12 +2377,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
         <source>The size of the data pack.</source>
-        <translation>Размер пакета данных.</translation>
+        <translation>Размер набора данных.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="180"/>
         <source>The file name of the data pack.</source>
-        <translation>Имя файла пакета данных.</translation>
+        <translation>Имя файла набора данных.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
