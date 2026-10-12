@@ -19338,10 +19338,19 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n мир.
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n мира.
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n миров.
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
