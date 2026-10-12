@@ -3660,7 +3660,7 @@ Jste si jisti, že to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat nativní jar „%1“ do cíle „%2“: %3</translation>
     </message>
 </context>
 <context>
@@ -5624,7 +5624,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se otevřít dodaný soubor zip: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -8130,22 +8130,22 @@ Důvod:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se otevřít výstupní soubor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přidat %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přečíst a zkomprimovat %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zavřít výstupní soubor: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8186,7 +8186,7 @@ Důvod:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="95"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat soubor %1 do %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -11727,7 +11727,7 @@ Chcete je zakázat?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit vlastní soubor jar Minecraftu: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -17439,7 +17439,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat modpack: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17509,7 +17509,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se extrahovat modpack: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -17543,12 +17543,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se otevřít soubor „bin/modpack.jar“: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se otevřít soubor „fmlversion.properties“: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17559,7 +17559,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se otevřít soubor „forgeversion.properties“: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -19169,16 +19169,25 @@ Jste si jisti?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chystáte se smazat %n svět.
+Svět tím bude navždy odstraněn (FAKT HODNĚ DLOUHO).
+
+Jste si jistí?</numerusform>
+            <numerusform>Chystáte se smazat %n světy.
+Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).
+
+Jste si jistí?</numerusform>
+            <numerusform>Chystáte se smazat %n světů.
+Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).
+
+Jste si jistí?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Mazání světů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
