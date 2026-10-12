@@ -16332,16 +16332,25 @@ An bhfuil tú cinnte?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí an domhan %n a scriosadh.
+D’fhéadfadh na domhain seo a bheith imithe go deo (AR FEADH I bhFAD).
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n saol a scriosadh.
+D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n saol a scriosadh.
+D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Ag scriosadh saolta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
