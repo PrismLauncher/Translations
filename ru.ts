@@ -19347,7 +19347,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление миров</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
