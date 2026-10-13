@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Service &amp;Pastebin</translation>
+        <translation>&amp;Service Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: vous devriez peut-être changer ou effacer l&apos;URL de base après avoir changé le type de service de collage.</translation>
+        <translation>Note&#xa0;: vous devriez peut-être changer ou effacer l&apos;URL de base après avoir changé le type de service de collage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Entrez un agent d&apos;utilisateur personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du launcher.</translation>
+        <translation>Entrez un User Agent personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée avec la version du launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -1479,7 +1479,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Chargement du fichier local</translation>
+        <translation>Chargement du fichier local</translation>
     </message>
 </context>
 <context>
@@ -2163,7 +2163,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;La commande de pré-chargement s&apos;exécute avant le chargement des métadonnées de l&apos;instance, la commande de pré-lancement s&apos;exécute avant le lancement de l&apos;instance, et la commande postérieure à la fermeture s&apos;exécute après sa fermeture.&lt;/p&gt;&lt;p&gt;Toutes seront exécutées dans le dossier de travail du lanceur avec des variables d&apos;environnement supplémentaires&#xa0;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (nom de son dossier)&lt;/li&gt;&lt;li&gt;$INST_DIR - chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binaire Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paramètres de ligne de commande utilisés pour le lancement (avertissement&#xa0;: ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande d&apos;enveloppe (wrapper) permet de lancer le jeu avec un programme d&apos;enveloppe supplémentaire (comme « optirun » sous Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La commande de pré-chargement s&apos;exécute avant le chargement des métadonnées de l&apos;instance, la commande de pré-lancement s&apos;exécute avant le lancement de l&apos;instance, et la commande postérieure à la fermeture s&apos;exécute après sa fermeture.&lt;/p&gt;&lt;p&gt;Toutes seront exécutées dans le dossier de travail du launcher avec des variables d&apos;environnement supplémentaires&#xa0;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (nom de son dossier)&lt;/li&gt;&lt;li&gt;$INST_DIR - chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binaire Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paramètres de ligne de commande utilisés pour le lancement (avertissement&#xa0;: ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande d&apos;enveloppe (wrapper) permet de lancer le jeu avec un programme d&apos;enveloppe supplémentaire (comme « optirun » sous Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2358,12 +2358,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
@@ -3480,17 +3480,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Ajouter</translation>
+        <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
@@ -3681,7 +3681,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation>Impossible d&apos;extraire le jar natif &apos;%1&apos; à la destination &apos;%2&apos;: %3</translation>
+        <translation>Impossible d&apos;extraire le jar natif &apos;%1&apos; à la destination &apos;%2&apos;&#xa0;: %3</translation>
     </message>
 </context>
 <context>
@@ -3781,7 +3781,7 @@ Veuillez réessayer.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqué le chemin transversal dans %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -4064,7 +4064,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le modpack essaye de télécharger un fichier en dehors du dossier de l&apos;instance (%1). Cela constitue un risque de sécurité, et n&apos;est pas autorisé.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -5661,7 +5661,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation>Impossible d&apos;ouvrir le fichier zip suppléé: %1</translation>
+        <translation>Impossible d&apos;ouvrir le fichier zip suppléé&#xa0;: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -6454,7 +6454,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation>Exécution de la commande %1: %2</translation>
+        <translation>Exécution de la commande %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
@@ -7188,12 +7188,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <source>Instance &amp;Icons:</source>
-        <translation>Instance &amp;Icônes:</translation>
+        <translation>Instance &amp;Icônes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation>&amp;Mods (Accès Rapide):</translation>
+        <translation>&amp;Mods (Accès Rapide)&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
@@ -7379,7 +7379,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation>Canal de mise à jour de mods:</translation>
+        <translation>Canal de mise à jour de mods&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
@@ -8155,22 +8155,22 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation>Impossible d&apos;ouvrir le fichier de sortie: %1</translation>
+        <translation>Impossible d&apos;ouvrir le fichier de sortie&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation>Impossible d&apos;ajouter %1: %2</translation>
+        <translation>Impossible d&apos;ajouter %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation>Impossible de lire et compresser %1: %2</translation>
+        <translation>Impossible de lire et compresser %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation>Échec de la fermeture du fichier de sortie: %1</translation>
+        <translation>Échec de la fermeture du fichier de sortie&#xa0;: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8211,7 +8211,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation>Impossible d&apos;extraire le fichier %1 vers %2: %3</translation>
+        <translation>Impossible d&apos;extraire le fichier %1 vers %2&#xa0;: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -8792,7 +8792,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
         <source>&amp;Cat Packs</source>
-        <translation>&amp;Cat Packs</translation>
+        <translation>&amp;Packs de chat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
@@ -8894,7 +8894,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Instance &amp;Icons</source>
-        <translation>Instance &amp;Icons</translation>
+        <translation>Instance &amp;Icônes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
@@ -9938,12 +9938,12 @@ Are you sure?</source>
 Les fichiers de l&apos;instance pourraient subir des changements irréversibles.
 Il est fortement recommandé de créer une backup de l&apos;instance.
 
-Êtes-vous certain·e?</translation>
+Êtes-vous sûr·e&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmer la mise à jour</translation>
+        <translation>Confirmer la mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -9953,12 +9953,8 @@ As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
         <translation>Vous allez mettre à jour le modpack vers la version &quot;%1&quot;.
-
 Les fichiers de l&apos;instance pourraient recevoir des changements irréversibles.
-
 Il est donc fortement recommandé de créer une copie backup de l&apos;instance.
-
-
 
 Êtes-vous sûr·e&#x202f;?</translation>
     </message>
@@ -10699,7 +10695,7 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Sortie</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
@@ -11235,7 +11231,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="262"/>
@@ -11779,7 +11775,7 @@ Voulez-vous les désactiver&#x202f;?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation>Échec de la création du fichier jar Minecraft personnalisé: %1</translation>
+        <translation>Échec de la création du fichier jar Minecraft personnalisé&#xa0;: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -12587,30 +12583,30 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">Requête pour %1</translation>
+        <translation>Requête pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="200"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="206"/>
         <source>unknown</source>
-        <translation type="unfinished">inconnu</translation>
+        <translation>inconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="211"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="330"/>
@@ -12621,7 +12617,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/net/Request.cpp" line="345"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Nombre de requêtes limité pour %n seconde&#xa0;: Réessayez après %1</numerusform>
             <numerusform>Nombre de requêtes limité pour %n secondes&#xa0;: Réessayez après %1</numerusform>
         </translation>
@@ -13282,7 +13278,7 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqué le chemin transversal dans %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -13731,7 +13727,7 @@ L&apos;outil de mise à jour ne peut pas continuer tant que vous n&apos;avez pas
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="520"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Could not read manifest: %1</source>
-        <translation>Impossible de lire le manifeste: %1</translation>
+        <translation>Impossible de lire le manifeste&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="531"/>
@@ -13871,7 +13867,7 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation>Échec de l&apos;écriture des journaux: %1</translation>
+        <translation>Échec de l&apos;écriture des journaux&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
@@ -14334,7 +14330,7 @@ Status HTTP&#xa0;: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;instance sélectionnée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -14486,7 +14482,7 @@ Message d&apos;erreur&#xa0;: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation>Impossible de parser le fichier: %1</translation>
+        <translation>Impossible de parser le fichier&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -15438,7 +15434,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir le fichier %1 en lecture&#xa0;: %2</translation>
+        <translation>Impossible d&apos;ouvrir le fichier %1 en lecture&#xa0;: %2</translation>
     </message>
 </context>
 <context>
@@ -15904,7 +15900,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
@@ -15924,7 +15920,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -15981,7 +15977,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
         <source>Should this mod be updated?</source>
-        <translation>Mettre à jour ce mod?</translation>
+        <translation>Mettre à jour ce mod&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="801"/>
@@ -15996,7 +15992,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="817"/>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -16022,7 +16018,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -16042,7 +16038,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="196"/>
@@ -16876,7 +16872,9 @@ Version actuellement installée : %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous allez supprimer %1 serveurs sélectionnés. Cette décision est premanante et les serveurs seront perdus de votre liste de serveur pour toujours (C&apos;est très long&#x202f;!).
+
+Êtes-vous sûr·e&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
@@ -17509,7 +17507,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation>Échec de l&apos;extraction du modpack: %1</translation>
+        <translation>Échec de l&apos;extraction du modpack&#xa0;: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17579,7 +17577,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation>Échec de l&apos;extraction du modpack: %1</translation>
+        <translation>Échec de l&apos;extraction du modpack&#xa0;: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -17613,12 +17611,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation>Impossible d&apos;ouvrir &quot;bin/modpack.jar&quot; fichier: %1</translation>
+        <translation>Impossible d&apos;ouvrir le fichier &quot;bin/modpack.jar&quot;&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation>Impossible d&apos;ouvrir &quot;fmlversion.properties&quot;: %1</translation>
+        <translation>Impossible d&apos;ouvrir &quot;fmlversion.properties&quot;&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17629,7 +17627,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation>Impossible d&apos;ouvrir &quot;forgeversion.properties&quot;: %1</translation>
+        <translation>Impossible d&apos;ouvrir &quot;forgeversion.properties&quot;&#xa0;: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -17755,7 +17753,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="169"/>
@@ -17765,7 +17763,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="171"/>
         <source>Should this mod be updated?</source>
-        <translation>Mettre à jour ce mod?</translation>
+        <translation>Mettre à jour ce mod&#x202f;?</translation>
     </message>
     <message>
         <source>
@@ -19122,7 +19120,7 @@ Chemin canonique : %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">Outils</translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
@@ -19245,13 +19243,13 @@ These worlds may be gone forever (A LONG TIME).
 Are you sure?</source>
         <translation>
             <numerusform>Vous allez supprimer %n monde.
-Ce monde sera perdu pour toujours (C&apos;est très long&#x202f;!).
+Ce monde sera peut-être perdu pour toujours (C&apos;est très long&#x202f;!).
 
-Êtes vous sûr·e?</numerusform>
+Êtes vous sûr·e&#x202f;?</numerusform>
             <numerusform>Vous allez supprimer %n mondes.
-Ces mondes seront perdus pour toujours (C&apos;est très long&#x202f;!).
+Ces mondes seront peut-être perdus pour toujours (C&apos;est très long&#x202f;!).
 
-Êtes vous sûr·e?</numerusform>
+Êtes vous sûr·e&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -19282,7 +19280,7 @@ Ces mondes seront perdus pour toujours (C&apos;est très long&#x202f;!).
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Invalid command</source>
-        <translation type="unfinished">Commande invalide</translation>
+        <translation>Commande invalide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
@@ -19299,7 +19297,7 @@ Ces mondes seront perdus pour toujours (C&apos;est très long&#x202f;!).
         <source>The tool could not be started.
 Error: %1</source>
         <translation>L&apos;outil n&apos;a pas pu être lancé.
-Erreur: %1</translation>
+Erreur&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
