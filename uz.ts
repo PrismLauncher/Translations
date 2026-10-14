@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>Agar assetlarni yuklash olishda muammoga duch kelsangiz, buni boshqa serverga sozlashingiz mumkin.</translation>
+        <translation>Agar assetlarni yuklab olishda muammoga duch kelsangiz, buni boshqa serverga sozlashingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
@@ -182,7 +182,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>E&apos;tibor bering: agar CurseForge ishlayotgan boʻlsa, buni oʻzgartishingiz shart emas boʻlsa kerak.</translation>
+        <translation>Eʼtibor bering: agar CurseForge ishlayotgan boʻlsa, buni oʻzgartishingiz shart emas boʻlsa kerak.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -672,12 +672,12 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>Vidjet mavzulari jildini koʻrish.</translation>
+        <translation>Vidjet temalari jildini koʻrish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>Ikonalar mavzulari jildini koʻrish.</translation>
+        <translation>Ikonalar temalari jildini koʻrish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -836,7 +836,7 @@ for details on the last update attempt.</source>
 
 Davom etishdan oldin oʻrnatishingiz ish tartibida ekanligiga ishonch hosil qiling.
 Oxirgi yangilash urinishi haqida batafsil maʼlumot uchun Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring: 
-%1</translation>
+%1.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1151"/>
@@ -861,7 +861,7 @@ for details.</oldsource>
 
 Siz hozir %1 ishlayapsiz.
 Tafsilotlar uchun Prism Launcher yangilash jurnalini quyidagi manzilda tekshiring: 
-%2</translation>
+%2.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1187"/>
@@ -876,7 +876,7 @@ Some versions of Minecraft may not launch.
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
         <translation>Sizning /tmp katalogingiz hozirda &quot;noexec&quot; bayrogʻi yoqilgan holda oʻrnatilgan.
-Minecraft-ning ba&apos;zi versiyalari ishga tushmasligi mumkin.
+Minecraft-ning baʼzi versiyalari ishga tushmasligi mumkin.
 
 Siz ushbu muammoni /tmp ni &quot;exec&quot; sifatida qayta oʻrnatish yoki java.io.tmpdir JVM argumentini &quot;exec&quot; bayrogʻi oʻrnatilgan fayl tizimidagi yoziladigan katalogga oʻrnatish orqali hal qilishingiz mumkin (masalan, /home/user/.local/tmp)
 </translation>
@@ -956,14 +956,14 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <source>Failed to download the assets index:
 %1</source>
         <translation>Assetlar indeksini yuklab olib boʻlmadi:
-% 1</translation>
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Assetlarni yuklab olib boʻlmadi:
-% 1</translation>
+%1</translation>
     </message>
 </context>
 <context>
@@ -1145,7 +1145,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>Unknown account task state: %1</source>
-        <translation>Noma’lum akkaunt topshirigʻi holati: % 1</translation>
+        <translation>Nomaʼlum akkaunt topshirigʻi holati: %1</translation>
     </message>
 </context>
 <context>
@@ -1235,7 +1235,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy fayl yuklanmoqda</translation>
     </message>
 </context>
 <context>
@@ -1280,7 +1280,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sizning konfiguratsiya qilingan global mod jildi va standart yuklab olishlar jildi yuklab olingan modlar uchun avtomatik tekshiriladi va ular topilsa, namunaga koʻchiriladi.&lt;/p&gt;&lt;p&gt;Ixtiyoriy ravishda, yuklab olingan modlarni ushbu dialog oynasiga sudrab olib tashlashingiz yoki modlarni birlamchi joyga yuklab olmagan boʻlsangiz, tomosha qilish uchun jild qoʻshishingiz mumkin.&lt;/p&gt;&lt;0-web style=&quot;: fontweight;&quot;: Brauzerda barcha yuklab olish havolalarini ochish uchun &quot;Ochish yoʻqolgan&quot;. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sizning konfiguratsiya qilingan global mod jildi va standart yuklab olishlar jildi yuklab olingan modlar uchun avtomatik tekshiriladi va ular topilsa, nusxaga koʻchiriladi.&lt;/p&gt;&lt;p&gt;Ixtiyoriy ravishda, yuklab olingan modlarni ushbu dialog oynasiga sudrab olib tashlashingiz yoki modlarni birlamchi joyga yuklab olmagan boʻlsangiz, tomosha qilish uchun jild qoʻshishingiz mumkin.&lt;/p&gt;&lt;0-web style=&quot;: fontweight;&quot;: Brauzerda barcha yuklab olish havolalarini ochish uchun &quot;Ochish yoʻqolgan&quot;. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1438,12 +1438,12 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="504"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Misolda qarama-qarshi bogʻliqliklar mavjud.</translation>
+        <translation>Nusxada qarama-qarshi bogʻliqliklar mavjud.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="510"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Yuklash/boshlash uchun tekshirish paytida misolda hal qilinmagan bogʻliqliklar mavjud.</translation>
+        <translation>Yuklash/boshlash uchun tekshirish paytida nusxada hal qilinmagan bogʻliqliklar mavjud.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="810"/>
@@ -1455,7 +1455,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Masofaviy serverdan yuklab olishda komponent metamaʼlumotlarini yangilash topshirigʻi bajarilmadi:
-% 1</translation>
+%1</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1513,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Namuna nusxasi</translation>
+        <translation>Nusxa nusxasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1538,7 +1538,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Namunani nusxalash opsiyalari</translation>
+        <translation>Nusxani nusxalash opsiyalari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1593,7 +1593,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Agar &quot;nusxa koʻchirishni saqlaydi&quot; tanlansa, olamni saqlash maʼlumotlari bogʻlangan oʻrniga nusxalanadi va shuning uchun misollar oʻrtasida taqsimlanmaydi.</translation>
+        <translation>Agar &quot;nusxa koʻchirishni saqlaydi&quot; tanlansa, olamni saqlash maʼlumotlari bogʻlangan oʻrniga nusxalanadi va shuning uchun nusxalar oʻrtasida taqsimlanmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1736,7 +1736,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>Namuna uchun tezkor klavisha yaratish</translation>
+        <translation>Nusxa uchun tezkor klavisha yaratish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
@@ -1792,7 +1792,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>Eslatma: Agar yorliq yaratilgandan keyin boshqa joyga koʻchirilgan boʻlsa, u misolni oʻchirishda oʻchirilmaydi.</translation>
+        <translation>Eslatma: Agar yorliq yaratilgandan keyin boshqa joyga koʻchirilgan boʻlsa, u nusxani oʻchirishda oʻchirilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
@@ -1822,7 +1822,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="111"/>
         <source>%1 (in use)</source>
-        <translation>% 1 (ishlatilmoqda)</translation>
+        <translation>%1 (ishlatilmoqda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="178"/>
@@ -1837,7 +1837,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="195"/>
         <source>instance</source>
-        <translation>misol</translation>
+        <translation>nusxa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="199"/>
@@ -1860,7 +1860,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oldindan yuklash buyrug&apos;i</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -1885,7 +1885,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ishga tushirishdan oldingi buyruq namuna ishga tushirilgunga qadar ishlaydi va u chiqqandan keyin chiqishdan keyingi buyruq ishlaydi.&lt;/p&gt;&lt;p&gt;Ikkisi ham qoʻshimcha muhit oʻzgaruvchilari bilan ishga tushirgichning ishchi jildida ishga tushadi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Namuna nomi&lt;/li&gt;&lt;li&gt;$INST_ID - jildning identifikatori -$li&gt;$INST_ID&lt;/i&gt;ST_ID -$liD&gt; misolning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_JAVA - ishga tushirish uchun ishlatiladigan Java ikkilik fayli&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - ishga tushirish uchun ishlatiladigan buyruq qatori parametrlari (ogohlantirish: agar argumentlarda boʻsh joy boʻlsa, toʻgʻri ishlamaydi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wpper qoʻshimcha buyruq yordamida ishga tushirishga imkon beradi. Linuxda &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ishga tushirishdan oldingi buyruq nusxa ishga tushirilgunga qadar ishlaydi va u chiqqandan keyin chiqishdan keyingi buyruq ishlaydi.&lt;/p&gt;&lt;p&gt;Ikkisi ham qoʻshimcha muhit oʻzgaruvchilari bilan ishga tushirgichning ishchi jildida ishga tushadi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nusxa nomi&lt;/li&gt;&lt;li&gt;$INST_ID - jildning identifikatori -$li&gt;$INST_ID&lt;/i&gt;ST_ID -$liD&gt; nusxaning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftʼning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_JAVA - ishga tushirish uchun ishlatiladigan Java ikkilik fayli&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - ishga tushirish uchun ishlatiladigan buyruq qatori parametrlari (ogohlantirish: agar argumentlarda boʻsh joy boʻlsa, toʻgʻri ishlamaydi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wpper qoʻshimcha buyruq yordamida ishga tushirishga imkon beradi. Linuxda &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2186,7 +2186,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;% 1&apos; yangilangan! :)</translation>
+        <translation>ʼ%1ʼ yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
@@ -2305,7 +2305,7 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>Joriy xotira sozlamalari bilan ushbu misolni ishga tushirish uchun boʻsh RAM yetarli boʻlmasligi mumkin.
+        <translation>Joriy xotira sozlamalari bilan ushbu nusxani ishga tushirish uchun boʻsh RAM yetarli boʻlmasligi mumkin.
 
 Maksimal ajratilgan: %1 MiB
 Bepul: %2 MiB (jami %3 MiBdan)
@@ -2315,7 +2315,7 @@ Baribir ishga tushirilsinmi? Bu oʻyin va tizimingizda sekinlashuvga olib kelish
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>Ushbu misolni ishga tushirish uchun RAM yetarli emas</translation>
+        <translation>Ushbu nusxani ishga tushirish uchun RAM yetarli emas</translation>
     </message>
 </context>
 <context>
@@ -2323,7 +2323,7 @@ Baribir ishga tushirilsinmi? Bu oʻyin va tizimingizda sekinlashuvga olib kelish
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="98"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Assetlarda metama’lumotlar bor-yoʻqligi tekshirilmoqda...</translation>
+        <translation>Assetlarda metamaʼlumotlar bor-yoʻqligi tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="171"/>
@@ -2333,21 +2333,21 @@ Baribir ishga tushirilsinmi? Bu oʻyin va tizimingizda sekinlashuvga olib kelish
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="173"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>“% 2” uchun %1 dan metadata maʼlumotlari soʻralmoqda...</translation>
+        <translation>“%2” uchun %1 dan metadata maʼlumotlari soʻralmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="253"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="299"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Modrinthdan &quot;% 1&quot; uchun API javobi tahlil qilinmoqda...</translation>
+        <translation>Modrinthdan &quot;%1&quot; uchun API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="447"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="488"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&quot;% 1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&quot;%1&quot; uchun CurseForgeʼdan API javobi tahlil qilinmoqda...</translation>
     </message>
 </context>
 <context>
@@ -2357,7 +2357,7 @@ Baribir ishga tushirilsinmi? Bu oʻyin va tizimingizda sekinlashuvga olib kelish
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali yuklab olinmagan. Iltimos, ishlaydigan Internet aloqasi bilan onlayn rejimda qayta urinib koʻring</translation>
+Bu nusxani ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali yuklab olinmagan. Iltimos, ishlaydigan Internet aloqasi bilan onlayn rejimda qayta urinib koʻring</translation>
     </message>
 </context>
 <context>
@@ -2416,7 +2416,7 @@ Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Eksport namunasi</translation>
+        <translation>Nusxani eksport qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2442,7 +2442,7 @@ Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation>Namunani eksport qilib boʻlmadi</translation>
+        <translation>Nusxani eksport qilib boʻlmadi</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2664,7 +2664,7 @@ Bu misolni ishga tushirib boʻlmaydi, chunki baʼzi kutubxonalar yoʻq yoki hali
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Bu modlarning metamaʼlumotlariga bogʻliq. Uning mavjudligiga ishonch hosil qilish uchun namunada yangilanishni ishga tushiring. Yangilanishlarni oʻrnatish shart emas.</translation>
+        <translation>Bu modlarning metamaʼlumotlariga bogʻliq. Uning mavjudligiga ishonch hosil qilish uchun nusxada yangilanishni ishga tushiring. Yangilanishlarni oʻrnatish shart emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -2873,7 +2873,7 @@ Ishonchingiz komilmi?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Siz “% 1” jildini olib tashlamoqchisiz.
+        <translation>Siz “%1” jildini olib tashlamoqchisiz.
 Bu doimiy boʻlishi mumkin va u asosiy jilddan oʻchiriladi.
 
 Ishonchingiz komilmi?</translation>
@@ -2947,22 +2947,22 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus vositalarni dunyolar misol menyusidan ishga tushirish mumkin. Buyruq ${WORLD_PATH} o&apos;rinbosarini qo&apos;llab-quvvatlaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Qoʻshish</translation>
+        <translation>&amp;Qoʻshish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Oʻchirish</translation>
+        <translation>&amp;Oʻchirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
@@ -3002,7 +3002,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajariladigan fayllar (*.exe *.bat);;Barcha fayllar (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
@@ -3012,7 +3012,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Bajariladiganni tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
@@ -3022,7 +3022,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan fayl bajarilmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3043,13 +3043,13 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>JProfiler oʻrnatilishini tekshirishda xatolik yuz berdi:
-% 1</translation>
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
@@ -3067,7 +3067,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <source>Error while checking VisualVM install:
 %1</source>
         <translation>VisualVM oʻrnatilishini tekshirishda xatolik yuz berdi:
-% 1</translation>
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
@@ -3091,7 +3091,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>MCEdit oʻrnatilishini tekshirishda xatolik yuz berdi:
-% 1</translation>
+%1</translation>
     </message>
     <message>
         <source>MCEdit setup seems to be OK</source>
@@ -3117,12 +3117,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <name>ExtractNatives</name>
     <message>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>“% 1” lokal jarni “% 2” manziliga chiqarib boʻlmadi</translation>
+        <translation>“%1” lokal jarni “%2” manziliga chiqarib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; asl jar faylini &apos;%2&apos; manziliga chiqarib bo&apos;lmadi: %3</translation>
     </message>
 </context>
 <context>
@@ -3159,7 +3159,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Manifest notoʻgʻri: &apos;%1&apos; faylini yuklab olish uchun hech qanday maʼlumot yoʻq!</translation>
+        <translation>Manifest notoʻgʻri: ʼ%1ʼ faylini yuklab olish uchun hech qanday maʼlumot yoʻq!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="211"/>
@@ -3174,7 +3174,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="234"/>
         <source>Creating the instance...</source>
-        <translation>Misol yaratilmoqda...</translation>
+        <translation>Nusxa yaratilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
@@ -3237,7 +3237,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>FTBApp misollari katalogini tanlang</translation>
+        <translation>FTBApp nusxalari katalogini tanlang</translation>
     </message>
 </context>
 <context>
@@ -3276,7 +3276,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="221"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&apos;%1&apos; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>ʼ%1ʼ uchun CurseForgeʼdan API javobi tahlil qilinmoqda...</translation>
     </message>
 </context>
 <context>
@@ -3290,7 +3290,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&quot;%1&quot; uchun CurseForgeʼdan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="91"/>
@@ -3306,7 +3306,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="172"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&quot;%1&quot; uchun CurseForgeʼdan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
@@ -3322,7 +3322,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="113"/>
         <source>Unknown</source>
-        <translation>Noma&apos;lum</translation>
+        <translation>Nomaʼlum</translation>
     </message>
 </context>
 <context>
@@ -3343,17 +3343,17 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski fayllarni yuklab bo&apos;lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazifa bekor qilingani uchun eski fayllarni olib bo&apos;lmadi. Bu ba&apos;zi fayllarning nusxalanishiga olib kelishi mumkin. Davom etmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski fayllarni yuklab bo&apos;lmadi, chunki: %1. Bu ba&apos;zi fayllarning nusxalanishiga olib kelishi mumkin. Davom etmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="282"/>
@@ -3363,7 +3363,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="282"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Eski versiya uchun mos indeks faylini topa olmadik. Bu ba&apos;zi fayllarning takrorlanishiga olib kelishi mumkin. Davom etishni xohlaysizmi?</translation>
+        <translation>Eski versiya uchun mos indeks faylini topa olmadik. Bu baʼzi fayllarning takrorlanishiga olib kelishi mumkin. Davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="294"/>
@@ -3383,7 +3383,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Overwrites ixtiyoriy joyga (%1) olib boradigan yo&apos;lga ega. Bu xavfsizlik uchun xavf tug&apos;diradi va ruxsat etilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="410"/>
@@ -3400,7 +3400,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Manifestda noma&apos;lum mod yuklovchi: %1</translation>
+        <translation>Manifestda nomaʼlum mod yuklovchi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="465"/>
@@ -3453,17 +3453,17 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="684"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Bloklangan modlardan nusxa olinmoqda (%2dan 1% bajarildi)</translation>
+        <translation>Bloklangan modlardan nusxa olinmoqda (%2/%1 bajarildi)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eski ziddiyatli fayllar olib tashlanmoqda...</translation>
+        <translation>Eski ziddiyatli fayllar olib tashlanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="819"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Eski ziddiyatli fayllarni olib tashlab bo&apos;lmadi.</translation>
+        <translation>Eski ziddiyatli fayllarni olib tashlab boʻlmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
@@ -3481,7 +3481,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
         <source>%1 (Current)</source>
-        <translation>% 1 (Joriy)</translation>
+        <translation>%1 (Joriy)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
@@ -3521,12 +3521,12 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="259"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="295"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>&quot;%1&quot; uchun CurseForge&apos;dan API javobi tahlil qilinmoqda...</translation>
+        <translation>&quot;%1&quot; uchun CurseForgeʼdan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="240"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>CurseForge’dan loyiha ma’lumotlari topilmoqda...</translation>
+        <translation>CurseForgeʼdan loyiha maʼlumotlari topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
@@ -3623,7 +3623,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="308"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="311"/>
@@ -3709,7 +3709,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Unknown (%1)</source>
-        <translation>Noma&apos;lum (%1)</translation>
+        <translation>Nomaʼlum (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
@@ -3736,7 +3736,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="222"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>Tarmoqda xatolik yuz berdi. Loyihaga bogʻliqliklarni yuklab boʻlmadi:% 1</translation>
+        <translation>Tarmoqda xatolik yuz berdi. Loyihaga bogʻliqliklarni yuklab boʻlmadi:%1</translation>
     </message>
 </context>
 <context>
@@ -3796,7 +3796,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
         <source>Custom</source>
-        <translation type="unfinished">Maxsus</translation>
+        <translation>Maxsus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="149"/>
@@ -3931,17 +3931,17 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Import qilish uchun namunani tanlang</translation>
+        <translation>Import qilish uchun nusxani tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Ushbu resurs toʻplamini import qilmoqchi boʻlgan misolni tanlang.</translation>
+        <translation>Ushbu resurs toʻplamini import qilmoqchi boʻlgan nusxani tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Ushbu %1ni import qilmoqchi boʻlgan misolni tanlang.</translation>
+        <translation>Ushbu %1ni import qilmoqchi boʻlgan nusxani tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4048,29 +4048,31 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkinchi yuklagichni o&apos;rnatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bu misolda yoqilgan %2 bilan ziddiyatga ega ekanligi ma&apos;lum. Ikkalasini bir vaqtning o&apos;zida yoqish misolni buzishi mumkin.
+
+%2 bilan nima qilmoqchisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Uni saqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Uni o&apos;chirib qo&apos;ying</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Uni o&apos;chirib tashlang</translation>
     </message>
 </context>
 <context>
@@ -4099,17 +4101,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>Namuna nusxasi % 1</translation>
+        <translation>Nusxa nusxasi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
-        <translation>Namuna jildidan nusxa koʻchirish amalga oshmadi.</translation>
+        <translation>Nusxa jildidan nusxa koʻchirish amalga oshmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Namuna jildini nusxalash toʻxtatildi.</translation>
+        <translation>Nusxa jildini nusxalash toʻxtatildi.</translation>
     </message>
 </context>
 <context>
@@ -4117,12 +4119,12 @@ What would you like to do with %2?</source>
     <message>
         <source>Error while creating new instance:
 %1</source>
-        <translation>Yangi misol yaratishda xatolik yuz berdi:
-% 1</translation>
+        <translation>Yangi nusxa yaratishda xatolik yuz berdi:
+%1</translation>
     </message>
     <message>
         <source>Error while creating new instance.</source>
-        <translation>Yangi namuna yaratishda xatolik yuz berdi.</translation>
+        <translation>Yangi nusxa yaratishda xatolik yuz berdi.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -4152,7 +4154,7 @@ What would you like to do with %2?</source>
         <source>Downloading modpack:
 %1</source>
         <translation>Modlar toʻplami yuklab olinmoqda:
-% 1</translation>
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="103"/>
@@ -4162,7 +4164,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="131"/>
         <source>Attempting to determine instance type</source>
-        <translation>Namuna turini aniqlashga urinish</translation>
+        <translation>Nusxa turini aniqlashga urinish</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
@@ -4191,7 +4193,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
-        <translation>% 1 misol</translation>
+        <translation>%1 nusxa</translation>
     </message>
 </context>
 <context>
@@ -4205,7 +4207,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
-        <translation>Misolni tahrirlash (% 1)</translation>
+        <translation>Nusxani tahrirlash (%1)</translation>
     </message>
 </context>
 <context>
@@ -4230,7 +4232,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Bir necha marta urinishdan keyin ham misolni amalga oshirib boʻlmadi. Uni nimadir toʻsib qoʻymoqda.</translation>
+        <translation>Bir necha marta urinishdan keyin ham nusxani amalga oshirib boʻlmadi. Uni nimadir toʻsib qoʻymoqda.</translation>
     </message>
 </context>
 <context>
@@ -4238,12 +4240,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">O&apos;tkazib yuborish</translation>
+        <translation>Oʻtkazib yuborish</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
@@ -4253,7 +4255,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished">O&apos;yin fayllarni yuklab olish</translation>
+        <translation>Oʻyin fayllari yuklab olinmoqda</translation>
     </message>
 </context>
 <context>
@@ -4266,7 +4268,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="472"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Boshlash uchun &quot;Namunani qoʻshish&quot; tugmasini bosing.</translation>
+        <translation>Boshlash uchun &quot;Nusxani qoʻshish&quot; tugmasini bosing.</translation>
     </message>
 </context>
 <context>
@@ -4294,7 +4296,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishlayotgan instansiyani qayta ishga tushiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -4314,12 +4316,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Kill the running instance</source>
-        <translation>Ishlayotgan misolni oʻldiring</translation>
+        <translation>Ishlayotgan nusxani oʻldiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>Misolni ishga tushiring</translation>
+        <translation>Nusxani ishga tushiring</translation>
     </message>
 </context>
 <context>
@@ -4327,7 +4329,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>Portda tinglanmoqda: % 1</translation>
+        <translation>Portda tinglanmoqda: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -4380,7 +4382,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Qayta yuklash</translation>
+        <translation>&amp;Qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -4504,7 +4506,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Boshqariladigan Java versiyasi o&apos;rnatilmagan</translation>
+        <translation>Boshqariladigan Java versiyalari o&apos;rnatilmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
@@ -4521,7 +4523,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished">Siz &quot;% 1&quot; deb nomlangan Java o&apos;rnatmasini olib tashlamoqchisiz.
+        <translation>Siz &quot;%1&quot; nomli Java oʻrnatmasini olib tashlamoqchisiz.
 Ishonchingiz komilmi?</translation>
     </message>
     <message>
@@ -4545,7 +4547,7 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Hujjat</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -4560,12 +4562,12 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation type="unfinished">Mojang tomonidan tavsiya etilgan Java qurilishini avtomatik yuklab olish va tanlash.</translation>
+        <translation>Mojang tomonidan tavsiya etilgan Java qurilishini avtomatik ravishda tanlaydi va yuklab oladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>&amp;Mojang Java&apos;ni avtomatik yuklab olish</translation>
+        <translation>&amp;Mojang Javaʼni avtomatik yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
@@ -4580,7 +4582,7 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar yoqilgan bo&apos;lsa, ishga tushirgich tanlangan Java versiyasi bilan mos keladigan nusxani tekshirmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -4629,12 +4631,12 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-XX: PermSize)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
         <source>(-Xmx)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="220"/>
@@ -4649,7 +4651,7 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
         <source>(-Xms)</source>
-        <translation type="unfinished"></translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
@@ -4664,7 +4666,7 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo&apos;sh xotira yetarli bo&apos;lmaganda ogohlantirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -4691,7 +4693,10 @@ Ishonchingiz komilmi?</translation>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz Java-ning 32-bitli versiyasini tanladingiz.
+
+Ushbu o&apos;rnatish 2048 MiB dan ortiq operativ xotirani qo&apos;llab-quvvatlamaydi.
+Iltimos, maksimal xotira qiymati pastroq ekanligiga ishonch hosil qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
@@ -4720,7 +4725,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, nusxalarga qancha xotira ajratishni va Prism Launcher Java&apos;ni avtomatik yoki qo&apos;lda boshqarishi kerakligini tanlang.</translation>
     </message>
 </context>
 <context>
@@ -4743,7 +4748,14 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Siz 32-bitli Java o&apos;rnatilishini tanladingiz, lekin maksimal xotira sifatida 2048MiB dan ortiq joy ajratdingiz.
+
+%1 Minecraftni ishga tushira olmaydi.
+
+Davom etmoqchimisiz?
+
+Keyinroq sozlamalarda Java versiyasini o&apos;zgartirishingiz mumkin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
@@ -4758,47 +4770,54 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Siz Java versiyasini tanlamadingiz yoki ishlamaydiganini tanladingiz.
+
+%1 Minecraftni ishga tushira olmaydi.
+
+Java-ning funktsional versiyasisiz davom etmoqchimisiz?
+
+Java versiyasini keyinroq sozlamalarda o&apos;zgartirishingiz mumkin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="344"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Java .exe faylini toping</translation>
+        <translation>Java .exe faylini topish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="486"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Xotira</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="487"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Minecraft ishlata oladigan maksimal xotira miqdori.</translation>
+        <translation>Minecraft ishlata oladigan maksimal xotira miqdori.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="488"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimal xotira ajratish:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="489"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal xotira ajratish:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="490"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Minecraft boshlangandagi xotira miqdori.</translation>
+        <translation>Minecraft ishga tushirilganda ajratiladigan xotira miqdori.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Yuklangan Java klasslarini saqlash uchun mavjud xotira miqdori.</translation>
+        <translation>Yuklangan Java sinflarini saqlash uchun mavjud bo&apos;lgan xotira hajmi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Browse</source>
-        <translation type="unfinished">Ko‘rib chiqish</translation>
+        <translation>Koʻrib chiqish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
@@ -4818,22 +4837,22 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Siz ajratgan maksimal xotira tizim xotirasi sig‘imidan ko‘proq.</translation>
+        <translation>Maksimal xotira ajratish tizim xotirasi sig&apos;imidan oshib ketdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="509"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal xotira ajratish tizim xotirasi hajmiga yaqinlashadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal xotira ajratishingiz minimal qiymatdan kichikroq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz Java-ning 32-bitli o&apos;rnatmalari tomonidan qo&apos;llab-quvvatlanadigan maksimal ajratmadan oshib ketyapsiz.</translation>
     </message>
 </context>
 <context>
@@ -4867,7 +4886,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 da ishlatiladigan tilni tanlang</translation>
     </message>
 </context>
 <context>
@@ -4875,26 +4894,30 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 cbuyruq bajarilmoqda: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 command bo&apos;sh, o&apos;tkazib yubormoqda.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 c%2 kodi bilan buyruq bajarilmadi.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 command muvaffaqiyatli ishga tushdi.
+
+</translation>
     </message>
 </context>
 <context>
@@ -4902,12 +4925,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday misol ko&apos;rsatilmagan!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noto&apos;g&apos;ri Java argumentlari ko&apos;rsatilgan. Avval buni tuzating.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="98"/>
@@ -4982,29 +5005,31 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <location filename="src/launcher/LaunchController.cpp" line="376"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namuna profilini yuklab bo&apos;lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="382"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirgichni ishga tushirib bo&apos;lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fprofil tekshiruvi xatolik yuz berdi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Ishga tushirish</translation>
+        <translation>&amp;Ishga tushirish</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yinni ishga tushirish tugmani bosmaguningizcha kechiktiriladi. Profil serveri ishlayotganligi sababli, profilerni sozlash uchun eng to&apos;g&apos;ri vaqt.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
@@ -5014,7 +5039,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil yaratuvchini ishga tushirib bo&apos;lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="457"/>
@@ -5028,12 +5053,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; faylini yangilashda xatolik yuz berdi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; muddati tugagan va qayta autentifikatsiya qilinishi kerak</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
@@ -5054,7 +5079,7 @@ You need to purchase the game first to play the full version.</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirish uchun hech qanday hisob tanlanmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -5215,7 +5240,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Browse</source>
-        <translation type="unfinished">Ko‘rib chiqish</translation>
+        <translation>Koʻrib chiqish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -5299,7 +5324,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Remove</source>
-        <translation type="unfinished">Olib tashlash</translation>
+        <translation>Olib tashlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
@@ -5341,7 +5366,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barchasi (Reliz, Beta, Alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
@@ -5716,12 +5741,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="98"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Modpack chiqarilmoqda</translation>
+        <translation>Modlar toʻplami chiqarilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="123"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Modpack o&apos;rnatilmoqda</translation>
+        <translation>Modlar toʻplami oʻrnatilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="129"/>
@@ -5740,7 +5765,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Qidirish va filtrlash...</translation>
+        <translation>Qidirish va filtrlash...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
@@ -5783,7 +5808,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Vazifa foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Topshiriq foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
@@ -5862,7 +5887,7 @@ Reason:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5989,7 +6014,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Shakl</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -6101,7 +6126,7 @@ Reason:
     </message>
     <message>
         <source>Task aborted</source>
-        <translation type="unfinished">Vazifa to&apos;xtatildi</translation>
+        <translation>Topshiriq toʻxtatildi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="256"/>
@@ -6424,7 +6449,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
         <source>%1 &amp;Wiki</source>
-        <translation>%1 wikiʼsi</translation>
+        <translation>%1 vikiʼsi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
@@ -6668,7 +6693,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
         <source>Accounts</source>
-        <translation type="unfinished">Akkauntlar</translation>
+        <translation>Akkauntlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="281"/>
@@ -6800,7 +6825,7 @@ Reason:
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Vazifa foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Topshiriq foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -6845,7 +6870,7 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack yuklab olish</translation>
+        <translation>Modlar toʻplami yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1168"/>
@@ -6945,7 +6970,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -6955,7 +6980,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Rostan ham &apos;%1&apos; guruhini yoʻq qilmoqchimisiz?</translation>
+        <translation>Rostan ham ʼ%1ʼ guruhini yoʻq qilmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1303"/>
@@ -7123,7 +7148,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Vazifa foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Topshiriq foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -7196,7 +7221,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yangilashni tasdiqlang</translation>
+        <translation>Yangilashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -7220,7 +7245,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="74"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="147"/>
@@ -7244,7 +7269,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
 </context>
 <context>
@@ -7252,7 +7277,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Ishga tushirish</translation>
+        <translation>&amp;Ishga tushirish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
@@ -7312,7 +7337,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1125"/>
@@ -7784,7 +7809,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Shakl</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -8299,7 +8324,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Oʻchirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
@@ -8330,25 +8355,25 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="350"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="444"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yuklab olish foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Yuklab olish foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
@@ -8359,7 +8384,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yangilashni tasdiqlang</translation>
+        <translation>Yangilashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
@@ -8383,12 +8408,12 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
         <source>Update checker</source>
-        <translation type="unfinished">Yangilash tekshiruvi</translation>
+        <translation>Yangilash tekshirgichi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Yoʻq qilishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
@@ -8426,7 +8451,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;% 1&apos; yangilangan! :)</translation>
+        <translation>ʼ%1ʼ eng soʻnggi versiyada! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
@@ -8496,7 +8521,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="367"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
@@ -8526,12 +8551,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Not installed</source>
-        <translation type="unfinished">Oʻrnatilmagan</translation>
+        <translation>Oʻrnatilmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
         <source>Unknown</source>
-        <translation type="unfinished">Noaniq</translation>
+        <translation>Nomaʼlum</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
@@ -8554,12 +8579,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versiya %1)</translation>
+        <translation> (versiya %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>No index file.</source>
-        <translation type="unfinished">Indeks fayli yo&apos;q.</translation>
+        <translation>Indeks fayli yoʻq.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
@@ -8598,12 +8623,12 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="453"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%2 dan %1 bajarildi</translation>
+        <translation>%1/%2 bajarildi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar yuklanmoqda...</translation>
+        <translation>Modlar yuklanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
@@ -8619,12 +8644,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eski ziddiyatli fayllar olib tashlanmoqda...</translation>
+        <translation>Eski ziddiyatli fayllar olib tashlanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="570"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Eski ziddiyatli fayllarni olib tashlab bo&apos;lmadi.</translation>
+        <translation>Eski ziddiyatli fayllarni olib tashlab boʻlmadi.</translation>
     </message>
 </context>
 <context>
@@ -8632,7 +8657,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">% 1 (Joriy)</translation>
+        <translation>%1 (Hozirgi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
@@ -8642,12 +8667,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Yangilash faylini tanlang</translation>
+        <translation>Yangilash faylini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth paketi</translation>
+        <translation>Modrinth toʻplami</translation>
     </message>
 </context>
 <context>
@@ -8655,22 +8680,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Fayllar qidirilmoqda...</translation>
+        <translation>Fayllar qidirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Fayllarni qidirib bo&apos;lmadi</translation>
+        <translation>Fayllarni qidirib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Fayl xeshlari topilmoqda...</translation>
+        <translation>Fayl xeshlari topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Xeshlar uchun versiyalar topilmoqda...</translation>
+        <translation>Xeshlar uchun versiyalar topilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="172"/>
@@ -8680,7 +8705,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Fayllar qo&apos;shilmoqda...</translation>
+        <translation>Fayllar qoʻshilmoqda...</translation>
     </message>
 </context>
 <context>
@@ -8694,7 +8719,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Jami yuklamalar boʻyicha saralash</translation>
+        <translation>Jami yuklamalar boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="90"/>
@@ -8705,18 +8730,18 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="92"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">So‘nggi yangilanish bo‘yicha saralash</translation>
+        <translation>Soʻnggi yangilanish boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="166"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="211"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="255"/>
         <source> by </source>
-        <translation type="unfinished"> tomonidan </translation>
+        <translation> yaratdi </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
@@ -8731,22 +8756,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>External links:</source>
-        <translation type="unfinished">Tashqi havolalar:</translation>
+        <translation>Tashqi havolalar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Muammolar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Muammolar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Manba kodi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Dastur kodi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
@@ -8762,17 +8787,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtr opsiyalari</translation>
+        <translation>Filtr sozlamalari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Qidirish va filtrlash...</translation>
+        <translation>Qidirish va filtrlash...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Tanlangan versiya:</translation>
+        <translation>Tanlangan versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
@@ -8899,7 +8924,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="155"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 topshiriq(lar) bajarilmoqda (%3dan 2% bajarildi)</translation>
+        <translation>%1 ta topshiriq bajarilmoqda (%2/%3 bajarildi)</translation>
     </message>
 </context>
 <context>
@@ -8917,12 +8942,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -8960,7 +8985,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -8970,12 +8995,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8999,27 +9024,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="69"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nomi:</translation>
+        <translation>&amp;Nom:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="100"/>
         <source>No group</source>
-        <translation type="unfinished">Guruh yo&apos;q</translation>
+        <translation>Guruh yoʻq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="122"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="128"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="134"/>
         <source>Help</source>
-        <translation type="unfinished">Yordam</translation>
+        <translation>Yordam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="182"/>
@@ -9056,7 +9081,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Yopish</translation>
+        <translation>Yopish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -9145,12 +9170,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9213,7 +9238,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Nusxalash</translation>
+        <translation>&amp;Nusxalash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
@@ -9240,14 +9265,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Qidirish</translation>
+        <translation>Qidirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="260"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="402"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="443"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="260"/>
@@ -9262,7 +9287,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="387"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Yoʻq qilishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="388"/>
@@ -9291,12 +9316,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="489"/>
         <source>Clear</source>
-        <translation type="unfinished">Tozalash</translation>
+        <translation>Tozalash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="490"/>
         <source>Clear the log</source>
-        <translation type="unfinished">Jurnalni tozalash</translation>
+        <translation>Jurnalni tozalash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="402"/>
@@ -9513,7 +9538,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Shakl</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -10027,12 +10052,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10052,12 +10077,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="125"/>
@@ -10102,7 +10127,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Iltimos kuting...</translation>
+        <translation>Iltimos kuting...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -10117,12 +10142,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished">O&apos;tkazib yuborish</translation>
+        <translation>Oʻtkazib yuborish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻxtatish</translation>
     </message>
 </context>
 <context>
@@ -10143,7 +10168,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation type="unfinished">Tur</translation>
+        <translation>Tur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
@@ -10388,7 +10413,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">% 1 (ishlatilmoqda)</translation>
+        <translation>%1 (ishlatilmoqda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
@@ -10435,7 +10460,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Vazifa foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Topshiriq foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="163"/>
@@ -10455,22 +10480,22 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Tizim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
@@ -10495,55 +10520,55 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozirgi tizim temasini ishlatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Qorongʻu</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 min %2 s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 soat %2 min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 kun %2 soat %3 min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>kun</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="80"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>soat</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="85"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="90"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="95"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="48"/>
@@ -10713,23 +10738,23 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Mashhurlik bo&apos;yicha saralash</translation>
+        <translation>Mashhurlik boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="274"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">So‘nggi yangilanish bo‘yicha saralash</translation>
+        <translation>Soʻnggi yangilanish boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ism bo&apos;yicha saralash</translation>
+        <translation>Nom boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Muallif bo&apos;yicha saralash</translation>
+        <translation>Muallif boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="134"/>
@@ -10745,7 +10770,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">O&apos;yin versiyasi bo&apos;yicha saralash</translation>
+        <translation>Oʻyin versiyasi boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="270"/>
@@ -10791,7 +10816,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="114"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomaʼlum</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="628"/>
@@ -10838,13 +10863,13 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offlayn</translation>
+        <translation>Oflayn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="293"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tayyor</translation>
+        <translation>Tayyor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
@@ -10856,13 +10881,13 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Xatolik bor</translation>
+        <translation>Xatolik bor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="299"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Muddati o&apos;tgan</translation>
+        <translation>Muddati oʻtgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
@@ -10880,7 +10905,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="305"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Noaniq</translation>
+        <translation>Nomaʼlum</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
@@ -11130,7 +11155,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="272"/>
@@ -11213,7 +11238,7 @@ Error message: %3</source>
     <name>Resource</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Noaniq</translation>
+        <translation>Nomaʼlum</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="165"/>
@@ -11299,16 +11324,16 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="184"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="191"/>
@@ -11365,7 +11390,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="493"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="277"/>
@@ -11433,7 +11458,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
         <source> by </source>
-        <translation type="unfinished"> tomonidan </translation>
+        <translation> yaratdi </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
@@ -11448,22 +11473,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
         <source>External links:</source>
-        <translation type="unfinished">Tashqi havolalar:</translation>
+        <translation>Tashqi havolalar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Muammolar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Muammolar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Manba kodi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Dastur kodi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
@@ -11534,7 +11559,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="703"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="721"/>
@@ -11631,41 +11656,41 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">Yoqish</translation>
+        <translation>Yoqish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Oxirgi tahrirlangan</translation>
+        <translation>Oxirgi tahrirlangan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>Size</source>
-        <translation type="unfinished">Hajmi</translation>
+        <translation>Hajmi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Provider</source>
-        <translation type="unfinished">Provayder</translation>
+        <translation>Provayder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>File Name</source>
-        <translation type="unfinished">Fayl nomi</translation>
+        <translation>Fayl nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>Update</source>
-        <translation type="unfinished">Yangilash</translation>
+        <translation>Yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
@@ -11732,48 +11757,48 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="817"/>
         <source>Image</source>
-        <translation type="unfinished">Rasm</translation>
+        <translation>Rasm</translation>
     </message>
 </context>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">Yoqish</translation>
+        <translation>Yoqish</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Rasm</translation>
+        <translation>Rasm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Oxirgi tahrirlangan</translation>
+        <translation>Oxirgi tahrirlangan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Size</source>
-        <translation type="unfinished">Hajmi</translation>
+        <translation>Hajmi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
-        <translation type="unfinished">Provayder</translation>
+        <translation>Provayder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>File Name</source>
-        <translation type="unfinished">Fayl nomi</translation>
+        <translation>Fayl nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Update</source>
-        <translation type="unfinished">Yangilash</translation>
+        <translation>Yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -11815,12 +11840,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Paket formati</translation>
+        <translation>Toʻplam formati</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="183"/>
@@ -11838,7 +11863,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Paketlarni yuklab olish</translation>
+        <translation>Toʻplamlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -11861,25 +11886,25 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="176"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="223"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yuklab olish foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Yuklab olish foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="181"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
@@ -11890,7 +11915,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yangilashni tasdiqlang</translation>
+        <translation>Yangilashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="136"/>
@@ -11906,7 +11931,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;% 1&apos; yangilangan! :)</translation>
+        <translation>ʼ%1ʼ eng soʻnggi versiyada! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
@@ -11921,12 +11946,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>Update checker</source>
-        <translation type="unfinished">Yangilash tekshiruvi</translation>
+        <translation>Yangilash tekshirgichi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
@@ -11945,12 +11970,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Tanlangan versiya:</translation>
+        <translation>Tanlangan versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filtr opsiyalari</translation>
+        <translation>Filtr sozlamalari</translation>
     </message>
 </context>
 <context>
@@ -11997,17 +12022,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="400"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="138"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="239"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="145"/>
@@ -12053,7 +12078,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="267"/>
         <source>Not installed</source>
-        <translation type="unfinished">Oʻrnatilmagan</translation>
+        <translation>Oʻrnatilmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="304"/>
@@ -12127,12 +12152,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="46"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="86"/>
@@ -12196,32 +12221,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="50"/>
         <source>Actions</source>
-        <translation type="unfinished">Harakatlar</translation>
+        <translation>Amallar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
         <source>Upload</source>
-        <translation type="unfinished">Yuklab qoʻyish</translation>
+        <translation>Yuklab qoʻyish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <source>Rename</source>
-        <translation type="unfinished">Nomini oʻzgartirish</translation>
+        <translation>Nomini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Jildni koʻrish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="337"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menu</translation>
+        <translation>Kontekst menyusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -12259,7 +12284,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <source>Screenshots upload aborted</source>
@@ -12267,7 +12292,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Vazifa foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Topshiriq foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
@@ -12298,7 +12323,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="65"/>
@@ -12323,12 +12348,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="18"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="19"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12336,7 +12361,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
@@ -12364,7 +12389,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12381,12 +12406,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12402,7 +12427,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
@@ -12450,17 +12475,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
         <source>Actions</source>
-        <translation type="unfinished">Harakatlar</translation>
+        <translation>Amallar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Add</source>
-        <translation type="unfinished">Qoʻshish</translation>
+        <translation>Qoʻshish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Remove</source>
-        <translation type="unfinished">Olib tashlash</translation>
+        <translation>Olib tashlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
@@ -12475,12 +12500,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoʻshilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished">Yangilash</translation>
+        <translation>Qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="63"/>
@@ -12490,7 +12515,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="624"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menu</translation>
+        <translation>Kontekst menyusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="748"/>
@@ -12502,7 +12527,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Yoʻq qilishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="743"/>
@@ -12533,7 +12558,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Qayta yuklash</translation>
+        <translation>&amp;Qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -12559,7 +12584,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="51"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Paketlarni yuklab olish</translation>
+        <translation>Toʻplamlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
@@ -12582,25 +12607,25 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="218"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yuklab olish foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Yuklab olish foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="176"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="125"/>
@@ -12611,7 +12636,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yangilashni tasdiqlang</translation>
+        <translation>Yangilashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="131"/>
@@ -12627,7 +12652,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="156"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;% 1&apos; yangilangan! :)</translation>
+        <translation>ʼ%1ʼ eng soʻnggi versiyada! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="159"/>
@@ -12642,12 +12667,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <source>Update checker</source>
-        <translation type="unfinished">Yangilash tekshiruvi</translation>
+        <translation>Yangilash tekshirgichi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
@@ -12738,7 +12763,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Jildni ochish</translation>
+        <translation>Jildni ochish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
@@ -12763,7 +12788,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="185"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Skin o&apos;ch&amp;irish</translation>
+        <translation>&amp;Skinni oʻchirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="188"/>
@@ -12793,12 +12818,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="95"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="96"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="159"/>
@@ -12843,7 +12868,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skin O&apos;chirish</translation>
+        <translation>Skinni oʻchirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
@@ -12853,7 +12878,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menu</translation>
+        <translation>Kontekst menyusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
@@ -12868,7 +12893,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="381"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
@@ -12964,7 +12989,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Shakl</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -12982,7 +13007,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/Task.cpp" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
 </context>
 <context>
@@ -13006,18 +13031,18 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="43"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Modpack yuklab olinmoqda:
-% 1</translation>
+        <translation>Modlar toʻplami yuklab olinmoqda:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="48"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack yuklab olish</translation>
+        <translation>Modlar toʻplami yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="63"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Modpack chiqarilmoqda</translation>
+        <translation>Modlar toʻplami chiqarilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
@@ -13057,13 +13082,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="95"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifestini tushunib bo&apos;lmadi.
+        <translation>Toʻplam manifestini tushunib boʻlmadi:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="132"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Modpack chiqarilmoqda</translation>
+        <translation>Modlar toʻplami chiqarilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
@@ -13153,65 +13178,65 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Tanlangan versiya:</translation>
+        <translation>Tanlangan versiya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Qidirish va filtrlash...</translation>
+        <translation>Qidirish va filtrlash...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="206"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="261"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="225"/>
         <source> by </source>
-        <translation type="unfinished"> tomonidan </translation>
+        <translation> yaratdi </translation>
     </message>
 </context>
 <context>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">Yoqish</translation>
+        <translation>Yoqish</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Rasm</translation>
+        <translation>Rasm</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Oxirgi tahrirlangan</translation>
+        <translation>Oxirgi tahrirlangan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Hajmi</translation>
+        <translation>Hajmi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Provider</source>
-        <translation type="unfinished">Provayder</translation>
+        <translation>Provayder</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished">Fayl nomi</translation>
+        <translation>Fayl nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Yangilash</translation>
+        <translation>Yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="159"/>
@@ -13259,7 +13284,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation type="unfinished">Paketlarni yuklab olish</translation>
+        <translation>Toʻplamlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="49"/>
@@ -13287,25 +13312,25 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="177"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">To&apos;xtatildi</translation>
+        <translation>Toʻxtatildi</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Yuklab olish foydalanuvchi tomonidan to&apos;xtatildi.</translation>
+        <translation>Yuklab olish foydalanuvchi tomonidan toʻxtatildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
         <source>Warnings</source>
-        <translation type="unfinished">Ogohlantirishlar</translation>
+        <translation>Ogohlantirishlar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
@@ -13316,7 +13341,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yangilashni tasdiqlang</translation>
+        <translation>Yangilashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
@@ -13332,7 +13357,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;% 1&apos; yangilangan! :)</translation>
+        <translation>ʼ%1ʼ eng soʻnggi versiyada! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
@@ -13347,12 +13372,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>Update checker</source>
-        <translation type="unfinished">Yangilash tekshiruvi</translation>
+        <translation>Yangilash tekshirgichi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="206"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
@@ -13366,7 +13391,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
         <source>Appearance</source>
-        <translation type="unfinished">Tashqi ko&apos;rinish</translation>
+        <translation>Tashqi koʻrinish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
@@ -13379,7 +13404,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>
-        <translation type="unfinished">Til</translation>
+        <translation>Til</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
@@ -13441,12 +13466,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻzgarishlar roʻyxati:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu versiyani oʻtkazib yuborish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -13456,7 +13481,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilashni oʻrnatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
@@ -13496,7 +13521,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
@@ -13517,22 +13542,22 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="80"/>
         <source>Actions</source>
-        <translation type="unfinished">Harakatlar</translation>
+        <translation>Amallar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <source>Remove</source>
-        <translation type="unfinished">Olib tashlash</translation>
+        <translation>Olib tashlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Moslashtirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Tahrirlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
@@ -13577,12 +13602,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
         <source>Change Version</source>
-        <translation type="unfinished">Versiyani o&apos;zgartirish</translation>
+        <translation>Versiyani oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
         <source>Search</source>
-        <translation type="unfinished">Qidirish</translation>
+        <translation>Qidirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -13692,7 +13717,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menu</translation>
+        <translation>Kontekst menyusi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="193"/>
@@ -13719,7 +13744,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="403"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
@@ -13728,7 +13753,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
@@ -13837,7 +13862,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
 </context>
 <context>
@@ -13845,7 +13870,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
@@ -13860,7 +13885,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished">Tur</translation>
+        <translation>Tur</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
@@ -13910,7 +13935,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Protsessor arxitekturasi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
@@ -13942,7 +13967,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation type="unfinished">Masalahat qilinadigan</translation>
+        <translation>Tavsiya etilgan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
@@ -13959,17 +13984,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyani tanlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
@@ -13979,7 +14004,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Qayta yuklash</translation>
+        <translation>&amp;Qayta yuklash</translation>
     </message>
 </context>
 <context>
@@ -13987,12 +14012,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Qidirish</translation>
+        <translation>Qidirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
-        <translation type="unfinished">Xatolik</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -14048,12 +14073,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="275"/>
         <source>Name</source>
-        <translation type="unfinished">Ism</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="277"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyin rejimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="279"/>
@@ -14064,7 +14089,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Hajmi</translation>
+        <translation>Hajmi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
@@ -14103,32 +14128,32 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="71"/>
         <source>Actions</source>
-        <translation type="unfinished">Harakatlar</translation>
+        <translation>Amallar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="104"/>
         <source>Add</source>
-        <translation type="unfinished">Qoʻshish</translation>
+        <translation>Qoʻshish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="109"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoʻshilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="114"/>
         <source>Rename</source>
-        <translation type="unfinished">Nomini oʻzgartirish</translation>
+        <translation>Nomini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="119"/>
         <source>Copy</source>
-        <translation type="unfinished">Nusxa</translation>
+        <translation>Nusxa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="124"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻq qilish</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -14142,17 +14167,17 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="134"/>
         <source>Refresh</source>
-        <translation type="unfinished">Yangilash</translation>
+        <translation>Qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="139"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Jildni koʻrish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="144"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonkani tiklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="147"/>
@@ -14162,7 +14187,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">Asboblar</translation>
+        <translation>Asboblar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
@@ -14172,7 +14197,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
         <source>Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="163"/>
@@ -14182,12 +14207,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="56"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="168"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekst menu</translation>
+        <translation>Kontekst menyusi</translation>
     </message>
     <message>
         <source>Open World in MCEdit</source>
@@ -14224,7 +14249,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="474"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam nusxasini yaratish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="459"/>
@@ -14235,7 +14260,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="232"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">O&apos;chirishni tasdiqlang</translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="220"/>
@@ -14259,7 +14284,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamlar yoʻq qilinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
@@ -14269,7 +14294,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="276"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun maʼlumot toʻplami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
@@ -14279,12 +14304,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalarni ochish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Invalid command</source>
-        <translation type="unfinished">Yaroqsiz buyruq</translation>
+        <translation>Buyruq yaroqsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
@@ -14294,7 +14319,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbobni ishga tushirib boʻlmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
@@ -14306,7 +14331,7 @@ Error: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="516"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
@@ -14316,12 +14341,12 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="508"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam nomini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="516"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamning yangi nomini kiriting.</translation>
     </message>
 </context>
 <context>
