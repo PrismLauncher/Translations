@@ -3360,7 +3360,7 @@ Déan iarracht arís.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh bac ar thrasnú conaire i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -3628,7 +3628,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an pacáiste mod ag iarraidh comhad a íoslódáil lasmuigh den fhillteán instanse (%1). Is riosca slándála é seo agus ní cheadaítear é.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="655"/>
@@ -11100,7 +11100,7 @@ An bhfuil tú cinnte?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuireadh bac ar thrasnú conaire i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -12200,7 +12200,7 @@ Stádas HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl aon chás roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -14460,7 +14460,9 @@ Leagan suiteáilte faoi láthair: %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí na freastalaithe roghnaithe %1 a bhaint. Is gníomh buan é seo agus imeoidh na freastalaithe ó do liosta go deo (tréimhse an-fhada).
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
