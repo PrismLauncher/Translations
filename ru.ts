@@ -3395,10 +3395,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Удаление папки «%1».
+        <translation>Вы собираетесь удалить папку &quot;%1&quot;.
 Данное действие может оказаться необратимым и приведёт к удалению папки из родительской папки.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
@@ -3785,7 +3785,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокирован обход пути в %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -4068,7 +4068,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сборка модов пытается скачать файл за пределами папки экземпляра (%1). Это небезопасно и запрещено.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -5999,8 +5999,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Удаление установки Java с именем «%1».
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить установку Java с именем &quot;%1&quot;.
+Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -9701,10 +9701,10 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Удаление «%1»%2.
+        <translation>Вы собираетесь удалить &quot;%1&quot;%2.
 Данное действие может оказаться необратимым и приведёт к полному удалению экземпляра.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1547"/>
@@ -12367,7 +12367,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="409"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Не удалось разобраться в индексе сборки:
+        <translation>Не удалось разобрать индекс сборки:
 </translation>
     </message>
 </context>
@@ -13241,10 +13241,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>Удаление «%1».
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
 Данное действие может оказаться необратимым и приведёт к полному удалению файла из папки с журналами.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
@@ -13397,7 +13397,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокирован обход пути в %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -14442,7 +14442,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Экземпляр не выбран</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -16999,7 +16999,10 @@ Currently installed version: %1</source>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить %1 выбранных серверов.
+Это действие необратимо, и сервер исчезнет из вашего списка навсегда (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
@@ -17012,10 +17015,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Удаление «%1».
-Это действие необратимо, и приведёт к удалению сервера из списка навсегда (ОЧЕНЬ НАДОЛГО).
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Это действие необратимо, и сервер исчезнет из вашего списка навсегда (ОЧЕНЬ НАДОЛГО).
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -17394,8 +17397,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Удаление «%1».
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
@@ -17691,7 +17694,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="95"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось разобраться в манифесте набора:
+        <translation>Не удалось разобрать манифест сборки:
 </translation>
     </message>
     <message>
@@ -17777,14 +17780,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>Не удалось разобраться в «version.json»:
+        <translation>Не удалось разобрать &quot;version.json&quot;:
 inheritsFrom отсутствует</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="135"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>Не удалось разобраться в «version.json»:
+        <translation>Не удалось разобрать &quot;version.json&quot;:
 </translation>
     </message>
 </context>
@@ -18023,7 +18026,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>«%1» обновлён! :)</translation>
+        <translation>&apos;%1&apos;» обновлён! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
@@ -18049,8 +18052,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>Удаление метаданных для %1 наборов текстур.
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить метаданные для %1 наборов текстур.
+Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -18739,10 +18742,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>Удаление «%1».
-Данное действие необратимо и пользовательский компонент будет полностью удалён.
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Это действие необратимо и приведет к полному удалению пользовательского компонента.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
@@ -18846,10 +18849,10 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>Восстановление «%1».
-Это действие необратимо и приведёт к полной отмене пользовательской настройки параметров конфигурации.
+        <translation>Вы собираетесь отменить изменения в &quot;%1&quot;.
+Это действие необратимо и полностью отменит ваши настройки.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -19342,7 +19345,7 @@ It may be necessary to reinstall it.</source>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Изменение мира во время работы игры небезопасно.
-Продолжить?</translation>
+Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="232"/>
@@ -19355,10 +19358,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Удаление «%1».
-Это действие необратимо, и мир будет удалён навсегда (ОЧЕНЬ НАДОЛГО).
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Мир может исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
@@ -19368,15 +19371,15 @@ These worlds may be gone forever (A LONG TIME).
 Are you sure?</source>
         <translation>
             <numerusform>Вы собираетесь удалить %n мир.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
 
 Вы уверены?</numerusform>
             <numerusform>Вы собираетесь удалить %n мира.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
 
 Вы уверены?</numerusform>
             <numerusform>Вы собираетесь удалить %n миров.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ ДОЛГОЕ ВРЕМЯ).
+Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
 
 Вы уверены?</numerusform>
         </translation>
@@ -19465,12 +19468,12 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation>Неизвестная ошибка STS для служб «%1»: «%2»</translation>
+        <translation>Неизвестная ошибка STS для служб %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>Не удалось выполнить авторизацию для служб «%1»: «%2»</translation>
+        <translation>Не удалось выполнить авторизацию для служб %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
