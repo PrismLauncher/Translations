@@ -3769,7 +3769,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에서의 경로 탐색이 차단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -4052,7 +4052,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩이 인스턴스 폴더(%1) 외부의 파일을 다운로드하려고 합니다. 이는 보안상의 위험이 있으므로 허용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -13161,7 +13161,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에서의 경로 탐색이 차단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -14201,7 +14201,7 @@ HTTP 상태: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스가 선택되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
