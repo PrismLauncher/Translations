@@ -2363,12 +2363,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation>Actualización</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation>La versión del data pack.</translation>
+        <translation>La versión del paquete de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -7386,7 +7386,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="512"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation>Selecciona el canal de lanzamiento preferido cuando se cheque por actualizaciones del mod.</translation>
+        <translation>Seleccione el canal de versiones preferido al buscar actualizaciones de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
@@ -10048,7 +10048,7 @@ Por lo tanto, se recomienda encarecidamente crear una copia de seguridad de la i
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished">Lanzar &amp;As</translation>
+        <translation>Lanzar &amp;Como</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
@@ -11704,17 +11704,17 @@ Es posible que los archivos antiguos no se eliminen porque están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished">Revisar por actualizaciones (Solamente lanzadas)</translation>
+        <translation>Revisar actualizaciones (Solamente lanzadas)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished">Revisar por actualizaciones (Lanzadas y Beta)</translation>
+        <translation>Revisar actualizaciones (Lanzadas y Betas)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished">Revisar por actualizaciones (Lanzadas, Beta y Alpha)</translation>
+        <translation>Revisar actualizaciones (Lanzadas, Beta y Alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
@@ -13284,7 +13284,7 @@ Esta acción puede ser definitiva y el archivo desaparecerá de la carpeta de re
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Recorrido de ruta bloqueado en %1</translation>
+        <translation>Recorrido de ruta bloqueado en %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -14339,7 +14339,7 @@ Estado de HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Instancia no seleccionada</translation>
+        <translation>Instancia no seleccionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -16881,7 +16881,7 @@ Versión instalada actualmente: %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">Estas a punto de remover %1 de los servidores seleccionados. Esto es permanente y los servidores se irán de tu lista para siempre (Eso es mucho tiempo).
+        <translation>Estas a punto de remover %1 de los servidores seleccionados. Esto es permanente y los servidores se irán de tu lista para siempre (Eso es mucho tiempo).
 
 Estas seguro?</translation>
     </message>
