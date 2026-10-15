@@ -6474,26 +6474,30 @@ Haluatko pelata demoa?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentikaattoripalvelimet offline-tilassa</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftin autentikaatiopalvelimet eivät ole saatavilla juuri nyt, käynnistetään offline-tilassa.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei internet-yhteyttä</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Et ole yhdistetty Internetiin, käynnistetään offline-tilassa.
+
+</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -6731,12 +6735,12 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanssi &amp;Kuvakkeet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Modit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
