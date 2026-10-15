@@ -2283,7 +2283,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datapaketin versio.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -3191,12 +3191,12 @@ Pelipakettia ei voitu käynnistää koska jotkin kirjastot puuttuvat tai niitä 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukitse päivitykset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukitse resurssi estääksesi sen päivittymisen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
@@ -3333,12 +3333,12 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Maailmatyökalut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautetut työkalut, jotka voidaan käynnistää maailmoissa instanssin Maailmat-valikosta. Komento tukee ${WORLD_PATH}-paikkamerkkiä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
@@ -3358,7 +3358,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Komento</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3406,27 +3406,27 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritettavat tiedostot (*.exe *.bat);;Kaikki tiedostot (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki tiedostot (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse suoritettava tiedosto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen komento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Valittu tiedosto ei ole suoritettava tiedosto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3544,7 +3544,7 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe purkaessa natiivia jar:ia &apos;%1&apos; kohteeseen &apos;%2&apos;: %3</translation>
     </message>
 </context>
 <context>
@@ -3907,7 +3907,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modipakkaus yrittää ladata tiedostoa instanssikansion (%1) ulkopuolelle. Tämä on turvallisuusriski ja ei ole sallittua.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -4686,7 +4686,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Asennetaan toista lataajaa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
@@ -4698,17 +4698,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Pidä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista käytöstä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista</translation>
     </message>
 </context>
 <context>
@@ -4724,12 +4724,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuodaan maailmaa...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maailman tuonti epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -5295,12 +5295,12 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käynnistä uudelleen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä käynnissä oleva instanssi uudelleen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
@@ -5919,7 +5919,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoita, kun saatavilla ei ole tarpeeksi vapaata muistia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
@@ -6187,14 +6187,16 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komento on tyhjä, ohitetaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 komento epäonnistui koodilla %2
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
