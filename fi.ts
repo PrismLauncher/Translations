@@ -6919,17 +6919,17 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa instanssin muokkausikkunan tuplaklikkaamalla instanssia sen suorittamisen sijaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avaa Muokkaa ikkunaa instanssin kaksoisnapsautuksella</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
@@ -7001,22 +7001,22 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modipäivityskanava:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki (julkaisu, beta, alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain julkaisu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="536"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisu ja beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="562"/>
@@ -7146,23 +7146,23 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylimääräinen instanssikansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Monista kansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä on jo ensisijainen instanssikansiosi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä kansio on jo lisätty.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
@@ -7591,7 +7591,7 @@ Syy:
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7784,22 +7784,22 @@ Syy:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulotiedoston avaaminen epäonnistui: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohteen %1 lisääminen epäonnistui: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voi lukea ja pakata kohdetta %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulotiedoston sulkeminen epäonnistui: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -7840,7 +7840,7 @@ Syy:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston %1 purkaminen kohteeseen %2 epäonnistui: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
