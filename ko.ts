@@ -16744,7 +16744,9 @@ Currently installed version: %1</source>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 서버 %1개를 제거하려고 합니다. 이는 영구적이며 서버들이 목록에서 영원히 사라지게 됩니다.
+
+제거하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
@@ -16758,7 +16760,7 @@ This is permanent and the server will be gone from your list forever (A LONG TIM
 
 Are you sure?</source>
         <translation>&apos;%1&apos;을(를) 제거하려고 합니다.
-이는 영구적이며 서버가 목록에서 영원히 사라질 것입니다.
+이는 영구적이며 서버가 목록에서 영원히 사라지게 됩니다.
 
 제거하시겠습니까?</translation>
     </message>
@@ -19112,7 +19114,7 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>&apos;%1&apos;을(를) 삭제하려고 합니다.
+            <numerusform>세계 %n개를 삭제하려고 합니다.
 세계가 영원히 사라지게 됩니다.
 
 삭제하시겠습니까?</numerusform>
