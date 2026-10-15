@@ -8822,26 +8822,26 @@ Please update %1!</source>
     <name>Net::NetRequest</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 soʻralmoqda</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nomaʼlum</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0 B/s</translation>
     </message>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
@@ -11251,7 +11251,7 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maʼlumot toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11259,12 +11259,12 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maʼlumot toʻplami</translation>
     </message>
 </context>
 <context>
@@ -11272,7 +11272,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modlar</translation>
     </message>
 </context>
 <context>
@@ -11280,12 +11280,12 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modlar</translation>
     </message>
     <message>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mod</translation>
     </message>
 </context>
 <context>
@@ -11343,38 +11343,38 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="349"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 versiyasini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="376"/>
         <source>mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
         <source>resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurs toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
         <source>texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tekstura toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
         <source>shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sheyder toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
         <source>data packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurslar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
@@ -11425,7 +11425,7 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurs toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11433,12 +11433,12 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurs toʻplamlari</translation>
     </message>
     <message>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurs toʻplami</translation>
     </message>
 </context>
 <context>
@@ -11569,12 +11569,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurslar</translation>
     </message>
     <message>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">resurs</translation>
     </message>
 </context>
 <context>
@@ -11582,7 +11582,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sheyder toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11590,12 +11590,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sheyder toʻplamlari</translation>
     </message>
     <message>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sheyder toʻplami</translation>
     </message>
 </context>
 <context>
@@ -11603,7 +11603,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tekstura toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11611,12 +11611,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tekstura toʻplamlari</translation>
     </message>
     <message>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tekstura toʻplami</translation>
     </message>
 </context>
 <context>
@@ -12129,7 +12129,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="494"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Talab qiladi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="497"/>
