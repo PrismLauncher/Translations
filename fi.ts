@@ -2078,7 +2078,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Esilatauskomento suoritetaan ennen instanssin metatietojen lataamista, esikäynnistyskomento suoritetaan ennen instanssin käynnistymistä ja lopetuksen jälkeinen komento suoritetaan sen sulkeutumisen jälkeen.&lt;/p&gt;&lt;p&gt;Kaikki komennot suoritetaan käynnistysohjelman työkansiossa lisäympäristömuuttujien avulla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instanssin nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Instanssin tunnus (sen kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - instanssin absoluuttinen polku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin absoluuttinen polku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistykseen käytettävä Java-binääritiedosto&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistykseen käytettävät komentoriviparametrit (varoitus: ei toimi oikein, jos argumenteissa on välilyöntejä)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-komento mahdollistaa käynnistämisen ylimääräisen wrapper-ohjelman avulla (kuten ‘optirun’ Linuxissa)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2268,7 +2268,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko päivittää tämän datapaketin?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -3201,12 +3201,12 @@ Pelipakettia ei voitu käynnistää koska jotkin kirjastot puuttuvat tai niitä 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa päivitykset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa resurssi salliaksesi sen päivittämisen</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3343,17 +3343,17 @@ Oletko varma että haluat tehdä näin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lisää</translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Poista</translation>
+        <translation>&amp;Poista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
