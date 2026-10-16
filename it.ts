@@ -3669,7 +3669,7 @@ Sei sicuro di volerlo fare?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile estrarre il jar nativo &apos;%1&apos; nella destinazione &apos;%2&apos;: %3</translation>
     </message>
 </context>
 <context>
@@ -3769,7 +3769,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Path traversal bloccato in %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -4052,7 +4052,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il modpack sta tentando di scaricare un file al di fuori della cartella dell&apos;istanza (%1). Questo rappresenta un rischio per la sicurezza e non è consentito.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -5615,7 +5615,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impossibile aprire il file zip fornito: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -8093,22 +8093,22 @@ Causa:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire il file di output: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere e comprimere %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile chiudere il file di output: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8149,7 +8149,7 @@ Causa:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile estrarre il file %1 in %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -11649,7 +11649,7 @@ Vuoi disattivarle?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare il file jar personalizzato di Minecraft: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
