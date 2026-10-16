@@ -13132,7 +13132,7 @@ Sei sicuro?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Path traversal bloccato in %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
