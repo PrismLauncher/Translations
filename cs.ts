@@ -3760,7 +3760,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokováno obcházení cesty v %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -4043,7 +4043,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack se snaží stáhnout soubor mimo složku instance (%1). Toto je bezpečnostní riziko a není to povolené.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -13255,7 +13255,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokováno obcházení cesty v %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -14295,7 +14295,7 @@ Stav HTTP: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Není vybrána žádná instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -16834,7 +16834,9 @@ Aktuálně nainstalovaná verze: %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se smazat %1 vybraných severů. Toto je trvalé a servery se navždy ztratí z vašeho seznamu (OPRAVDU DLOUHO).
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
