@@ -604,12 +604,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Hantera Skins</translation>
+        <translation>&amp;Hantera utseenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation>Hantera skins</translation>
+        <translation>Hantera utseenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
@@ -1455,7 +1455,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Laddar lokal fil</translation>
+        <translation>Läser in lokal fil</translation>
     </message>
 </context>
 <context>
@@ -2325,7 +2325,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska det här datapaketet uppdateras?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2340,7 +2340,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionen för datapaketet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
@@ -3262,17 +3262,17 @@ Den här instansen kan inte startas eftersom vissa bibliotek saknas eller inte h
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
         <source>Lock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås uppdateringar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås resursen för att förhindra den från att uppdateras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås upp uppdateringar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
@@ -3443,7 +3443,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
@@ -3506,7 +3506,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -3521,7 +3521,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda filen är inte exekverbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -4022,7 +4022,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpaketet försöker ladda ner en fil utanför instansens mapp (%1). Det är en säkerhetsrisk och tillåts inte.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -4463,12 +4463,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>Importera skin.</translation>
+        <translation>Importera utseende.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation>Fick skin</translation>
+        <translation>Fick utseende</translation>
     </message>
 </context>
 <context>
@@ -5589,7 +5589,7 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna försedd zip-fil: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5689,7 +5689,7 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Kontrollerar sökvägen för Java binären</translation>
+        <translation>Kontrollerar sökvägen för Java-binären</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
@@ -7134,7 +7134,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
         <source>&amp;Skins:</source>
-        <translation>&amp;Skins:</translation>
+        <translation>&amp;Utseenden:</translation>
     </message>
     <message>
         <source>Disable automatic mod dependency management</source>
@@ -7249,12 +7249,12 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Moddar (Snabbåtkomst):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare instansmappar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
@@ -7477,7 +7477,7 @@ Du rekommenderas att ge %1 åtkomst till den via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Skins Folder</source>
-        <translation>Skins mapp</translation>
+        <translation>Utseendemapp</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -8083,7 +8083,7 @@ Orsak:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
@@ -8391,7 +8391,7 @@ Orsak:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
@@ -8401,7 +8401,7 @@ Orsak:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="559"/>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Moddar (Snabbåtkomst)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
@@ -8695,7 +8695,7 @@ Orsak:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="328"/>
         <source>Manage &amp;Skins...</source>
-        <translation>Hantera &amp;Skins...</translation>
+        <translation>Hantera &amp;Utseenden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
@@ -8927,12 +8927,12 @@ Orsak:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="570"/>
         <source>&amp;Skins</source>
-        <translation>&amp;Skins</translation>
+        <translation>&amp;Utseenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="573"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>Öppna skins katalog i en filhanterare.</translation>
+        <translation>Öppna utseendemappen i en filhanterare.</translation>
     </message>
     <message>
         <source>Instance Icons</source>
@@ -9773,7 +9773,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta uppdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -10317,7 +10317,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användandet av gamla onlinetjänster som inte längre är i drift.&lt;/p&gt;&lt;p&gt; Aktuella korrigeringar inkluderar: skin och stöd för onlineläge..&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användandet av gamla onlinetjänster som inte längre är i drift.&lt;/p&gt;&lt;p&gt; Aktuella korrigeringar inkluderar: utseenden och stöd för onlineläge..&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
@@ -10492,7 +10492,7 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd alltid den senaste Minecraft-versionen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
@@ -10850,12 +10850,12 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>AI-innehåll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI-innehåll (kod)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
@@ -10865,22 +10865,22 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI-innehåll (text)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI-innehåll (funktionallitet)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Annonser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Epilepsiutlösare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
@@ -10890,22 +10890,22 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (välj till)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (välj bort)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (alltid aktivt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
@@ -10915,12 +10915,12 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Betalfunktioner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiverad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -11048,7 +11048,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="288"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska det här moddet uppdateras?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="503"/>
@@ -12367,7 +12367,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/net/Request.cpp" line="206"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
@@ -14077,7 +14077,7 @@ HTTP Status: %2</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1822"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen instans markerad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
@@ -15498,7 +15498,7 @@ Uppdatera %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="72"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [markerad]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="452"/>
@@ -15722,7 +15722,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska det här moddet uppdateras?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="801"/>
@@ -15793,7 +15793,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="198"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska det här moddet uppdateras?</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -16093,7 +16093,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera otillgängliga moddar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="245"/>
@@ -16803,7 +16803,7 @@ Are you sure?</source>
     <name>SkinDelete</name>
     <message>
         <source>Deleting skin</source>
-        <translation>Raderar skin</translation>
+        <translation>Raderar utseende</translation>
     </message>
 </context>
 <context>
@@ -16811,7 +16811,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="295"/>
         <source>Path is empty.</source>
-        <translation>Filsökväg är tom.</translation>
+        <translation>Sökväg är tom.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="298"/>
@@ -16831,7 +16831,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="304"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>Skalbilder måste vara 64x64 eller 64x32 pixlar PNG-filer.</translation>
+        <translation>Bilder för utseenden måste vara 64x64 eller 64x32 pixlar PNG-filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="308"/>
@@ -16846,7 +16846,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin Upload</source>
-        <translation>Skin uppladdning</translation>
+        <translation>Utseende uppladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -16881,12 +16881,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
         <source>Reset Skin</source>
-        <translation>Återställ skin</translation>
+        <translation>Återställ utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="149"/>
         <source>Import URL</source>
-        <translation>Import URL</translation>
+        <translation>Importera URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="156"/>
@@ -16901,27 +16901,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="185"/>
         <source>&amp;Delete Skin</source>
-        <translation>&amp;Radera skin</translation>
+        <translation>&amp;Radera utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="188"/>
         <source>Deletes selected skin</source>
-        <translation>Raderar valda skins</translation>
+        <translation>Raderar markerade utseenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="191"/>
         <source>Del</source>
-        <translation>Ta bort</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="196"/>
         <source>&amp;Rename Skin</source>
-        <translation>&amp;Byt namn på skin</translation>
+        <translation>&amp;Byt namn på utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="199"/>
         <source>Rename selected skin</source>
-        <translation>Byt namn på valt skin</translation>
+        <translation>Byt namn på markerat utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="202"/>
@@ -16936,17 +16936,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="96"/>
         <source>OK</source>
-        <translation>Okej</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="159"/>
         <source>Select Skin Texture</source>
-        <translation>Välj skin textur</translation>
+        <translation>Välj textur för utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="165"/>
         <source>Selected file is not a valid skin</source>
-        <translation>Vald fil är inte ett giltigt skin</translation>
+        <translation>Vald fil är inte ett giltigt utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="194"/>
@@ -16956,37 +16956,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="201"/>
         <source>Download capes</source>
-        <translation>Ladda ned kappor</translation>
+        <translation>Ladda ner kappor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Change skin</source>
-        <translation>Ändra skin</translation>
+        <translation>Ändra utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <source>Skin file does not exist!</source>
-        <translation>Skin fil existerar inte!</translation>
+        <translation>Utseendefil existerar inte!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Failed to upload skin!</source>
-        <translation>Misslyckades med att ladda upp skin!</translation>
+        <translation>Misslyckades med att ladda upp utseende!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="318"/>
         <source>Reset skin</source>
-        <translation>Återställ skin</translation>
+        <translation>Återställ utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Skin Delete</source>
-        <translation>Radera skin</translation>
+        <translation>Radera utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Failed to delete current skin!</source>
-        <translation>Misslyckades med att radera nuvarande skin!</translation>
+        <translation>Misslyckades med att radera nuvarande utseende!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
@@ -16996,12 +16996,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
         <source>Delete error</source>
-        <translation>Fel vid borttagning</translation>
+        <translation>Radera fel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
         <source>Can not delete skin that is in use.</source>
-        <translation>Kan inte ta bort ett skin som används.</translation>
+        <translation>Kan inte radera utseenden som används.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="381"/>
@@ -17012,38 +17012,38 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Du håller på att ta bort &quot;%1&quot;.
+        <translation>Du håller på att radera &quot;%1&quot;.
 Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
-        <translation>Ogiltig url</translation>
+        <translation>Ogiltig URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="403"/>
         <source>Download skin</source>
-        <translation>Ladda ned skin</translation>
+        <translation>Ladda ner utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="412"/>
         <source>URL is not a valid skin</source>
-        <translation>URL är inte ett giltigt skin</translation>
+        <translation>URL är inte ett giltigt utseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>Skalbilder måste vara 64x64 eller 64x32 pixlar PNG-filer.</translation>
+        <translation>Bilder för utseenden måste vara 64x64 eller 64x32 pixlar PNG-filer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>Det gick inte att ladda ned skin: &apos;%1&apos;.</translation>
+        <translation>Det gick inte att ladda ner utseendet: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
         <source>Download user skin</source>
-        <translation>Ladda ned användarskin</translation>
+        <translation>Ladda ner användarutseende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="462"/>
@@ -17058,7 +17058,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
-        <translation>misslyckades med att ladda ned skin</translation>
+        <translation>misslyckades med att ladda ner utseende</translation>
     </message>
     <message>
         <source>failed to parse get user UUID response</source>
@@ -17076,7 +17076,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="482"/>
         <source>the skin is invalid</source>
-        <translation>detta skin är ogiltigt</translation>
+        <translation>utseendet är ogiltigt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
@@ -17088,7 +17088,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation>Kan inte hitta skin för &apos;%1&apos;
+        <translation>Kan inte hitta utseendet för &apos;%1&apos;
  eftersom: %2.</translation>
     </message>
 </context>
@@ -17096,7 +17096,7 @@ Are you sure?</source>
     <name>SkinUpload</name>
     <message>
         <source>Uploading skin</source>
-        <translation>Laddar upp skin</translation>
+        <translation>Laddar upp utseende</translation>
     </message>
 </context>
 <context>
@@ -17506,7 +17506,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="171"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska det här moddet uppdateras?</translation>
     </message>
     <message>
         <source>
@@ -18990,7 +18990,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera världar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
@@ -19005,17 +19005,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga verktyg tillagda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt kommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
