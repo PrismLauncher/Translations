@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Punong &amp;URL</translation>
+        <translation>Base &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -34,17 +34,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Tandaan: baka gusto mong baguhin o burahin ang Base URL pagkatapos baguhin ang uri ng serbisyo ng paste.</translation>
+        <translation>Tandaan: gugustuhin mo sigurong baguhin o burahin ang Base URL pagkatapos baguhin ang uri ng paste service.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation>I-refresh ng panglulunsad</translation>
+        <translation>I-refresh sa pag-launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation>Server ng Mga Asset</translation>
+        <translation>Server ng mga Asset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Maaari mo itong itakda o baguhin sa ibang server kung may problema ka sa pag-download ng mga lumang FML libraries (Minecraft 1.5.2 at mga nauna).</translation>
+        <translation>Maaari mo itong itakda sa ibang server kung may problema ka sa pag-download ng mga lumang FML libraries (Minecraft 1.5.2 at mga nauna).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Gumamit ng wala</translation>
+        <translation>Walang Gagamitin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>paganahin ang fallback sa Modrith sa mga naka-block na mods</translation>
+        <translation>Paganahin ang fallback sa Modrinth sa mga naka-block na mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Tandaan: hindi mo na kailangan i-set ito kung gumagana naman ang pag login sa Microsoft.</translation>
+        <translation>Tandaan: hindi mo na siguro kailangan itakda ito kung gumagana naman ang pag-login gamit ang Microsoft Authentication.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -157,7 +157,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Ilagay ang ipinasadyang User Agent rito. Papalitan ng bersyon ng launcher ang espesyal na string na $LAUNCHER_VER.</translation>
+        <translation>Ilagay ang personalisadong User Agent dito. Papalitan ng bersyon ng launcher ang espesyal na string na $LAUNCHER_VER.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Maitatakda mo ito sa isang third-party metadata server para gumamit ng mga natapalang library o iba pang hack.</translation>
+        <translation>Maitatakda mo ito sa isang third-party metadata server para gumamit ng mga naka-patch na library o iba pang hack.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -190,7 +190,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Tandaan: hindi mo naman na siguro kailangang itakda ito kung gumagana naman na ang CurseForge.</translation>
+        <translation>Tandaan: hindi mo na siguro kailangang itakda ito kung gumagana naman ang CurseForge.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -325,28 +325,28 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Isang custom launcher na ginagawang madali ang pamamahala ng Minecraft sa pamamagitan ng pagbigay ng paraan para magkaroon ng maraming instance ng Minecraft nang sabay-sabay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Isang custom launcher na nagpapadali sa pamamahala ng Minecraft sa pamamagitan ng pagbigay ng paraan para magkaroon ng maraming instance ng Minecraft nang sabay-sabay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Plataporma:</translation>
+        <translation>Platform:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Petsa ng pag gawa:</translation>
+        <translation>Petsa ng paggawa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>I-pagawa:</translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Pinagmulan:</translation>
+        <translation>Channel:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -366,7 +366,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>I-sara</translation>
+        <translation>Isara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
@@ -376,12 +376,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
-        <translation>Plataporma</translation>
+        <translation>Platform</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>I-pagawa: %1</translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
@@ -496,7 +496,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation>Kaurian</translation>
+        <translation>Uri</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
@@ -510,7 +510,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="390"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft username na nauugnay sa account.</translation>
+        <translation>Minecraft username na kaugnay ng account.</translation>
     </message>
     <message>
         <source>User name of the account.</source>
@@ -553,7 +553,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Itakda na Default</translation>
+        <translation>&amp;Itakda sa Default</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
@@ -578,18 +578,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;I-edit ang mga Skins</translation>
+        <translation>&amp;I-edit ang mga Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation>I-edit ang mga Skins</translation>
+        <translation>I-edit ang mga Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Magdagdag ng Microsoft Account</translation>
+        <translation>&amp;Maglagay ng Microsoft Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -655,7 +655,7 @@ Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Kailangan mo mag-lagay ng isang Microsoft Account na may-ari ng kopya ng Minecraft bago ka magdagdag ng isang offline account.&lt;br&gt;&lt;br&gt;Kung nawala ang iyong account, pwede mo i-contact si Microsoft para tulungin ka.</translation>
+        <translation>Kailangan mo maglagay ng isang Microsoft Account na may biniling kopya ng Minecraft bago ka maglagay ng isang offline account.&lt;br&gt;&lt;br&gt;Kung nawala ang iyong account, pwede mo i-contact ang Microsoft para tulungan ka.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -665,7 +665,7 @@ Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Gusto mo ba talaga tanggalin ang account na ito?</translation>
+        <translation>Gusto mo ba talagang tanggalin ang account na ito?</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -702,7 +702,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation>Mali</translation>
+        <translation>Nagka-error</translation>
     </message>
     <message>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
@@ -711,7 +711,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Maaring ilagay ang ninanais mong usename upang maidagdag ang iyong offline account.</translation>
+        <translation>Ilagay ang nais mong username upang ilagay ang iyong offline account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
@@ -826,12 +826,12 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Paganahin ang cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
-        <translation>Laki ng Pusa</translation>
+        <translation>Laki ng Cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
@@ -841,7 +841,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
-        <translation>Punoin</translation>
+        <translation>Punuin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
@@ -851,7 +851,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
-        <translation>Opacity ng Pusa</translation>
+        <translation>Opacity ng Cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
@@ -871,32 +871,32 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[ERROR] OOoooOOOoooo! Isang nakakatakot na error!</translation>
+        <translation>[ERROR] OOoooOOOoooo! May nakakatakot na error!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[ERROR] Isang nakakatakot na error!</translation>
+        <translation>[ERROR] May nakakatakot na error!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[INFO] Isang hindi nakakapinsalang mensahe...</translation>
+        <translation>[INFO] Hindi nakakapinsalang mensahe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[WARN] Hindi talagang nakakatakot na babala.</translation>
+        <translation>[WARN] Hindi masyadong nakakatakot na babala.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[DEBUG] Isang sikretong mensahe ng pag-debug...</translation>
+        <translation>[DEBUG] Sikretong mensahe sa pag-debug...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Isang nakakatakot na fatal error!</translation>
+        <translation>[FATAL] May nakakatakot na fatal error!</translation>
     </message>
 </context>
 <context>
@@ -904,7 +904,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="702"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>Hindi maipapakita ang log dahil lumalagpas sa %1 mga linya ang haba ng log.</translation>
+        <translation>Hindi maipakita itong log dahil lumalagpas sa %1 mga linya ang haba ng log.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="926"/>
@@ -925,18 +925,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ang installation na ito ay may update lock file na tinatagpo sa: %1
+        <translation>Ang installation na ito ay may update lock file sa: %1
 
-Panahon ng pangyayari: %2
-Pag-uupdate galing sa bersyon na %3 patungo sa %4
+Timestamp: %2
+Update galing sa bersyon na %3 patungo sa %4
 Target na install path: %5
 Path ng data: %6
-Ang ikinahuhulugan nito ay may nabigong update attempt. Suriin na yung installation mo ay gumagana bago tumuloy.
+Ibig-sabihin nito ay may nabigong pag-a-update. Siguraduhing gumagana ang installation mo bago tumuloy.
 Tingnan ang updater log ng Prism Launcher sa: 
 %7
 para sa detalye ng huling update attempt.
 
-Para i-delete ang lock na ito at mag-patuloy, I-select ang &quot;Ignore&quot; sa baba.</translation>
+Para i-delete ang lock na ito at mag-patuloy, I-select ang &quot;Balewalain&quot; sa baba.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1115"/>
@@ -953,7 +953,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>May nabigong update attempt. 
 
-Suriin na yung installation mo ay gumagana bago tumuloy.
+Siguraduhing gumagana ang installation mo bago tumuloy.
 Tingnan ang updater log ng Prism Launcher sa: 
 %1
 para sa detalye ng huling update attempt.</translation>
@@ -996,10 +996,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>Ang iyong /tmp na direktoryo ay kasalukuyang naka-mount na may naka-enable na flag na &apos;noexec&apos;.
-Maaaring hindi ilunsad ang ilang bersyon ng Minecraft.
+        <translation>Ang iyong /tmp directory ay kasalukuyang naka-mount na may flag na &apos;noexec&apos;.
+Maaaring hindi mai-launch ang ilang bersyon ng Minecraft.
 
-Maaari mong lutasin ang isyung ito sa pamamagitan ng muling pag-mount sa /tmp bilang &apos;exec&apos; o pagtatakda ng java.io.tmpdir JVM argument sa isang writeable na direktoryo sa isang filesystem kung saan nakatakda ang flag na &apos;exec&apos; (hal., /home/user/.local/tmp)
+Maaari mong lutasin ang isyung ito sa pag-remount ng /tmp bilang &apos;exec&apos; o pagtatakda ng java.io.tmpdir JVM argument sa isang writeable na directory sa isang filesystem kung saan nakatakda ang flag na &apos;exec&apos; (hal., /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/Application.cpp" line="1229"/>
         <source>Incompatible system configuration</source>
-        <translation>Kompigurasyon ng sistema na hindi naayon</translation>
+        <translation>Incompatible na system configuration</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -1022,7 +1022,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/Application.cpp" line="1997"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>May nakitang lumang data mula sa %1, ngunit mayroon ka nang data para sa %2. Sa kasawiangpalad, kakailanganin mong ilipat ito ng sarili mo. Nais mo bang mapaalalahanan nang nakabinbing paglipat ng data sa susunod na magsimula ka sa %2?</translation>
+        <translation>May nakitang lumang data sa %1, ngunit mayroon ka nang data para sa %2. Kakailanganin mong ilipat ito nang sarili. Nais mo bang mapaalalahanan sa nakabinbing paglipat ng data sa susunod na magsimula ka ng %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2001"/>
@@ -1037,7 +1037,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/Application.cpp" line="2053"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Nabigo ang pag lipat! Dahilan: %1</translation>
+        <translation>Nabigo ang paglipat! Dahilan: %1</translation>
     </message>
 </context>
 <context>
@@ -1082,12 +1082,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Nag-uupdate ng repertoryo sa mga asset...</translation>
+        <translation>Ina-update ang assets index...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Repertoryo ng mga asset para sa %1</translation>
+        <translation>Asset index para sa %1</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -1096,7 +1096,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Nabigong basahin ang repertoryo ng mga asset!</translation>
+        <translation>Nabigong basahin ang assets index!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
@@ -1107,7 +1107,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>Kinukuha ang mga asset files sa %1...</translation>
+        <translation>Kinukuha ang mga asset file sa %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1117,14 +1117,14 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Nabigong magdownload ng repertoryo ng mga asset:
+        <translation>Nabigong i-download ang asset index:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Nabigong mag-download ang mga asset:
+        <translation>Nabigong i-download ang mga asset:
 %1</translation>
     </message>
 </context>
@@ -1134,19 +1134,19 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Uriin ayon sa kasikatan</translation>
+        <translation>Salahin ayon sa kasikatan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Uriin ayon sa Pangalan</translation>
+        <translation>Salahin ayon sa Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Uriin ayon sa Bersyon ng Laro</translation>
+        <translation>Salahin ayon sa Bersyon ng Laro</translation>
     </message>
 </context>
 <context>
@@ -1154,7 +1154,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Piliin ang mga Mod na I-installin</translation>
+        <translation>Piliin ang mga Mod na Ii-install</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1197,7 +1197,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Sigurado ka ba na nais mong buksan ang mod na ito?</translation>
+        <translation>Nais mo ba talagang buksan ang mod na ito?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="248"/>
@@ -1210,18 +1210,18 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Babala: ito ay isang gawaing hindi pa tapos. Kung nakakita ka ng mga isyu sa na-import na modpack, maaaring ito ay bug lamang.</translation>
+        <translation>Babala: Work-in-progress pa lang ito. Kung nakakita ka ng mga isyu sa inimport na modpack, baka bug lang iyon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation>Bersyong napili:</translation>
+        <translation>Bersyong pinili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Hanapin at i-filter...</translation>
+        <translation>Hanapin at salahin...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1256,7 +1256,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="46"/>
         <source>Finished all authentication steps</source>
-        <translation>Natapos na ang lahat ng mga hakbang sa pagpapatunay</translation>
+        <translation>Natapos na ang lahat ng mga hakbang sa authentication</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
@@ -1266,7 +1266,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="87"/>
         <source>Waiting...</source>
-        <translation>Humihintay...</translation>
+        <translation>Naghihintay...</translation>
     </message>
     <message>
         <source>Working...</source>
@@ -1275,7 +1275,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
         <source>Preparing to log in...</source>
-        <translation>naghahanda sa pag log in...</translation>
+        <translation>Naghahanda sa pag-log in...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
@@ -1285,12 +1285,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="105"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Hindi maka-contact ng authentication server.</translation>
+        <translation>Hindi ma-contact ang authentication server.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="112"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Nabago ang Client ID. Kailangang gumawa ng bagong sesyon.</translation>
+        <translation>Nabago ang Client ID. Kailangang gumawa ng bagong session.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="119"/>
@@ -1300,12 +1300,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="126"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Hindi ma-authenticate ang iyong sesyon at ito ay nag-expire na.</translation>
+        <translation>Hindi ma-authenticate. Nag-expire na ang session.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="133"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Nabigong patotohanan. Hindi na mahanap ang iyong account o wala na ang account mo.</translation>
+        <translation>Hindi ma-authenticate. Hindi mahanap ang account o wala na ang account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
@@ -1328,12 +1328,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Walang makuhang bersyon ng Java na wasto. Ginagamit ang default.</translation>
+        <translation>Walang makuhang compatible na Java version. Gagamitin na ang default.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Yung system mo (%1-%2) ay incompatible sa awtomatikong installation ng Java. Gagamitin ang default Java path.</translation>
+        <translation>Incompatible sa awtomatikong installation ng Java ang system mo (%1-%2). Gagamitin ang default Java path.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
@@ -1348,7 +1348,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Walang Java bersyon na nagtutugma (walang binary file). Gagamitin ang default.</translation>
+        <translation>Walang Java version na nagtutugma (walang binary file). Gagamitin ang default.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
@@ -1381,23 +1381,23 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Alert ng Bagong Feature!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Bagong Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Nagdagdag kami ng feature na awtomatikong i-download ang tamang bersyon ng Java para sa bawat bersyon ng Minecraft (maaari itong baguhin sa mga setting ng Java). Gusto mo bang i-enable o i-disable ang feature?</translation>
+        <translation>Nagdagdag kami ng feature na awtomatikong ida-download ang tamang bersyon ng Java para sa bawat bersyon ng Minecraft (maaari itong baguhin sa mga setting ng Java). Gusto mo bang i-enable o i-disable ang feature?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>I-enable ang auto-download</translation>
+        <translation>I-enable ang Auto-Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation>I-disable ang auto-download</translation>
+        <translation>I-disable ang Auto-Download</translation>
     </message>
 </context>
 <context>
@@ -1405,7 +1405,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Niloload ang lokal na file</translation>
+        <translation>Nilo-load ang lokal na file</translation>
     </message>
 </context>
 <context>
@@ -1425,7 +1425,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
-        <translation>Mangyaring i-download ang mga nawawalang mods.</translation>
+        <translation>I-download ang mga nawawalang mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
@@ -1435,7 +1435,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Cancel</source>
-        <translation>Kansel</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1450,7 +1450,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ang iyong sinaayos na pangkalahatan na folder ng mga mod at karaniwang folder ng mga downloads ay awtomatikong sinurian ng naroroon na mga na-download na mga mods at ito ay makokopya sa instance kapag nahanap.&lt;/p&gt;&lt;p&gt;Maaari mong ilagay ang iyong mga na-download na mods sa dayalog na ito o maaari ring magdagdag ng folder upang makita kung hindi mo na-download ang mga mods sa pangkaraniwang lokasyon.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Pindutin ang &apos;Buksan ang nawawala&apos; upang mahanap ang lahat ng mga download link sa browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ang iyong isinaayos na global mods folder at default folder ng mga download ay awtomatikong hinahanapan ng nai-download na mga mod at kokopyahin ito sa instance kapag nahanap.&lt;/p&gt;&lt;p&gt;Maaari mong ilagay ang iyong mga dinownload na mod sa dialog na ito o maaari ding magdagdag ng folder upang makita kung hindi mo na-download ang mga mods sa default na lugar.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Pindutin ang &apos;Buksan ang nawawala&apos; upang buksan ang lahat ng mga download link sa browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1460,27 +1460,27 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Buksan ang mga nawawala</translation>
+        <translation>Buksan ang Nawawala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation>Sinuri na mga Folder</translation>
+        <translation>Hinanapang mga Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Magdagdag ng isang Download Folder</translation>
+        <translation>Magdagdag ng Download Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Piliin ang direktoryo kung saan dinownload mo ng mga mod</translation>
+        <translation>Piliin ang directory kung saan dinownload mo ang mga mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hindi nahanap &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hindi Nahanap &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
@@ -1512,7 +1512,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Hindi mahanap ang library ng Java checker. Suriin po ang iyong installation.</translation>
+        <translation>Hindi mahanap ang library ng Java checker. Tingnan ang iyong installation.</translation>
     </message>
 </context>
 <context>
@@ -1520,7 +1520,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation>Pumili ng Pangalang Offline</translation>
+        <translation>Pumili ng Pangalan sa Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
@@ -1530,22 +1530,22 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation>Pangalan</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Ang pangalan ay nararapat na ang haba ay 3 hanggang 16 na karakter, gumagamit ng mga titik na Ingles, mga numero, at mga underscore. Ang pangalan na hindi umaayon sa tuntunin ay maaaring hindi makasali sa mga pampubliko at pansarili na mga world.</translation>
+        <translation>Balido lamang ang username kung ito ay 3 hanggang 16 na karakter kahaba, gumagamit ng mga titik na Ingles, mga numero, at mga underscore. Ang pangalan imbalidong ay maaaring hindi humadlang sa pagsali sa server at isahang mundo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation>Payagan ang mga pangalan na hindi wasto</translation>
+        <translation>Payagan ang pangalang imbalido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Kansela</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
@@ -1558,7 +1558,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Pumili ng provider ng mga mod</translation>
+        <translation>Pumili ng mod provider</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1583,7 +1583,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Subukin ng kusa na gumamit ng ibang providers kung nabigo ang pinili</translation>
+        <translation>Kusang subuking gumamit ng ibang providers kung nabigo ang pinili</translation>
     </message>
 </context>
 <context>
@@ -1591,7 +1591,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation>naglo-load ang sangkap</translation>
+        <translation>Inilolo-load ang mga component</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="219"/>
@@ -1601,27 +1601,27 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="243"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Merong mga nabigong component metadata load tasks.</translation>
+        <translation>May mga nabigong gawain sa pag-load ng component metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="248"/>
         <source>Downloading metadata for %1 components</source>
-        <translation>Nagda-download ang metadata sa mga %1 components</translation>
+        <translation>Nagda-download ng metadata para sa %1 component</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="487"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>May hindi tumutugma na pangangailangan na nakita noong pag-tsek ng dependency!</translation>
+        <translation>May hindi tumutugma na pangangailangan na nakita habang nagtsetsek ng dependency!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="504"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Ang instance ay may hindi tugma na dependency.</translation>
+        <translation>May hindi tugma na dependency ang instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="510"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Ang instance na ito ay may mga dependencies na hindi pa resolved habang nag-checheck/nag-loload para sa pagbukas.</translation>
+        <translation>May mga dependency ang instance na hindi pa na-resolba habang nag-checheck/nag-loload para sa pag-launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="810"/>
@@ -1632,7 +1632,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="817"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Nabigo ang gawain sa pag-update ng metadata ng bahagi habang nagda-download mula sa remote server: 
+        <translation>Nabigo ang gawaing pag-update ng component metadata habang nagda-download mula sa remote server: 
 %1</translation>
     </message>
 </context>
@@ -1641,7 +1641,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Nabigo ang pag-tigil ng lahat ng gumaganang task.</translation>
+        <translation>Nabigo ang pagtigil ng lahat ng tumatakbong task.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -1650,39 +1650,39 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation>Nabigo and gawain</translation>
+        <translation>Nabigo ang gawain</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
         <source>Multiple subtasks failed</source>
-        <translation type="unfinished">Maraming subtasks ay nabigo</translation>
+        <translation>Maraming subtask ang nabigo</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation type="unfinished">Maraming subtasks ay nabigo
+        <translation>Maraming subtask ang nabigo
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Ginagawa ang %1 task(s) (%2 sa %3 ay tapos na)</translation>
+        <translation>Isinasagawa ang %1 gawain (tapos na ang %2 sa %3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation>Maghintay muna...</translation>
+        <translation>Maghintay...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>Hinihintay ang isang task na mag-simula...</translation>
+        <translation>Naghihintay magsimula ang isang gawain...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation>Ginagawa ang isang task:</translation>
+        <translation>Isinasagawa ang isang task:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
@@ -1710,17 +1710,17 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>Selekatahin lahat</translation>
+        <translation>Piliin lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Ang pag-disable nito ay magpapanatili ng mod loader (ex: Fabric, Quilt, etc.) pero tatanggalin niya ang folder ng mga mods at config nila.</translation>
+        <translation>Ang pag-disable nito ay hahayaan pa rin ang mod loader (ex: Fabric, Quilt, etc.) pero tatanggalin ang mods folder at config nila.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Mga opsyon sa pag-kopya ng Instance</translation>
+        <translation>Mga opsyon sa Pagkopya ng Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1730,7 +1730,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Kopyahin ang mga in-game options katulad ng FOV, max framerate, atbp.</translation>
+        <translation>Kopyahin ang mga opsyon sa laro katulad ng FOV, max framerate, etc.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1755,7 +1755,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Mga opsyon ng Symbolic at Hard Link</translation>
+        <translation>Mga Opsyon sa Symbolic at Hard Link</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
