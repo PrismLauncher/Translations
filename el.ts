@@ -2989,7 +2989,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="121"/>
         <source>&amp;Remove</source>
-        <translation>%Αφαίρεση</translation>
+        <translation>&amp;Αφαίρεση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
@@ -3055,7 +3055,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="170"/>
         <source>&amp;Download</source>
-        <translation>%Εγκατάσταση</translation>
+        <translation>&amp;Εγκατάσταση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="173"/>
@@ -8589,7 +8589,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ετοιμάζεστε να ενημερώσετε το πακέτο τροποποιήσεων στην έκδοση &quot;%1&quot;.
+Ανεπανόρθωτες αλλαγές μπορεί να γίνουν στα αρχεία του στιγμιοτύπου.
+Γι&apos; αυτό, είναι αρκετά προτινόμενο να δημιουργήσετε ένα αντίγραφο ασφαλείας του στιγμιοτύπου.
+
+Είστε σίγουροι;</translation>
     </message>
 </context>
 <context>
@@ -9489,7 +9493,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάροχος</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -10095,7 +10099,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανάλυση απάντησης του API από Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
@@ -10662,7 +10666,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Κρύψιμο λίστας άρθρων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
@@ -11363,7 +11367,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="93"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>όνομα έκδοσης</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
@@ -11444,7 +11448,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το πρόγραμμα ενημέρωσης δεν μπορεί να βρει το κύριο εκτελέσιμο αρχείο.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="186"/>
