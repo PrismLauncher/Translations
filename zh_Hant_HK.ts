@@ -5779,7 +5779,7 @@ Reason:
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>您可以掃描 QR Code 登入，或者瀏覽 %1 並輸入上面嘅通行碼嚟進行本機授權登入。</translation>
     </message>

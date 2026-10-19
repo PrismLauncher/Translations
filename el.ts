@@ -7375,7 +7375,7 @@ Reason:
         <translation>Ακύρωση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Ανοίξτε το %1 ή σαρώστε το QR και εισαγάγετε τον παραπάνω κωδικό, αν χρειαστεί.</translation>
     </message>

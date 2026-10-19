@@ -8048,7 +8048,7 @@ Motivo:
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Abra %1 o escanee el QR e introduzca el código anterior si es necesario.</translation>
     </message>

@@ -8370,7 +8370,7 @@ Reason:
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Откройте %1 или отсканируйте QR-код и при необходимости введите указанный выше код.</translation>
     </message>

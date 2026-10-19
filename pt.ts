@@ -8140,7 +8140,7 @@ Motivo:
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Abra %1 ou escaneie o QR code e insira o código acima se precisar.</translation>
     </message>

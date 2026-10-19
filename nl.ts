@@ -8193,7 +8193,7 @@ Reden:
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Open %1 of scan de QR-code en voer de bovenstaande code in.</translation>
     </message>

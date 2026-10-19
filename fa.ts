@@ -7667,7 +7667,7 @@ Reason:
         <translation>لغو</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>%1 را باز کنید یا QR را اسکن کنید و در صورت نیاز کد بالا را وارد کنید.</translation>
     </message>

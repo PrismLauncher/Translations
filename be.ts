@@ -7549,7 +7549,7 @@ Reason:
         <translation>Скасаваць</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Адкрыйце %1 або сканаваць QR-код, і калі гэта неабходна, увядзіце код, паказаны вышэй.</translation>
     </message>

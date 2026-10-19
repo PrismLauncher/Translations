@@ -8269,7 +8269,7 @@ Indok:
         <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Nyisd meg a %1 linket, vagy szkenneld be a QR-kódot, és add meg a fenti kódot, ha szükséges.</translation>
     </message>

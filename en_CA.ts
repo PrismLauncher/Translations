@@ -7841,7 +7841,7 @@ Reason:
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Open %1 or scan the QR and enter the above code if needed.</translation>
     </message>

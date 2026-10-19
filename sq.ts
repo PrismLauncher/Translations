@@ -6162,7 +6162,7 @@ Arsyeja:
         <translation>Anulo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Hap %1 ose skano QR-in dhe fut kodin e mësipërm nëse nevojitet.</translation>
     </message>
