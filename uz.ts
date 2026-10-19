@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin servisi</translation>
+        <translation>&amp;Pastebin xizmati</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Hech qaysi</translation>
+        <translation>Hech qanday</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -135,7 +135,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Eslatma: buni faqat shaxsiy ma’lumotlarga kirish uchun sozlashingiz kerak.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;Eslatma: shaxsiy ma&apos;lumotlarga kirish uchun shuni sozlashingiz kifoya.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Eslatma: buni faqat shaxsiy maʼlumotlarga kirish uchun sozlashingiz kerak.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -602,7 +602,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Rostan ham ushbu akkauntni oʻchirmoqchimisiz?</translation>
+        <translation>Rostan ham ushbu akkauntni yoʻq qilmoqchimisiz?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -636,7 +636,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Microsoft Autentifikatsiya klient ID qoʻyilmagan.</translation>
+        <translation>Microsoft Autentifikatsiya kliyent IDʼsi oʻrnatilmagan.</translation>
     </message>
 </context>
 <context>
@@ -677,7 +677,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
         <source>View icon themes folder.</source>
-        <translation>Ikonalar temalari jildini koʻrish.</translation>
+        <translation>Ikonkalar temalari jildini koʻrish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
@@ -697,7 +697,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Ikonalar:</translation>
+        <translation>&amp;Ikonkalar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -752,12 +752,12 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[XATO] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOLLLuuuu! Dahshatli xato!</translation>
+        <translation>[ERROR] OOoooOOOoooo! Dahshatli xatolik!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
         <source>[ERROR] A spooky error!</source>
-        <translation>[XATO]  Dahshatli xato!</translation>
+        <translation>[ERROR]  Dahshatli xatolik!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
@@ -767,7 +767,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation>[WARN] Unchalik dahshatli emas ogohlantirish.</translation>
+        <translation>[WARN] Unchalik dahshatli boʻlmagan ogohlantirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
@@ -777,7 +777,7 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[FATAL] Dahshatli halokatli xato!</translation>
+        <translation>[FATAL] Dahshatli halokatli xatolik!</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1357,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>Agar foydalanuvchi nomi 3 dan 16 tagacha belgidan iborat boʻlsa, inglizcha harflar, raqamlar va pastki chiziqdan foydalansagina amal qiladi. Notoʻgʻri foydalanuvchi nomi serverlar va yagona oʻyinchi olamlariga qoʻshilishga xalaqit berishi mumkin.</translation>
+        <translation>Agar foydalanuvchi nomi 3 dan 16 tagacha belgidan iborat boʻlsa, inglizcha harflar, raqamlar va pastki chiziqdan foydalansagina amal qiladi. Yaroqsiz foydalanuvchi nomi serverlar va yagona oʻyinchi olamlariga qoʻshilishga xalaqit berishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -1513,7 +1513,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Nusxa nusxasi</translation>
+        <translation>Nusxadan nusxa olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1875,7 +1875,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Oldindan yuklash buyrugʻi nusxa metamaʼlumotlari yuklanishidan oldin ishga tushadi, oldindan ishga tushirish buyrugʻi nusxa ishga tushishidan oldin ishga tushadi va chiqishdan keyingi buyruq u chiqqandan keyin ishga tushadi.&lt;/p&gt;&lt;p&gt;Barchasi launcherning ishchi jildida qoʻshimcha muhit oʻzgaruvchilari bilan ishga tushiriladi:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nusxa nomi&lt;/li&gt;&lt;li&gt;$INST_ID - nusxa IDsi (uning jild nomi)&lt;/li&gt;&lt;li&gt;$INST_DIR - nusxaning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftning mutlaq yoʻli&lt;/li&gt;&lt;li&gt;$INST_JAVA - ishga tushirish uchun ishlatiladigan Java binari&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - ishga tushirish uchun ishlatiladigan buyruq qatori parametrlari (ogohlantirish: argumentlarda boʻsh joylar boʻlsa, toʻgʻri ishlamaydi)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Oʻrovchi buyruq qoʻshimcha oʻrovchi dastur (masalan, Linuxda &apos;optirun&apos;) orqali ishga tushirishga imkon beradi&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -3035,7 +3035,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="205"/>
         <source>Error</source>
-        <translation>Xato</translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
@@ -3190,7 +3190,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ichida yo&apos;l bo&apos;ylab o&apos;tish bloklandi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="374"/>
@@ -3438,7 +3438,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplami nusxa jildidan (%1) tashqarida faylni yuklab olishga urinmoqda. Bu xavfsizlik xataridir va bunga ruxsat berilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="655"/>
@@ -3821,7 +3821,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="162"/>
         <source>Open Folder</source>
-        <translation>Faylni ochish</translation>
+        <translation>Jildni ochish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="197"/>
@@ -4868,7 +4868,7 @@ Java versiyasini keyinroq sozlamalarda o&apos;zgartirishingiz mumkin.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilinigizni koʻrmayapsizmi yoki tarjima sifati pastmi?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Tarjima qilishda bizga yordam bering!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
@@ -4950,7 +4950,7 @@ Java versiyasini keyinroq sozlamalarda o&apos;zgartirishingiz mumkin.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play demo?</source>
-        <translation>Demoni oʻynash?</translation>
+        <translation>Demo versiyani oʻynamoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -5063,18 +5063,19 @@ Java versiyasini keyinroq sozlamalarda o&apos;zgartirishingiz mumkin.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcherning kliyent identifikatsiyasi oʻzgardi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; endi serverlarda mavjud emas</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu akkaunt minecraftga egalik qilmaydi.
+Toʻliq versiyani oʻynash uchun avval oʻyinni sotib olishingiz kerak.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
@@ -5103,17 +5104,17 @@ Demoni oʻynamoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirish uchun akkaunt tanlanmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. bu akkauntni qayta autentifikatsiya qilmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingi ishga tushirishda profaylerni oʻchirib qoʻyish</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="497"/>
@@ -5123,13 +5124,13 @@ Demoni oʻynamoqchimisiz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="498"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu nusxaning buzilib qolishiga olib kelishi mumkin va faqat Minecraft qandaydir sababga ko‘ra qotib qolgan bo‘lsa ishlatilishi kerak</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="99"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftʼni o‘ynash uchun Minecraft’ga ega bo‘lgan kamida bitta Microsoft akkaunti tizimga kirgan boʻlishi kerak. Hozir akkaunt qoʻshish uchun akkaunt menejerini ochishni xohlaysizmi?</translation>
     </message>
 </context>
 <context>
@@ -5138,12 +5139,13 @@ Demoni oʻynamoqchimisiz?</translation>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="211"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Log uzunligi %1 qatorlardan oshib ketgani uchun o‘yin logini kuzatish to‘xtatildi.
+Modlaringizni tuzatishingiz kerak bo‘lishi mumkin, chunki o‘yin hanuz fayllarga log yozmoqda va ehtimol qattiq disk joyini xavotirli darajada behuda sarflamoqda!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="237"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Log4j tahlil xatoligi] log4j log hodisasini tahlil qilib bo‘lmadi: %1</translation>
     </message>
 </context>
 <context>
@@ -5151,23 +5153,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft kirish tokeni olinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft kirish tokenini olib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft kirish tokeni javobini tahlil qilib bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft kirish tokeni olindi</translation>
     </message>
 </context>
 <context>
@@ -5176,7 +5178,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni avtomatik tekshirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
@@ -5195,7 +5197,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Nima qilishni soʻrash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
@@ -5204,12 +5206,12 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation>&amp;Ikonalar:</translation>
+        <translation>&amp;Ikonkalar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqilganda, resurslarni qidirishda (masalan, CurseForge’da bloklangan modlarni qidirishda) yuklab olishlar papkasidan tashqari uning ichki papkalari ham qidiriladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
@@ -5220,7 +5222,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;oxirgi ishga tushirilganiga ko‘ra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
@@ -5265,12 +5267,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>How Often?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qanchalik tez-tez?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="212"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat ishga tushirishda tekshirish uchun 0 ga sozlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
@@ -5289,27 +5291,27 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java avtomatik yuklab olish:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher avtomatik yuklab olingan Java versiyalarini saqlaydigan papka. Buni tizimingizdagi Java o&apos;rnatmasiga sozlamang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Jami &amp;o‘ynalgan vaqt bo‘yicha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani ishga tushirish o‘rniga, nusxani ikki marta bosganda nusxani tahrirlash oynasini ochadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani ikki marta bosganda &amp;tahrirlash oynasini ochish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
@@ -5334,34 +5336,34 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="443"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlar uchun &amp;ichki papkalarni tekshirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqilganda, bloklangan resurslarni nusxa olish o‘rniga ko‘chiradi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozircha bu faqat joriy Minecraft versiyasi bilan mos deb belgilab qo‘yilmagan modlarni ko‘rsatadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod mos kelmasliklarini aniqlash va ko‘rsatish (eksperimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="512"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yangilanishlarini tekshirganda afzal koʻrilgan reliz kanalini tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="515"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod yangilash kanali:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
@@ -5386,12 +5388,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="568"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa yaratilayotganda kerakli oʻyin fayllarini yuklab oladi. Buni oʻchirib qoʻysangiz, dastlabki yuklab olish o‘tkazib yuboriladi va fayllar o‘rniga nusxa ishga tushirilganda yuklab olinadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="571"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa yaratish vaqtida oʻyin fayllarini yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="596"/>
@@ -5406,28 +5408,28 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta urinishlar limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="711"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir vaqtdagi yuklab olishlar limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="721"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP taymaut:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="747"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir vaqtdagi vazifalar limiti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="470"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ogohlantirish&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: mod metamaʼlumotlarini oʻchirib qoʻyish modlarni yangilash kabi ayrim QoL funksiyalarini ham oʻchirib qoʻyishi mumkin!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -5436,7 +5438,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="718"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Soʻrovlar bekor qilinishigacha kutiladigan vaqt, soniyalarda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="697"/>
@@ -5446,18 +5448,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyu paneli klaviatura orqali boshqariladigan o‘zaro ishlash uchun qulayroq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;asboblar panelini menyu paneli bilan almashtirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="308"/>
         <source>&amp;Auto Downloaded Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;avtomatik yuklab olingan Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
@@ -5467,47 +5469,47 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;modlar (tezkor kirish):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo‘shimcha nusxa papkalari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="453"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloklangan modlarni nusxa olish o‘rniga ko‘chiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="460"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar uchun mod taʼminotchilari (masalan, Modrinth yoki CurseForge) taqdim etgan versiya maʼlumotlarini saqlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <source>Keep track of mod metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod metamaʼlumotlarini kuzatib boring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="480"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod bog‘liqliklarini avtomatik aniqlash, o‘rnatish va yangilash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog‘liqliklarni avtomatik o‘rnatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi modlar to&apos;plami nusxasini yaratishda, buning oʻrniga mavjud nusxani yangilashni taklif qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplami oʻrnatilayotgan paytda mavjud nusxani yangilashni taklif qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="581"/>
@@ -5518,7 +5520,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="631"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Log toshib ketganda loglashni toʻxtatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="612"/>
@@ -5533,12 +5535,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="100"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻlida kamida bitta &apos;!&apos; boʻlgan nusxa jildini koʻrsatmoqchisiz. Java bunday holatda muammolar keltirib chiqarishi mumkin, nusxalaringiz (ehtimol) ishga tushmaydi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="105"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqatan ham bu yoʻldan foydalanmoqchimisiz? &quot;Yoʻq&quot;ni tanlash buni yopadi va nusxa yoʻlingizni oʻzgartirmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="112"/>
@@ -5550,17 +5552,20 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Flatpak orqali vaqtincha ruxsat berilgan nusxa jildini koʻrsatmoqchisiz.
+Bu muammolar keltirib chiqarishi mumkin. Qayta ishga tushirgandan soʻng launcher buzilishi mumkin, chunki u endi oʻsha katalogga kira olmaydi.
+
+Flatseal orqali unga %1 kirish ruxsatini berish tavsiya etiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="119"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Baribir davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Qoʻshimcha nusxa jildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
@@ -5571,17 +5576,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu allaqachon asosiy nusxa katalogingiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu katalog allaqachon qoʻshilgan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
         <source>Icons Folder</source>
-        <translation>Ikonalar jildi</translation>
+        <translation>Ikonkalar jildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
@@ -5614,23 +5619,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher kutubxonasi topilmadi. Oʻrnatmangizni tekshirib koʻring.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski launcher kutubxonasi topilmadi. Iltimos, oʻrnatmangizni tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; wrapper buyrugʻi topilmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftʼni ishga tushirib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
@@ -5644,12 +5649,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kutubxonalari tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kutubxonalari yuklab olinmoqda...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -5658,17 +5663,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML kutubxonalari nusxaga nusxa olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa ichida FML kutubxonasi jildini yaratib boʻlmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge/FML kutubxonasidan nusxa olish amalga oshmadi: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -5677,7 +5682,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi fayllarni yuklab olib boʻlmadi:
+%1
+
+Sababi:%2
+Iltimos, qayta urinib koʻring.</translation>
     </message>
 </context>
 <context>
@@ -5700,17 +5709,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy modlar toʻplami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Uchinchi tomon modlar toʻplami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaxsiy modlar toʻplami</translation>
     </message>
 </context>
 <context>
@@ -5718,7 +5727,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="114"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy toʻplamlar</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="118"/>
@@ -5728,7 +5737,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Baʼzi toʻplam roʻyxatlarini yuklab olib boʻlmadi: %1</translation>
     </message>
 </context>
 <context>
@@ -5752,12 +5761,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="129"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Qadoqdan chiqarilgan Minecraft&apos;ni ko&apos;chirib bo&apos;lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻrnatish usuli topilmadi!</translation>
     </message>
 </context>
 <context>
@@ -5770,7 +5779,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
@@ -5780,7 +5789,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaxsiy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="117"/>
@@ -5813,13 +5822,14 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB shaxsiy to&apos;plamlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kodi uchun to&apos;plam ma&apos;lumotlarini yuklab olib bo&apos;lmadi.
+Uni hozir yoʻq qilish kerakmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
@@ -5839,7 +5849,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 to&apos;plamni yoʻq qilishni xohlaysizmi?</translation>
     </message>
 </context>
 <context>
@@ -5848,17 +5858,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kerakli kutubxona fayllari yuklab olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nusxa uchun kutubxonalar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata&apos;da null jar ko&apos;rsatilgan, bekor qilinmoqda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5867,7 +5877,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;local&apos; deb belgilangan ayrim artifactlarda fayllar yo&apos;q:
+%1
+
+Siz fayllarni qo&apos;shishingiz yoki ularga kerak bo&apos;ladigan to&apos;plamlarni yoʻq qilishingiz kerak.
+Bu muammoni qo&apos;lda tuzatishingiz kerak bo&apos;ladi.</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -5878,7 +5892,9 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yinni yangilash muvaffaqiyatsiz tugadi: kerakli kutubxonalarni olib bo&apos;lmadi.
+Sabab:
+%1</translation>
     </message>
 </context>
 <context>
@@ -5896,7 +5912,8 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="54"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs uchun indeks yangilanmoqda:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="71"/>
@@ -5909,22 +5926,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilashni davom ettirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorlarni o&apos;rash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Rangli chiziqlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Butun logni buferga nusxa oling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -5934,7 +5951,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Logni sozlamalarda sozlangan paste xizmatiga yuklab qo&apos;ying</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -5964,12 +5981,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirigacha pastga aylantiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Past</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
@@ -6019,12 +6036,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Microsoft akkauntini qo&apos;shish&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft o&apos;ynash uchun kamida 1x ta Microsoft akkaunti tizimga kirgan bo&apos;lishi kerak. Hozir tizimga kirmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6042,7 +6059,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish faylini ochib bo&apos;lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
@@ -6052,12 +6069,12 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 o&apos;qilib siqilmadi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqish faylini yopib bo&apos;lmadi: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -6069,41 +6086,41 @@ Reason:
     </message>
     <message>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 o&apos;qilib siqilmadi</translation>
     </message>
     <message>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip xatoligi yuz berdi</translation>
     </message>
 </context>
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arxivdagi fayllarni sanab chiqib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo&apos;sh arxivlarni chiqarib olish g&apos;alati ko&apos;rinadi...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylini %2 ga chiqarib bo&apos;lmadi: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylini tahlil qilib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="89"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni ajratib chiqarish bekor qilindi, chunki u amalda %2 maqsad yo‘lidan tashqarida edi</translation>
     </message>
     <message>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faylini %2 ga ajratib chiqarib bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -6111,18 +6128,18 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft akkaunti bilan tizimga kirilmoqda (qurilma kodi).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qurilmani avtorizatsiya qilish muvaffaqiyatsiz tugadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Qurilmani avtorizatsiya qilish muvaffaqiyatsiz tugadi: kerakli maydonlar yetishmayapti</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6131,12 +6148,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="256"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qurilmaga kirish muvaffaqiyatsiz tugadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="271"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni olindi</translation>
     </message>
 </context>
 <context>
@@ -6171,7 +6188,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>KOD</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
@@ -6181,7 +6198,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Maʼlumot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
@@ -6191,7 +6208,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="222"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 o ni oching yoki QR kodni skaner qiling va kerak bo‘lsa yuqoridagi kodni kiriting.</translation>
     </message>
 </context>
 <context>
@@ -6204,12 +6221,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>MSA tokeni olindi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft foydalanuvchisini autentifikatsiya qilish muvaffaqiyatsiz tugadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -6219,12 +6236,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft foydalanuvchisini autentifikatsiya qilish muvaffaqiyatsiz tugadi — mijoz identifikatsiyasi o‘zgargan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft foydalanuvchisini autentifikatsiya qilish muvaffaqiyatsiz tugadi — yangilash tokeni bo‘sh.</translation>
     </message>
 </context>
 <context>
@@ -6246,7 +6263,7 @@ Reason:
     </message>
     <message>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markaziy modlar jildini fayl brauzerida oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
@@ -6281,7 +6298,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalar oʻrtasida ulashilgan jildlardan birini ochish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="317"/>
@@ -6291,7 +6308,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bilan bog‘liq xatolik haqida xabar berish uchun bug tracker’ni oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
@@ -6311,17 +6328,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 or Minecraft bo‘yicha yordam oling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun yangi yangilanishlarni tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu momiq mushukcha :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -6331,7 +6348,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="391"/>
         <source>Change Icon</source>
-        <translation>Ikonani oʻzgartirish</translation>
+        <translation>Ikonkani oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
@@ -6377,7 +6394,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan nusxani ishga tushirish uchun tanlangan jildda yorliq yaratadi.</translation>
     </message>
     <message>
         <source>&amp;Instances</source>
@@ -6386,15 +6403,15 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida nusxalar jildini ochish.</translation>
     </message>
     <message>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;ildizi</translation>
     </message>
     <message>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;markaziy modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="570"/>
@@ -6404,7 +6421,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="573"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida skinlar jildini ochish.</translation>
     </message>
     <message>
         <source>Instance Icons</source>
@@ -6413,7 +6430,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida nusxa ikonkalari jildini ochish.</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -6422,12 +6439,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="595"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida jurnallar jildini ochish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;metadata keshini tozalash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="669"/>
@@ -6444,7 +6461,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hozirgi va oldingi launcher jurnallarini koʻrish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
@@ -6459,16 +6476,16 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida vidjet temalari jildini ochish.</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
-        <translation>Ikona temasi</translation>
+        <translation>Ikonka temasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida ikonka temasi jildini ochish.</translation>
     </message>
     <message>
         <source>Cat Packs</source>
@@ -6477,7 +6494,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida mushuk toʻplamlari jildini ochish.</translation>
     </message>
     <message>
         <source>Java</source>
@@ -6487,7 +6504,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida Java jildini oching. Faqat ichki Java yuklab oluvchisi ishlatilganda mavjud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
@@ -6542,12 +6559,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishlayotgan nusxani to&apos;xtating.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="458"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan nusxani qo&apos;llab-quvvatlanadigan formatlarga eksport qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
@@ -6587,12 +6604,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida launcherning ildiz jildini oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="559"/>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modlar (tezkor kirish)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
@@ -6612,17 +6629,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik haqida xabar bering yoki funksiya taklif qiling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="633"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Matrix makonini oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>/usr/local/bin ga %1 symlink o&apos;rnating</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
@@ -6642,12 +6659,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avtomatik yuklab olingan Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="394"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan nusxaning ikonkasini o&apos;zgartiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
@@ -6698,7 +6715,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="281"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oxirgi nusxani yoʻq qilishni bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="161"/>
@@ -6708,7 +6725,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa sozlamalari, modlar va versiyalarni o&apos;zgartiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="430"/>
@@ -6719,7 +6736,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan nusxaning guruhini o&apos;zgartiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
@@ -6739,7 +6756,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl brauzerida tanlangan nusxaning ildiz jildini oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
@@ -6754,7 +6771,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="490"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq yaratish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
@@ -6836,17 +6853,19 @@ Reason:
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo&apos;llab-quvvatlanmaydigan Modrinth havolasi.
+
+Prism Launcher hozirda faqat modlar to&apos;plami havolalarini qo&apos;llab-quvvatlaydi, masalan modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1037"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 modlar to&apos;plami, mod yoki resurs uchinchi tomonlar uchun bloklangan! Iltimos, uni qo&apos;lda yuklab oling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Import havolasi yaroqsiz: &apos;url&apos; parametri yetishmayapti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
@@ -6865,7 +6884,11 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagidan modlar to&apos;plamini yuklab olish va import qilishni xohlaysizmi:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
@@ -6881,7 +6904,8 @@ URL:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursni qo&apos;shish uchun mavjud nusxa yo&apos;q.
+Iltimos, bu resursni yana o&apos;rnatishga urinishdan oldin yangi nusxa yarating.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
@@ -6902,13 +6926,14 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
         <source>Failed to undo trashing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani chiqindiga tashlashni bekor qilib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1324"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba&apos;zi nusxalar va yorliqlarni tiklab bo&apos;lmadi.
+Iltimos, ularni qo&apos;lda tiklash uchun chiqindi qutingizni tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1421"/>
@@ -6920,51 +6945,53 @@ Please check your trashbin to manually restore them.</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu nusxani tahrirlab bo&apos;lmaydi. U buzilgan, yaroqsiz yoki juda eski bo&apos;lishi mumkin. Tafsilotlar uchun loglarni tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1453"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata keshi tozalash muvaffaqiyatsiz!
+Metadata keshini qo&apos;lda tozalash uchun Papkalar -&gt; Launcher ildiz papkasini ko&apos;rish ni bosing, so&apos;ng launcherni yopgandan keyin &quot;meta&quot; nomli papkani yoʻq qiling
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 PATH ga muvaffaqiyatli qo&apos;shildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 PATH ga muvaffaqiyatli qo&apos;shildi. Endi uni `%2` ni ishga tushirib boshlashingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1479"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni PATH ga qo&apos;shib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1480"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni PATH ga qo&apos;shishga urinishda xatolik yuz berdi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
         <source>Cannot Delete Running Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishlayotgan nusxani yoʻq qilib bo&apos;lmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1524"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan nusxa hozirda ishlayapti va uni yoʻq qilib bo&apos;lmaydi. Iltimos, uni yoʻq qilishga urinishdan oldin nusxani to&apos;xtating.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
         <source> and its %n registered shortcut(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> va uning ro&apos;yxatdan o&apos;tgan %nx ta yorlig&apos;i</numerusform>
+            <numerusform> va uning ro&apos;yxatdan o&apos;tgan %nx ta yorliqlari</numerusform>
         </translation>
     </message>
     <message>
@@ -6995,12 +7022,12 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo&apos;sh nomni o&apos;rnatib bo&apos;lmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh allaqachon mavjud. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
@@ -7008,7 +7035,10 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;%2 ni yoʻq qilish arafasidasiz.
+Bu qaytarib bo&apos;lmas bo&apos;lishi mumkin va nusxani butunlay yoʻq qiladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1547"/>
@@ -7022,27 +7052,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizning nusxa jildingizda &apos;!&apos; bor va bu Java muammolariga sabab bo&apos;lishi ma&apos;lum!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1763"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozir sizda 2x ta variant bor: &lt;br/&gt; - sozlamalarda nusxa jildini o&apos;zgartiring &lt;br/&gt; - %1 ning ushbu o&apos;rnatmasini boshqa jildga ko&apos;chiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1771"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu muammo: &lt;br/&gt; - launcher operatsion tizim tomonidan ogohlantirishsiz yoʻq qilinishi ehtimoli bor &lt;br/&gt; - launcherni hozir yoping va uni vaqtinchalik jildga emas, haqiqiy joyga chiqarib oling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1777"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizning nusxa jildingizda &apos;Rar$&apos; bor — bu launcher arxivini chiqarib olmaganingizni anglatadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1783"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizning nusxa jildingiz vaqtinchalik jildda: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
@@ -7057,7 +7087,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 haqida ko&apos;proq yangiliklarni o&apos;qish uchun ishlab chiqish blogini oching.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="809"/>
@@ -7072,7 +7102,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="622"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Discord gildiyasini ochish.</translation>
     </message>
 </context>
 <context>
@@ -7095,7 +7125,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Provayder ma&apos;lumotlari:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
@@ -7105,7 +7135,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyalar olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
@@ -7120,7 +7150,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="189"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu versiya uchun o&apos;zgarishlar jurnali mavjud emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="204"/>
@@ -7130,7 +7160,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="105"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Veb-sayt: &lt;a href=%1&gt;%2&lt;/a&gt;    |    To&apos;plam ID: %3    |    Versiya ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
@@ -7172,17 +7202,21 @@ This can be updated either using a file in %1 format or an URL.
 Do not use a different format than the one mentioned as it may break the instance.
 Make sure you also trust the URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Bu lokal modlar toʻplami.
+Buni %1 formatidagi fayl yoki URL orqali yangilash mumkin.
+Nusxani buzib qoʻyishi mumkinligi sababli, aytilganidan boshqa formatdan foydalanmang.
+URLʼga ham ishonchingiz komil boʻlsin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud versiyalarni qidirish muvaffaqiyatsiz tugadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu modlar to&apos;plami uchun o&apos;zgarishlar jurnali ma&apos;lumotlarini so&apos;rash muvaffaqiyatsiz tugadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
@@ -7197,7 +7231,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="286"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa %1 toʻplam versiyasiga muvaffaqiyatli yangilandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
@@ -7207,7 +7241,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani %1 toʻplam versiyasiga yangilab boʻlmadi. Qoʻshimcha maʼlumot uchun launcher jurnalini tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="461"/>
@@ -7216,7 +7250,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz modlar to&apos;plamini yangi versiyaga yangilamoqchisiz.
+Nusxa fayllariga qaytarib bo&apos;lmaydigan o&apos;zgarishlar kiritilishi mumkin.
+Shuning uchun nusxaning zaxira nusxasini yaratish qat&apos;iy tavsiya etiladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
@@ -7230,14 +7268,18 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz modlar toʻplamini &quot;%1&quot; versiyasiga yangilamoqchisiz.
+Nusxa fayllariga qaytarib boʻlmaydigan oʻzgarishlar kiritilishi mumkin.
+Shuning uchun nusxaning zaxira nusxasini yaratish qatʼiy tavsiya etiladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
 </context>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Mahalliy fayl yuklanmoqda</translation>
+        <translation>Lokal fayl yuklanmoqda</translation>
     </message>
 </context>
 <context>
@@ -7251,7 +7293,7 @@ Are you sure?</source>
         <location filename="src/launcher/meta/Index.cpp" line="147"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1:%2 uchun meta yuklash</translation>
     </message>
 </context>
 <context>
@@ -7260,7 +7302,7 @@ Are you sure?</source>
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun meta yuklash</translation>
     </message>
 </context>
 <context>
@@ -7302,7 +7344,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quyidagidek ishga tushirish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
@@ -7342,32 +7384,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1125"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, oxirgi marta %1 fda o&apos;ynalgan yoki %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1132"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, jami %1 davomida o&apos;ynalgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1137"/>
         <source>, has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>, qulab tushdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1196"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldindan yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1217"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan oldin</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1273"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirgandan keyin</translation>
     </message>
 </context>
 <context>
@@ -7394,7 +7436,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profili olinmoqda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
@@ -7405,17 +7447,17 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profilini olib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profil javobini tahlil qilib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profili olindi</translation>
     </message>
 </context>
 <context>
@@ -7428,7 +7470,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu yerdagi sozlamalar global sozlamalarni almashtiradi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -7443,42 +7485,42 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘yin oynasi yopilganda, launcher’dan chiqish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftni maksimal holatda ishga tushirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;ogohlantirish&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: kattalashtirilgan parametri barcha minecraft versiyalarida to&apos;liq qo&apos;llab-quvvatlanmasligi mumkin.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘yin va vaqt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalarda o‘ynashga sarflangan vaqtni ko‘rsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalarda o‘ynashga sarflangan vaqtni yozib borish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalar bo‘ylab jami o‘ynalgan vaqtni ko‘rsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="365"/>
         <source>Always show durations in &amp;hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Davomiyliklarni doimo soatlarda ko‘rsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="617"/>
@@ -7488,37 +7530,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="641"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Nozik sozlamalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="662"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski nozik sozlamalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;endi ishlamayotgan eski onlayn xizmatlardan foydalanishni taqlid qiladi.&lt;/p&gt;&lt;p&gt;joriy tuzatishlar quyidagilarni o&apos;z ichiga oladi: skin va onlayn rejimni qo&apos;llab-quvvatlash.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn tuzatishlarni yoqish (tajribaviy)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="690"/>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy kutubxonalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenAL’ning tizim o‘rnatmasidan foydalanish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="706"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished"></translation>
+        <translation>GLFW’ning tizim o‘rnatmasidan foydalanish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
@@ -7528,7 +7570,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyin oynasi ochilganda, launcherʼni yashirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
@@ -7553,17 +7595,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyin ishga tushirilganda, konsol oynasini koʻrsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyin ishdan chiqqanda, konsol oynasini koʻrsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻyindan chiqilganda, konsol oynasini yashirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
@@ -7574,7 +7616,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mos mod oʻrnatilgan boʻlsa, barcha olamlarda maʼlumot toʻplamlarini oʻrnatishga ruxsat beradi.
+Katta ehtimol bilan yoʻlni oʻzgartirishingiz kerak boʻladi — modning veb-saytiga murojaat qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -7594,27 +7637,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;bu nusxada o&apos;ynalgan vaqtni jami o&apos;ynalgan vaqtga qo&apos;shib hisoblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;standart akkauntni almashtirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="420"/>
         <source>Enable Auto-&amp;join</source>
-        <translation type="unfinished"></translation>
+        <translation>Avto-&amp;qoʻshilishni yoqish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Singleplayer world:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yolgʻiz oʻyin olami:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="482"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlarni &amp;yuklab olish yuklagichlarini almashtirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
@@ -7679,27 +7722,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Istalgan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&amp;GLFW library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;glfw kutubxonasi yo&apos;li:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
         <source>&amp;OpenAL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;openal kutubxonasi yo&apos;li:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>SDL ning tizim o&apos;rnatmasidan foydalanish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SDL kutubxonasi yo&apos;li:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
@@ -7709,7 +7752,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;o&apos;yin unumdorligini yaxshilashi mumkin bo&apos;lgan Feral Interactive ning GameMode ini yoqish.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
@@ -7719,7 +7762,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="842"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud ning kengaytirilgan unumdorlik overlayini yoqish.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="845"/>
@@ -7729,17 +7772,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="852"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;asosiy GPU o&apos;rniga diskret GPU dan foydalanish.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="855"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskret GPUʼdan foydalanish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vulkan ustida OpenGL’ni amalga oshiradigan Mesa OpenGL drayveri — Zink’dan foydalaning. Unumdorlik vaziyatga qarab farq qilishi mumkin. Eslatma: Agar mos Vulkan drayveri topilmasa, dasturiy renderlash ishlatiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="865"/>
@@ -7764,44 +7807,44 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="903"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Muhit oʻzgaruvchilari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
         <source>Show time &amp;playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu nusxada oʻynagan vaqtni koʻrsatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&amp;Record time playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;bu nusxada o&apos;ynash vaqtini yozib borish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="76"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ogohlantirish&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Kattalashtirilgan rejim ushbu Minecraft versiyasida toʻliq qoʻllab-quvvatlanmaydi.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive ning GameMode i tizimingizda topilmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud tizimingizda topilmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="221"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="228"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="235"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kutubxona fayliga yo&apos;l</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="625"/>
         <source>Select Global Data Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Global maʼlumot toʻplamlari jildini tanlash</translation>
     </message>
 </context>
 <context>
@@ -7819,7 +7862,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklagichlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -7904,12 +7947,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻrnatilgan elementlarni yashirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat ochiq manbali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
@@ -7939,7 +7982,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Kengaytirilgan istisnolar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
@@ -7954,7 +7997,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>ai kontent (assetlar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
@@ -7964,7 +8007,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>ai kontent (funksionallik)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
@@ -7974,12 +8017,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Epilepsiya qoʻzgʻatuvchilari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tizim bilan oʻzaro aloqalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
@@ -7989,22 +8032,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetriya (ixtiyoriy qoʻshilish)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetriya (ixtiyoriy chiqish)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetriya (har doim faol)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Hosila ish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
@@ -8074,12 +8117,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomon</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklagichlar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -8099,7 +8142,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Talab qiladi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -8129,22 +8172,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="268"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mod oxirgi marta oʻzgartirilgan (yoki qoʻshilgan) sana va vaqt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="270"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modning manba ta’minotchisi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="272"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod qaysi muhitda ishlayotgani.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="274"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yuklagichi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="276"/>
@@ -8164,12 +8207,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="282"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir mod uchun, unga bogʻliq boʻlgan boshqa modlar soni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="284"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir mod uchun, u bogʻliq boʻlgan boshqa modlar soni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="286"/>
@@ -8179,112 +8222,124 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="288"/>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished">Ushbu mod yangilansinmi?</translation>
+        <translation>Ushbu mod yangilansinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="503"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqib-oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="507"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu mod(lar)ni yoqib-oʻchirish boshqa modlarda oʻzgarishlarga olib keladi.
+</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="510"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%nx ta mod yoqiladi
+</numerusform>
+            <numerusform>%nx ta mod yoqiladi
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="511"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi modlar yoqiladi:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="517"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%nx ta mod oʻchiriladi
+</numerusform>
+            <numerusform>%nx ta mod oʻchiriladi
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="521"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi modlar oʻchiriladi:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="526"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu bogʻliq oʻzgarishlarni avtomatik qoʻllashni xohlaysizmi?
+Ularni eʼtiborsiz qoldirish oʻyinni buzishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="504"/>
         <source>Only Toggle Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat tanlanganlarini yoqib-oʻchirish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="505"/>
         <source>Toggle Required Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kerakli modlarni yoqib-oʻchirish</translation>
     </message>
     <message>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoqishni tasdiqlash</translation>
     </message>
     <message numerus="yes">
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Yoqilgan mod uchun %nx ta mod kerak.
+</numerusform>
+            <numerusform>Yoqilgan modlar %nx ta modni talab qiladi.
+</numerusform>
         </translation>
     </message>
     <message>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ularni ham yoqishni xohlaysizmi?
+Ularni eʼtiborsiz qoldirish oʻyinni buzishi mumkin.</translation>
     </message>
     <message>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat tanlanganlarni yoqish</translation>
     </message>
     <message>
         <source>Enable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Talab qilinganlarni yoqish</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message numerus="yes">
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>O‘chirilgan mod %nx ta mod tomonidan talab qilinadi.
+</numerusform>
+            <numerusform>O‘chirilgan modlar %nx ta mod tomonidan talab qilinadi.
+</numerusform>
         </translation>
     </message>
     <message>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ularni ham oʻchirishni xohlaysizmi?
+Ularni eʼtiborsiz qoldirish oʻyinni buzishi mumkin.</translation>
     </message>
     <message>
         <source>Only Disable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat tanlanganlarni oʻchirish</translation>
     </message>
     <message>
         <source>Disable Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Talab qilinganlarni oʻchirish</translation>
     </message>
 </context>
 <context>
@@ -8292,34 +8347,34 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="88"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="82"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha modlarni tekshirish yoki yangilashga urinib koʻring (agar hech biri tanlanmagan boʻlsa, barcha modlarni)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirish (faqat reliz)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirish (reliz va beta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirish (reliz, beta va alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="123"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modning metamaʼlumotlarini matnga eksport qilish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
@@ -8330,23 +8385,25 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar o&apos;yin ishlayotgan paytda modlarni yoʻq qilsangiz, o&apos;yin qulab tushishi mumkin.
+Buni qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
         <source>Confirm Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻchirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz yoʻq qilmoqchi bo&apos;lgan modlar %1x ta mod uchun kerak.
+Ularni o‘chirib qo‘ymoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi modlar siz yoʻq qilmoqchi bo&apos;lgan mod(lar)ga bog&apos;liq:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -8379,7 +8436,7 @@ Do you want to disable them?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="350"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata o‘chirilganida mod yangilanishlari mavjud emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
@@ -8394,16 +8451,18 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yin ishlayotgan paytda modlarni yangilash modlarning ko‘payib ketishiga va o&apos;yinning qulab tushishiga olib kelishi mumkin.
+Eski fayllar ishlatilayotgani uchun yoʻq qilinmasligi mumkin.
+Buni qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yangilagich bekor qilindi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha modlar yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
@@ -8419,34 +8478,37 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1x ta mod uchun metadatani yoʻq qilmoqchisiz.
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyani o‘zgartirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="334"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘yin ishlayotgan paytda modlar versiyasini o‘zgartirish modlarning takrorlanishiga va o‘yin qulashiga olib kelishi mumkin.
+Eski fayllar ishlatilayotgani uchun yo‘q qilinmasligi mumkin.
+Buni qilishni xohlashingizga ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="428"/>
         <source>Missing Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yuklagich yetishmayapti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="429"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlarni o‘rnatishdan oldin mos mod yuklagichni o‘rnatishingiz kerak. Shuni hozir o‘rnatmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="444"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday mod yuklagich o‘rnatilmagan. Iltimos, qayta urinib ko‘ring.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
@@ -8457,28 +8519,28 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="203"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlarni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod versiyasini o‘zgartirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="121"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha modlarning bosh sahifalarini ko‘rish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Barcha modlar yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlarni onlayn mod platformalaridan yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
@@ -8491,21 +8553,21 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar uchun bin jildini yaratib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eskirgan jar faylini yo‘q qilib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus Minecraft jar faylini yaratib bo‘lmadi: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxsus Minecraft jar faylini yaratib bo‘lmadi.</translation>
     </message>
 </context>
 <context>
@@ -8526,14 +8588,15 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi yuz berdi. Modlar to‘plamini yuklab bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API versiyasi juda eski!
+Iltimos, %1 ni yangilang!</translation>
     </message>
 </context>
 <context>
@@ -8541,12 +8604,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth uchun resurslar tayyorlanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinthdan API javobi tahlil qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
@@ -8561,17 +8624,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Bu resurs uchun yaroqli versiya topilmadi. Bu, ehtimol, joriy o&apos;yin versiyasi/mod yuklovchi uchun mavjud emas.</translation>
+        <translation>Ushbu resurs uchun yaroqli versiya topilmadi. Ehtimol, u joriy o‘yin versiyasi / mod yuklagichi uchun mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Bu resurs uchun yaroqli versiya topilmadi. Ehtimol, u joriy o&apos;yin versiyasi uchun mavjud emas.</translation>
+        <translation>Ushbu resurs uchun yaroqli versiya topilmadi. Ehtimol, u joriy o‘yin versiyasi uchun mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinthdan API javobi kutilmoqda...</translation>
     </message>
 </context>
 <context>
@@ -8589,35 +8652,36 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Eski versiya uchun mos indeks faylini topa olmadik. Bu ba&apos;zi fayllarning takrorlanishiga olib kelishi mumkin. Davom etishni xohlaysizmi?</translation>
+        <translation>Eski versiya uchun mos indeks faylini topa olmadik. Bu ayrim fayllarning takrorlanishiga olib kelishi mumkin. Davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="191"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Qayta belgilashlar jildi nomini oʻzgartirib boʻlmadi:
+        <translation>Overrides jildining nomini o‘zgartirib bo‘lmadi:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="204"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Client overrides jildining nomini o‘zgartirib bo‘lmadi:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="251"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod yuklab olish Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="263"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayllardan birida tasodifiy joylashuvga olib boradigan yoʻl mavjud (%1). Bu xavfsizlik xataridir va ruxsat etilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="275"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; faylida yuklab olish havolasi yo&apos;q. Bu to&apos;plam formatida yaroqsiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
@@ -8633,13 +8697,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun yuklab olish URL manzili to&apos;g&apos;ri formatlangan URL emas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="409"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻplam indeksini tushunib boʻlmadi:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
@@ -8662,7 +8727,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻzgarishlar jurnalini olinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
@@ -8700,7 +8765,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="172"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyalar javobini tahlil qilib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
@@ -8714,7 +8779,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dolzarbligi boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
@@ -8724,7 +8789,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="90"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Obunachilar soni boʻyicha tartiblash</translation>
+        <translation>Obunachilar soni boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="92"/>
@@ -8746,12 +8811,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;bu loyiha arxivlangan. muallif loyihani arxivdan chiqarmaguncha, unga boshqa yangilanishlar berilmaydi.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation>Donat maʼlumoti: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
@@ -8776,13 +8841,13 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="91"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">Eng yangilari boʻyicha tartiblash</translation>
+        <translation>Eng yangilari boʻyicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
@@ -8810,53 +8875,53 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha urinishlar muvaffaqiyatsiz yakunlandi!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 dan %1 o ta vazifa bajarilmoqda</translation>
     </message>
 </context>
 <context>
     <name>Net::NetRequest</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 soʻralmoqda</translation>
+        <translation>%1 soʻralmoqda</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">nomaʼlum</translation>
+        <translation>nomaʼlum</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n soniya uchun so&apos;rov tezligi cheklangan: %1 dan keyin qayta urinib ko&apos;ring</numerusform>
+            <numerusform>%n soniya uchun so&apos;rov tezligi cheklangan: %1 dan keyin qayta urinib ko&apos;ring</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tezlik cheklovi: %n soniya kutilyapti</numerusform>
+            <numerusform>Tezlik cheklovi: %n soniya kutilyapti</numerusform>
         </translation>
     </message>
 </context>
@@ -8893,24 +8958,24 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="330"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻnaltirishlar juda koʻp</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="345"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n soniya uchun so&apos;rov tezligi cheklangan: %1 dan keyin qayta urinib ko&apos;ring</numerusform>
+            <numerusform>%n soniya uchun so&apos;rov tezligi cheklangan: %1 dan keyin qayta urinib ko&apos;ring</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="350"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tezlik cheklovi: %n soniya kutilyapti</numerusform>
+            <numerusform>Tezlik cheklovi: %n soniya kutilyapti</numerusform>
         </translation>
     </message>
 </context>
@@ -8919,7 +8984,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="129"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>NetJob ichidagi barcha vazifalarni bekor qilib bo&apos;lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="155"/>
@@ -8932,12 +8997,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>tarmoq amaliyoti muvaffaqiyatsiz tugadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
@@ -8952,22 +9017,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nima qilishni xohlaysiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha %1 ta soʻrov %2 ta urinishdan soʻng muvaffaqiyatsiz yakunlandi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ta so&apos;rovdan %2 tasi %3 ta urinishdan keyin muvaffaqiyatsiz tugadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ta so&apos;rovdan faqat %2 succeeded %3 ta urinishdan keyin muvaffaqiyatli bo&apos;ldi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
@@ -9054,7 +9119,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="183"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; nusxa jildi endi mavjud emas. iltimos, boshqa joylashuvni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="245"/>
@@ -9068,7 +9133,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="115"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangiliklar RSS tasmasini yuklab boʻlmadi:
+%1</translation>
     </message>
 </context>
 <context>
@@ -9115,7 +9181,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -9131,7 +9197,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa turi nomaʼlum</translation>
     </message>
 </context>
 <context>
@@ -9160,12 +9226,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="44"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Barchasini tanlashni bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="64"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgilanmagan modlar oʻchirib qoʻyiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -9188,52 +9254,52 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirigacha pastga aylantirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;pastga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan jurnalni yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>tanlanganlarni &amp;yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha jurnallarni yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Barchasini &amp;yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilashda davom etish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorlarni oʻrash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Qatorlarni boʻyash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Butun jurnalni buferga nusxa olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
@@ -9243,7 +9309,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Logni sozlamalarda belgilangan paste xizmatiga yuklab qo‘yish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -9254,7 +9320,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="484"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Log tarkibini diskdan qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
@@ -9277,12 +9343,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="260"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fni ochib bo‘lmadi yoki o‘qishda xatolik: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="268"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl (%1) juda katta. Uni katta fayllar uchun optimallashtirilgan ko‘ruvchi dasturda ochishni xohlashingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="387"/>
@@ -9295,23 +9361,27 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;ni yoʻq qilmoqchisiz.
+Bu doimiy bo‘lishi mumkin va u loglar jildidan yo‘qoladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="413"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Tozalashni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha log fayllarini yoʻq qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="418"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu fayllarning barchasini yoʻq qilishni xohlaysizmi?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="489"/>
@@ -9326,34 +9396,35 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="402"/>
         <source>Unable to delete %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1ni yoʻq qilib bo‘lmadi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="309"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Bu jurnalni koʻrsatib boʻlmaydi, chunki jurnal uzunligi %1 satrdan oshib ketgan.</translation>
+        <translation>Log uzunligi %1 ta qatordan oshib ketgani uchun bu logni ko‘rsatib bo‘lmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="184"/>
         <source>Current logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozirgi jurnal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="331"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl (%1)ni o‘qishda xatolik yuz berdi: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba’zi fayllarni yoʻq qilib bo‘lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="448"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba’zi fayllarni yoʻq qilib bo‘lmadi:
+%1</translation>
     </message>
 </context>
 <context>
@@ -9368,17 +9439,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
+        <translation>Qo‘llab-quvvatlanmaydigan o&apos;rnatma rejimi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
+        <translation>Mavjud fayllar yoʻq qilinmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
@@ -9388,17 +9459,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation>%1 uchun mahalliy metadata indeksi olinmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
+        <translation>%1 loader uchun versiya topilmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
+        <translation>Modlar toʻplami uchun yuklagich versiyasi oʻrnatilmagan!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
@@ -9445,7 +9516,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ichida yoʻl boʻylab oʻtish bloklandi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -9455,7 +9526,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation>Quyidagi fayllarni uchinchi tomon launcherlarida yuklab olib boʻlmaydi.&lt;br/&gt;Ularni qoʻlda yuklab olib, nusxaga qoʻshishingiz kerak boʻladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
@@ -9543,24 +9614,24 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart paste xizmati mclo.gs ga oʻzgardi, iltimos sozlamalaringiz bilan nima qilishni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi standart xizmatdan foydalanish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldingi sozlamalarni saqlab qolish</translation>
     </message>
 </context>
 <context>
     <name>PixmapCache</name>
     <message>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>pixmap keshida eviction sababli misslar juda tez sodir boʻldi, kesh hajmi chegarasiga yetgani uchun hech narsa qilinmayapti</translation>
     </message>
     <message>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
@@ -9571,38 +9642,46 @@ Are you sure?</source>
     <name>PostLaunchCommand</name>
     <message>
         <source>Running Post-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan keyingi buyruq ishga tushirilmoqda: %1</translation>
     </message>
     <message>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan keyingi buyruq %1 kodi bilan muvaffaqiyatsiz yakunlandi.
+
+</translation>
     </message>
     <message>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan keyingi buyruq muvaffaqiyatli bajarildi.
+
+</translation>
     </message>
 </context>
 <context>
     <name>PreLaunchCommand</name>
     <message>
         <source>Running Pre-Launch command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan oldingi buyruq ishga tushirilmoqda: %1</translation>
     </message>
     <message>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan oldingi buyruq %1 kodi bilan muvaffaqiyatsiz yakunlandi.
+
+</translation>
     </message>
     <message>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ishga tushirishdan oldingi buyruq muvaffaqiyatli bajarildi.
+
+</translation>
     </message>
 </context>
 <context>
@@ -9610,68 +9689,72 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="98"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlar tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="130"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishni tekshirish muvaffaqiyatsiz tugadi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="131"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>5 soniyadan keyin ishga tushirib bo‘lmadi
+Sabab: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="151"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich 60 soniya ichida yopilmadi
+Sabab: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish mavjud emas</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz eng so‘nggi versiyani ishlatyapsiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishni tekshirish xatoligi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="188"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishni tekshirishni ishga tushirishda xatolik yuz berdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Noma’lum yangilanish xatoligi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich noma’lum holat bilan yakunlandi.
+Chiqish kodi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi yangilanishlar mavjud emas.</translation>
     </message>
 </context>
 <context>
@@ -9679,7 +9762,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilova ildizi sifatida maxsus yo‘lni ishlating (joriy katalog uchun &apos;.&apos; dan foydalaning).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
@@ -9689,12 +9772,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu versiyani o&apos;rnatilgan launcher versiyasi sifatida ishlating. (windowsda stdoutni ishonchli tarzda ushlab bo&apos;lmagani uchun taqdim etilgan)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="92"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>o‘rnatilgan launcher versiyasi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="93"/>
@@ -9704,7 +9787,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rsatilgan repodan yangilang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
@@ -9714,37 +9797,37 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="96"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat yangilash kerakligini tekshiring. Agar rost bo&apos;lsa chiqish holati 100, yolg&apos;on bo&apos;lsa 0 (yoki xatolik bo&apos;lsa 0 bo&apos;lmagan).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="97"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-reliz relizlarga yangilashga ruxsat berish</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="98"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kerak boʻlmasa ham yangilashni majburlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="99"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud relizlarni roʻyxatlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="100"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug logini konsolga yozing.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI orqali o&apos;rnatish uchun versiyani tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagichga oldingi versiyalarga tushirishga ruxsat bering.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="187"/>
@@ -9754,98 +9837,104 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich log faylini yarata olmadi - %1.
+
+Maʼlumotlar jildiga yozish ruxsatlaringiz borligiga ishonch hosil qiling.
+(%2)
+
+Bu muammoni tuzatmaguningizcha yangilagich davom eta olmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS qo&apos;llab-quvvatlanmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich MacOSdagi o&apos;rnatmalarni qo&apos;llab-quvvatlamaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo&apos;llab-quvvatlanmaydigan o&apos;rnatma</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="296"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich noto&apos;g&apos;ri sozlangan AppImage sifatida ishlayaptimi? ($APPIMAGE muhit o&apos;zgaruvchisi yo&apos;q)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilagich asosiy bajariladigan faylni topa olmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="186"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher maʼlumotlar jildi yozish uchun ruxsatga ega emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Flatpackni yangilash qo&apos;llab-quvvatlanmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher’ning flatpak versiyasi ishga tushirilganda, yangilanish mavjudligini tekshirishdan tashqari amallar qo‘llab-quvvatlanmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1015"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dan manifest o‘qilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="520"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifestni o&apos;qib bo&apos;lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="531"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest bo‘sh, %1 ning katalog tarkibi bo‘yicha eng yaxshi taxmin qilinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="537"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagilar %1 ga o‘rnatilmoqda :
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="541"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="548"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dan o‘rnatilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="553"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 dan %1 f o‘rnatilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="557"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni %2 ga nusxa olish muvaffaqiyatsiz bo‘ldi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="575"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1098"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl mavjud emas, e’tiborsiz qoldirilmoqda: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="588"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishni o‘rnatishda xatoliklar yuz berdi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="592"/>
@@ -9855,17 +9944,17 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="758"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqli reliz assetlari yo‘q</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="759"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Github relizi %1 da ushbu platforma uchun yaroqli assetlar yo‘q: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="761"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portativ: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="761"/>
@@ -9903,7 +9992,8 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="902"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish allaqachon davom etmoqda
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="904"/>
@@ -9919,7 +10009,17 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu o&apos;rnatmada yangilash qulfi fayli mavjud: %1
+
+Vaqt belgisi: %2
+%3 versiyadan %4 versiyaga yangilanmoqda
+Maqsadli o&apos;rnatish yo&apos;li: %5
+Maʼlumot yo&apos;li: %6
+Bu, ehtimol, avvalgi yangilash urinishi muvaffaqiyatsiz bo&apos;lganini anglatadi. Davom etishdan oldin o&apos;rnatmangiz ishlash holatida ekanligiga ishonch hosil qiling.
+Oxirgi yangilash urinishi tafsilotlari uchun Prism Launcher yangilagich jurnalini quyida tekshiring: 
+%7
+
+Bu qulfni ustidan yozib, baribir ushbu yangilashni davom ettirish uchun quyida &quot;E&apos;tiborsiz qoldirish&quot;ni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="934"/>
@@ -9929,102 +10029,104 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="934"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash urinishi bekor qilindi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘zgarishlar jurnalini yozib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dan %2 ga yangilanmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="949"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dagi ko‘chma o‘rnatma yangilanmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="952"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dagi o‘rnatuvchi fayl ishga tushirilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="961"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jarayonni ishga tushirish natijasi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻrnatma zaxiralanmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="991"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; da yangi yangilagich ishga tushirilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="996"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ishga tushirilmadi %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaxiralanmoqda:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1069"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dagi o‘rnatma zaxiralanmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zaxiralanmoqda va keyin yo‘q qilinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1078"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni %2 ga zaxiralab bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 yo‘q qilinmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1119"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagilar &quot;%1&quot; ga chiqarib olindi:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1121"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1123"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni %2 ga ajratib olib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyani tekshirib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyani oʻqish uchun ichki jarayonni ishga tushirib boʻlmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki launcher jarayoni muvaffaqiyatsiz yakunlandi.</translation>
     </message>
 </context>
 <context>
@@ -10047,7 +10149,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat shu nusxa uchun standart sifatida ishlatilsinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -10065,14 +10167,16 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft nomini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu akkauntda Minecraft o&apos;ynay olish uchun yana 1x ta qadam qolgan.
+
+Nomingizni ehtiyotkorlik bilan tanlang:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
@@ -10087,7 +10191,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="125"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>Nom juda qisqa - 3 va 16 be</translation>
+        <translation>Nom juda qisqa: 3–16 belgidan iborat boʻlishi kerak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
@@ -10097,29 +10201,30 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="192"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nomiga ruxsat berilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="181"/>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta ishlanmagan profil nomi holati: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="197"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom mavjudligini tekshirib bo&apos;lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="276"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi: %1
+HTTP holati: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="287"/>
         <source>The server responded with the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server quyidagi xatolik bilan javob berdi:</translation>
     </message>
 </context>
 <context>
@@ -10132,12 +10237,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Global vazifa holati...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Global holat tafsilotlari...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
@@ -10163,7 +10268,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu faqat launcherga taalluqli. Minecraft proksi sozlamalarini qabul qilmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -10224,7 +10329,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eslatma: proksi foydalanuvchi nomi va paroli launcherni sozlash fayli ichida oddiy matn ko&apos;rinishida saqlanadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -10237,11 +10342,11 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="145"/>
         <source>Download of meta file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta fayl %1 yuklab olinmoqda</translation>
     </message>
     <message>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomaʼlum format versiyasi!</translation>
     </message>
     <message>
         <source>Path is empty</source>
@@ -10254,7 +10359,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Yo&apos;l MCEdit yo&apos;liga o&apos;xshamaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
@@ -10269,7 +10374,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Invalid order file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartib fayli versiyasi yaroqsiz, %1 kutilgandi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="75"/>
@@ -10279,22 +10384,22 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="93"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 versiya falyini qayta ishlab boʻlmadi: %3-qator %4-ustunda %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="120"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentning &apos;uid&apos; qiymatida ruxsat etilmagan belgilar mavjud! Bu xavfsizlik muammolariga olib kelishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="203"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiya faylida ham &apos;+libraries&apos;, ham &apos;libraries&apos; bor. Bu endi qoʻllab-quvvatlanmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="248"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>asosiy jar uchun URL aniqlanmadi - mojang biz zaxira sifatida ishlatgan serverni olib tashladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="282"/>
@@ -10334,62 +10439,62 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="170"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu versiyaning (%1) &apos;minimumLauncherVersion&apos; qiymati %3 (%2) qoʻllab-quvvatlaydigandan yuqori. U toʻgʻri ishlamasligi mumkin!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="297"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kutubxona nomi buzilgan va uni qayta ishlab boʻlmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="192"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentlar fayli %1 mavjud emas. Bunday holat sodir boʻlmasligi kerak.</translation>
     </message>
     <message>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 ni o&apos;qish uchun %1 f ni ochib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni json sifatida tahlil qilib bo&apos;lmadi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Faylni tahlil qilib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent faylining versiyasi yaroqsiz, %1 kutilgandi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="221"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni tahlil qilib bo&apos;lmadi: yomon fayl formati</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="368"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koʻrsatilgan fayl yoʻq yoki u toʻgʻri ishga tushiriladigan fayl emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="372"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Koʻrsatilgan Java binar fayl toʻgʻri ishga tushmadi.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Koʻrsatilgan Java binari kutilmagan natijalarni qaytardi:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java testi muvaffaqiyatli yakunlandi!&lt;br /&gt;Platforma xabar berdi: %1&lt;br /&gt;Java versiyasi xabar berdi: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -10397,13 +10502,13 @@ HTTP Status: %2</source>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Java testi muvaffaqiyatsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test success</source>
-        <translation type="unfinished"></translation>
+        <translation>Java testi muvaffaqiyatli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
@@ -10423,7 +10528,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab qoʻyishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="109"/>
@@ -10431,12 +10536,15 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot; ni %2 ga yuklab qoʻymoqchisiz.
+Shaxsiy maʼlumotlar bor-yoʻqligini yana bir bor tekshirishingiz kerak.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="122"/>
         <source>Confirm Truncation</source>
-        <translation type="unfinished"></translation>
+        <translation>Qisqartirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="123"/>
@@ -10446,17 +10554,22 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Logda %1x ta qator bor, bu mclo.gs&apos;ning %2x ta limitidan oshib ketadi.
+Launcher birinchi %3x ta va oxirgi %4x ta qatorni saqlab, o&apos;rtasini qisqartirishi mumkin.
+
+Agar &apos;No&apos; ni tanlasangiz, mclo.gs faqat birinchi %2x ta qatorni saqlaydi va oxiridagi qulashlar kabi foydali ma&apos;lumotlarni kesib tashlashi mumkin.
+
+Qisqartirish bilan davom etilsinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <source>Failed to upload logs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Loglarni yuklab qoʻyib boʻlmadi!</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Loglarni yuklab qoʻyish bekor qilindi</translation>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
@@ -10470,7 +10583,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="164"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab qoʻyilgan logga &lt;a href=&quot;%1&quot;&gt;havola&lt;/a&gt; buferingizga joylandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
@@ -10500,22 +10613,22 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Win32 temangizga oʻxshash koʻrinishga urinayotgan vidjet uslubi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x dan ilhomlangan vidjet uslubi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>WinUI 3 dan ilhomlangan Qt vidjet uslubi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Standart Qt vidjet uslubi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
@@ -10578,51 +10691,54 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Siz JVM xotira parametrini qo&apos;lda sozlashga urindingiz (&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; yoki &quot;-Xms&quot; dan foydalanib).
+Sozlamalarda buning uchun maxsus maydonlar bor (Java yorlig&apos;i, yuqoridagi Memory guruhida).
+Bu xabar JVM argumentlaridan ularni olib tashlamaguningizcha ko&apos;rsatiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM argumentlari ogohlantirishi</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz JVM ga talab qilinadigan Java versiyasi argumentini (&quot;-version:xxx&quot; dan foydalanib) uzatishga urindingiz. Bu xavfsiz emas va bunga ruxsat berilmaydi.
+Bu xabar JVM argumentlaridan buni olib tashlamaguningizcha ko&apos;rsatiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Java testi muvaffaqiyatli o&apos;tdi!&lt;br /&gt;Platforma xabar berdi: %1&lt;br /&gt;Java versiyasi xabar berdi: %2&lt;br /&gt;Java yetkazib beruvchisi xabar berdi: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Ogohlantirishlar:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Koʻrsatilgan Java binari siz bergan argumentlar bilan ishlamadi:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko&apos;rsatilgan Java binary ishlamadi.&lt;br /&gt;Siz &apos;Detect&apos; tugmasini bosishingiz yoki Java executable uchun yo&apos;lni sozlashingiz kerak.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java tekshiruvi kutubxonasi topilmadi. Iltimos, o&apos;rnatishingizni tekshiring.</translation>
+        <translation>Java tekshiruvchi kutubxonasi topilmadi. Iltimos, o&apos;rnatmangizni tekshiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="17"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa nomini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="18"/>
@@ -10630,60 +10746,66 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa nomida eski versiya bor koʻrinadi. Uni yangilamoqchimisiz?
+
+Eski nom: %1
+Yangi nom: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oʻxshash modlar toʻplami topildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalaringizdan biri yoki bir nechtasi shu modlar toʻplamidan: %1. Alohida nusxa yaratmoqchimisiz yoki mavjud nusxani yangilamoqchimisiz?
+
+ESLATMA: yangilashdan oldin muhim nusxa maʼlumotlaringizning zaxira nusxasini yarating, chunki olamlar buzilishi mumkin va ayrim sozlamalar yoʻqolishi mumkin (toʻplam ustiga yozishlari sababli).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="45"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud nusxani yangilash</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="46"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi nusxa yaratish</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="104"/>
         <source>Delete Existing Save Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud saqlash fayllarini yoʻq qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="105"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu modlar to&apos;plamining oldingi versiyasi o&apos;rnatma saqlash fayllarini o&apos;rnatgan.
+Ushbu yangilanishning bir qismi sifatida mavjud saqlashlarni yoʻq qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fon mushugi (MultiMCʼdan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (Ashtaka chizgan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (tekis nashr, Ashtaka chizgan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (SympathyTea chizgan)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
@@ -10716,7 +10838,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>dunyo saqlovi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
@@ -10733,7 +10855,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Tanlanganlar boʻyicha saralash</translation>
+        <translation>Tanlanganlar bo‘yicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
@@ -10775,7 +10897,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="270"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolzarblik bo‘yicha tartiblash</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="272"/>
@@ -10790,7 +10912,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>prismlauncher bilan ishlatish uchun windowsdagi MKLINK dasturlar to&apos;plami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -10800,7 +10922,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher uchun avtomatik yangilagich</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="33"/>
@@ -10821,43 +10943,43 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="628"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 %3 uchun %1 found mos versiyasi topilmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="634"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun metadata indeksida versiyalar roʻyxati yoʻq</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="707"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 da %2 %3 talabi yetishmayapti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="714"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, ushbu komponentning bogʻliqligi, muammolar haqida xabar bergan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="718"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, ushbu komponentning bogʻliqligi, talab qilingan %2 versiya emas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="722"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, ushbu komponentning bogʻliqligi, tavsiya etilgan %2 versiya emas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="736"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 va %2 birga ishlamasligi maʼlum. Ulardan birini yoʻq qilish tavsiya etiladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Belgilanmagan</translation>
+        <translation>Belgilanmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -10875,7 +10997,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ishlayapti</translation>
+        <translation>Ishlamoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
@@ -10893,13 +11015,13 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Faol emas</translation>
+        <translation>Oʻchirilgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">O&apos;chgan</translation>
+        <translation>Yoʻqolgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="305"/>
@@ -10916,19 +11038,21 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi nusxa ildizi (%1) allaqachon mavjud. &lt;br /&gt;Faqat metamaʼlumotlar qayta nomlanadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa jildinining nomini oʻzgartirib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa ishlayotgan paytda nusxa jildining nomini oʻzgartirib boʻlmaydi.
+
+Faqat nusxa nomi oʻzgartiriladi. Jild hozirgi nomini saqlab qoladi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
@@ -10946,7 +11070,10 @@ Only the instance name will be changed. The folder will keep its current name.</
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa jildining nomini oʻzgartirmoqchimisiz?
+
+Eski nom: %1
+Yangi nom: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="99"/>
@@ -10956,12 +11083,12 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="105"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi nomni oʻzgartirish amalini bajarishda xatolik yuz berdi: &lt;br/&gt; - Eski nusxa ildizi: %1&lt;br/&gt; - Yangi nusxa ildizi: %2&lt;br/&gt;Faqat metamaʼlumotlar nomi oʻzgartirildi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="119"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Bogʻlangan nusxalar mavjud</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="120"/>
@@ -10972,35 +11099,47 @@ New name: %2</source>
 %2 it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Quyidagi nusxa ushbu nusxadagi fayllarga murojaat qilishi mumkin:
+
+%1
+
+%2 u boshqa nusxani buzib qoʻyishi mumkin, 
+
+Davom etishni xohlaysizmi?</numerusform>
+            <numerusform>Quyidagi nusxalar ushbu nusxadagi fayllarga murojaat qilishi mumkin:
+
+%1
+
+%2 u boshqa nusxani buzib qoʻyishi mumkin, 
+
+Davom etishni xohlaysizmi?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="202"/>
         <source>error handling file</source>
-        <translation type="unfinished"></translation>
+        <translation>faylni qayta ishlashda xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="204"/>
         <source>invalid compression level</source>
-        <translation type="unfinished"></translation>
+        <translation>siqish darajasi noto‘g‘ri</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="206"/>
         <source>invalid or incomplete deflate data</source>
-        <translation type="unfinished"></translation>
+        <translation>deflate maʼlumotlari noto‘g‘ri yoki to‘liq emas</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="208"/>
         <source>out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>xotira yetarli emas</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="210"/>
         <source>zlib version mismatch!</source>
-        <translation type="unfinished"></translation>
+        <translation>zlib versiyasi mos kelmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -11021,84 +11160,84 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq yaratish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher u chiqarib olingan jildda, shuning uchun u yorliqlar yarata olmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilova uchun ikonka yaratib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilova uchun ikonka yaratib boʻlmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher notoʻgʻri sozlangan AppImage sifatida ishga tushyaptimi? ($APPIMAGE muhit oʻzgaruvchisi yoʻq)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq uchun ikonka yaratib boʻlmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliq uchun ikonka yaratib boʻlmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Platformangizda qoʻllab-quvvatlanmaydi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 shortcut yaratib bo‘lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish stoli topilmadi?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish stolingizda %1 uchun yorliq yaratildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovalar jildi topilmadi?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovalar jildida nusxalar jildini yaratib boʻlmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilovalar jildingizda ushbu %1 uchun yorliq yaratildi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Ish stoli elementlari</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="244"/>
         <source>Created a shortcut to this %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu %1 uchun yorliq yaratildi!</translation>
     </message>
     <message>
         <source>Network error: %1</source>
@@ -11106,50 +11245,51 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik: %1 kutilmagan status kodini qaytardi: %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="153"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastebin serveridan javobni tahlil qilib bo‘lmadi: JSON kutilgan edi, ammo yaroqsiz javob olindi. Xatolik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="181"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="203"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik: %1 notoʻgʻri shakllangan javob qaytardi</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mclogs serveridan javobni tahlil qilib bo‘lmadi: JSON kutilgan edi, ammo yaroqsiz javob olindi. Xatolik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik: %1 xatolik qaytardi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="188"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>PasteGG serveridan javobni tahlil qilib bo‘lmadi: JSON kutilgan edi, ammo yaroqsiz javob olindi. Xatolik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="200"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik: %1 xatolik kodi qaytardi: %2
+Xatolik xabari: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomaʼlum paste turi</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to VisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM uchun yo‘l yaroqsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
@@ -11165,17 +11305,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dasturchilari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>MultiMC Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC dasturchilari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation type="unfinished"></translation>
+        <translation>Alohida minnatdorchilik bilan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
@@ -11185,7 +11325,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tanilmagan</translation>
+        <translation>Tanib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
@@ -11231,7 +11371,7 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">%1 faylni oʻqish uchun ochib boʻlmadi: %2</translation>
+        <translation>%1 f faylini o‘qish uchun ochib bo‘lmadi: %2</translation>
     </message>
 </context>
 <context>
@@ -11243,7 +11383,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="165"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxaning o‘yin versiyasi bilan mos deb belgilab qo‘yilmagan.</translation>
     </message>
 </context>
 <context>
@@ -11251,7 +11391,7 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">maʼlumot toʻplamlari</translation>
+        <translation>maʼlumot toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11259,12 +11399,12 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">maʼlumot toʻplamlari</translation>
+        <translation>maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">maʼlumot toʻplami</translation>
+        <translation>maʼlumot toʻplami</translation>
     </message>
 </context>
 <context>
@@ -11272,7 +11412,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">modlar</translation>
+        <translation>modlar</translation>
     </message>
 </context>
 <context>
@@ -11280,12 +11420,12 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">modlar</translation>
+        <translation>modlar</translation>
     </message>
     <message>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
 </context>
 <context>
@@ -11293,33 +11433,34 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="86"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Ko‘rib chiqing va tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="87"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="115"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasdiqlash kerak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 s ta tanlangan resursga egasiz.
+Ushbu dialogni yopishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan %1 ni ko‘rib chiqish va tanlovingizni tasdiqlash uchun yangi qalqib chiquvchi oynani ochadi. Tezkor tugma: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab olish uchun %1 ni tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
@@ -11338,48 +11479,48 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="191"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog‘liqliklar tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="349"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1 versiyasini oʻzgartirish</translation>
+        <translation>%1 versiyasini oʻzgartirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="376"/>
         <source>mods</source>
-        <translation type="unfinished">modlar</translation>
+        <translation>modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
         <source>resource packs</source>
-        <translation type="unfinished">resurs toʻplamlari</translation>
+        <translation>resurs toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
         <source>texture packs</source>
-        <translation type="unfinished">tekstura toʻplamlari</translation>
+        <translation>tekstura toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
         <source>shader packs</source>
-        <translation type="unfinished">sheyder toʻplamlari</translation>
+        <translation>sheyder toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
         <source>data packs</source>
-        <translation type="unfinished">maʼlumot toʻplamlari</translation>
+        <translation>maʼlumot toʻplamlari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">resurslar</translation>
+        <translation>resurslar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni yuklab olish</translation>
     </message>
 </context>
 <context>
@@ -11395,29 +11536,30 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="277"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi yuz berdi. Loyiha versiyalarini yuklab bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="305"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi yuz berdi. Loyiha ma’lumotlarini yuklab bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="311"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>So‘rov noma’lum sababga ko‘ra bekor qilindi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq xatoligi yuz berdi. Modlarni yuklab bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="494"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>API versiyasi juda eski!
+Iltimos, %1 ni yangilang!</translation>
     </message>
 </context>
 <context>
@@ -11425,7 +11567,7 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">resurs toʻplamlari</translation>
+        <translation>resurs toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -11433,12 +11575,12 @@ Please update %1!</source>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">resurs toʻplamlari</translation>
+        <translation>resurs toʻplamlari</translation>
     </message>
     <message>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">resurs toʻplami</translation>
+        <translation>resurs toʻplami</translation>
     </message>
 </context>
 <context>
@@ -11447,13 +11589,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="145"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 ni qidirish...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="146"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="322"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 f ta tanlash yoki yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
@@ -11463,12 +11605,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Ushbu loyiha arxivlangan. Muallif loyihani arxivdan chiqarmaguncha, u boshqa yangilanishlarni olmaydi.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation>Xayriya ma’lumotlari: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
@@ -11493,17 +11635,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="320"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan to&apos;plam uchun versiya mavjud emas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="324"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 f ta tanlovni bekor qilish yoki yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="69"/>
@@ -11514,7 +11656,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="424"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqli versiya topilmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="311"/>
@@ -11522,7 +11664,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="329"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="425"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaroqsiz versiyani tanlab bo‘lmaydi :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="72"/>
@@ -11533,18 +11675,19 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="452"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyalar yuklanmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="570"/>
         <source>No versions available</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday versiya mavjud emas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="571"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; uchun hech qanday versiya mavjud emas.
+Muallif uchinchi tomon launcherlarini ehtimol bloklagan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="696"/>
@@ -11564,7 +11707,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="721"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs topilmadi</translation>
     </message>
     <message>
         <source>resources</source>
@@ -11624,7 +11767,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="69"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursni yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="70"/>
@@ -11636,7 +11779,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="126"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader konfiguratsiyasini &apos;%1&apos; dan &apos;%2&apos; ga qayta nomlab bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -11646,13 +11789,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ogohlantirish: bu resurs boshqa joydan simvolik havola orqali bog‘langan. Uni tahrirlash asl nusxani ham o‘zgartiradi.
+Kanonik yo&apos;l: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ogohlantirish: bu resurs boshqa joyda qattiq bog‘langan. Uni tahrirlash asl nusxani ham o‘zgartiradi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -11696,13 +11842,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Almashtirishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘yin ishlayotgan paytda bu resursni yoqsangiz/o‘chirsangiz, o‘yiningiz qulab tushishi mumkin.
+Buni qilishni xohlayotganingizga ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
@@ -11723,12 +11870,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu resurs oxirgi marta o‘zgartirilgan (yoki qo‘shilgan) sana va vaqt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="669"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursning manba provayderi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="671"/>
@@ -11748,7 +11895,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="801"/>
         <source>Override Columns Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustunlar ko‘rinishini bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="814"/>
@@ -11806,7 +11953,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="188"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resurs to&apos;plami format ID si, shuningdek u mo‘ljallangan Minecraft versiyalari.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="181"/>
@@ -11821,7 +11968,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="192"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs to&apos;plamining manba provayderi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="194"/>
@@ -11856,7 +12003,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="190"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu resurs to&apos;plami oxirgi marta qachon o&apos;zgartirilgani (yoki qo&apos;shilgani) sana va vaqt.</translation>
     </message>
 </context>
 <context>
@@ -11869,17 +12016,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalaridan resurs to&apos;plamlarini yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha resurs to&apos;plamlarini tekshirish yoki yangilashga urinib ko&apos;ring (agar hech biri tanlanmagan bo&apos;lsa, barcha resurs to&apos;plamlari)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod versiyasini o&apos;zgartirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -11911,7 +12058,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="223"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata o&apos;chirilganida resurs to&apos;plami yangilanishlari mavjud emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="135"/>
@@ -11923,11 +12070,13 @@ Are you sure you want to do this?</source>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yin ishlayotgan paytda resurs to&apos;plamlarini yangilash to&apos;plam nusxalanishiga va o&apos;yin qulashiga olib kelishi mumkin.
+Eski fayllar ishlatilayotgan bo&apos;lgani uchun yoʻq qilinmasligi mumkin.
+Buni qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs to&apos;plami yangilagichi bekor qilindi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
@@ -11942,7 +12091,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha resurs to&apos;plamlari yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
@@ -11958,7 +12107,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1x ta resurs to&apos;plami uchun metadatani yoʻq qilmoqchisiz.
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -11984,37 +12134,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="59"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilash uchun resurslarni tasdiqlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz quyidagi resurslarni yangilamoqchisiz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat belgilangan resurslar yangilanadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="95"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod nomi: %1&lt;br&gt;Fayl nomi: %2&lt;br&gt;Sabab: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="98"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata yaratish muvaffaqiyatsiz tugadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="99"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi resurslar uchun metadata yaratib bo‘lmadi:&lt;br&gt;Ushbu resurslarsiz davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="112"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlar tekshirilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="133"/>
@@ -12038,7 +12188,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="145"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlar tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="191"/>
@@ -12054,27 +12204,27 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="197"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mumkin bo‘lgan yechim: eng so‘nggi versiyani qo‘lda yuklab olish:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="203"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanishlarni tekshirib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyidagi resurslar uchun yangilanishlarni tekshirib yoki olib bo‘lmadi:&lt;br&gt;Ushbu resurslarsiz davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud bo‘lmagan modlarni o‘chirib qo‘yish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="245"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog‘liqliklar tekshirilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="267"/>
@@ -12084,28 +12234,28 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="304"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata qidirilmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="350"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurs &apos;%1&apos; hali metadata&apos;ga ega emas. Ushbu modni qanday yangilash haqida tegishli ma&apos;lumotlarni kuzatish uchun uni yaratishimiz kerak. Buni qilish uchun, iltimos, ushbu mod uchun yangilanishlarni tekshirishda foydalanishimiz mumkin bo&apos;lgan mod provayderini tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata yaratilmoqda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan mod provayder(lar)ida yaroqli versiya topilmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod o‘chirib qo‘yildi, chunki u allaqachon o‘rnatilgan bo‘lishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
@@ -12140,7 +12290,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="509"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Eng so‘nggi versiyaning o‘zgarishlar jurnali</translation>
     </message>
 </context>
 <context>
@@ -12164,7 +12314,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="86"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod o‘chirib qo‘yildi, chunki u allaqachon o‘rnatilgan bo‘lishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
@@ -12194,17 +12344,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="140"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s tanlovini tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz quyidagi %1 ni yuklab olmoqchisiz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="143"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat belgilangan %1 yuklab olinadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
@@ -12214,7 +12364,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Bog‘liqliklarni yoqib/o‘chirish</translation>
     </message>
 </context>
 <context>
@@ -12255,7 +12405,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 s ta skrinshotni %2 ga yuklab qo&apos;ymoqchisiz.
+Shaxsiy ma&apos;lumotlar bor-yo&apos;qligini yana bir bor tekshiring.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="410"/>
@@ -12263,14 +12416,17 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz tanlangan skrinshotni %1 ga yuklab qo&apos;ymoqchisiz.
+Shaxsiy ma&apos;lumotlar bor-yo&apos;qligini yana bir bor tekshiring.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="474"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrinshotlarni yuklab qo&apos;yib bo&apos;lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
@@ -12289,7 +12445,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrinshotlarni yuklab qo&apos;yish bekor qilindi</translation>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
@@ -12298,12 +12454,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab qo&apos;yilgan skrinshotga &lt;a href=&quot;%1&quot;&gt;havola&lt;/a&gt; vaqtinchalik xotirangizga joylandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yuklab qo&apos;yilgan albomga &lt;a href=&quot;%1&quot;&gt;havola&lt;/a&gt; vaqtinchalik xotirangizga joylandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="536"/>
@@ -12311,7 +12467,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 s ta skrinshotni yoʻq qilmoqchisiz.
+Bu qaytarib bo&apos;lmas bo&apos;lishi mumkin va ular jilddan yo&apos;qoladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
@@ -12319,7 +12478,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz tanlangan skrinshotni yoʻq qilmoqchisiz.
+Bu qaytarib bo&apos;lmas bo&apos;lishi mumkin va u jilddan yo&apos;qoladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
@@ -12367,12 +12529,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Nashr qilingan sana</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;rnatish uchun versiyani tanlang.</translation>
     </message>
 </context>
 <context>
@@ -12380,12 +12542,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;rnatish uchun relizni tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, yangilamoqchi bo&apos;lgan relizni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -12395,7 +12557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Nashr qilingan sana</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
@@ -12525,7 +12687,9 @@ Hozirda oʻrnatilgan versiya: %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 selected serverlarni yoʻq qilish arafasidasiz. Bu qaytarilmaydi va serverlar roʻyxatingizdan abadiy (juda uzoq vaqtga) yoʻqoladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
@@ -12538,7 +12702,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot; ni yoʻq qilish arafasidasiz.
+Bu qaytarilmaydi va server roʻyxatingizdan abadiy (juda uzoq vaqtga) yoʻqoladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
 </context>
 <context>
@@ -12574,12 +12741,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation type="unfinished"></translation>
+        <translation>.index dan shaderpack metamaʼlumotlarini ko‘chirish muvaffaqiyatsiz bo‘ldi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Eski .index jildini yoʻq qilib bo&apos;lmadi</translation>
     </message>
 </context>
 <context>
@@ -12592,17 +12759,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalaridan shader to&apos;plamlarini yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="58"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha shader packlarni tekshirish yoki yangilashga urinib ko‘ring (agar hech biri tanlanmagan bo‘lsa, barcha shader packlar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="72"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader pack versiyasini o‘zgartirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="94"/>
@@ -12634,7 +12801,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="218"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metamaʼlumotlar o‘chirilganida shader pack yangilanishlari mavjud emas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
@@ -12646,11 +12813,13 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘yin ishlayotgan paytda shader packlarni yangilash to‘plam nusxalanishiga va o‘yin qulashiga olib kelishi mumkin.
+Eski fayllar ishlatilayotgani uchun yoʻq qilinmasligi mumkin.
+Buni qilishni xohlaysizmi?</translation>
     </message>
     <message>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader pack yangilagichi bekor qilindi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="156"/>
@@ -12660,12 +12829,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="159"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha shader packlar yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha shader packlar yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
@@ -12681,12 +12850,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 shader pack uchun metamaʼlumotlarni yoʻq qilish arafasidasiz.
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sheyder toʻplamlari</translation>
     </message>
 </context>
 <context>
@@ -12701,7 +12871,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="295"/>
         <source>Path is empty.</source>
-        <translation>Yoʻl boʻsh</translation>
+        <translation>Yoʻl boʻsh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="298"/>
@@ -12721,7 +12891,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="304"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin rasmlari 64x64 yoki 64x32 piksel PNG fayllari bo‘lishi kerak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="308"/>
@@ -12736,7 +12906,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Skinni yuklab qo‘yish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -12761,7 +12931,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation type="unfinished"></translation>
+        <translation>Elytra ko‘rib chiqish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
@@ -12801,7 +12971,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="191"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="196"/>
@@ -12861,7 +13031,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Failed to upload skin!</source>
-        <translation>Skinni yuklab qoʻyib boʻlmadi</translation>
+        <translation>Skinni yuklab qoʻyib boʻlmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="318"/>
@@ -12876,7 +13046,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Skinni o&apos;chirish muvaffaqiyatsiz bo&apos;ldi!</translation>
+        <translation>Joriy skinni yoʻq qilish muvaffaqiyatsiz bo‘ldi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
@@ -12886,7 +13056,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
         <source>Delete error</source>
-        <translation type="unfinished"></translation>
+        <translation>Yoʻq qilish xatoligi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
@@ -12902,7 +13072,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;ni yoʻq qilmoqchisiz.
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
@@ -12922,7 +13093,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin rasmlari 64x64 yoki 64x32 piksel PNG fayllari bo‘lishi kerak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
@@ -12937,30 +13108,30 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="462"/>
         <source>failed to get user UUID</source>
-        <translation>Foydalanuvchi UUIDʼsini olib boʻlmadi</translation>
+        <translation>foydalanuvchi UUIDʼsini olib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="466"/>
         <source>failed to get user profile</source>
-        <translation>Foydalanuvchi profilini olib boʻlmadi</translation>
+        <translation>foydalanuvchi profilini olib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
-        <translation>Skinni yuklab olib boʻlmadi</translation>
+        <translation>fkinni yuklab olib boʻlmadi</translation>
     </message>
     <message>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>foydalanuvchi UUID javobini olishni tahlil qilib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="452"/>
         <source>user id is empty</source>
-        <translation>Foydalanuvchi IDʼsi boʻsh</translation>
+        <translation>foydalanuvchi IDʼsi boʻsh</translation>
     </message>
     <message>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>foydalanuvchi profili javobini olishni tahlil qilib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="482"/>
@@ -12977,7 +13148,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; uchun skin topilmadi
+ sababi: %2.</translation>
     </message>
 </context>
 <context>
@@ -12997,7 +13169,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Quyi vazifa holati...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="69"/>
@@ -13025,7 +13197,9 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa yangilanishi muvaffaqiyatsiz tugadi, sababi: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -13050,21 +13224,21 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplamini chiqarib boʻlmadi: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplamini chiqarib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="110"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">%1 uchun ruxsatlarni tuzatib bo‘lmadi</translation>
+        <translation>%1 uchun ruxsatlarni tuzatib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani import qilish bekor qilindi.</translation>
     </message>
 </context>
 <context>
@@ -13073,13 +13247,13 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="68"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="70"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplami fayllari hal qilinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="84"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplami yuklab olinmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="95"/>
@@ -13096,84 +13270,86 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplamini chiqarib boʻlmadi: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar toʻplamini chiqarib boʻlmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">%1 uchun ruxsatlarni tuzatib bo‘lmadi</translation>
+        <translation>%1 uchun ruxsatlarni tuzatib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa importi bekor qilindi.</translation>
     </message>
 </context>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;bin/modpack.jar&quot; faylini ochib bo‘lmadi!</translation>
     </message>
     <message>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;fmlversion.properties&quot;ni ochib bo‘lmadi!</translation>
     </message>
     <message>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot;ni ochib bo‘lmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&quot;bin/modpack.jar&quot; ichida &quot;version.json&quot; topilmadi, ammo Minecraft versiyasi noma’lum</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot;ni ochib bo‘lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; yaroqsiz!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot;ni ochib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;bin/modpack.jar&quot; faylini ochib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;fmlversion.properties&quot;ni ochib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot;ni ochib bo‘lmadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot;ni tushunib bo‘lmadi:
+inheritsFrom yo‘q</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="135"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;version.json&quot;ni tushunib bo‘lmadi:
+</translation>
     </message>
 </context>
 <context>
@@ -13244,7 +13420,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="159"/>
         <source>Is the texture pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura toʻplami yoqilganmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
@@ -13254,12 +13430,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu tekstura to&apos;plami oxirgi marta o&apos;zgartirilgan (yoki qo&apos;shilgan) sana va vaqt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="165"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura toʻplamining manba provayderi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="167"/>
@@ -13292,22 +13468,22 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="49"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlayn mod platformalaridan tekstura to&apos;plamlarini yuklab olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="55"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha tekstura to&apos;plamlarini tekshirish yoki yangilashga urinib ko&apos;rish (agar hech biri tanlanmagan bo&apos;lsa, barcha tekstura to&apos;plamlari)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="69"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura to&apos;plamining versiyasini o&apos;zgartirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha tekstura to&apos;plamlarining bosh sahifalarini ko&apos;rish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
@@ -13339,7 +13515,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata o&apos;chirilganida tekstura to&apos;plami yangilanishlari mavjud bo&apos;lmaydi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
@@ -13351,11 +13527,13 @@ inheritsFrom is missing</source>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;yin ishlayotgan paytda tekstura to&apos;plamlarini yangilash to&apos;plam nusxalanishiga va o&apos;yin qulashiga olib kelishi mumkin.
+Eski fayllar ishlatilayotgani uchun yoʻq qilinmasligi mumkin.
+Buni qilishni xohlashingizga ishonchingiz komilmi?</translation>
     </message>
     <message>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura to&apos;plami yangilagichi bekor qilindi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
@@ -13365,12 +13543,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Barcha tekstura to&apos;plamlari yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan barcha tekstura to&apos;plamlari yangilangan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
@@ -13386,7 +13564,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz %1 x ta tekstura to&apos;plami uchun metadatani yoʻq qilmoqchisiz.
+Ishonchingiz komilmi?</translation>
     </message>
 </context>
 <context>
@@ -13399,7 +13578,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Foydalanish uchun tema va ikonlarni tanlang</translation>
     </message>
 </context>
 <context>
@@ -13412,17 +13591,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>To&apos;liqlik</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ona tilidagi nomi.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toʻliqlik — avtomatik taxmin qilinganlarini hisobga olmagan holda, toʻliq tarjima qilingan satrlarning foizi.</translation>
     </message>
 </context>
 <context>
@@ -13430,22 +13609,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>Shoshilmang!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Siz o‘rnatayotgan modlar to‘plami Modrinth yoki CurseForge’da joylashtirilmagan modlarni o‘z ichiga oladi:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Zararli modlar ko‘pincha Discord kabi platformalarda yuborilgan havolalar orqali tarqatiladi.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Biz modlar to‘plamlarini faqat ishonchli manbalardan import qilishni qatʼiy tavsiya qilamiz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>Men bu modlar to&apos;plamiga ishonaman va baribir davom etmoqchiman</translation>
     </message>
 </context>
 <context>
@@ -13458,13 +13637,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangi versiya mavjud!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 versiyasi endi mavjud — sizda %2 bor. Uni hozir yuklab olishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -13489,7 +13668,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ning yangi versiyasi mavjud!</translation>
     </message>
 </context>
 <context>
@@ -13497,7 +13676,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 versiyasidan nusxa yaratilmoqda</translation>
     </message>
 </context>
 <context>
@@ -13507,19 +13686,23 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajratilgan maksimal xotira qo‘llab-quvvatlanadigan qiymatdan oshib ketdi.
+Tanlangan Java o‘rnatmasi 32-bit va 2048MiB dan ortiq RAMni qo‘llab-quvvatlamaydi.
+Shu sababli nusxa ishga tushmasligi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Java asosiy versiyasi mos emas. Baʼzi narsalar buzilishi mumkin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu nusxa Java %1 versiyasi bilan mos emas.
+Iltimos, ushbu nusxa uchun quyidagi Java versiyalaridan biriga o‘ting:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
@@ -13529,7 +13712,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyangizni o‘zgartirish uchun nusxa Java sozlamalariga o‘ting yoki nima qilayotganingizni bilsangiz, Java moslik tekshiruvini o‘chirib qo‘ying.</translation>
     </message>
 </context>
 <context>
@@ -13537,7 +13720,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozirda hech qanday versiya mavjud emas.</translation>
     </message>
 </context>
 <context>
@@ -13565,7 +13748,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Qaytarish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
@@ -13575,7 +13758,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Minecraft jar fayliga mod qoʻshish</translation>
+        <translation>Minecraft jar fayliga mod qoʻshish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -13615,7 +13798,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponent versiyasini o‘zgartirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
@@ -13625,7 +13808,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponentni tezroq qo‘llash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
@@ -13635,47 +13818,47 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponentni keyinroq qo‘llash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponentni nusxadan yoʻq qilish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponentni moslashtirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Edit selected component.</source>
-        <translation>Tanlangan komponentni tahrirlash</translation>
+        <translation>Tanlangan komponentni tahrirlash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan komponentni standart holatga qaytarish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Loader-ni o&apos;rnating</translation>
+        <translation>Yuklagichni oʻrnatish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod loaderini o&apos;rnatish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boʻsh maxsus komponent qoʻshish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Reload all components.</source>
-        <translation>Barcha komponentlarni qayta yuklash</translation>
+        <translation>Barcha komponentlarni qayta yuklash.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
@@ -13685,7 +13868,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxani hozir ishga tushirish uchun kerakli fayllarni yuklab olish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
@@ -13695,7 +13878,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxaning .minecraft jildini ochish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
@@ -13705,7 +13888,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxaning mahalliy kutubxonalar jildini ochish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
@@ -13715,7 +13898,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud komponent JSON fayllarini import qilish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
@@ -13751,7 +13934,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Namuna profilini yuklab bo&apos;lmadi.</translation>
+        <translation>Nusxa profilini yuklab bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
@@ -13764,7 +13947,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;ni yoʻq qilmoqchisiz.
+Bu qaytarib boʻlmaydi va maxsus komponentni butunlay yoʻq qiladi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
@@ -13784,7 +13970,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar almashtirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
@@ -13814,7 +14000,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Baʼzi komponentlarni import qilib boʻlmadi. Tafsilotlar uchun loglarni tekshiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
@@ -13829,12 +14015,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="369"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozirda hech qanday oraliq mapping versiyalari mavjud emas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oraliq mappinglar versiya roʻyxatlarini yuklash yoki yuklab olishning iloji boʻlmadi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="404"/>
@@ -13842,7 +14028,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kamida 1x ta akkaunt qoʻshilmagan boʻlsa, Minecraftni yuklab olish yoki nusxalarni yangilab boʻlmaydi.
+Iltimos, Microsoft akkauntini qoʻshing.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
@@ -13852,7 +14039,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="544"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Qaytarishni tasdiqlash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="545"/>
@@ -13860,7 +14047,10 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;ni qaytarishga tayyorsiz.
+Bu doimiy va barcha moslashtirishlaringizni toʻliq qaytaradi.
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
@@ -13878,12 +14068,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarmoq</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -13908,12 +14098,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Asosiy versiya</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiqarilgan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
@@ -13923,12 +14113,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft versiyasi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyaning tarmogʻi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
@@ -13943,24 +14133,24 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu versiyaga fayl tizimidagi yoʻl</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java versiyasining muqobil nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java asosiy versiyasi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ushbu versiyaning chiqarilgan sanasi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
@@ -13975,7 +14165,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Eng soʻnggi</translation>
     </message>
 </context>
 <context>
@@ -14002,7 +14192,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiyalar roʻyxatini qayta yuklaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
@@ -14026,7 +14216,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Roʻyxatni yangilash muvaffaqiyatsiz tugadi:
+%1</translation>
     </message>
 </context>
 <context>
@@ -14039,14 +14230,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher jurnalini koʻrish</translation>
     </message>
 </context>
 <context>
     <name>WideBar</name>
     <message>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Asboblar paneli amallarini moslashtirish</translation>
     </message>
 </context>
 <context>
@@ -14054,24 +14245,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="214"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu dunyo boshqa joydan ramziy havola qilingan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bu dunyo boshqa joyga qattiq havola qilingan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="233"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogohlantirish: bu olam boshqa joydan simvolik havola qilingan. Uni tahrirlasangiz asl nusxani ham oʻzgaradi.
+Kanonik yoʻl: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="238"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogohlantirish: bu olam boshqa joyga qattiq havola qilingan. Uni tahrirlasangiz asl nusxani ham oʻzgaradi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="275"/>
@@ -14086,7 +14279,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="279"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Oxirgi oʻynalgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
@@ -14098,32 +14291,32 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maʼlumot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamning nomi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="295"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamning oʻyin rejimi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam oxirgi marta oʻynalgan sana va vaqti.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamning diskdagi hajmi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="301"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam haqidagi maʼlumot va ogohlantirishlar.</translation>
     </message>
 </context>
 <context>
@@ -14165,7 +14358,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="129"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Urugʻdan (seed) nusxa olish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="134"/>
@@ -14185,7 +14378,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="147"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keyingi yuklashda oʻyin uni qayta yaratishi uchun olam ikonkasini yoʻq qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
@@ -14195,7 +14388,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanlangan olamda tashqi asbobni ishga tushirish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
@@ -14205,7 +14398,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="163"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olam ichidagi maʼlumot toʻplamlarini boshqarish.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="56"/>
@@ -14219,35 +14412,37 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Olamni MCEditʼda ochish</translation>
     </message>
     <message>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit topilmadi yoki sozlanmagan!</translation>
     </message>
     <message>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizda MCEdit sozlanmagan yoki u ko&apos;chirilgan.
+Uni global sozlamalarda sozlashingiz mumkin.</translation>
     </message>
     <message>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit ishga tushmadi!</translation>
     </message>
     <message>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit ishga tushmadi.
+Uni qayta o&apos;rnatish kerak bo&apos;lishi mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="432"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft dunyosi zip faylini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="432"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft dunyosi zip fayli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="474"/>
@@ -14258,7 +14453,8 @@ It may be necessary to reinstall it.</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="459"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft ishlayotgan paytda dunyoni o&apos;zgartirish potensial xavfli.
+Davom etishni xohlaysizmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="232"/>
@@ -14271,7 +14467,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz &quot;%1&quot;ni yoʻq qilish arafasidasiz.
+Dunyo butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).
+
+Ishonchingiz komilmi?</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
@@ -14279,9 +14478,15 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.
+Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).
+
+Ishonchingiz komilmi?</numerusform>
+            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.
+Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).
+
+Ishonchingiz komilmi?</numerusform>
         </translation>
     </message>
     <message>
@@ -14302,7 +14507,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>Hech qanday asbob qoʻshilmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
@@ -14317,7 +14522,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbob buyrugʻi bo&apos;sh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
@@ -14328,7 +14533,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Asbobni ishga tushirib boʻlmadi.
+Xatolik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
@@ -14339,7 +14545,7 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa uchun yangi nom kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="508"/>
@@ -14357,91 +14563,95 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 servicesga kirish uchun avtorizatsiya olinmoqda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 services uchun noma&apos;lum STS xatoligi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 services uchun avtorizatsiyani olib bo&apos;lmadi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 services ga kirish uchun avtorizatsiya javobini tahlil qilib bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server javobda %1 avtorizatsiya foydalanuvchi xeshini o‘zgartirib yubordi. Nimadir noto‘g‘ri.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ga kirish uchun avtorizatsiya olindi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 avtorizatsiya xatolik javobini JSON sifatida tahlil qilib bo‘lmadi: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 avtorizatsiya xatolik javobida XErr elementi yo‘q.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkauntida Xbox Live profili yo‘q. Avval %1 first da o‘yinni sotib oling.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live mamlakatingizda mavjud emas. Siz bloklangansiz.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti voyaga yetmagan va oilaga bog‘lanmagan.
+
+Iltimos, akkauntingizni %1 ga muvofiq sozlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti o‘ynash uchun yoshni tasdiqlashni talab qiladi. Yoshni tasdiqlash uchun %1 ga kiring.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti o‘ynash vaqti bo‘yicha limitiga yetdi. Bu Microsoft akkaunti tizimga kirishdan bloklangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti Xbox hamjamiyat standartlaridan 1x ta yoki undan ko‘prog‘ini buzganligi uchun Xbox tomonidan ban qilingan va undan foydalanib bo‘lmaydi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti hozirda cheklangan va vasiyingiz sizga onlayn o‘ynashga ruxsat bermagan. %1 ga kiring va vasiyingiz ruxsatlaringizni o‘zgartirsin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft akkaunti Xbox xizmat ko‘rsatish shartlarini qabul qilmagan. Iltimos, tizimga kiring va ularni qabul qiling.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS autentifikatsiyasi tanilmagan xatolik(lar) bilan yakunlandi:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -14449,23 +14659,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox foydalanuvchisi sifatida tizimga kirilmoqda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox foydalanuvchisini autentifikatsiya qilish muvaffaqiyatsiz tugadi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox foydalanuvchisini autentifikatsiya qilish javobini tushunib bo‘lmadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox foydalanuvchi tokeni olindi</translation>
     </message>
 </context>
 </TS>
