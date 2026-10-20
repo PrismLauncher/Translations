@@ -6939,12 +6939,12 @@ Raison :
         <translation type="unfinished">Info</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation type="unfinished">Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -8075,12 +8075,12 @@ Motiv:
         <translation>Informații</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Deschideți %1 sau scanați codul QR și introduceți codul de mai sus, dacă este necesar.</translation>
     </message>

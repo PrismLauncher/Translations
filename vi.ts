@@ -8116,12 +8116,12 @@ Lý do:
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation>Huỷ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Mở %1 hoặc quét mã QR và nhập code tại trên nếu cần thiết.</translation>
     </message>

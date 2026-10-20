@@ -7517,12 +7517,12 @@ Sebab:
         <translation>Maklumat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation type="unfinished">Batal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Buka %1 atau imbas QR dan masukkan kod di atas jika perlu.</translation>
     </message>

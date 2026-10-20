@@ -6634,12 +6634,12 @@ razlog:
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation>Odustani</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Otvorite %1 ili skenirajte QR i unesite gornji kod ako je potrebno.</translation>
     </message>

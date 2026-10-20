@@ -7370,12 +7370,12 @@ Reason:
         <translation type="vanished">&lt;p&gt;Μεταβείτε στη διεύθυνση %1 στο αγαπημένο σας πρόγραμμα περιήγησης και βάλτε τον κωδικό &lt;b&gt;%2&lt;/b&gt; για να προχωρήσετε με τη σύνδεση.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation>Ακύρωση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>Ανοίξτε το %1 ή σαρώστε το QR και εισαγάγετε τον παραπάνω κωδικό, αν χρειαστεί.</translation>
     </message>

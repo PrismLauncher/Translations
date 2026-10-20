@@ -7233,12 +7233,12 @@ Reason:
         <translation>தகவல்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
         <source>Cancel</source>
         <translation>ரத்துசெய்</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="223"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
         <translation>%1 ஐத் திறக்கவும் அல்லது QR ஐ வருடு செய்து தேவைப்பட்டால் மேலே உள்ள குறியீட்டை உள்ளிடவும்.</translation>
     </message>
