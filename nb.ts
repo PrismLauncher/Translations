@@ -10297,7 +10297,7 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filnavn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -14225,7 +14225,7 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filnavn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
@@ -14333,7 +14333,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filnavn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -15891,7 +15891,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filnavn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
@@ -17234,7 +17234,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ugyldig kommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
