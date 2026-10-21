@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan sette dette til en annen server hvis du har problemer med å laste ned gamle FML-biblioteker (Minecraft 1.5.2 og tidligere).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver fallback til Modrinth for blokkerte mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -843,7 +843,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Slå på katt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1906,12 +1906,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierer verden...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klarte ikke å kopiere verden.</translation>
     </message>
 </context>
 <context>
@@ -2083,7 +2083,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forhåndslast kommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2098,7 +2098,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Forhåndslastingskommandoen kjøres før instansens metadata lastes, forhåndsstartkommandoen kjøres før instansen starter, og post-avslutningskommandoen kjøres etter at den avsluttes.&lt;/p&gt;&lt;p&gt;Alle vil bli kjørt i lanseringsprogrammets arbeidsmappe med ekstra miljøvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Navnet på instansen&lt;/li&gt;&lt;li&gt;$INST_ID - ID-en til instansen (dens mappenavn)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolutt sti til instansen&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolutt sti til Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java-binæren som brukes for lansering&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandolinjeparametere brukt for lansering (advarsel: vil ikke fungere riktig hvis argumentene inneholder mellomrom)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandoen lar deg starte ved å bruke et ekstra wrapper-program (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2247,7 +2247,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <name>DataPack</name>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Ikke gjenkjent</translation>
+        <translation>Ukjent</translation>
     </message>
 </context>
 <context>
@@ -2278,42 +2278,42 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Størrelse</translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnavn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bør denne datapakken oppdateres?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The version of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versjonen av datapakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
         <source>The size of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelsen på datapakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="180"/>
         <source>The file name of the data pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnavnet på datapakken.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2473,12 +2473,12 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletter verden...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikk ikke slettet verden.</translation>
     </message>
 </context>
 <context>
@@ -2526,7 +2526,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet har økt minnebelastning.  
+Dette kan føre til hakking eller treghet.  
+Hvis mulig, lukk andre apper før du fortsetter.  
+
+Vil du starte uansett?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2535,22 +2539,28 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet ditt har kritisk minnepress.
+
+Dette kan føre til kraftige tregheter, krasj eller ustabilitet i systemet.
+
+Det anbefales å lukke andre programmer eller starte systemet på nytt.
+
+Vil du starte likevel?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Høyt minnepress</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet har høyt minnepress</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Lite ledig minne</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
@@ -2560,12 +2570,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det kan hende det ikke er nok ledig RAM til å starte denne instansen med de nåværende minneinnstillingene.
+
+Maks tildelt: %1 MiB
+Ledig: %2 MiB (av totalt %3 MiB)
+
+Vil du starte uansett? Dette kan føre til treghet i spillet og systemet ditt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke nok RAM tilgjengelig for å starte denne instansen</translation>
     </message>
 </context>
 <context>
