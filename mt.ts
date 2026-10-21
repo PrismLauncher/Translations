@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Paste Servizz &amp;Tip</translation>
+        <translation>Servizz tal-Paste&amp;Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Bażi &amp;URL</translation>
+        <translation>Bażi&amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -34,17 +34,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: inti probabilment trid tibdel yew t&apos;iċċara il-Base URL wara li tibdel it-tip ta servizz paste</translation>
+        <translation>Nota: Wisq probabbli trid tbiddel jew tneħħi l-URL Bażi wara li tibdel it-tip tas-Servizz tal-Paste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>Refresh on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Aġġorna mal-ftuħ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>Assets Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server tal-Assi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="148"/>
@@ -54,17 +54,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Server tal-Libreriji FML Legati</translation>
+        <translation>Server tal-Libreriji FML Arkajki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Tista&apos; tissettja dan għal server ieħor jekk għandek problemi biex tniżżel libreriji FML legati (Minecraft 1.5.2 u qabel).</translation>
+        <translation>Tista&apos; tissettja dan għal server ieħor jekk għandek problemi biex tniżżel libreriji FML Arkajki (Minecraft 1.5.2 u verżjonijiet preċedenti).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
         <source>&amp;API Keys</source>
-        <translation>&amp;Ċwievet API</translation>
+        <translation>&amp;API Keys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>Use None</source>
-        <translation>Uża Xejn</translation>
+        <translation>Tuża Xejn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="353"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Ippermetti fallback għal Modrinth għal mods imblukkati</translation>
+        <translation>Attiva fallback għal Modrinth għall-mods imblukkati</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: probabli m&apos;għandekx bżonn tissetja dan jekk meta tidħol b&apos;Microsoft Authentication diġa&apos; taħdem.</translation>
+        <translation>Nota: Wisq probabli m&apos;għandekx bżonn tissetjah jekk tista&apos; tidħol bil-Microsoft Authentication.</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
@@ -123,17 +123,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: inti biss trid tissetja dan biex taċċessa d-dejta privata.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: din għandha bżonn tiġi ssettjata biss biex taċċessa d-dejta privata.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <source>User Agent</source>
-        <translation type="unfinished">L-Aġent tal-User</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Daħħal Aġent tal-Utent apposta hawn. L-istring speċjali $LAUNCHER_VER se tiġi sostitwita bil-verżjoni tal-lanċjar.</translation>
+        <translation>Daħħal User Agent personaliżżat hawn. L-istring speċjali $LAUNCHER_VER se tiġi mibdula bil-verżjoni tal-launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Tista&apos; tissettja dan għal server tal-metadata ta&apos; parti terza biex tuża libreriji b&apos;patches jew hacks oħra.</translation>
+        <translation>Tista&apos; tissettja dan għal server tal-metadata ta&apos; parti terzi biex tuża libreriji b&apos;patches jew hacks oħra.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
