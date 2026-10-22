@@ -4219,7 +4219,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Будьте добрі, уберіт, кулько памняти выділити на інстанції и ци Prism Launcher мав бы автоматично справовати Java, ци ручно.</translation>
     </message>
 </context>
 <context>
@@ -4227,12 +4227,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерьхати Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Выявлена 32-бітна Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="233"/>
@@ -4242,12 +4242,17 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Убрали сьте 32-бітну інсталацію Java, айбо выділили булш як 2048 МіБ максималної памняти.
+%1 не побирує запустити Minecraft.
+Хочете продовжити?
+
+Поміняти верзію Java мож буде пак у штімованях.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Не убрата верзія Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="244"/>
@@ -4257,7 +4262,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Авадь не убрали сьте верзію Java, авадь убрали сьте таку, котра не робит.
+%1 не побирує запустити Minecraft.
+Хочете продовжити без функціоналної верзії Java?
+
+Поміняти верзію Java мож буде пак у штімованях.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
@@ -4267,32 +4277,32 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Памнять</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималный обсяг памняти, котрый Minecraft годен хосновати.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мінімалный обсяг выділеної памняти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималный обсяг выділеної памняти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обсяг памняти, з котрым Minecraft ся запущат.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обсяг памняти, доступный про держаня заладованых класув Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
@@ -4302,37 +4312,37 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично стерьхати Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично вызначити верзію Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="503"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично найти Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выділеный обсяг памняти перевысшує доступный системный обсяг.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выділеный обсяг памняти близкый ид доступному системному обсягови.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Максималный обсяг выділеної памняти май малый уд мінімалного значіня</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="524"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевысшуєте максималный выділеный обсяг памняти, пуддержованый 32-бітнов Java.</translation>
     </message>
 </context>
 <context>
@@ -4340,7 +4350,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
 </context>
 <context>
@@ -4348,12 +4358,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не видите свуй язык вадь кваліта його товмачіня є пудла?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Поможіт нам товмачити!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Хосновати реґіоналні стандарты системы</translation>
     </message>
 </context>
 <context>
@@ -4361,12 +4371,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Уберіт язык про хоснованя в %1</translation>
     </message>
 </context>
 <context>
@@ -4374,93 +4384,97 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вказана інстанція!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Указані неплатні арґументы Java. Будьте добрі, тото поладіт.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Не є акаунтув</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Котрый акаунт бысьте мали дяку ухосновати?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имня бавляча</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Бавити демо?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Бавити демо</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Зрушити</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Автентикаційні серверы сут офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Автентикаційні серверы Minecraft теперькы недоступні, запущаєме бавку в офлайновому режімі.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Не є скапчаня з інтернетом</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не сьте прикапчані д інтернетови, запущаєме бавку в офлайновому режімі.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся обновити акаунт</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Хыба!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся зладовати профіль інстанції.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся запустити лончер.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся провірити %1 профайлером: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="443"/>
