@@ -635,7 +635,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Añadir Microsoft</translation>
+        <translation>GuilleMoraCast</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
@@ -647,27 +647,27 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Actualizar</translation>
+        <translation>Guillerm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
-        <translation>Actualizar los tokens de la cuenta</translation>
+        <translation>Guillermomoralescastromari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>Subir</translation>
+        <translation>GM2022M</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>Bajar</translation>
+        <translation>Guillermo9</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
-        <translation>Cuentas</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>Welcome!
