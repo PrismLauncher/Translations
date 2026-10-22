@@ -3163,7 +3163,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключи Актуализациите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
@@ -3344,7 +3344,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -5616,7 +5616,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
         <source>Java Argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Аргументи&amp;ts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="318"/>
