@@ -2357,28 +2357,28 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;терти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Уключити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выключити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Уключити вшыткі убраті елементы.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Глядати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
