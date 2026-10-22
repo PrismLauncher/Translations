@@ -864,12 +864,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найшла ся ниєдна совмістима верзія Java. Хоснуєме мовчану.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша система (%1-%2) не совмістима з автоматичным інсталованьом Java. Хоснуєме мовчаный путь Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
@@ -879,7 +879,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Найдена совмістима Java у: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
@@ -894,12 +894,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Інсталовати Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдена ниєдна верзія Java про вашу операційну систему: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
@@ -912,12 +912,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Голошіня за нову функцію!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
@@ -928,12 +928,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключити автостерьханя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключити автостерьханя</translation>
     </message>
 </context>
 <context>
@@ -941,7 +941,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Профайлер спертый</translation>
     </message>
 </context>
 <context>
@@ -949,12 +949,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Найдені вшыткі моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерьхайте си, будьте добрі, хыблячі моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
@@ -964,18 +964,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Зрушити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Йов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
@@ -985,7 +985,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблоковані моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
@@ -1000,22 +1000,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Додасти тийку стерьханя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Уберіт тийку, в котрый єсьте стерьхали моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Не найдено &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Геш: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
 </context>
 <context>
@@ -1023,12 +1023,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Вдіваєме плащ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Здоймаєме плащ</translation>
     </message>
 </context>
 <context>
@@ -1044,7 +1044,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Уберіт си офлайновоє имня</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
@@ -1054,27 +1054,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Хосновацькоє имня</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хосновацькоє имня є платноє, докедь має уд 3 до 16 знакув, хоснує анґліцькі буквы, цифры тай пудчерькованя. Неплатноє имня годно не давати заходити на серверы тай самобавкові світы.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволити неплатні хосновацькі имена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Зрушити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Йов</translation>
     </message>
 </context>
 <context>
@@ -1082,32 +1082,32 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Уберіт жерело модув</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити сесь мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити вшытко</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвердити вшыткі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвердити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробовати хосновати другі жерела, аж убратоє не робит</translation>
     </message>
 </context>
 <context>
@@ -1115,12 +1115,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation type="unfinished"></translation>
+        <translation>Ладуєме компоненты</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Сперто</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
@@ -1130,7 +1130,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation type="unfinished"></translation>
+        <translation>Терьхаєме метаподаткы про %1 компонентув</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
@@ -1140,7 +1140,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Інстанція має конфліктувучі завислості.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
@@ -1169,7 +1169,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
         <source>Task failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся выконати задачу</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="139"/>
@@ -1190,7 +1190,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Почекайте, будьте добрі...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -1359,12 +1359,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>Всокотити час бавліня</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіровати скріншоты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1384,22 +1384,22 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>На Windows вытворіня символічных удкликовань годно жадати адміністраторські права.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помуч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Зрушити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Йов</translation>
     </message>
 </context>
 <context>
