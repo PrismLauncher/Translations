@@ -783,17 +783,17 @@ Agar bu yerda yangi boʻlsangiz, Microsoft Akkauntingizni bogʻlash uchun &quot;
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="702"/>
+        <location filename="src/launcher/Application.cpp" line="699"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Bu jurnalni koʻrsatib boʻlmaydi, chunki jurnal uzunligi %1 satrdan oshib ketgan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="926"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Settings</source>
         <translation>Sozlamalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1095"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -820,12 +820,12 @@ Soʻnggi yangilash urinishining tafsilotlari uchun Prism Launcher yangilovchinin
 Ushbu qulf-faylni yoʻq qilish va davom etish uchun quyidagi &quot;Eʼtibor bermaslik&quot; tugmasini bosing.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
         <translation>Yangilanish Davom Etmoqda</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1140"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -839,12 +839,12 @@ Oxirgi yangilash urinishi haqida batafsil maʼlumot uchun Prism Launcher yangila
 %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1151"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update Failed</source>
         <translation>Yangilanish muvaffaqiyatsiz</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -864,12 +864,12 @@ Tafsilotlar uchun Prism Launcher yangilash jurnalini quyidagi manzilda tekshirin
 %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Update Succeeded</source>
         <translation>Yangilanish muvaffaqiyatli</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1223"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -890,7 +890,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1229"/>
+        <location filename="src/launcher/Application.cpp" line="1226"/>
         <source>Incompatible system configuration</source>
         <translation>Mos kelmaydigan tizim konfiguratsiyasi</translation>
     </message>
@@ -899,22 +899,22 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation type="vanished">To&apos;xtatildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="2002"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 dan eski maʼlumotlar topildi, lekin sizda allaqachon %2 maʼlumotlari mavjud. Afsuski, oʻzingizni koʻchirishingiz kerak boʻladi. Keyingi safar %2 ishga tushirilganda kutilayotgan maʼlumotlar koʻchishi haqida eslatilishini xohlaysizmi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2001"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Siz avval %1 dan foydalanganga oʻxshaysiz. Maʼlumotlaringizni yangi %2 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Siz ilgari %2 da %1 dan foydalanganga oʻxshaysiz. Maʼlumotlaringizni yangi %3 manziliga koʻchirmoqchimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2053"/>
+        <location filename="src/launcher/Application.cpp" line="2058"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratsiya amalga oshmadi! Sababi: %1</translation>
     </message>

@@ -633,17 +633,17 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="702"/>
+        <location filename="src/launcher/Application.cpp" line="699"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>ບໍ່ສາມາດສະແດງບັນທຶກ (log) ນີ້ໄດ້ ເນື່ອງຈາກຄວາມຍາວເກີນ %1 ແຖວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="926"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Settings</source>
         <translation>ການຕັ້ງຄ່າ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1095"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -670,12 +670,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 ເພື່ອລຶບການລັອກນີ້ ແລະ ດຳເນີນການຕໍ່ ໃຫ້ເລືອກ &quot;ຂ້າມ&quot; ຢູ່ລຸ່ມນີ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
         <translation>ກຳລັງດຳເນີນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1140"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -690,12 +690,12 @@ for details on the last update attempt.</source>
 ສຳລັບລາຍລະອຽດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1151"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update Failed</source>
         <translation>ການອັບເດດຫຼົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -716,12 +716,12 @@ for details.</oldsource>
 ສຳລັບລາຍລະອຽດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Update Succeeded</source>
         <translation>ອັບເດດສຳເລັດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1223"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -734,27 +734,27 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1229"/>
+        <location filename="src/launcher/Application.cpp" line="1226"/>
         <source>Incompatible system configuration</source>
         <translation>ການກຳນົດຄ່າລະບົບບໍ່ເຂົ້າກັນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="2002"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>ພົບຂໍ້ມູນເກົ່າຈາກ %1, ແຕ່ເຈົ້າມີຂໍ້ມູນຂອງ %2 ຢູ່ແລ້ວ. ເຈົ້າຈຳເປັນຕ້ອງຍ້າຍຂໍ້ມູນດ້ວຍຕົນເອງ. ເຈົ້າຕ້ອງການໃຫ້ແຈ້ງເຕືອນການຍ້າຍຂໍ້ມູນອີກຄັ້ງໃນຄັ້ງຕໍ່ໄປທີ່ເປີດ %2 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2001"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ເບິ່ງຄືວ່າເຈົ້າເຄີຍໃຊ້ %1 ມາກ່ອນ. ເຈົ້າຕ້ອງການຍ້າຍຂໍ້ມູນໄປຍັງຕຳແໜ່ງໃໝ່ຂອງ %2 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ເບິ່ງຄືວ່າເຈົ້າເຄີຍໃຊ້ %1 ໃນ %2 ມາກ່ອນ. ເຈົ້າຕ້ອງການຍ້າຍຂໍ້ມູນໄປຍັງຕຳແໜ່ງໃໝ່ຂອງ %3 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2053"/>
+        <location filename="src/launcher/Application.cpp" line="2058"/>
         <source>Migration failed! Reason: %1</source>
         <translation>ການຍ້າຍຂໍ້ມູນຫຼົ້ມເຫຼວ! ສາເຫດ: %1</translation>
     </message>

@@ -921,17 +921,17 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="702"/>
+        <location filename="src/launcher/Application.cpp" line="699"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation>Δεν μπορεί να γίνει η απεικόνηση της καταγραφής διότι το μήκος ξεπέρασε τις %1 γραμμές.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="926"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Settings</source>
         <translation>Ρυθμίσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1098"/>
+        <location filename="src/launcher/Application.cpp" line="1095"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -958,12 +958,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Για να διαγράψετε αυτό το κλείδωμα και για να συνεχίσετε επιλέξτε &quot;Αγνόηση&quot; παρακάτω.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1115"/>
+        <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
         <translation>Ενημέρωση σε Εξέλιξη</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1143"/>
+        <location filename="src/launcher/Application.cpp" line="1140"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -978,12 +978,12 @@ for details on the last update attempt.</source>
 για λεπτομέρειες της τελευταίας προσπάθειας ενημέρωσης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1151"/>
+        <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update Failed</source>
         <translation>Αναβάθμιση Απέτυχε</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1179"/>
+        <location filename="src/launcher/Application.cpp" line="1176"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1004,12 +1004,12 @@ for details.</oldsource>
 για λεπτομέρειες.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1187"/>
+        <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Update Succeeded</source>
         <translation>Επιτυχής Ενημέρωση</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1223"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1030,7 +1030,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1229"/>
+        <location filename="src/launcher/Application.cpp" line="1226"/>
         <source>Incompatible system configuration</source>
         <translation>Μη συμβατή διαμόρφωση συστήματος</translation>
     </message>
@@ -1039,22 +1039,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1997"/>
+        <location filename="src/launcher/Application.cpp" line="2002"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Βρέθηκαν παλιά δεδομένα από το %1, αλλά έχετε ήδη υπάρχοντα δεδομένα για το %2. Δυστυχώς, θα χρειαστεί να μεταφέρετε τα δεδομένα μόνοι σας. Θέλετε να σας υπενθυμίσουμε για την εκκρεμή μεταφορά δεδομένων την επόμενη φορά που θα ξεκινήσετε το %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2001"/>
+        <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2007"/>
+        <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 στις %2 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %3;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2053"/>
+        <location filename="src/launcher/Application.cpp" line="2058"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Αποτυχία μεταφοράς! Αιτία: %1</translation>
     </message>
