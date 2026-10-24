@@ -9442,7 +9442,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">인스턴스가 선택되지 않음</translation>
+        <translation>선택한 인스턴스 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
