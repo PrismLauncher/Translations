@@ -7890,7 +7890,7 @@ Cúis:
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Níl aon chás roghnaithe</translation>
+        <translation>Níl aon chás roghnaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="949"/>
