@@ -8845,7 +8845,7 @@ Oletko varma?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Ei instanssia valittu</translation>
+        <translation>Ei instanssia valittu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="949"/>
