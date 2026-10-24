@@ -8046,7 +8046,7 @@ Sebab:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="719"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Accounts</source>
         <translation>Akaun</translation>
     </message>
@@ -8126,7 +8126,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
         <source>No instance selected</source>
         <translation>Tiada pemasangan dipilih</translation>
     </message>
@@ -8136,13 +8136,13 @@ Sebab:
         <translation>Jumlah masa bermain: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="557"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Cipta pemasangan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>Pa&amp;dam kumpulan</translation>
@@ -8173,7 +8173,7 @@ Sebab:
         <translation>Tiada akaun yang ditambah!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -8188,21 +8188,21 @@ Sebab:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="851"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="948"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="989"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1013"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1068"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1111"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="848"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="945"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1000"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1065"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1108"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Error</source>
         <translation>Ralat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="855"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="852"/>
         <source>Warnings</source>
         <translation>Amaran</translation>
     </message>
@@ -8229,32 +8229,32 @@ Sila tambah akaun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
         <source>No Instance Selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1014"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1011"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Pek mod, mod atau sumber %1 disekat untuk pihak ketiga! Sila muat turun secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1068"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1065"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1080"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1083"/>
         <source>Install modpack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8263,64 +8263,64 @@ URL:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1105"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <source>Modpack download</source>
         <translation>Muat turun pek mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1145"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1142"/>
         <source>No instance!</source>
         <translation>Tiada pemasangan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1143"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Tiada pemasangan yang tersedia untuk menambah sumber.
 Sila buat pemasangan baharu sebelum cuba memasang sumber ini sekali lagi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <source>Group name</source>
         <translation>Nama kumpulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1280"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Enter a new group name.</source>
         <translation>Masukkan nama kumpulan baharu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1270"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
         <source>Delete group</source>
         <translation>Padam kumpulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1300"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Failed to undo trashing instance</source>
         <translation>Gagal membatalkan penghapusan pemasangan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Sesetengah pemasangan dan pintasan tidak dapat dipulihkan.
 Sila semak tong sampah anda untuk memulihkannya secara manual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1395"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Instance not editable</source>
         <translation>Pemasangan tidak boleh disunting</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1399"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1396"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Pemasangan ini tidak boleh disunting. Ia mungkin rosak, tidak sah atau terlalu tua. Semak log untuk butiran.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1430"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8329,44 +8329,44 @@ Untuk mengosongkan cache metadata secara manual, tekan Folder -&gt; Lihat Folder
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1452"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Berjaya menambah %1 pada PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1453"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1450"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 berjaya ditambah ke PATH kamu. Kamu sekarang boleh memulakannya dengan menjalankan `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1453"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Gagal menambah %1 pada PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1457"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Sebuah ralat telah berlaku semasa menambahkan %1 ke PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Tidak Boleh Memadamkan Pemasangan yang Sedang Berjalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1501"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Pemasangan yang dipilih sedang berjalan dan tidak boleh dipadamkan. Sila hentikan pemasangan tersebut sebelum cuba memadamkannya.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> dan pintasan berdaftar %n nya</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
         <source>Confirm Deletion</source>
         <translation>Pastikan Pemadaman</translation>
     </message>
@@ -8435,44 +8435,44 @@ Adakah anda ingin meneruskan?</numerusform>
         <translation type="vanished">Gagal mencipta pintasan pemasangan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>&amp;Rename group</source>
         <translation>Namakan &amp;semula kumpulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="949"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="946"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1270"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Adakah anda pasti mahu memadamkan kumpulan &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1280"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Rename group</source>
         <translation>Namakan semula kumpulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Cannot rename group</source>
         <translation>Tidak boleh menamakan semula kumpulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Cannot set empty name.</source>
         <translation>Tidak boleh menetapkan nama kosong.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Group already exists. :/</source>
         <translation>Kumpulan sudah wujud. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1514"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8483,7 +8483,7 @@ Ini mungkin kekal dan akan memadamkan pemasangan ini sepenuhnya.
 Adakah anda pasti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1524"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
         <source>Deleting</source>
         <translation>Sedang memadamkan</translation>
     </message>
@@ -8496,32 +8496,32 @@ Adakah anda pasti?</translation>
         <translation>Namakan Semula Pemasangan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Folder pemasangan anda mengandungi &apos;!&apos; dan ini diketahui menyebabkan masalah Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Anda kini mempunyai dua pilihan: &lt;br/&gt; - tukar folder pemasangan dalam tetapan &lt;br/&gt; - alihkan pemasangan %1 ini ke folder lain</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Ini adalah masalah: &lt;br/&gt; - Pelancar berkemungkinan akan dipadamkan tanpa amaran oleh sistem pengendalian &lt;br/&gt; - tutup pelancar sekarang dan ekstraknya ke lokasi sebenar, bukan folder sementara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Folder pemasangan anda mengandungi &apos;Rar$&apos; - ini bermakna anda belum mengekstrak arkib pelancar!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1755"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Folder pemasangan anda adalah dalam folder sementara: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1771"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
         <source>Total playtime: %1</source>
         <translation>Jumlah masa bermain: %1</translation>
     </message>
@@ -8540,12 +8540,12 @@ Adakah anda pasti?</translation>
         <translation>Buka blog pembangunan untuk membaca lebih banyak berita mengenai %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="801"/>
         <source>Loading news...</source>
         <translation>Memuatkan berita...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="814"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="811"/>
         <source>No news available.</source>
         <translation>Tiada berita tersedia.</translation>
     </message>
@@ -11124,13 +11124,13 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="492"/>
         <source>Reload the contents of the log from the disk</source>
         <translation>Muat semula kandungan log daripada cakera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="485"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="491"/>
         <source>&amp;Reload</source>
         <translation>Muat S&amp;emula</translation>
     </message>
@@ -11140,7 +11140,7 @@ Sila kemas kini %1!</translation>
         <translation type="unfinished">Cari</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="498"/>
         <source>Clear the log</source>
         <translation>Bersihkan log</translation>
     </message>
@@ -11165,29 +11165,29 @@ Sila kemas kini %1!</translation>
         <translation type="vanished">Cari:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="260"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="451"/>
         <source>Error</source>
         <translation>Ralat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Tidak dapat membuka %1 untuk bacaan: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="271"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Fail tersebut (%1) terlalu besar. Anda mungkin mahu membukanya dalam pemapar yang dioptimumkan untuk fail besar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="395"/>
         <source>Confirm Deletion</source>
         <translation>Pastikan Pemadaman</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and it will be gone from the logs folder.
 
@@ -11198,35 +11198,35 @@ Ini mungkin kekal dan ia akan hilang daripada folder logs.
 Adakah anda pasti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="421"/>
         <source>Confirm Cleanup</source>
         <translation>Pastikan Pembersihan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="423"/>
         <source>Are you sure you want to delete all log files?</source>
         <translation>Anda pasti mahu memadamkan semua fail log?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="426"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
         <translation>Adakah anda pasti mahu memadam semua fail ini?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="497"/>
         <source>Clear</source>
         <translation type="unfinished">Bersihkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Unable to delete %1: %2</source>
         <translation>Tidak dapat memadam %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="88"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
         <translation type="unfinished">Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
     </message>
@@ -11236,17 +11236,17 @@ Adakah anda pasti?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="338"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
         <translation>Fail (%1) mengalami ralat semasa membaca: %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="453"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Tidak dapat memadam beberapa fail!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="456"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Tidak dapat memadam beberapa fail:
