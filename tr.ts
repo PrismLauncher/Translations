@@ -4057,7 +4057,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketi profil klasörünün dışından bir dosya indirmeye çalışıyor. Bu bir güvenlik riskidir ve buna izin verilmez.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -8126,7 +8126,7 @@ Sebep:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı dosyası açılamadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
@@ -8182,7 +8182,7 @@ Sebep:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya ayıklanamadı %1 to %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -9482,7 +9482,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil seçilmedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
@@ -9892,7 +9892,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketini yeni bir versiyona güncellemek üzeresiniz.
+Profil dosyalarına geri alınamaz değişiklikler yapılabilir.
+Bu nedenle, profilin yedek bir kopyasının oluşturulması şiddetle tavsiye edilir.
+
+Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
@@ -9906,7 +9910,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketini %1 versiyonuna güncellemek üzeresiniz.
+Profil dosyalarına geri alınamaz değişiklikler yapılabilir.
+Bu nedenle, profilin yedek bir kopyasının oluşturulması şiddetle tavsiye edilir.
+
+Emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -11715,7 +11723,7 @@ Devre dışı bırakmak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Minecraft jar dosyası oluşturulamadı: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
