@@ -9523,7 +9523,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">未选择实例</translation>
+        <translation>未选择实例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
