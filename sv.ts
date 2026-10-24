@@ -9356,7 +9356,7 @@ Vill du fortsätta?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Ingen instans markerad</translation>
+        <translation>Ingen instans vald</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
