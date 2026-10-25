@@ -9578,7 +9578,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Экземпляр не выбран</translation>
+        <translation>Экземпляр не выбран</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
