@@ -9496,7 +9496,7 @@ Emin misiniz?</translation>
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation>Desteksiz Modrinth linki.
 
-Prism Launcher şu anda sadece modrinth://modpack/fabulously-optimized gibi mod paketlerini destekler.</translation>
+Prism Launcher şu anda sadece modrinth://modpack/fabulously-optimized gibi mod paket bağlantılarını destekler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1065"/>
