@@ -9023,7 +9023,7 @@ Xin bạn hãy đăng nhập vào một tài khoản Microsoft.</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chưa chọn bản cài đặt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1011"/>
