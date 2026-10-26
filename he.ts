@@ -8318,7 +8318,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>לא נבחר עותק</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="946"/>
