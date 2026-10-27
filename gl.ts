@@ -8730,7 +8730,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cargando ficheiro local</translation>
     </message>
 </context>
 <context>
