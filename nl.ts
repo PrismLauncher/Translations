@@ -2310,7 +2310,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
@@ -3497,12 +3497,12 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>Foute commando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Het geselecteerde bestand kan je niet uitvoeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3620,7 +3620,7 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon jar bestand van %1 niet uitpakken naar %2: %3</translation>
     </message>
 </context>
 <context>
@@ -4003,7 +4003,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>De modpack wil bestanden downloaden buiten de instance folder (1%). Dit is een beveiligings risico en is niet toegestaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
@@ -5560,7 +5560,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon zip bestand %1 niet openen</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -6349,26 +6349,30 @@ Je kan de Java-versie later in de instellingen wijzigen.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkende %1 commando: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 commando is leeg, overslaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 commando gefaald met code %2
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 commando successvol uitgevoerd
+
+</translation>
     </message>
 </context>
 <context>
@@ -7197,7 +7201,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Remove</source>
-        <translation>Verwijderen</translation>
+        <translation>Verwijder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
