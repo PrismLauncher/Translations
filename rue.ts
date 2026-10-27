@@ -4734,7 +4734,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source> hours</source>
-        <translation type="unfinished"></translation>
+        <translation> годин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
@@ -4744,52 +4744,52 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Автоматичноє стерьханя Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тийка, в котруй Prism Launcher держит автоматично стерьхані верзії Java. НЕ ХОСНУЙТЕ сесе поле про ваші системні інсталації Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Подля цілкового на&amp;бавленого часу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скіны:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Тийкы на додаточні інстанції</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="363"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Додасти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Забрати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="418"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Моды и модпакы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="427"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Провіряти &amp;пудтийкы на заблоковані моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Докедь ися функція уключена, заблоковані ресурсы ся будут переміщовати, а не копіровати.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
@@ -4799,12 +4799,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выявляти тай указовати несовмістимі моды (експериментално)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Вытворіня інстанції</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
@@ -4814,37 +4814,37 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="506"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерьхати файлы бавкы бігом вытворіня інстанції</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="531"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ліміт історії протоколув:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Задачі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="639"/>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліміт на повторні провбы:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="646"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліміт на єдночасні стерьханя:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Таймавт HTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="682"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліміт на паралелні задачі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
@@ -4855,12 +4855,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="653"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Кулько секунд чекати сперед ліквідаційов пожаданя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="632"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>с</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
@@ -4876,7 +4876,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation type="unfinished"></translation>
+        <translation>Переміщовати заблоковані моды, а не копіровати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
@@ -4891,12 +4891,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично выявляти, інсталовати тай обновляти завислості модув.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
         <source>Install dependencies automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматична інсталація завислостий</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
@@ -4911,23 +4911,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Конзола</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="566"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;пирати писаня протоколув, кой они переповнені</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="547"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> шорикув</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="128"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Тийка інстанції</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="99"/>
@@ -5195,7 +5195,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Хыба</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
@@ -5245,7 +5245,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Терьхаєме файлы мусайных бібліотек...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5285,7 +5285,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Неплатні метаподаткы</translation>
     </message>
 </context>
 <context>
@@ -5293,12 +5293,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновляти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Переносити шорикы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
@@ -5308,58 +5308,58 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіровати цілый протокол у фійовку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Копіровати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Затерьхати протокол на убратый у штімованях pastebin-сервіс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Затерьхати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити протокол</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Глядати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Скочити на конець протокола</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>В конець</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Протокол Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5368,7 +5368,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Процес ся завершив из кодом %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
@@ -5385,12 +5385,12 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Процес перерватый хосновачом.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Процес ся не дало запустити: %1</translation>
     </message>
 </context>
 <context>
@@ -5398,22 +5398,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Додасти акаунт Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Обы бавити Minecraft, мусай зайти в акаунт Microsoft. Хочете вчинити тото теперь?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Додасти акаунт Microsoft</translation>
     </message>
 </context>
 <context>
@@ -5421,22 +5421,22 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Тийка не екзістує</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся вытворити файл</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add:</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся додасти:</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="67"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся прочитати тай стиснути %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="72"/>
@@ -5469,7 +5469,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="99"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не дало ся вытягнути файл %1 у %2</translation>
     </message>
 </context>
 <context>
@@ -5477,13 +5477,13 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Заходиме з акаунтом Microsoft (код направы).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Хыба авторизації направы: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
@@ -5502,7 +5502,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Дустатый токен MSA</translation>
     </message>
 </context>
 <context>
@@ -5668,17 +5668,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Указати інформацію за %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помуч</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дустати помуч из %1 авадь Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -5759,17 +5759,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Коріньова тийка лончера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Централні моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скіны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5779,7 +5779,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Значкы інстанцій</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
@@ -5789,17 +5789,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Протоколы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Указати тийку протоколув у файловому менеджері.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Учистити кеш метаподаткув</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
@@ -5810,7 +5810,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Указати протоколы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
@@ -5821,12 +5821,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вікі %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Темы віджетув</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
@@ -5836,7 +5836,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема &amp;значкув</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
@@ -5846,7 +5846,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Комплеты мачок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
@@ -5856,7 +5856,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
@@ -5867,32 +5867,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Простур &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;За %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обновліня...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Няв</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
@@ -5902,7 +5902,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
