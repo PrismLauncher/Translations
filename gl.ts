@@ -843,7 +843,7 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -1438,7 +1438,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando ficheiro local</translation>
     </message>
 </context>
 <context>
@@ -1922,12 +1922,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando o mundo...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="unfinished"></translation>
+        <translation>O copiado do mundo fallou.</translation>
     </message>
 </context>
 <context>
@@ -2099,7 +2099,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comando previo á carga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2114,7 +2114,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O comando previo á carga execútase antes de que se carguen os metadatos da instancia, o comando previo ó arranque execútase antes de que se inicie a instancia e o comando posterior á saída execútase tras o peche da mesma.&lt;/p&gt;&lt;p&gt;Todos os comandos executaránse dende a carpeta de traballo do iniciador (launcher) coas variábeis de contorno adicionais:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nome da instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID da instancia (o nome da sua carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta da instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ruta absoluta do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binario de Java empregado para o arranque&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - os parámetros da liña de comandos empregados para o arranque (aviso: non funcionará correctamente se os argumentos conteñen espazos)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;O comando empaquetador (wrapper) permite arrincar empregando un programa empaquetador adicional (coma &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
