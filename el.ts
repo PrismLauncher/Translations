@@ -926,12 +926,12 @@ Please update both your operating system and %1.</source>
         <translation>Δεν μπορεί να γίνει η απεικόνηση της καταγραφής διότι το μήκος ξεπέρασε τις %1 γραμμές.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="919"/>
+        <location filename="src/launcher/Application.cpp" line="920"/>
         <source>Settings</source>
         <translation>Ρυθμίσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -958,12 +958,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Για να διαγράψετε αυτό το κλείδωμα και για να συνεχίσετε επιλέξτε &quot;Αγνόηση&quot; παρακάτω.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>Update In Progress</source>
         <translation>Ενημέρωση σε Εξέλιξη</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1137"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -978,12 +978,12 @@ for details on the last update attempt.</source>
 για λεπτομέρειες της τελευταίας προσπάθειας ενημέρωσης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Update Failed</source>
         <translation>Αναβάθμιση Απέτυχε</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1172"/>
+        <location filename="src/launcher/Application.cpp" line="1173"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1004,12 +1004,12 @@ for details.</oldsource>
 για λεπτομέρειες.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Update Succeeded</source>
         <translation>Επιτυχής Ενημέρωση</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1216"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1030,7 +1030,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1222"/>
+        <location filename="src/launcher/Application.cpp" line="1223"/>
         <source>Incompatible system configuration</source>
         <translation>Μη συμβατή διαμόρφωση συστήματος</translation>
     </message>
@@ -1039,22 +1039,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Ακυρώθηκε</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1998"/>
+        <location filename="src/launcher/Application.cpp" line="1999"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Βρέθηκαν παλιά δεδομένα από το %1, αλλά έχετε ήδη υπάρχοντα δεδομένα για το %2. Δυστυχώς, θα χρειαστεί να μεταφέρετε τα δεδομένα μόνοι σας. Θέλετε να σας υπενθυμίσουμε για την εκκρεμή μεταφορά δεδομένων την επόμενη φορά που θα ξεκινήσετε το %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2002"/>
+        <location filename="src/launcher/Application.cpp" line="2003"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2009"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 στις %2 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %3;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2054"/>
+        <location filename="src/launcher/Application.cpp" line="2055"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Αποτυχία μεταφοράς! Αιτία: %1</translation>
     </message>
@@ -1319,52 +1319,57 @@ Some versions of Minecraft may not launch.
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <source>The Java %1 path pinned in the settings does not exist: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Ο αυτόματος μηχανισμός Java εντόπισε μια εγκατάσταση Java 32-bit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>Δεν βρέθηκε συμβατή έκδοση Java. Γίνεται χρήση της προεπιλεγμένης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="112"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>Το σύστημα σας (%1-%2) δεν είναι συμβατό με την αυτόματη εγκατάσταση Java. Γίνεται χρήση της προεπιλεγμένης διαδρομής Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="120"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>Τα μεταδεδομένα σου είναι ξεπερασμένα ή δεν έχουν τις απαραίτητες πληροφορίες για να καθοριστεί ποια εγκατάσταση Java πρέπει να χρησιμοποιηθεί. Χρήση προκαθορισμένης διαδρομής Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Συμβατό Java βρέθηκε στο: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="171"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Δεν βρέθηκε συμβατή έκδοση Java (το εκτελέσιμο αρχείο δεν υπάρχει). Γίνεται χρήση της προεπιλεγμένης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="194"/>
         <source>Could not determine Java download type!</source>
         <translation>Αδυναμία διαπίστωσης τύπου εγκατάστασης Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="198"/>
         <source>Install Java</source>
         <translation>Εγκατάσταση του Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="232"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>Καμία έκδοση του Java δεν βρέθηκε για το λειτουργικό σύστημά σας: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="234"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Δεν βρέθηκε συμβατή έκδοση του Java. Γίνεται χρήση της προεπιλεγμένης.</translation>
     </message>
@@ -5228,7 +5233,7 @@ What would you like to do with %2?</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
         <translation>Εύρεση εγκαταστάσεων Java...</translation>
     </message>
@@ -5367,7 +5372,7 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="236"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
         <translation>Εύρεση εκτελέσιμου Java</translation>
     </message>
@@ -5376,7 +5381,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">Μνήμη</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="269"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Το μέγιστο μέγεθος μνήμης που επιτρέπεται να χρησιμοποιήσει το Minecraft.</translation>
     </message>
@@ -5463,22 +5468,33 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
+        <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
+        <source>Pinned Java Installations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memor&amp;y</source>
         <translation>Μνήμη&amp;y</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="370"/>
         <source>Memory Notice</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
         <source>(-XX:PermSize)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="303"/>
         <source>(-Xmx)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5487,61 +5503,114 @@ You can change the Java version in the settings later.
         <translation type="vanished">Μέγιστη παραχώρηση μνήμης:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="220"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Το μέγεθος μνήμης με το οποίο ξεκινάει το Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="300"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
         <source>(-Xms)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="202"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
         <source>Warn when there is not enough free memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
         <source>Java Argumen&amp;ts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="318"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Η ποσότητα μνήμης που είναι διαθέσιμη για την αποθήκευση φορτωμένων αντικειμένων Java.</translation>
     </message>
     <message>
-        <source>Browse</source>
-        <translation type="vanished">Αναζήτηση</translation>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
+        <source>Java %1:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
+        <source>Browse</source>
+        <translation>Αναζήτηση</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
+        <source>Pick the Java %1 executable from the file system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
+        <source>Detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
+        <source>Pick a detected Java %1 installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
+        <source>Java %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
+        <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
+        <source>Find Java %1 executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
+        <source>Select a Java %1 installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
+        <source>No Java %1 installations were detected on this system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>Επιλέξτε έκδοση «Java»</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="287"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
         <source>Confirm Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="288"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5550,17 +5619,17 @@ Please make sure that the maximum memory value is lower.</source>
 Βεβαιωθείτε ότι η μέγιστη τιμή μνήμης είναι χαμηλότερη.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Η μέγιστη κατανομή μνήμηής σας ξεπερνά την χωρητικότητα μνήμης του συστήματός σας.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="309"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Η μέγιστη κατανομή μνήμής σας είναι κοντά στην χωρητικότητα μνήμης του συστήματός σας.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Η μέγιστη κατανομή μνήμης που έχετε ορίσει είναι μικρότερη από την ελάχιστη κατανομή μνήμης.</translation>
     </message>

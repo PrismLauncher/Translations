@@ -749,12 +749,12 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
         <translation>Ní féidir a thaispeáint an loga seo toisc gur sháraigh fad an loga %1 líne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="919"/>
+        <location filename="src/launcher/Application.cpp" line="920"/>
         <source>Settings</source>
         <translation>Socruithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -781,12 +781,12 @@ le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
 Chun an glasáil seo a scriosadh agus leanúint ar aghaidh, roghnaigh &quot;Neamhaird a dhéanamh&quot; thíos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>Update In Progress</source>
         <translation>Nuashonrú Ar Siúl</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1137"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -801,12 +801,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Update Failed</source>
         <translation>Theip Ar Nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1172"/>
+        <location filename="src/launcher/Application.cpp" line="1173"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -827,12 +827,12 @@ Seiceáil log nuashonraithe Prism Launcher ag:
 le haghaidh sonraí.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Update Succeeded</source>
         <translation>Nuashonrú Rathúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1216"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -845,7 +845,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1222"/>
+        <location filename="src/launcher/Application.cpp" line="1223"/>
         <source>Incompatible system configuration</source>
         <translation>Cumraíocht córais neamh-chomhoiriúnach</translation>
     </message>
@@ -854,22 +854,22 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <translation type="vanished">Tobscortha</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1998"/>
+        <location filename="src/launcher/Application.cpp" line="1999"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Fuarthas seanshonraí ó %1, ach tá sonraí agat cheana féin do %2. Ar an drochuair, beidh ort aistriú tú féin. Ar mhaith leat meabhrúchán a fháil faoin aistriú sonraí atá ar feitheamh an chéad uair eile a thosóidh tú %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2002"/>
+        <location filename="src/launcher/Application.cpp" line="2003"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Is cosúil gur úsáid tú %1 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2009"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Is cosúil gur úsáid tú %1 ar %2 roimhe seo. Ar mhaith leat do chuid sonraí a aistriú go dtí an suíomh nua %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2054"/>
+        <location filename="src/launcher/Application.cpp" line="2055"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Theip ar an imirce! Cúis: %1</translation>
     </message>
@@ -1114,52 +1114,57 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <source>The Java %1 path pinned in the settings does not exist: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Bhraith an mheicníocht uathoibríoch Java suiteáil 32-giotán de Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>Níor aimsíodh aon leagan Java comhoiriúnach. Ag baint úsáide as an leagan réamhshocraithe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="112"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>Níl do chóras (%1-%2) comhoiriúnach le suiteáil uathoibríoch Java. Ag baint úsáide as an gcosán réamhshocraithe Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="120"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>Tá do mheiteafhaisnéis as dáta nó níl an fhaisnéis riachtanach inti chun a chinneadh cén suiteáil Java ba chóir a úsáid. Ag baint úsáide as an gcosán réamhshocraithe Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Java comhoiriúnach aimsithe ag: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="171"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Níor aimsíodh aon leagan comhoiriúnach de Java (níl an comhad dénártha ann). Ag baint úsáide as an gceann réamhshocraithe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="194"/>
         <source>Could not determine Java download type!</source>
         <translation>Ní feidir cineál íoslódála Java a dhearbhú!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="198"/>
         <source>Install Java</source>
         <translation>Suiteáil Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="232"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>Níor aimsíodh aon leaganacha de Java do do chóras oibriúcháin: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="234"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Níor aimsíodh aon leagan comhoiriúnach de Java. Ag baint úsáide as an gceann réamhshocraithe.</translation>
     </message>
@@ -4979,7 +4984,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
         <translation>Ag braith suiteálacha Java...</translation>
     </message>
@@ -5208,7 +5213,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="236"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
         <translation>Aimsigh inrite Java</translation>
     </message>
@@ -5217,7 +5222,7 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Cuimhne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="269"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>An méid uasta cuimhne atá ceadaithe do Minecraft a úsáid.</translation>
     </message>
@@ -5296,7 +5301,18 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation>Inrit&amp;e Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
+        <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
+        <source>Pinned Java Installations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memor&amp;y</source>
         <translation>Cuimhne</translation>
     </message>
@@ -5305,17 +5321,17 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Rabhadh nuair nach bhfuil dóthain cuimhne ar fáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="370"/>
         <source>Memory Notice</source>
         <translation>Fógra Cuimhne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:Méid Buan)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="303"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -5324,48 +5340,49 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Leithdháileadh uasta cuimhne:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="220"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>An méid cuimhne a úsáidtear le haghaidh Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="300"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
         <translation>Méid &amp;PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>Úsáid Uasta Cuimhne:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="202"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>Úsá&amp;id Íosta Cuimhne:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
         <source>Warn when there is not enough free memory</source>
         <translation>Rabhadh nuair nach bhfuil dóthain cuimhne saor in aisce</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
         <source>Java Argumen&amp;ts</source>
         <translation>Argóin&amp;tí Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="318"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>An méid cuimhne atá ar fáil chun ranganna Java luchtaithe a stóráil.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
         <source>Browse</source>
-        <translation type="vanished">Brabhsáil</translation>
+        <translation>Brabhsáil</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5380,17 +5397,69 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <translation type="vanished">Uathaimsigh Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
+        <source>Java %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
+        <source>Pick the Java %1 executable from the file system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
+        <source>Detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
+        <source>Pick a detected Java %1 installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
+        <source>Java %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
+        <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
+        <source>Find Java %1 executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
+        <source>Select a Java %1 installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
+        <source>No Java %1 installations were detected on this system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>Roghnaigh leagan Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="287"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
         <source>Confirm Selection</source>
         <translation>Deimhnigh Roghnú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="288"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -5399,17 +5468,17 @@ Ní thacaíonn an suiteáil seo le níos mó ná 2048MiB RAM.
 Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Saraíonn do leithdháileadh uasta cuimhne cumas cuimhne do chórais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="309"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Tá do leithdháileadh uasta cuimhne i gcóngar chumais cuimhne do chórais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Tá do leithdháileadh uasta cuimhne níos lú ná an leithdháileadh íosta cuimhne.</translation>
     </message>

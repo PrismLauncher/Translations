@@ -941,12 +941,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Kan de log niet tonen omdat de lengte %1 lijnen heeft overschreden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="919"/>
+        <location filename="src/launcher/Application.cpp" line="920"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -973,12 +973,12 @@ voor details over de laatste bijwerk poging.
 Om deze lock te verwijderen en door te gaan, druk hieronder op &quot;Negeer&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>Update In Progress</source>
         <translation>Bezig bij te werken</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1137"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -993,12 +993,12 @@ Controleer de Prism Launcher bijwerklog op
 voor details over de laatste bijwerkpoging.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Update Failed</source>
         <translation>Bijwerken mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1172"/>
+        <location filename="src/launcher/Application.cpp" line="1173"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1019,12 +1019,12 @@ Controleer het Prism Launcher bijwerkprogramma logbestand op:
 voor details.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Update Succeeded</source>
         <translation>Bijwerken gelukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1216"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1045,7 +1045,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1222"/>
+        <location filename="src/launcher/Application.cpp" line="1223"/>
         <source>Incompatible system configuration</source>
         <translation>Niet ondersteunde systeemconfiguratie</translation>
     </message>
@@ -1054,22 +1054,22 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <translation type="vanished">Geannuleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1998"/>
+        <location filename="src/launcher/Application.cpp" line="1999"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Er zijn oude gegevens van %1 gevonden, maar u hebt al bestaande gegevens voor %2. Helaas moet u zelf migreren. Wilt u de volgende keer dat u %2 start, herinnerd worden aan de openstaande gegevensmigratie?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2002"/>
+        <location filename="src/launcher/Application.cpp" line="2003"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Het lijkt erop dat u al eerder %1 gebruikte. Wilt u uw gegevens migreren naar de nieuwe locatie van %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2009"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Het lijkt erop dat u %1 al eerder gebruikte op %2. Wilt u uw gegevens migreren naar de nieuwe locatie van %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2054"/>
+        <location filename="src/launcher/Application.cpp" line="2055"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratie mislukt! Reden: %1</translation>
     </message>
@@ -1338,52 +1338,57 @@ Sommige versies van Minecraft starten mogelijk niet op.
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <source>The Java %1 path pinned in the settings does not exist: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Het automatische Java-mechanisme heeft een 32-bits installatie van Java gedetecteerd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>Er is geen compatibele Java-versie gevonden. De standaardversie wordt gebruikt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="112"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>Je systeem (%1-%2) is niet compatibel met de automatische installatie van Java. Het standaard Java-pad wordt gebruikt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="120"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>Je metainformatie is verouderd of bevat niet de benodigde informatie om te bepalen welke Java-installatie gebruikt moet worden. Het standaard Java-pad wordt gebruikt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Compatibele Java gevonden op: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="171"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Geen compatibele Java-versie gevonden (het binaire bestand bestaat niet). Gebruik de standaardversie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="194"/>
         <source>Could not determine Java download type!</source>
         <translation>Kan Java downloadtype niet bepalen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="198"/>
         <source>Install Java</source>
         <translation>Installeer Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="232"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>Er zijn geen Java-versies gevonden op jouw besturingssysteem: %1-%2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="234"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Er is geen compatibele versie van Java gevonden. Gebruik de standaardversie.</translation>
     </message>
@@ -5686,7 +5691,7 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
         <translation>Java-installaties detecteren...</translation>
     </message>
@@ -5935,7 +5940,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="236"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
         <translation>Zoek uitvoerbaar Java-bestand</translation>
     </message>
@@ -5944,7 +5949,7 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <translation type="vanished">Geheugen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="269"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>De maximale hoeveelheid geheugen dat Minecraft mag gebruiken.</translation>
     </message>
@@ -6031,7 +6036,18 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <translation>Java uitvoerbaar bestand</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
+        <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
+        <source>Pinned Java Installations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memor&amp;y</source>
         <translation>Geheuge&amp;n</translation>
     </message>
@@ -6040,17 +6056,17 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <translation type="vanished">Waarschuw bij onvoldoende beschikbaar werkgeheugen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="370"/>
         <source>Memory Notice</source>
         <translation>Geheugenwaarschuwing</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="303"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -6059,48 +6075,49 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <translation type="vanished">Maximale geheugentoewijzing:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="220"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>De hoeveelheid geheugen waar Minecraft mee wordt gestart.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="300"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
         <translation>&amp;PermGen Grootte:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>Ma&amp;ximum Geheugengebruik:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="202"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>M&amp;inimum Geheugengebruik:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
         <source>Warn when there is not enough free memory</source>
         <translation>Waarschuwen wanneer er onvoldoende vrij geheugen is</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
         <source>Java Argumen&amp;ts</source>
         <translation>Java-argumenten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="318"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>De hoeveelheid beschikbaar geheugen voor het opslaan van geladen Java-klassen.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
         <source>Browse</source>
-        <translation type="vanished">Bladeren</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -6115,17 +6132,69 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <translation type="vanished">Java automatisch dedecteren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
+        <source>Java %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
+        <source>Pick the Java %1 executable from the file system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
+        <source>Detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
+        <source>Pick a detected Java %1 installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
+        <source>Java %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
+        <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
+        <source>Find Java %1 executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
+        <source>Select a Java %1 installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
+        <source>No Java %1 installations were detected on this system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>Kies een Java-versie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="287"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
         <source>Confirm Selection</source>
         <translation>Bevestig Selectie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="288"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -6134,17 +6203,17 @@ Deze installatie ondersteunt niet meer dan 2048MiB aan RAM.
 Zorg er a.u.b. voor dat de maximale geheugen waarde lager is.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Uw maximale geheugentoewijzing is meer dan uw systeemsgeheugencapaciteit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="309"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Uw maximum toegewezen geheugen is dicht bij uw systeem zijn geheugencapaciteit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Uw maximum toegewezen geheugen is onder het minimum toegewezen geheugen.</translation>
     </message>

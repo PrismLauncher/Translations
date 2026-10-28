@@ -638,12 +638,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>ບໍ່ສາມາດສະແດງບັນທຶກ (log) ນີ້ໄດ້ ເນື່ອງຈາກຄວາມຍາວເກີນ %1 ແຖວ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="919"/>
+        <location filename="src/launcher/Application.cpp" line="920"/>
         <source>Settings</source>
         <translation>ການຕັ້ງຄ່າ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1091"/>
+        <location filename="src/launcher/Application.cpp" line="1092"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -670,12 +670,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 ເພື່ອລຶບການລັອກນີ້ ແລະ ດຳເນີນການຕໍ່ ໃຫ້ເລືອກ &quot;ຂ້າມ&quot; ຢູ່ລຸ່ມນີ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1108"/>
+        <location filename="src/launcher/Application.cpp" line="1109"/>
         <source>Update In Progress</source>
         <translation>ກຳລັງດຳເນີນການອັບເດດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1136"/>
+        <location filename="src/launcher/Application.cpp" line="1137"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -690,12 +690,12 @@ for details on the last update attempt.</source>
 ສຳລັບລາຍລະອຽດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1144"/>
+        <location filename="src/launcher/Application.cpp" line="1145"/>
         <source>Update Failed</source>
         <translation>ການອັບເດດຫຼົ້ມເຫຼວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1172"/>
+        <location filename="src/launcher/Application.cpp" line="1173"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -716,12 +716,12 @@ for details.</oldsource>
 ສຳລັບລາຍລະອຽດ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1180"/>
+        <location filename="src/launcher/Application.cpp" line="1181"/>
         <source>Update Succeeded</source>
         <translation>ອັບເດດສຳເລັດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1216"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -734,27 +734,27 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1222"/>
+        <location filename="src/launcher/Application.cpp" line="1223"/>
         <source>Incompatible system configuration</source>
         <translation>ການກຳນົດຄ່າລະບົບບໍ່ເຂົ້າກັນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1998"/>
+        <location filename="src/launcher/Application.cpp" line="1999"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>ພົບຂໍ້ມູນເກົ່າຈາກ %1, ແຕ່ເຈົ້າມີຂໍ້ມູນຂອງ %2 ຢູ່ແລ້ວ. ເຈົ້າຈຳເປັນຕ້ອງຍ້າຍຂໍ້ມູນດ້ວຍຕົນເອງ. ເຈົ້າຕ້ອງການໃຫ້ແຈ້ງເຕືອນການຍ້າຍຂໍ້ມູນອີກຄັ້ງໃນຄັ້ງຕໍ່ໄປທີ່ເປີດ %2 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2002"/>
+        <location filename="src/launcher/Application.cpp" line="2003"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ເບິ່ງຄືວ່າເຈົ້າເຄີຍໃຊ້ %1 ມາກ່ອນ. ເຈົ້າຕ້ອງການຍ້າຍຂໍ້ມູນໄປຍັງຕຳແໜ່ງໃໝ່ຂອງ %2 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2008"/>
+        <location filename="src/launcher/Application.cpp" line="2009"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ເບິ່ງຄືວ່າເຈົ້າເຄີຍໃຊ້ %1 ໃນ %2 ມາກ່ອນ. ເຈົ້າຕ້ອງການຍ້າຍຂໍ້ມູນໄປຍັງຕຳແໜ່ງໃໝ່ຂອງ %3 ຫຼື ບໍ່?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2054"/>
+        <location filename="src/launcher/Application.cpp" line="2055"/>
         <source>Migration failed! Reason: %1</source>
         <translation>ການຍ້າຍຂໍ້ມູນຫຼົ້ມເຫຼວ! ສາເຫດ: %1</translation>
     </message>
@@ -987,52 +987,57 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <source>The Java %1 path pinned in the settings does not exist: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>ລະບົບຕິດຕັ້ງ Java ອັດຕະໂນມັດກວດພົບການຕິດຕັ້ງ Java ແບບ 32-bit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>ບໍ່ພົບເວີຊັນ Java ທີ່ເຂົ້າກັນໄດ້. ຈະໃຊ້ຄ່າເລີ່ມຕົ້ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="112"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>ລະບົບຂອງທ່ານ (%1-%2) ບໍ່ຮອງຮັບການຕິດຕັ້ງ Java ອັດຕະໂນມັດ. ຈະໃຊ້ເສັ້ນທາງ Java ເລີ່ມຕົ້ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="120"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>ຂໍ້ມູນ meta ຂອງທ່ານເກົ່າເກີນໄປ ຫຼື ບໍ່ມີຂໍ້ມູນທີ່ຈຳເປັນເພື່ອລະບຸວ່າຄວນໃຊ້ Java ຕົວໃດ. ຈະໃຊ້ເສັ້ນທາງ Java ເລີ່ມຕົ້ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>Compatible Java found at: %1.</source>
         <translation>ພົບ Java ທີ່ເຂົ້າກັນໄດ້ຢູ່ທີ່: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="171"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>ບໍ່ພົບເວີຊັນ Java ທີ່ເຂົ້າກັນໄດ້ (ບໍ່ມີໄຟລ໌ binary). ຈະໃຊ້ຄ່າເລີ່ມຕົ້ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="194"/>
         <source>Could not determine Java download type!</source>
         <translation>ບໍ່ສາມາດລະບຸປະເພດການດາວໂຫຼດ Java ໄດ້!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="198"/>
         <source>Install Java</source>
         <translation>ຕິດຕັ້ງ Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="232"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>ບໍ່ພົບເວີຊັນ Java ສຳລັບລະບົບປະຕິບັດການຂອງທ່ານ: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="234"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>ບໍ່ພົບເວີຊັນ Java ທີ່ເຂົ້າກັນໄດ້. ຈະໃຊ້ຄ່າເລີ່ມຕົ້ນ.</translation>
     </message>
@@ -4287,7 +4292,7 @@ What would you like to do with %2?</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
         <translation>ກຳລັງກວດຫາການຕິດຕັ້ງ Java...</translation>
     </message>
@@ -4347,12 +4352,12 @@ Are you sure?</source>
 <context>
     <name>JavaSettingsWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="236"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
         <translation>ຄົ້ນຫາໄຟລ໌ເຮັດວຽກຂອງ Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="269"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>ຈຳນວນໜ່ວຍຄວາມຈຳສູງສຸດທີ່ Minecraft ໄດ້ຮັບອະນຸຍາດໃຫ້ໃຊ້.</translation>
     </message>
@@ -4427,7 +4432,18 @@ Are you sure?</source>
         <translation>ໄຟລ໌ເຮັດວຽກຂອງ Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
+        <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
+        <source>Pinned Java Installations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <source>Memor&amp;y</source>
         <translation>ໜ່ວຍຄວາມຈຳ</translation>
     </message>
@@ -4436,72 +4452,129 @@ Are you sure?</source>
         <translation type="vanished">ເຕືອນເມື່ອມີໜ່ວຍຄວາມຈຳບໍ່ພຽງພໍ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="358"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="370"/>
         <source>Memory Notice</source>
         <translation>ການແຈ້ງເຕືອນໜ່ວຍຄວາມຈຳ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="340"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="291"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="303"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="220"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>ຈຳນວນໜ່ວຍຄວາມຈຳທີ່ Minecraft ໃຊ້ໃນຕອນເລີ່ມຕົ້ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="300"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
         <translation>ຂະໜາດ PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="242"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="251"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>ການໃຊ້ໜ່ວຍຄວາມຈຳສູງສຸດ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="202"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>ການໃຊ້ໜ່ວຍຄວາມຈຳຕ່ຳສຸດ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
         <source>Warn when there is not enough free memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
         <source>Java Argumen&amp;ts</source>
         <translation>ອາຄິວເມັນຂອງ Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="318"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>ຈຳນວນໜ່ວຍຄວາມຈຳທີ່ໃຊ້ສຳລັບເກັບຂໍ້ມູນ Java classes ທີ່ໂຫຼດມາ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="278"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
+        <source>Java %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
+        <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
+        <source>Pick the Java %1 executable from the file system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
+        <source>Detect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
+        <source>Pick a detected Java %1 installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
+        <source>Java %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
+        <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
+        <source>Find Java %1 executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
+        <source>Select a Java %1 installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
+        <source>No Java %1 installations were detected on this system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>ເລືອກເວີຊັນ Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="287"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
         <source>Confirm Selection</source>
         <translation>ຢືນຢັນການເລືອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="288"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4510,17 +4583,17 @@ Please make sure that the maximum memory value is lower.</source>
 ກະລຸນາກວດສອບໃຫ້ແນ່ໃຈວ່າຄ່າໜ່ວຍຄວາມຈຳສູງສຸດນັ້ນຕ່ຳກວ່າຄ່ານີ້.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="306"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>ການກຳນົດໜ່ວຍຄວາມຈຳສູງສຸດຂອງທ່ານເກີນຄວາມຈຳຂອງລະບົບ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="309"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>ການກຳນົດໜ່ວຍຄວາມຈຳສູງສຸດຂອງທ່ານໃກ້ຈະເຕັມຄວາມຈຳຂອງລະບົບ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="312"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>ຄ່າໜ່ວຍຄວາມຈຳສູງສຸດຂອງທ່ານຕ່ຳກວ່າຄ່າໜ່ວຍຄວາມຈຳຕ່ຳສຸດ.</translation>
     </message>
