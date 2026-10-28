@@ -2291,9 +2291,8 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Numele Fișierului</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="182"/>
         <source>Should this data pack be updated?</source>
-        <translation>Ar trebui acest datapack să fie actualizat?</translation>
+        <translation type="vanished">Ar trebui acest datapack să fie actualizat?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2301,22 +2300,21 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Versiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Update</source>
-        <translation>Actualizează</translation>
+        <translation type="vanished">Actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="169"/>
         <source>The version of the data pack.</source>
         <translation>Versiunea acestui data pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="176"/>
         <source>The size of the data pack.</source>
         <translation>Dimensiunea pachetului de date.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="180"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
         <source>The file name of the data pack.</source>
         <translation>Denumirea fișierului pachetului de date.</translation>
     </message>
@@ -2325,8 +2323,8 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation type="vanished">Nerecunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="84"/>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="172"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID-ul de format de datapack, și versiunea de Minecraft pentru care a fost creat.</translation>
@@ -2346,17 +2344,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="167"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="165"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
         <translation>E activat pachet-ul de data? (Doar valid pentru ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="167"/>
         <source>The name of the data pack.</source>
         <translation>Numele la pachet-ul de data.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="176"/>
+        <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="174"/>
         <source>The date and time this data pack was last changed (or added).</source>
         <translation>Data și timpul când acest pachet de data a fost modificat (sau adăugat).</translation>
     </message>
@@ -3300,18 +3298,18 @@ Această instanță nu a putut fi lansată deoarece unele librării lipsesc sau 
         <translation type="vanished">Elimină metadata modului</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="152"/>
         <source>Context menu</source>
         <translation>Meniu contextual</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Selectează %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="268"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -3322,7 +3320,7 @@ Asta ar putea fi permanent și ele for dispărea din fișier.
 Sunteți sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -3333,29 +3331,29 @@ Asta ar putea fi permanent și aceasta va dispărea din fișierul părinte.
 Sunteți sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="280"/>
         <source>Confirm Removal</source>
         <translation>Confirmați Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="295"/>
         <source>Confirm Delete</source>
         <translation>Confirmați ștergere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="296"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Dacă eliminați această resursă cât timp se execută jocul, s-ar putea să eșueze.
 Sunteți sigur(ă) că veți face asta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="389"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
         <translation> (%1 instalat, %2 activat, %3 selectat)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="433"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="394"/>
         <source> (%1 installed, %2 enabled)</source>
         <translation> (%1 instalat, %2 activat)</translation>
     </message>
@@ -3374,7 +3372,7 @@ Sunteți sigur că vreți face asta?</translation>
         <translation> (%1 instalate, %2 selectate)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="436"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source> (%1 installed)</source>
         <translation> (%1 instalate)</translation>
     </message>
@@ -3889,7 +3887,7 @@ Vă rugăm să încercați din nou.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="386"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="383"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nu s-a putut înțelege manifestul pachetului:
@@ -3905,90 +3903,95 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="obsolete">Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
+        <source>Failed to parse fetched old files: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>Failed to fetch the old files.</source>
         <translation type="unfinished">Nu s-au putut încărca fișierele vechi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="269"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Nu am putut încărca fișierele vechi deoarece acțiunea a fost întreruptă. Este posibil ca unele fișiere să fie duplicate. Doriți să continuați?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Nu am putut încărca fișierele vechi din motivul: %1. Este posibil ca unele fișiere să fie duplicate. Doriți să continuați?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="282"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>No index file.</source>
         <translation>Nu există fișier index.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="282"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Nu s-a putut găsi un fișier index pentru vechea versiunea veche. Asta ar putea face ca unele fișiere să fie duplicate. Dorești să continui?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="294"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="330"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="332"/>
         <source>No loader version set for modpack!</source>
         <translation>Nu este setată nicio versiune de loader pentru modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="410"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nu s-a putut redenumi fișierul pentru suprascrieri:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="415"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="412"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Fișierul de suprascrieri specificat (%1) lipsește. Poate pachetul de moduri a fost folosit deja?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="447"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Încărcător de moduri necunoscut în manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="465"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="462"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Punctele misterioase lăsate în urma au fost șterse din versiunea Minecraft-ului în timpul importării pachetului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="499"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
         <translation>Memoria recomandată de acest modpack trece peste 90% din RAM-ul systemului dumneavoastă—îl reducem de la %1 MiB la %2 MiB!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="633"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="802"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="799"/>
         <source>Removing old conflicting files...</source>
         <translation>Se șterg fișiere vechi ce fac conflict...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="819"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="816"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Nu s-au putut șterge fișierele vechi cu conflicte.</translation>
     </message>
@@ -3997,40 +4000,40 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="vanished">Nu s-a putut asocia versiunea de Forge recomandată pentru Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="534"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="531"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nu s-au putut rezolva ID-urile modurilor:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
         <source>Blocked mods found</source>
         <translation>S-au găsit mod-uri blocate</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Următoarele fișiere nu pot fi descărcate în lansatoare oferite de părți terțe.&lt;br/&gt;Va trebui să le descărcați manual și să le adăugați la instanță.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="618"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
         <source>Mod Download Flame</source>
         <translation>Descărcare mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="655"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 din %2 complet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="668"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="665"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copiez moduri blocate...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="684"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="681"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copiez moduri blocate(%1 din %2 au fost copiate)</translation>
     </message>
@@ -4051,7 +4054,7 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="vanished">Pachet nerecunoscut/nemanipulat pentru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="657"/>
         <source>Downloading mods...</source>
         <translation>Se descarcă modurile...</translation>
     </message>
@@ -4473,63 +4476,63 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Căutare...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>All</source>
         <translation>Toate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modern</source>
         <translation>Modern</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Legacy</source>
         <translation>Învechit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modpacks</source>
         <translation>Pachete de moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Custom</source>
         <translation>Personalizat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="162"/>
         <source>Add Icon</source>
         <translation>Adauga iconița</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="163"/>
         <source>Remove Icon</source>
         <translation>Elimina iconița</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="165"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="153"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="166"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="175"/>
         <source>Open Folder</source>
         <translation>Deschide fișierul</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="208"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>Selecteaza iconița</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="211"/>
         <source>Icons %1</source>
         <translation>Iconițe %1</translation>
     </message>
@@ -10665,69 +10668,63 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation>Numele Fișierului</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation type="obsolete">Actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="259"/>
         <source>Is the mod enabled?</source>
         <translation>Este activat modul?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="261"/>
         <source>The name of the mod.</source>
         <translation>Numele modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="263"/>
         <source>The version of the mod.</source>
         <translation>Versiunea modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="268"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="265"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Data și timpul la care acest mod a fost schimbat ultima dată (sau adăugat).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="267"/>
         <source>The source provider of the mod.</source>
         <translation>Furnizorul sursei modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="279"/>
         <source>For each mod, the number of other mods which depend on it.</source>
         <translation>Pentru fiecare mod, numărul celorlalte moduri care depind de acesta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="281"/>
         <source>For each mod, the number of other mods it depends on.</source>
         <translation>Pentru fiecare mod, numărul de alte moduri de care depinde.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="283"/>
         <source>The file name of the mod.</source>
         <translation>Numele fișierului modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="288"/>
-        <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="503"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="498"/>
         <source>Confirm toggle</source>
         <translation>Confirmă comutare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="507"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="502"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
         <translation>Activarea sau dezactivarea acestor moduri va determina modificări la nivelul altor moduri.
 </translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="510"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="505"/>
         <source>%n mod(s) will be enabled
 </source>
         <translation>
@@ -10740,12 +10737,12 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="506"/>
         <source>The following mods will be enabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="517"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
         <source>%n mod(s) will be disabled
 </source>
         <translation>
@@ -10758,24 +10755,24 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="521"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="516"/>
         <source>The following mods will be disabled:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="526"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="521"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
         <translation>Doriți să aplicați automat aceste modificări conexe?
 Ignorarea lor ar putea afecta funcționarea jocului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="504"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="499"/>
         <source>Only Toggle Selected</source>
         <translation>Doar comutare selectate</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="505"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="500"/>
         <source>Toggle Required Mods</source>
         <translation>Comutare necesită pentru moduri</translation>
     </message>
@@ -10844,27 +10841,27 @@ Ignorarea lor ar putea ceda funcționarea jocului.</translation>
         <translation type="vanished">De unde a fost descărcat modul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="269"/>
         <source>On what environment the mod is running.</source>
         <translation>În ce mediu rulează mod-ul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="274"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="271"/>
         <source>The mod loader.</source>
         <translation>Încărcător de mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="273"/>
         <source>The supported minecraft versions.</source>
         <translation>Versiunile de minecraft suportate.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="278"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="275"/>
         <source>The release type.</source>
         <translation>Tipul data lansării.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="277"/>
         <source>The size of the mod.</source>
         <translation>Dimensiunea mod-ului.</translation>
     </message>
@@ -14897,7 +14894,6 @@ Probabil că autorul a blocat programele de lansare ale unor terți.</translatio
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -14906,7 +14902,6 @@ Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei
 Cale Canonică: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -14932,7 +14927,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation type="unfinished">Versiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Size</source>
         <translation>Dimensiune</translation>
     </message>
@@ -14942,14 +14937,13 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation>Furnizor</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>File Name</source>
         <translation>Numele Fișierului</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="261"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation type="obsolete">Actualizează</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
@@ -14964,58 +14958,66 @@ Are you sure you want to do this?</source>
 Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="661"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
+        <source>
+This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
+        <source>
+This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Este activată resursa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="663"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <source>The name of the resource.</source>
         <translation>Numele resursei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="665"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>The version of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="667"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Data și timpul la care această resursă a fost schimbată ultima dată (sau adăugată).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="669"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="666"/>
         <source>The source provider of the resource.</source>
         <translation>Furnizorul sursei resursei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="671"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="668"/>
         <source>The size of the resource.</source>
         <translation>Dimensiunea resursei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="673"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="670"/>
         <source>The file name of the resource.</source>
         <translation>Numele fișierului resursei.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="675"/>
-        <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="801"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="796"/>
         <source>Override Columns Visibility</source>
         <translation>Suprascrierea vizibilității coloanelor</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="814"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="809"/>
         <source>Show / Hide Columns</source>
         <translation>Arată / Ascunde Coloane</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="817"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="812"/>
         <source>Image</source>
         <translation type="unfinished">Imagine</translation>
     </message>
@@ -15031,12 +15033,12 @@ Ești sigur(ă) că vrei să faci asta?</translation>
         <translation>Imagine</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Last Modified</source>
         <translation>Ultima Modificare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
         <translation type="unfinished">Versiune</translation>
     </message>
@@ -15046,7 +15048,7 @@ Ești sigur(ă) că vrei să faci asta?</translation>
         <translation>Dimensiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Provider</source>
         <translation>Furnizor</translation>
     </message>
@@ -15056,24 +15058,18 @@ Ești sigur(ă) că vrei să faci asta?</translation>
         <translation>Numele Fișierului</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation type="obsolete">Actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="179"/>
         <source>The version of the resource pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="196"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="190"/>
         <source>The file name of the resource pack.</source>
         <translation>Numele fișierului pachetului de resurse.</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="198"/>
-        <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -15081,7 +15077,7 @@ Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="182"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID-ul formatării pachetului de resurse, precum și versiunea de Minecraft pentru care a fost făcut.</translation>
@@ -15101,27 +15097,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="175"/>
         <source>Is the resource pack enabled?</source>
         <translation>Este activat pachetul de resurse?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="192"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="186"/>
         <source>The source provider of the resource pack.</source>
         <translation>Furnizorul pachetului de resurse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="194"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="188"/>
         <source>The size of the resource pack.</source>
         <translation>Dimensiunea pachetului de resurse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Name</source>
         <translation>Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Pack Format</source>
         <translation>Formatul Pachetului</translation>
     </message>
@@ -15130,12 +15126,12 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation type="vanished">Pachetul de resurse este activat? (Valid doar pentru ZIP-uri)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="177"/>
         <source>The name of the resource pack.</source>
         <translation>Numele pachetului de resurse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="190"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="184"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Data și timpul la care acest pachet de resurse a fost modificat ultima dată (sau adăugat).</translation>
     </message>
@@ -16673,18 +16669,17 @@ inheritsFrom lipsește</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
+        <source>Version</source>
+        <translation type="unfinished">Versiune</translation>
+    </message>
+    <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation type="obsolete">Actualizează</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="169"/>
         <source>The file name of the texture pack.</source>
         <translation>Numele fișierului pachetului de texturi.</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="171"/>
-        <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
@@ -16701,14 +16696,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="159"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="157"/>
         <source>Is the texture pack enabled?</source>
         <translation>Este activat pachetul de texturi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="159"/>
         <source>The name of the texture pack.</source>
         <translation>Numele pachetului de texturi.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
+        <source>The version of the texture pack.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
@@ -17693,78 +17693,83 @@ Ești sigur(ă)?</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="201"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Această lume este legată simbolic de altundeva.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="204"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Această lume are legătură întărită altundeva.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="220"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Atenție: această lume este legată simbolic de atundeva. Modificările vor avea efect și pe fișierul original.
 Locația canonică: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="225"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Avertizare: Această lume are legătură întărită altundeva. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
+        <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
+        <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Name</source>
         <translation>Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
         <source>Game Mode</source>
         <translation>Modul de joc</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <source>Last Played</source>
         <translation>Ultima dată jucat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Dimensiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="272"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Informații</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>The name of the world.</source>
         <translation>Numele lumii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Game mode of the world.</source>
         <translation>Modul de joc al lumii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="275"/>
         <source>Date and time the world was last played.</source>
         <translation>Timpul și data în care lumea a fost jucată ultima dată.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="277"/>
         <source>Size of the world on disk.</source>
         <translation>Mărimea lumii pe disc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Information and warnings about the world.</source>
         <translation>Informații și avertismente despre lume.</translation>
     </message>
@@ -17868,7 +17873,7 @@ Locația canonică: %1</translation>
         <translation>Lumi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
         <source>Context menu</source>
         <translation>Meniu contextual</translation>
     </message>
@@ -17905,34 +17910,34 @@ It may be necessary to reinstall it.</source>
 Ar putea fi necesar să îl reinstalați.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="432"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
         <source>Select a Minecraft world zip</source>
         <translation>Alegeți un fișier zip ce conține o lume de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="432"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
         <source>Minecraft World Zip File</source>
         <translation>Fișier Zip din Lumea Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="474"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="490"/>
         <source>Copy World</source>
         <translation>Copiați Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="475"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Schimbarea lumii în timp ce rulează Minecraft-ul este posibil nesigur.
 Dorești să continui?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="248"/>
         <source>Confirm Deletion</source>
         <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="236"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -17943,7 +17948,7 @@ Lumea ar putea dispărea pentru totdeauna (UN TIMP LUNG).
 Ești sigur(ă)?</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="242"/>
         <source>You are about to delete %n world(s).
 These worlds may be gone forever (A LONG TIME).
 
@@ -17955,69 +17960,69 @@ Are you sure?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="256"/>
         <source>Deleting worlds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="284"/>
         <source>Manage Data Packs</source>
         <translation>Gestionarea pachetelor de date</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="292"/>
         <source>Data packs for %1</source>
         <translation>Pachete de date pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>No Tools Added</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
         <source>Open Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Invalid command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>The tool command is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>Tool failed to start!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>The tool could not be started.
 Error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="516"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="498"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="532"/>
         <source>World name</source>
         <translation>Numele lumii</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="498"/>
         <source>Enter a new name for the copy.</source>
         <translation>Introdu un nou nume pentru copie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="508"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="524"/>
         <source>Rename World</source>
         <translation>Redenumiți Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="516"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="532"/>
         <source>Enter a new world name.</source>
         <translation>Introdu un nume pentru noua lume.</translation>
     </message>
