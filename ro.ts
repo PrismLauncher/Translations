@@ -6916,7 +6916,6 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <translation>Activități</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Retry Limit:</source>
         <translation>Limită de reîncercări:</translation>
     </message>
@@ -7260,6 +7259,11 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="581"/>
         <source>Console</source>
         <translation>Consolă</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
+        <source>Network Retry Limit:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -11838,12 +11842,12 @@ Te rugăm actualizează %1!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Anularea tuturor sarcinilor din NetJob a eșuat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Se execută %1 sarcină(i) (%2 din %3 sunt terminate)</translation>
     </message>

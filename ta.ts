@@ -6324,6 +6324,10 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
+        <source>Network Retry Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Retry Limit:</source>
         <translation>வரம்பை மீண்டும் முயற்சிக்கவும்:</translation>
     </message>
@@ -10591,12 +10595,12 @@ Please update %1!</source>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>நெட்சோப்பில் உள்ள அனைத்து பணிகளையும் கருக்கலைப்பதில் தோல்வி!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 பணி (களை) செயல்படுத்துதல் ( %3 இல் %2 செய்யப்படுகிறது)</translation>
     </message>

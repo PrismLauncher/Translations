@@ -7032,7 +7032,6 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
         <translation>Attività</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Retry Limit:</source>
         <translation>Limite Tentativi:</translation>
     </message>
@@ -7429,6 +7428,11 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="581"/>
         <source>Console</source>
         <translation>Console</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
+        <source>Network Retry Limit:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -12576,12 +12580,12 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Impossibile interrompere tutte le attività nel NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Esecuzione operazione %1 (completate %2 su %3)</translation>
     </message>

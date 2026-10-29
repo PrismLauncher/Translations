@@ -5530,6 +5530,10 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
+        <source>Network Retry Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Retry Limit:</source>
         <translation>Təkrar cəhd limiti:</translation>
     </message>
@@ -9130,12 +9134,12 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJob-dakı bütün tapşırıqları ləğv etmək mümkün olmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 tapşırıq icra edilir (%3 tapşırıqdan %2-si tamamlanıb)</translation>
     </message>

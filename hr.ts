@@ -5904,6 +5904,10 @@ Možda ćete morati popraviti svoje modove jer se igra i dalje logira u datoteke
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
+        <source>Network Retry Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Retry Limit:</source>
         <translation>Ograničenje ponovnog pokušaja:</translation>
     </message>
@@ -9750,12 +9754,12 @@ Ažurirajte %1!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Nije uspjelo prekinuti sve zadatke u NetJobu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Izvršavanje %1 zadatak(a) (%2 od %3 su završeni)</translation>
     </message>
