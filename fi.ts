@@ -1316,7 +1316,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetuksissa kiinnitettyä Java %1 -polkua ei ole olemassa: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -3837,7 +3837,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Noudettujen vanhojen tiedostojen jäsentäminen epäonnistui: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -5872,13 +5872,13 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiinnitä tiettyjä Java-asennuksia pääversioon. Kun käynnistyslataaja valitsee Javan instanssille automaattisesti, kiinnitettyä asennusta, joka vastaa vaadittua versiota, käytetään ennen kuin mitään muuta havaitaan tai ladataan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiinnitetyt Java-asennukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -5972,54 +5972,56 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Polku Java %1 -suoritettavalle käytettäväksi instanssille, jotka tarvitsevat sitä. Jätä tyhjäksi käyttääksesi automaattisesti valittua.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse Java %1 -suoritettava tiedostojärjestelmästä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Havaitse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse havaittu Java %1 -asennus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraavia kiinnitettyjä Java-polkuja ei löydetty järjestelmästäsi. Ne tallennettiin joka tapauksessa, mutta instanssit, jotka tarvitsevat noita versioita, palaavat normaaliin havaitsemistilaan.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Löydä Java %1 -suoritettava</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse Java %1 -asennus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei Java %1 -asennuksia havaittu tässä järjestelmässä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -7127,7 +7129,7 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkon uudelleenyritysten raja:</translation>
     </message>
     <message>
         <source>Retry Limit:</source>
@@ -15010,13 +15012,16 @@ Oletko varma että haluat tehdä näin?</translation>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen muuttaa myös alkuperäistä.
+Kanoninen polku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tämä resurssi on kiinteästi linkitetty muualle. Sen muokkaaminen muuttaa myös alkuperäistä.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -16780,7 +16785,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Versio</translation>
+        <translation>Versio</translation>
     </message>
     <message>
         <source>Update</source>
@@ -17980,12 +17985,13 @@ Kanoninen polku: %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä maailma on symbolisesti linkitetty muualta. Sen muokkaaminen muuttaa myös alkuperäistä.
+Kanoninen polku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä maailma on kiinteästi linkitetty muualta. Sen muokkaaminen muuttaa myös alkuperäistä.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
