@@ -1116,7 +1116,7 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an cosán Java %1, atá sainchomharthaí sna socruithe, ann: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -3535,7 +3535,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar sheanchomhaid a fuarthas a pharsáil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -5306,13 +5306,13 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceangail suiteálacha sonracha Java le príomhleagan. Nuair a roghnaíonn an seolaitheoir Java go huathoibríoch d’instans, úsáidtear suiteáil atá ceangailte leis an leagan riachtanach sula mbraitear nó sula n-íoslódáiltear aon rud eile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Suiteálacha Java Sainchoinnithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -5402,54 +5402,56 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conair chuig an gcomhad inrite Java %1 atá le húsáid i gcásanna a éilíonn é. Fág folamh é chun an ceann a aimsíodh go huathoibríoch a úsáid.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh an comhad inrite Java %1 ón gcóras comhad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Braith</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh suiteáil Java %1 a aimsíodh.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Níorbh fhéidir na cosáin Java bioráilte seo a leanas a aimsiú ar do chóras. Sábháladh iad ar aon nós, ach tiocfaidh na leaganacha sin ar ais chuig an ngnáth-bhrath.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aimsigh comhad inrite Java %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Roghnaigh suiteáil Java %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níor aimsíodh aon suiteálacha de Java %1 ar an gcóras seo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -6386,7 +6388,7 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teorainn Athiarrachtaí Líonra:</translation>
     </message>
     <message>
         <source>Retry Limit:</source>
@@ -13657,13 +13659,16 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tá an t-acmhainn seo nasctha go siombalach ó áit eile. Má dhéantar é a chur in eagar, athrófar an bunleagan chomh maith.
+Conair Chanónta: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Tá an t-acmhainn seo nasctha go docht in áit eile. Má dhéantar é a chur in eagar, athrófar an bunleagan freisin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -15288,7 +15293,7 @@ tá inheritsFrom ar iarraidh</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Leagan</translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <source>Update</source>
@@ -15330,7 +15335,7 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
         <source>The version of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leagan an phacáiste uigeachta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
@@ -16242,12 +16247,13 @@ Cosán Canónach: %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an domhan seo nasctha go siombalach ó áit éigin eile. Má dhéantar é a chur in eagar, athrófar an bunleagan freisin.
+Conair Chanónta: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá an domhan seo nasctha go docht in áit eile. Má dhéantar eagarthóireacht air, athrófar an bunleagan chomh maith.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
