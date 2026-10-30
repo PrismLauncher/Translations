@@ -7490,7 +7490,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>網路重試上限：</translation>
     </message>
     <message>
         <source>Console Settings</source>
