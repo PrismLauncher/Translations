@@ -1390,7 +1390,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>자동 Java 메커니즘이 Java의 32비트 설치를 감지했습니다.</translation>
+        <translation>자동 Java 메커니즘이 Java의 32비트 설치를 탐지했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
@@ -1610,7 +1610,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>사용자 이름은 3자에서 16자 사이의 길이여야 하며, 영숫자 및 밑줄만 사용할 수 있습니다. 유효하지 않은 사용자 이름을 사용하면 서버 및 싱글플레이 세계에 접속하지 못할 수 있습니다.</translation>
+        <translation>사용자 이름은 3자에서 16자 사이의 길이여야 하며, 영숫자 및 밑줄만 사용할 수 있습니다. 유효하지 않은 사용자 이름을 사용하면 서버 및 싱글플레이어 세계에 접속하지 못할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
@@ -5752,7 +5752,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>Java 설치본을 감지하는 중...</translation>
+        <translation>Java 설치본을 탐지하는 중...</translation>
     </message>
 </context>
 <context>
@@ -6041,7 +6041,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation>Java 버전 자동 감지(&amp;D)</translation>
+        <translation>Java 버전 자동 탐지(&amp;D)</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -6079,7 +6079,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation>감지(&amp;D)</translation>
+        <translation>탐지(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
@@ -6109,7 +6109,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation>특정 Java 설치 버전을 주요 버전으로 고정합니다. 런처가 인스턴스에 사용할 Java를 자동으로 선택할 때, 필요한 버전과 일치하는 고정된 설치 버전이 다른 버전이 감지되거나 다운로드되기 전에 우선적으로 사용됩니다.</translation>
+        <translation>특정 Java 설치 버전을 주요 버전으로 고정합니다. 런처가 인스턴스에 사용할 Java를 자동으로 선택할 때, 필요한 버전과 일치하는 고정된 설치 버전이 다른 버전이 탐지되거나 다운로드되기 전에 우선적으로 사용됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
@@ -6214,49 +6214,51 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>필요한 인스턴스에 사용할 Java %1 실행 파일의 경로입니다. 자동으로 탐지된 파일을 사용하려면 이 필드를 비워 두십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 시스템에서 Java %1 실행 파일을 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>탐지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>탐지된 Java %1 설치 가운데 하나를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템에서 다음 고정된 Java 경로를 찾을 수 없습니다. 해당 경로는 일단 저장되었으나, 해당 버전이 필요한 인스턴스는 일반적인 탐지 방식으로 대체됩니다.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1 실행 파일 찾기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1 설치 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 시스템에서 Java %1 설치가 탐지되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -6337,7 +6339,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="234"/>
         <source>32-bit Java detected</source>
-        <translation>32비트 Java 감지됨</translation>
+        <translation>32비트 Java 탐지됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="235"/>
@@ -6422,12 +6424,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Auto-detect Java version</source>
-        <translation>Java 버전 자동 감지</translation>
+        <translation>Java 버전 자동 탐지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Autodetect Java</source>
-        <translation>Java 자동 감지</translation>
+        <translation>Java 자동 탐지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
@@ -7032,7 +7034,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation>모드 호환성 문제 감지 및 표시(실험적)</translation>
+        <translation>모드 호환성 문제 탐지 및 표시(실험적)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="596"/>
@@ -7374,7 +7376,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="480"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>모드 종속성을 자동으로 감지, 설치 및 업데이트합니다.</translation>
+        <translation>모드 종속성을 자동으로 탐지, 설치 및 업데이트합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
@@ -7441,7 +7443,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="704"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 재시도 제한:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -10629,7 +10631,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Singleplayer world:</source>
-        <translation>싱글플레이 세계:</translation>
+        <translation>싱글플레이어 세계:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="482"/>
@@ -14636,7 +14638,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>지정한 Java 바이너리가 작동하지 않습니다.&lt;br /&gt;[감지]를 누르거나 Java 실행 파일의 경로를 설정하여야 합니다.&lt;br /&gt;</translation>
+        <translation>지정한 Java 바이너리가 작동하지 않습니다.&lt;br /&gt;[탐지]를 누르거나 Java 실행 파일의 경로를 설정하여야 합니다.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -15821,14 +15823,14 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-경고 : 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
-표준 경로 : %1</translation>
+경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-경고 : 이 리소스는 다른 곳에서 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
+경고: 이 리소스는 다른 곳과 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -15889,13 +15891,16 @@ Are you sure you want to do this?</source>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 리소스는 다른 곳과 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -18937,7 +18942,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <name>WorldList</name>
     <message>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>이 세계는 다른 세계와 심볼릭 링크되어 있습니다.</translation>
+        <translation>이 세계는 다른 세계에서 심볼릭 링크되어 있습니다.</translation>
     </message>
     <message>
         <source>
@@ -18948,7 +18953,7 @@ This world is hard linked elsewhere.</source>
     <message>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>경고: 이 세계는 다른 곳과 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+        <translation>경고: 이 세계는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
 표준 경로: %1</translation>
     </message>
     <message>
@@ -18959,12 +18964,13 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>이 세계는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 세계는 다른 세계와 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
@@ -19144,7 +19150,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>No MCEdit found or set up!</source>
-        <translation>MCEdit이 설치되지 않았거나 감지되지 않습니다!</translation>
+        <translation>MCEdit이 발견되거나 설정되어 있지 않습니다!</translation>
     </message>
     <message>
         <source>You do not have MCEdit set up or it was moved.
