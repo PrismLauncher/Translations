@@ -1941,7 +1941,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Windows에서는, 심볼릭 링크를 만들려면 관리자 권한이 필요할 수 있습니다.</translation>
+        <translation>Windows에서는 심볼릭 링크를 만들 때 관리자 권한이 필요할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -5471,7 +5471,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 템플릿을 복사하지 못하였습니다. 인스턴스는 생성되었지만, 템플릿 파일이 일부만 포함되어 있거나 아예 포함되어 있지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -7342,12 +7342,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>생성 시 새 인스턴스로 복사될 수 있는 폴더로, 인스턴스별로 활성화/비활성화할 수 있습니다. options.txt 파일에 유용합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 템플릿(&amp;T):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -7580,7 +7580,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 템플릿 폴더</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -8496,7 +8496,7 @@ Reason:
     </message>
     <message>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>파일 탐색기로 중앙 모드 폴더를 엽니다.</translation>
+        <translation>파일 탐색기에서 중앙 모드 폴더를 엽니다.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -8841,12 +8841,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 템플릿(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 탐색기에서 템플릿 폴더를 엽니다.</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -8874,7 +8874,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>파일 브라우저에서 java 폴더를 엽니다. 기본 제공 Java 다운로더를 사용하는 경우에만 사용할 수 있습니다.</translation>
+        <translation>파일 탐색기에서 Java 폴더를 엽니다. 기본 제공 Java 다운로더를 사용하는 경우에만 사용할 수 있습니다.</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -8938,7 +8938,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation>파일 탐색기로 모드 폴더를 엽니다.</translation>
+        <translation>파일 탐색기에서 모드 폴더를 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
@@ -9040,7 +9040,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>런처의 루트 폴더를 파일 탐색기에서 엽니다.</translation>
+        <translation>파일 탐색기에서 런처의 루트 폴더를 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
@@ -9260,7 +9260,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>파일 탐색기로 선택한 인스턴스의 최상위 디렉터리를 엽니다.</translation>
+        <translation>파일 탐색기에서 선택한 인스턴스의 루트 폴더를 엽니다.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -12759,17 +12759,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 템플릿 사용</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>템플릿 디렉터리가 존재하지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Windows에서는, 심볼릭 링크를 만들려면 관리자 권한이 필요할 수 있습니다.</translation>
+        <translation>Windows에서는 심볼릭 링크를 만들 때 관리자 권한이 필요할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
