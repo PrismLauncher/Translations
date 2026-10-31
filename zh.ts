@@ -5507,7 +5507,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>实例模板复制失败。实例已创建，但是只包含部分或不包含模板文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -7284,12 +7284,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>该文件夹在创建新实例时可能会被复制到新实例中，可针对每个实例单独启用或禁用。对于 options.txt 这样的文件来说比较有用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>实例模板 (&amp;T)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -7636,7 +7636,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>实例模板文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -8831,7 +8831,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="573"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>在文件浏览器中打开皮肤文件夹。</translation>
+        <translation>在文件管理器中打开皮肤文件夹。</translation>
     </message>
     <message>
         <source>Instance Icons</source>
@@ -8906,12 +8906,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>实例模板 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开模板文件夹。</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -8939,7 +8939,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>在文件浏览器中打开 Java 文件夹。仅在使用内置 Java 下载器时可用。</translation>
+        <translation>在文件管理器中打开 Java 文件夹。仅在使用内置 Java 下载器时可用。</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -9003,7 +9003,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation>在文件浏览器里打开 Mod 文件夹。</translation>
+        <translation>在文件管理器中打开 Mod 文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
@@ -12880,17 +12880,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>使用实例模板</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>模板目录不存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">在 Windows 上，符号链接可能需要管理员权限才能创建。</translation>
+        <translation>在 Windows 上，符号链接可能需要管理员权限才能创建。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
