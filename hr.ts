@@ -8886,11 +8886,9 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="505"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation>
-            <numerusform>%n mod will be enabled
-</numerusform>
-            <numerusform>%n mods will be enabled
-</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8903,11 +8901,9 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation>
-            <numerusform>%n mod will be disabled
-</numerusform>
-            <numerusform>%n mods will be disabled
-</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8940,11 +8936,9 @@ Njihovo ignoriranje može prekinuti igru.</translation>
     <message numerus="yes">
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation>
-            <numerusform>The enabled mod require %n mod.
-</numerusform>
-            <numerusform>The enabled mods require %n mods.
-</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -8969,11 +8963,9 @@ Njihovo ignoriranje može prekinuti igru.</translation>
     <message numerus="yes">
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
-        <translation>
-            <numerusform>The disabled mod are required by %n mod.
-</numerusform>
-            <numerusform>The disabled mods are required by %n mods.
-</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
