@@ -1361,7 +1361,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation>設定で固定した Java %1 のパスが存在しません: %2</translation>
+        <translation>設定で固定したJava %1のパスが存在しません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2109,7 +2109,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation>&amp;事前ロードコマンド</translation>
+        <translation>読み込み前コマンド(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2124,7 +2124,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;事前ロードコマンドは、要素のメタデータが読み込まれる前に実行され、要素が起動する前と終了した後に post-exit コマンドが実行されます。&lt;/p&gt;&lt;p&gt;これらはすべてランチャーの動作するフォルダ内で追加の環境変数とともに動作します。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 要素の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 要素のID(フォルダ名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 要素の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用されるJavaバイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS -起動に使用されるコマンドラインパラメータ(警告:引数がスペースを含む場合正しく動作しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラッパーコマンドを使用すると、追加のラッパープログラムを介して起動することができます。(Linuxの&apos;optirun&apos;のようなものです)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;読み込み前コマンドは起動構成のメタデータが読み込まれる前に、起動前コマンドは起動構成が起動する前に、終了後コマンドは起動構成が終了した後に実行されます。&lt;/p&gt;&lt;p&gt;これらのコマンドはランチャーの作業フォルダ内で実行され、以下の環境変数を利用できます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成のID（フォルダー名）&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用されるJavaの実行ファイル&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン引数（注意: 引数にスペースが含まれている場合、正しく動作しません）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ラッパーコマンドを使用すると、追加のラッパープログラム（Linuxのoptirunなど）を介して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2154,7 +2154,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>正式リリース</translation>
+        <translation>正式版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -2168,12 +2168,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation>ベータ</translation>
+        <translation>ベータ版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation>アルファ</translation>
+        <translation>アルファ版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -2327,7 +2327,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="169"/>
         <source>The version of the data pack.</source>
-        <translation>データパックのバージョン</translation>
+        <translation>データパックのバージョン。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="176"/>
@@ -2452,7 +2452,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にデータパックを更新すると、パックの重複やゲームのクラッシュが発生する可能性があります。
-古いファイルは使用中のため、削除されない場合があります。
+古いファイルは使用中の場合、削除できないことがあります。
 本当に続行しますか？</translation>
     </message>
     <message>
@@ -3259,22 +3259,22 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
         <source>Lock Updates</source>
-        <translation>ロックアップデート</translation>
+        <translation>更新をロック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation>リソースが更新されないようにロックする</translation>
+        <translation>リソースをロックして、更新されないようにします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>Unlock Updates</source>
-        <translation>アップデートのロックを解除</translation>
+        <translation>更新のロック解除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation>リソースのロックを解除して、更新できるようにする</translation>
+        <translation>リソースのロックを解除して、更新できるようにします</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3371,12 +3371,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="389"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation> (%1 インストール済, %2 有効, %3 選択済)</translation>
+        <translation> (%1個インストール済み, %2個有効, %3個選択中)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="394"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation> (%1 インストール済, %2 有効)</translation>
+        <translation> (%1個インストール済み, %2個有効)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3430,7 +3430,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation>インスタンスの「ワールド」メニューから、各ワールドで起動可能なカスタムツールです。このコマンドは、${WORLD_PATH} というプレースホルダーに対応しています。</translation>
+        <translation>起動構成の「ワールド」メニューから、ワールドに対して実行できるカスタムツールです。コマンドではプレースホルダー ${WORLD_PATH} を使用できます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
@@ -3636,7 +3636,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブJAR「%1」を「%2」に展開できませんでした: %3</translation>
     </message>
 </context>
 <context>
@@ -3937,12 +3937,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>タスクが中断されたため、古いファイルを取得することができません。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
+        <translation>タスクが中止されたため、古いファイルを取得できませんでした。これにより、一部のファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>タスクが中断されたため、古いファイルを取得することができません: %1。いくつかのファイルが複製される可能性があります。このまま続行しますか？</translation>
+        <translation>古いファイルを取得できませんでした。理由: %1。これにより、一部のファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
@@ -4782,7 +4782,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation>セカンダリ&#x3000;ローダーをインストール中</translation>
+        <translation>2つ目のローダーをインストール中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
@@ -10214,7 +10214,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>オンライン修正を有効化（実験的）</translation>
+        <translation>オンライン修正を有効化 (実験的)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="690"/>
@@ -10389,7 +10389,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation>正式リリース</translation>
+        <translation>正式版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
@@ -10688,17 +10688,17 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation>正式リリース</translation>
+        <translation>正式版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation>ベータ</translation>
+        <translation>ベータ版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation>アルファ</translation>
+        <translation>アルファ版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
@@ -11269,7 +11269,7 @@ Are you sure you want to do this?</source>
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
         <translation>ゲームの実行中にModを更新すると、Modの重複やゲームのクラッシュが起きる可能性があります。
-古いファイルは使用中の場合、削除されません。
+古いファイルは使用中の場合、削除できないことがあります。
 本当に実行しますか？</translation>
     </message>
     <message>
@@ -11351,7 +11351,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>更新を確認 (正式版、ベータ版、アルファ版)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
@@ -11390,7 +11390,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のModは、削除しようとしているModに依存しています:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
@@ -11419,7 +11419,7 @@ Do you want to disable them?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MinecraftのカスタムJARファイルの作成に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -11792,12 +11792,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">古い競合ファイルを削除中…</translation>
+        <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="570"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">古い競合ファイルの削除に失敗しました。</translation>
+        <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -12083,49 +12083,49 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 を取得中</translation>
+        <translation>%1 を取得中</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="200"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="206"/>
         <source>unknown</source>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="211"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="330"/>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>リダイレクトが多すぎます</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="345"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
-            <numerusform>%n 秒間のリクエストレート制限: %1 秒後に再試行してください</numerusform>
+        <translation>
+            <numerusform>リクエストは %n 秒間レート制限されています: 再試行まで %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="350"/>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>レート制限: %n 秒待機中</numerusform>
         </translation>
     </message>
@@ -12243,7 +12243,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>場所(&amp;L):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
@@ -12263,17 +12263,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のテンプレートを使用する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレートのディレクトリが存在しません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Windowsでは、シンボリックリンクの作成時に管理者権限が要求される可能性があります。</translation>
+        <translation>Windowsでは、シンボリックリンクの作成に管理者権限が必要になる場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
@@ -12293,17 +12293,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="224"/>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリを利用できません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="225"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のディレクトリ「%1」にアクセスできなくなりました。別の場所を選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="287"/>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルト (%1)</translation>
     </message>
 </context>
 <context>
@@ -12792,7 +12792,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">%1 内のパストラバーサルを阻止しました</translation>
+        <translation>%1 内のパストラバーサルを阻止しました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -13229,7 +13229,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="520"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>マニフェストを読み込めませんでした: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="531"/>
@@ -13369,7 +13369,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更新履歴を書き込めませんでした: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
@@ -13632,7 +13632,7 @@ HTTPステータス: %2</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中断</translation>
     </message>
 </context>
 <context>
@@ -13964,7 +13964,7 @@ Error message: %1</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを解析できませんでした: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -14463,7 +14463,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="114"/>
         <source>Unknown</source>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="628"/>
@@ -14802,7 +14802,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>不明なペースト種類</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -14843,53 +14843,53 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">認識不能</translation>
+        <translation>認識不能</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">データパック</translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">Mod</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">リソースパック</translation>
+        <translation>リソースパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">シェーダーパック</translation>
+        <translation>シェーダーパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">テクスチャパック</translation>
+        <translation>テクスチャパック</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">ファイル %1 を読み取れませんでした: %2</translation>
+        <translation>ファイル %1 を読み取れませんでした: %2</translation>
     </message>
 </context>
 <context>
@@ -15019,27 +15019,27 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="376"/>
         <source>mods</source>
-        <translation type="unfinished">Mod</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
         <source>resource packs</source>
-        <translation type="unfinished">リソースパック</translation>
+        <translation>リソースパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
         <source>texture packs</source>
-        <translation type="unfinished">テクスチャパック</translation>
+        <translation>テクスチャパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
         <source>shader packs</source>
-        <translation type="unfinished">シェーダーパック</translation>
+        <translation>シェーダーパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
         <source>data packs</source>
-        <translation type="unfinished">データパック</translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
@@ -15204,7 +15204,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="72"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [選択済み]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="452"/>
@@ -15323,14 +15323,14 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス: %1</translation>
+警告: このリソースは他の場所からシンボリックリンクされています。編集すると元のファイルも変更されます。
+正規パス: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。編集すると元のファイルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -15349,7 +15349,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -15391,13 +15391,16 @@ Are you sure you want to do this?</source>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+このリソースは別の場所からシンボリックリンクされています。編集すると元のファイルも変更されます。
+正規パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+このリソースは別の場所にハードリンクされています。編集すると元のファイルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -15413,7 +15416,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>リソースのバージョン。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
@@ -15448,7 +15451,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="812"/>
         <source>Image</source>
-        <translation type="unfinished">画像</translation>
+        <translation>画像</translation>
     </message>
 </context>
 <context>
@@ -15474,7 +15477,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -15646,7 +15649,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にリソースパックを更新すると、パックの重複やゲームのクラッシュが起きる可能性があります。
-古いファイルは使用中の場合、削除されません。
+古いファイルは使用中の場合、削除できないことがあります。
 本当に実行しますか？</translation>
     </message>
     <message>
@@ -15798,7 +15801,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>利用できないModを無効化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="245"/>
@@ -15946,7 +15949,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
@@ -16310,7 +16313,9 @@ Currently installed version: %1</source>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>選択した %1 個のサーバーを削除しようとしています。この操作は取り消せず、サーバーはリストから永久に削除されます。
+
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
@@ -16447,7 +16452,7 @@ Are you sure?</source>
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にシェーダーパックを更新すると、パックの重複やゲームのクラッシュが起きる可能性があります。
-古いファイルは使用中の場合、削除されません。
+古いファイルは使用中の場合、削除できないことがあります。
 本当に実行しますか？</translation>
     </message>
     <message>
@@ -16943,7 +16948,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックを展開できませんでした: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17013,7 +17018,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックを展開できませんでした: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -17047,12 +17052,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;bin/modpack.jar&quot; ファイルを開けません: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;fmlversion.properties&quot; を開けません: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17063,7 +17068,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; を開けません: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -17190,7 +17195,7 @@ inheritsFromがありません</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Update</source>
@@ -17324,7 +17329,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation>ゲームの実行中にテクスチャーパックを更新すると、パックの重複やゲームのクラッシュが起きる可能性があります。
-古いファイルは使用中の場合、削除されません。
+古いファイルは使用中の場合、削除できないことがあります。
 本当に実行しますか？</translation>
     </message>
     <message>
@@ -17474,22 +17479,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>注意！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;インストールしようとしているModパックには、ModrinthやCurseForgeでホストされていないModが含まれています:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;悪意のあるModは、Discordなどのプラットフォームで共有されるリンクを通じて配布されることがよくあります。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;信頼できる配布元からのModパックのみをインポートすることを強くおすすめします。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>このModパックを信頼し、それでも続行する</translation>
     </message>
 </context>
 <context>
@@ -18422,23 +18427,24 @@ This world is hard linked elsewhere.</source>
     <message>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>警告: このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス: %1</translation>
+        <translation>警告: このワールドは他の場所からシンボリックリンクされています。編集すると元のファイルも変更されます。
+正規パス: %1</translation>
     </message>
     <message>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告: このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+        <translation>警告: このワールドは他の場所とハードリンクされています。編集すると元のファイルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>このワールドは別の場所からシンボリックリンクされています。編集すると元のファイルも変更されます。
+正規パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>このワールドは別の場所にハードリンクされています。編集すると元のファイルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
@@ -18559,12 +18565,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">ツール</translation>
+        <translation>ツール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したワールドに対して外部ツールを実行します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
@@ -18680,14 +18686,17 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のワールドを削除しようとしています。
+これらのワールドは永久に失われる可能性があります。
+
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="256"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドを削除中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="284"/>
@@ -18702,33 +18711,34 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールが追加されていません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定を開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Invalid command</source>
-        <translation type="unfinished">無効なコマンド</translation>
+        <translation>無効なコマンド</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールのコマンドが空です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールの起動に失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールを起動できませんでした。
+エラー: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="498"/>
