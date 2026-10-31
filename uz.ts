@@ -95,7 +95,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
         <source>&amp;Technic</source>
-        <translation>&amp;Teçnic</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <source>API Keys</source>
@@ -3882,7 +3882,7 @@ Haqiqatan ham buni qilmoqçimisiz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Texnik modlar töplamlari (ZIP)</translation>
+        <translation>- Technic modlar töplamlari (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
