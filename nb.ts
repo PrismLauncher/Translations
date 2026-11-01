@@ -59,7 +59,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Du kan sette dette til en annen server hvis du har problemer med å laste ned gamle FML-biblioteker (Minecraft 1.5.2 og tidligere).</translation>
+        <translation>Du kan velge en annen server hvis du har problemer med å laste ned gamle FML-biblioteker (Minecraft 1.5.2 og tidligere).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>Aktiver fallback til Modrinth for blokkerte mods</translation>
+        <translation>Bruk Modrinth som alternativ for blokkerte mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -796,7 +796,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>Vis kattepakkemappen.</translation>
+        <translation>Se kattepakkemappen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
@@ -843,7 +843,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation>Slå på katt</translation>
+        <translation>Aktiver katt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
@@ -858,12 +858,12 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
-        <translation>Fyll ut</translation>
+        <translation>Fyll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
-        <translation>Strekk ut</translation>
+        <translation>Strekk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
@@ -1292,7 +1292,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
         <source>Preparing to log in...</source>
-        <translation>Gjør klar til å logge inn...</translation>
+        <translation>Forbereder innlogging...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
@@ -1427,7 +1427,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Laster inn lokal fil</translation>
+        <translation>Laster inn lokal fil</translation>
     </message>
 </context>
 <context>
@@ -1916,7 +1916,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Klarte ikke å kopiere verden.</translation>
+        <translation>Kunne ikke kopiere verden.</translation>
     </message>
 </context>
 <context>
@@ -2055,7 +2055,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="202"/>
         <source>server</source>
-        <translation>tjener</translation>
+        <translation>server</translation>
     </message>
 </context>
 <context>
@@ -2088,7 +2088,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation>&amp;Forhåndslast kommando</translation>
+        <translation>&amp;Førinnlastingskommando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
@@ -2113,7 +2113,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Forhåndsstart-kommandoen kjører for instanset starter og etter-utgangs-kommandoen kjører etter den stoppes.&lt;/p&gt;&lt;p&gt;Begge kjøres mod lasterens arbeidsmappe med ekstra miljøvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens navn&lt;/li&gt;&lt;li&gt;$INST_ID - Instansens ID (mappe navn)&lt;/li&gt;&lt;li&gt;$INST_DIR - Absolutt sti til instansen&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Absolutt sti til Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binæren brukt for oppstart&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Kommando-linjeparametere brukt for oppstart (advarsel: vil ikke fungere korrekt hvis argumentene inneholder mellomrom)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandoen tillater oppstart ved hjelp av et ekstra wrapper-program (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Forhåndsstart-kommandoen kjører før instansen starter og etter-utgangskommandoen kjører etter den stoppes.&lt;/p&gt;&lt;p&gt;Begge kjøres i mod lasterens arbeidsmappe med ekstra miljøvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens navn&lt;/li&gt;&lt;li&gt;$INST_ID - Instansens ID (mappe navn)&lt;/li&gt;&lt;li&gt;$INST_DIR - Absolutt sti til instansen&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Absolutt sti til Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binæren brukt for oppstart&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Kommando-linjeparametere brukt for oppstart (advarsel: vil ikke fungere korrekt hvis argumentene inneholder mellomrom)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandoen tillater oppstart ved hjelp av et ekstra wrapper-program (som «optirun» på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2311,12 +2311,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="176"/>
         <source>The size of the data pack.</source>
-        <translation>Størrelsen på datapakken.</translation>
+        <translation>Datapakkens størrelse.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="178"/>
         <source>The file name of the data pack.</source>
-        <translation>Filnavnet på datapakken.</translation>
+        <translation>Datapakkens filnavn</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2481,7 +2481,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Fikk ikke slettet verden.</translation>
+        <translation>Kunne ikke slette verden.</translation>
     </message>
 </context>
 <context>
@@ -2529,11 +2529,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>Systemet har økt minnebelastning.  
+        <translation>Systemet har er under økt minnebelastning.  
 Dette kan føre til hakking eller treghet.  
 Hvis mulig, lukk andre apper før du fortsetter.  
 
-Vil du starte uansett?</translation>
+Vil du starte likevel?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2542,7 +2542,7 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation>Systemet ditt har kritisk minnepress.
+        <translation>Systemet ditt er under kritisk minnepress.
 
 Dette kan føre til kraftige tregheter, krasj eller ustabilitet i systemet.
 
@@ -2558,7 +2558,7 @@ Vil du starte likevel?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
         <source>The system is under high memory pressure</source>
-        <translation>Systemet har høyt minnepress</translation>
+        <translation>Systemet er under høyt minnepress</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2578,7 +2578,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
 Maks tildelt: %1 MiB
 Ledig: %2 MiB (av totalt %3 MiB)
 
-Vil du starte uansett? Dette kan føre til treghet i spillet og systemet ditt.</translation>
+Vil du starte likevel? Dette kan føre til treghet i spillet og systemet ditt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
@@ -2629,7 +2629,7 @@ Vil du starte uansett? Dette kan føre til treghet i spillet og systemet ditt.</
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-Denne instansen kan ikke startes fordi noen biblioteker mangler eller ikke er lastet ned ennå. Prøv igjen i nettmodus med en fungerende internettforbindelse.</translation>
+Denne instansen kan ikke startes fordi noen biblioteker mangler eller ikke er lastet ned ennå. Prøv igjen i onlinemodus med en fungerende internettforbindelse.</translation>
     </message>
 </context>
 <context>
@@ -3347,12 +3347,12 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Fjern</translation>
+        <translation>&amp;Fjern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
@@ -3425,7 +3425,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation>Den valgte filen kan ikke kjøres</translation>
+        <translation>Den valgte filen er ikke kjørbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
@@ -3612,7 +3612,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Ugyldig manifest: Det finnes ingen informasjon tilgjengelig for å laste ned filen &apos;%1&apos;!</translation>
+        <translation>Ugyldig manifest: Det finnes ingen tilgjengelig informasjon for å laste ned filen «%1»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="211"/>
@@ -3632,7 +3632,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laster ned modifikasjoner...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
@@ -3831,17 +3831,17 @@ Prøv på nytt.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente de gamle filene.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunne ikke hente de gamle filene fordi oppgaven ble avbrutt. Dette kan føre til at noen av filene blir duplisert. Vil du fortsette?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunne ikke hente de gamle filene fordi: %1. Dette kan føre til at noen av filene blir duplisert. Vil du fortsette?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
@@ -4172,12 +4172,12 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorter etter spillsesjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorter etter Installasjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
@@ -4201,7 +4201,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk: Mange nylige FTB-modifikasjonspakker er også tilgjengelige fra CurseForge!</translation>
     </message>
 </context>
 <context>
@@ -4340,12 +4340,12 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="22"/>
         <source>Icon category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonkategori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="42"/>
         <source>Search Icons...</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk etter ikoner...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4354,12 +4354,12 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
@@ -4369,12 +4369,12 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikasjonspakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Skreddersydd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="162"/>
@@ -4417,7 +4417,7 @@ Prøv på nytt.</translation>
     <name>ImgurUpload</name>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke åpne fil %1 for lesing: %2</translation>
     </message>
 </context>
 <context>
@@ -4637,7 +4637,7 @@ Prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer en sekundær laster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
@@ -7685,7 +7685,7 @@ Grunn:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosessen kunne ikke starte: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -7722,7 +7722,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>For å spille Minecraft, må du ha minst en Microsoft bruker logget inn. Ønsker du å logge inn nå?</translation>
+        <translation>For å spille Minecraft, må du ha minst en Microsoft-bruker logget inn. Ønsker du å logge inn nå?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -7735,7 +7735,7 @@ Grunn:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="37"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Mappe finnes ikke</translation>
+        <translation>Mappen finnes ikke</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
@@ -17452,7 +17452,7 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live er ikke tilgjengelig i ditt land. Du har blitt blokkert.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
@@ -17464,17 +17464,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne Microsoft-kontoen krever aldersbevis for å spille. Logg inn på %1 for å gi aldersbevis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne Microsoft-kontoen har nådd spilletidsgrensen sin. Denne Microsoft-kontoen har blitt blokkert fra å logge inn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne Microsoft-kontoen ble bannlyst fra Xbox for brudd på en eller flere av Xbox&apos; felleskapsstandarder og kan ikke benyttes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
@@ -17484,14 +17484,16 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne Microsoft-kontoen har ikke akseptert Xbox&apos; tjenestevilkår. Logg inn og aksepter dem.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS-autentisering endte med ukjent(e) feil:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -17514,13 +17516,13 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Logget inn some en Xbox bruker.</translation>
+        <translation>Logger inn som en Xbox-bruker.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-brukerautentisering mislyktes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
