@@ -1957,7 +1957,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>В Windows для создания символических ссылок может потребоваться разрешение администратора.</translation>
+        <translation>В Windows для создания символических ссылок могут потребоваться права администратора.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
@@ -5540,7 +5540,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось скопировать шаблон экземпляра. Экземпляр всё же был создан, но содержит лишь часть файлов шаблона или не содержит их вовсе.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -7435,12 +7435,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка, которая может быть скопирована в новые экземпляры при создании, можно включить для каждого экземпляра отдельно. Полезно для файла options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шаблон экземпляра:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -7673,7 +7673,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка шаблона экземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -8947,12 +8947,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шаблон экземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку шаблона в файловом менеджере.</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -12995,17 +12995,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать шаблон экземпляра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог шаблона не существует.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">В Windows для создания символических ссылок может потребоваться разрешение администратора.</translation>
+        <translation>В Windows для создания символических ссылок могут потребоваться права администратора.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
