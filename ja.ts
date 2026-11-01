@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="392"/>
         <source>Enable fallback to Modrinth for blocked mods</source>
-        <translation>ブロックされた Mod を Modrinth から取得する</translation>
+        <translation>ブロックされたModをModrinthから取得する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="415"/>
@@ -853,22 +853,22 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
-        <translation>猫の拡大方法</translation>
+        <translation>猫のサイズ調整</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
-        <translation>フィット</translation>
+        <translation>拡大せずに収める</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
         <source>Fill</source>
-        <translation>満たす</translation>
+        <translation>領域に合わせる</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
-        <translation>伸縮</translation>
+        <translation>引き伸ばす</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
@@ -3371,12 +3371,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="389"/>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation> (%1個インストール済み, %2個有効, %3個選択中)</translation>
+        <translation> (インストール済み %1 個、有効 %2 個、選択中 %3 個)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="394"/>
         <source> (%1 installed, %2 enabled)</source>
-        <translation> (%1個インストール済み, %2個有効)</translation>
+        <translation> (インストール済み %1 個、有効 %2 個)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3390,7 +3390,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (インストール済み %1 個, 選択中 %2 個)</translation>
+        <translation> (インストール済み %1 個、選択中 %2 個)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
