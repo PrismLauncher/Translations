@@ -13876,7 +13876,7 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke åpne fil %1 for lesing: %2</translation>
     </message>
 </context>
 <context>
