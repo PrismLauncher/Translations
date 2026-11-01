@@ -4724,7 +4724,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar chóipeáil an teimpléid instanse. Cruthaíodh an instanse mar sin féin, ach níl ach comhaid teimpléid pháirteacha ann, nó níl aon chomhaid teimpléid ann ar chor ar bith.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -6488,12 +6488,12 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán a d’fhéadfaí a chóipeáil chuig instáinsí nua nuair a chruthaítear iad; is féidir é a chumasú nó a dhíchumasú do gach instáinsí ar leith. Úsáideach i gcás options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sampla &amp;Teimpléad:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -6640,7 +6640,7 @@ Moltar rochtain a thabhairt do %1 air trí Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fillteán Teimpléid Samplaí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -7790,12 +7790,12 @@ Cúis:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Sampla &amp;Teimpléad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscail an fillteán teimpléad i mbrabhsálaí comhad.</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -10742,17 +10742,17 @@ Nuashonraigh %1 le do thoil!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsáid teimpléad instanse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Níl an eolaire teimpléad ann.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Ar Windows, d’fhéadfadh go mbeadh cead riarthóra ag teastáil chun naisc shiombalacha a chruthú.</translation>
+        <translation>Ar Windows, d’fhéadfadh cead riarthóra a bheith ag teastáil chun naisc shiombalacha a chruthú.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
