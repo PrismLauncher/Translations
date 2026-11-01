@@ -5246,7 +5246,7 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanssimallin kopioiminen epäonnistui. Instanssi on silti luotu, mutta sisältää vain osittaisia tai ei mallitiedostoja.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -5982,12 +5982,12 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation>Polku Java %1 -suoritettavalle käytettäväksi instanssille, jotka tarvitsevat sitä. Jätä tyhjäksi käyttääksesi automaattisesti valittua.</translation>
+        <translation>Polku suoritettavalle Java %1 -tiedostolle käytettäväksi instanssille, jotka tarvitsevat sitä. Jätä tyhjäksi käyttääksesi automaattisesti valittua.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation>Valitse Java %1 -suoritettava tiedostojärjestelmästä.</translation>
+        <translation>Valitse suoritettava Java %1 -tiedosto tiedostojärjestelmästä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
@@ -6016,7 +6016,7 @@ Voit muuttaa Java-version myöhemmin asetuksista.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation>Löydä Java %1 -suoritettava</translation>
+        <translation>Löydä suoritettava Java %1 -tiedosto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
@@ -7013,12 +7013,12 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansio, joka saattaa kopioitua uusiin instansseihin luonnissa, voidaan vaihtaa instanssikohtaisesti. Hyödyllinen options.txt:lle.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanssi &amp;Malli:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
@@ -7285,7 +7285,7 @@ Luvan myöntäminen %1:lle Flatseal:illa on suositeltua.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanssimalllikansio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -8644,12 +8644,12 @@ Syy:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanssi &amp;Malli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa mallikansio tiedostonhallintaohjelmassa.</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -12002,17 +12002,17 @@ Päivitä %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä instanssimallia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallikansiota ei ole olemassa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Windowsilla, symbolisten linkkien luonti saattaa vaatia järjestelmänvalvojan oikeuksia.</translation>
+        <translation>Windowsilla symboliset linkit saattavat vaatia järjestelmänvalvojan oikeuksia luomiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
