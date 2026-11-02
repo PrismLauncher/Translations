@@ -5977,7 +5977,7 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation>メジャーバージョンごとに使用するJavaを固定します。ランチャーが起動構成のJavaを自動的に選択するとき、要求されるバージョンに一致する固定済みのインストールが優先されます。</translation>
+        <translation>使用するJavaをメジャーバージョンごとに固定します。ランチャーが起動構成のJavaを自動的に選択するとき、要求されるバージョンに一致する固定済みのJavaが優先されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
