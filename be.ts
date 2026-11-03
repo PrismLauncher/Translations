@@ -8375,6 +8375,13 @@ Please check your trashbin to manually restore them.</source>
         <translation>Гэты асобнік недаступны для рэдагавання. Магчыма, ён пашкоджаны, ня дзейнічае або занадта састарэў. Праверце журналы для атрымання падрабязнай інфармацыі.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
+        <source>Metadata cache clear Failed!
+To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Паспяхова дададзены %1 у PATH</translation>
@@ -8481,7 +8488,6 @@ URL-адрас:
         <translation>Група ўжо існуе. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
