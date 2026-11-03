@@ -9448,7 +9448,9 @@ Microsoft 계정을 추가하세요.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터 캐시를 지우지 못하였습니다!
+메타데이터 캐시를 수동으로 지우려면 [폴더] → [런처 데이터]를 누른 다음, 런처를 닫은 뒤 &apos;meta&apos;라는 이름의 폴더를 삭제하십시오.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
