@@ -9517,7 +9517,9 @@ Please add your Microsoft or Mojang account.</oldsource>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>元数据缓存清除失败！
+若要手动清除元数据缓存，请点击文件夹 -&gt; 启动器数据，接着关闭启动器并删除名为“meta”的文件夹
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
