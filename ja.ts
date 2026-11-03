@@ -9190,7 +9190,9 @@ Microsoftアカウントを追加してください。</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータキャッシュのクリアに失敗しました！
+メタデータキャッシュを手動でクリアするには、「フォルダ」→「ランチャーのデータ」を選択し、ランチャーを終了してから「meta」という名前のフォルダを削除してください。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
@@ -9279,7 +9281,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>No Instance Selected</source>
-        <translation>起動構成が選択されていません</translation>
+        <translation>起動構成は未選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
