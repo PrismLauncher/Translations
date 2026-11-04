@@ -213,114 +213,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">ไม่เข้าใจรายการแพ็ค:
+        <translation>ไม่เข้าใจรายการแพ็ค:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ %1</translation>
+        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
+        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">โหมดการติดตั้งที่ไม่รองรับ</translation>
+        <translation>โหมดการติดตั้งที่ไม่รองรับ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">กำลังลบไฟล์ที่มีอยู่...</translation>
+        <translation>กำลังลบไฟล์ที่มีอยู่...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">ประเภทม็อดที่ไม่รู้จัก: %1</translation>
+        <translation>ประเภทม็อดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
+        <translation>ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
+        <translation>ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
+        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">กำลังดาวน์โหลดค่ากำหนด...</translation>
+        <translation>กำลังดาวน์โหลดค่ากำหนด...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">ดาวน์โหลดค่ากำหนด</translation>
+        <translation>ดาวน์โหลดค่ากำหนด</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">กำลังแยกค่ากำหนด...</translation>
+        <translation>กำลังแยกค่ากำหนด...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">เกิดข้อผิดพลาดในการเปิดแพ็คค่ากำหนด %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">กำลังเลือกม็อดเสริม...</translation>
+        <translation>กำลังเลือกม็อดเสริม...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">กำลังดาวน์โหลดม็อด...</translation>
+        <translation>กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">ดาวน์โหลดม็อด</translation>
+        <translation>ดาวน์โหลดม็อด</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รองรับ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
+        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">พบม็อดที่ถูกบล็อก</translation>
+        <translation>พบม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">ไฟล์ต่อไปนี้ไม่พร้อมให้ดาวน์โหลดในตัวเรียกใช้งานของบุคคลที่สาม&lt;br/&gt;คุณจะต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเองและเพิ่มลงในอินสแตนซ์</translation>
+        <translation>ไฟล์ต่อไปนี้ไม่พร้อมให้ดาวน์โหลดในตัวเรียกใช้งานของบุคคลที่สาม&lt;br/&gt;คุณจะต้องดาวน์โหลดไฟล์เหล่านี้ด้วยตนเองและเพิ่มลงในอินสแตนซ์</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
+        <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">เกิดข้อผิดพลาดในการแยกม็อด...</translation>
+        <translation>เกิดข้อผิดพลาดในการแยกม็อด...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">กำลังแยกม็อด...</translation>
+        <translation>กำลังแยกม็อด...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">กำลังติดตั้งม็อดแพ็ค</translation>
+        <translation>กำลังติดตั้งม็อดแพ็ค</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
+        <translation>ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
+        <translation>ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
+        <translation>สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -1453,9 +1485,8 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>กำลังโหลดไฟล์ในเครื่อง</translation>
+        <translation type="vanished">กำลังโหลดไฟล์ในเครื่อง</translation>
     </message>
 </context>
 <context>
@@ -1946,9 +1977,8 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <translation>กำลังคัดลอกโลก...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>คัดลอกโลกไม่สำเร็จ</translation>
+        <translation type="vanished">คัดลอกโลกไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -2507,9 +2537,8 @@ Are you sure?</source>
         <translation>กำลังลบโลก...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>การลบโลกล้มเหลว</translation>
+        <translation type="vanished">การลบโลกล้มเหลว</translation>
     </message>
 </context>
 <context>
@@ -3742,6 +3771,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>มายคราฟ %1</translation>
     </message>
@@ -4727,9 +4758,8 @@ What would you like to do with %2?</source>
         <translation>กำลังนำเข้าโลก...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>เกิดข้อผิดพลาดในการนำเข้าโลก</translation>
+        <translation type="vanished">เกิดข้อผิดพลาดในการนำเข้าโลก</translation>
     </message>
 </context>
 <context>
@@ -7418,15 +7448,6 @@ Reason:
     </message>
 </context>
 <context>
-    <name>ListModel</name>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="54"/>
@@ -8867,6 +8888,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation type="unfinished">กำลังโหลดไฟล์ในเครื่อง</translation>
     </message>
@@ -11263,137 +11285,84 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">โหมดการติดตั้งที่ไม่รองรับ</translation>
+        <translation type="obsolete">โหมดการติดตั้งที่ไม่รองรับ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
+        <translation type="obsolete">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">กำลังลบไฟล์ที่มีอยู่...</translation>
+        <translation type="obsolete">กำลังลบไฟล์ที่มีอยู่...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">ประเภทม็อดที่ไม่รู้จัก: %1</translation>
+        <translation type="obsolete">ประเภทม็อดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
+        <translation type="obsolete">ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
+        <translation type="obsolete">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
+        <translation type="obsolete">ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">กำลังดาวน์โหลดค่ากำหนด...</translation>
+        <translation type="obsolete">กำลังดาวน์โหลดค่ากำหนด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">ดาวน์โหลดค่ากำหนด</translation>
+        <translation type="obsolete">ดาวน์โหลดค่ากำหนด</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">กำลังแยกค่ากำหนด...</translation>
+        <translation type="obsolete">กำลังแยกค่ากำหนด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">กำลังเลือกม็อดเสริม...</translation>
+        <translation type="obsolete">กำลังเลือกม็อดเสริม...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">กำลังดาวน์โหลดม็อด...</translation>
+        <translation type="obsolete">กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
+        <translation type="obsolete">ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">พบม็อดที่ถูกบล็อก</translation>
+        <translation type="obsolete">พบม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
+        <translation type="obsolete">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">เกิดข้อผิดพลาดในการแยกม็อด...</translation>
+        <translation type="obsolete">เกิดข้อผิดพลาดในการแยกม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">กำลังแยกม็อด...</translation>
+        <translation type="obsolete">กำลังแยกม็อด...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
-        <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
+        <translation type="obsolete">ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
+        <translation type="obsolete">ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
+        <translation type="obsolete">สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -14854,6 +14823,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15400,6 +15370,14 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

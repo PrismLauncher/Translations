@@ -209,114 +209,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Không thể hiểu manifest của gói:
+        <translation>Không thể hiểu manifest của gói:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Không tải được metadata cục bộ cho %1</translation>
+        <translation>Không tải được metadata cục bộ cho %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
+        <translation>Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Chế độ cài đặt không được hỗ trợ</translation>
+        <translation>Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Đang xoá những tập tin hiện có...</translation>
+        <translation>Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Mod không rõ: %1</translation>
+        <translation>Mod không rõ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Không thể tìm thấy phiên bản cho %1</translation>
+        <translation>Không thể tìm thấy phiên bản cho %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Không có phiên bản loader nào được đặt cho modpack!</translation>
+        <translation>Không có phiên bản loader nào được đặt cho modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
+        <translation>Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Đang tải xuống config...</translation>
+        <translation>Đang tải xuống config...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Tải xuống config</translation>
+        <translation>Tải xuống config</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Đang giải nén config...</translation>
+        <translation>Đang giải nén config...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Không mở được gói config %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Đang chọn các mod tùy chọn...</translation>
+        <translation>Đang chọn các mod tùy chọn...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Đang tải xuống mod...</translation>
+        <translation>Đang tải xuống mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Tải xuống mod</translation>
+        <translation>Tải xuống mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Loại tải xuống không được hỗ trợ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Loại tải xuống không xác định: %1</translation>
+        <translation>Loại tải xuống không xác định: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Đã tìm thấy các mod bị chặn</translation>
+        <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
+        <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Đã xong %1 trên %2</translation>
+        <translation>Đã xong %1 trên %2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Giải nén mod thất bại...</translation>
+        <translation>Giải nén mod thất bại...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Đang giải nén mod...</translation>
+        <translation>Đang giải nén mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Đang cài đặt modpack</translation>
+        <translation>Đang cài đặt modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Không tạo được thành phần thư viện</translation>
+        <translation>Không tạo được thành phần thư viện</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Loại loader không xác định: </translation>
+        <translation>Loại loader không xác định: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Không tạo được thành phần gói</translation>
+        <translation>Không tạo được thành phần gói</translation>
     </message>
 </context>
 <context>
@@ -1462,9 +1494,8 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Đang tải tệp cục bộ</translation>
+        <translation type="vanished">Đang tải tệp cục bộ</translation>
     </message>
 </context>
 <context>
@@ -1955,9 +1986,8 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation>Đang sao chép thế giới...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Sao chép thế giới thất bại.</translation>
+        <translation type="vanished">Sao chép thế giới thất bại.</translation>
     </message>
 </context>
 <context>
@@ -2520,9 +2550,8 @@ Bạn có chắc không?</translation>
         <translation>Đang xóa thế giới...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Xóa thế giới thất bại.</translation>
+        <translation type="vanished">Xóa thế giới thất bại.</translation>
     </message>
 </context>
 <context>
@@ -3769,6 +3798,8 @@ Vui lòng thử lại.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4822,9 +4853,8 @@ Bạn muốn làm gì với %2?</translation>
         <translation>Đang nhập thế giới...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Nhập thế giới không thành công.</translation>
+        <translation type="vanished">Nhập thế giới không thành công.</translation>
     </message>
 </context>
 <context>
@@ -7849,10 +7879,8 @@ Lý do:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9671,6 +9699,7 @@ Bạn chắc chắn chứ?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Đang tải tệp cục bộ</translation>
     </message>
@@ -12652,138 +12681,106 @@ Bạn có chắc không?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Không thể hiểu tệp manifest của gói:
+        <translation type="vanished">Không thể hiểu tệp manifest của gói:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Chế độ cài đặt không được hỗ trợ</translation>
+        <translation type="vanished">Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Không thể lấy chỉ mục siêu dữ liệu cục bộ cho &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Không thể lấy chỉ mục siêu dữ liệu cục bộ cho &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Đang xoá những tập tin hiện có...</translation>
+        <translation type="vanished">Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>không rõ loại mod : %1</translation>
+        <translation type="vanished">không rõ loại mod : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Không tải được chỉ mục metadata cục bộ cho %1</translation>
+        <translation type="vanished">Không tải được chỉ mục metadata cục bộ cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Không tìm thấy phiên bản cho loader %1</translation>
+        <translation type="vanished">Không tìm thấy phiên bản cho loader %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Chưa thiết lập phiên bản loader cho modpack!</translation>
+        <translation type="vanished">Chưa thiết lập phiên bản loader cho modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
+        <translation type="vanished">Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Đang tải xuống config...</translation>
+        <translation type="vanished">Đang tải xuống config...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>cài đặt tải xuống</translation>
+        <translation type="vanished">cài đặt tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Đang giải nén cấu hình...</translation>
+        <translation type="vanished">Đang giải nén cấu hình...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Đang chọn các mod tùy chọn...</translation>
+        <translation type="vanished">Đang chọn các mod tùy chọn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Đang tải mod...</translation>
+        <translation type="vanished">Đang tải mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Tải xuống mod</translation>
+        <translation type="vanished">Tải xuống mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Loại tải xuống không xác định: %1</translation>
+        <translation type="vanished">Loại tải xuống không xác định: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Đã tìm thấy các mod bị chặn</translation>
+        <translation type="vanished">Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Các tệp sau đây không có sẵn để tải xuống trên các launcher bên thứ ba.&lt;br/&gt;Bạn sẽ cần phải tải xuống thủ công và thêm chúng vào bản instance.</translation>
+        <translation type="vanished">Các tệp sau đây không có sẵn để tải xuống trên các launcher bên thứ ba.&lt;br/&gt;Bạn sẽ cần phải tải xuống thủ công và thêm chúng vào bản instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>Đã xong %1 trên %2</translation>
+        <translation type="vanished">Đã xong %1 trên %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Giải nén các mod thất bại...</translation>
+        <translation type="vanished">Giải nén các mod thất bại...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Đang giải nén mod...</translation>
+        <translation type="vanished">Đang giải nén mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Đang cài đặt modpack</translation>
+        <translation type="vanished">Đang cài đặt modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Không tạo được thành phần thư viện</translation>
+        <translation type="vanished">Không tạo được thành phần thư viện</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Loại loader không xác định: </translation>
+        <translation type="vanished">Loại loader không xác định: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Không tạo được thành phần gói</translation>
+        <translation type="vanished">Không tạo được thành phần gói</translation>
     </message>
 </context>
 <context>
@@ -16623,6 +16620,7 @@ Bạn có chắc?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Url không hợp lệ</translation>
     </message>
@@ -17329,11 +17327,12 @@ Bạn có chắc?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 đã dịch
 %3 fuzzy
 %4 tổng cộng</translation>

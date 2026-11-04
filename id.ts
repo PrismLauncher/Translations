@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Tidak dapat memahami manifest paket:
+        <translation>Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
+        <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Mode instalasi tidak didukung</translation>
+        <translation>Mode instalasi tidak didukung</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Menghapus file yang ada...</translation>
+        <translation>Menghapus file yang ada...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Jenis mod tidak diketahui: %1</translation>
+        <translation>Jenis mod tidak diketahui: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Gagal menemukan versi untuk pemuat %1</translation>
+        <translation>Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Versi pemuat tidak terpilih untuk modpack!</translation>
+        <translation>Versi pemuat tidak terpilih untuk modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
+        <translation>Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Mengunduh konfigurasi...</translation>
+        <translation>Mengunduh konfigurasi...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Pengunduhan konfigurasi</translation>
+        <translation>Pengunduhan konfigurasi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Mengekstrak konfigurasi...</translation>
+        <translation>Mengekstrak konfigurasi...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Gagal membuka konfigurasi paket %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Memilih mod opsional...</translation>
+        <translation>Memilih mod opsional...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Mengunduh mod...</translation>
+        <translation>Mengunduh mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Unduhan Mod</translation>
+        <translation>Unduhan Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Jenis unduhan yang tidak didukung: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Jenis unduhan tidak diketahui: %1</translation>
+        <translation>Jenis unduhan tidak diketahui: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Mod yang diblokir ditemukan</translation>
+        <translation>Mod yang diblokir ditemukan</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
+        <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 dari %2 selesai</translation>
+        <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Gagal mengekstrak mod...</translation>
+        <translation>Gagal mengekstrak mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Mengekstrak mod...</translation>
+        <translation>Mengekstrak mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Memasang modpack</translation>
+        <translation>Memasang modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Gagal membuat komponen pustaka</translation>
+        <translation>Gagal membuat komponen pustaka</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Jenis pemuat tidak diketahui: </translation>
+        <translation>Jenis pemuat tidak diketahui: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Gagal membuat komponen paket</translation>
+        <translation>Gagal membuat komponen paket</translation>
     </message>
 </context>
 <context>
@@ -1454,9 +1486,8 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Memuat file lokal</translation>
+        <translation type="vanished">Memuat file lokal</translation>
     </message>
 </context>
 <context>
@@ -1947,9 +1978,8 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation>Menyalin dunia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Gagal menyalin dunia.</translation>
+        <translation type="vanished">Gagal menyalin dunia.</translation>
     </message>
 </context>
 <context>
@@ -2512,9 +2542,8 @@ Apakah kamu yakin?</translation>
         <translation>Menghapus dunia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Gagal menghapus dunia.</translation>
+        <translation type="vanished">Gagal menghapus dunia.</translation>
     </message>
 </context>
 <context>
@@ -3789,6 +3818,8 @@ Coba ulang lagi.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4821,9 +4852,8 @@ Apa yang ingin Anda lakukan terhadap %2?</translation>
         <translation>Mengimpor dunia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Gagal mengimpor dunia.</translation>
+        <translation type="vanished">Gagal mengimpor dunia.</translation>
     </message>
 </context>
 <context>
@@ -7824,10 +7854,8 @@ Alasan:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9682,6 +9710,7 @@ Apakah Anda yakin?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Memuat berkas lokal</translation>
     </message>
@@ -12671,138 +12700,106 @@ Apakah Anda yakin?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Tidak dapat memahami manifest pack:
+        <translation type="vanished">Tidak dapat memahami manifest pack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Mode instalasi tidak didukung</translation>
+        <translation type="vanished">Mode instalasi tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Menghapus file yang sudah ada...</translation>
+        <translation type="vanished">Menghapus file yang sudah ada...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Jenis mod tidak dikenal: %1</translation>
+        <translation type="vanished">Jenis mod tidak dikenal: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Gagal menemukan versi untuk loader %1</translation>
+        <translation type="vanished">Gagal menemukan versi untuk loader %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Tidak ada versi loader yang ditetapkan untuk modpack!</translation>
+        <translation type="vanished">Tidak ada versi loader yang ditetapkan untuk modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Jenis unduhan tidak dikenal atau tidak didukung: %1</translation>
+        <translation type="vanished">Jenis unduhan tidak dikenal atau tidak didukung: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Mengunduh konfigurasi...</translation>
+        <translation type="vanished">Mengunduh konfigurasi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Unduhan konfigurasi</translation>
+        <translation type="vanished">Unduhan konfigurasi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Mengekstrak konfigurasi...</translation>
+        <translation type="vanished">Mengekstrak konfigurasi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Memilih mod opsional...</translation>
+        <translation type="vanished">Memilih mod opsional...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Mengunduh mod...</translation>
+        <translation type="vanished">Mengunduh mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Unduhan mod</translation>
+        <translation type="vanished">Unduhan mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Jenis unduhan tidak dikenal: %1</translation>
+        <translation type="vanished">Jenis unduhan tidak dikenal: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Mod yang diblokir ditemukan</translation>
+        <translation type="vanished">Mod yang diblokir ditemukan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>File berikut tidak tersedia untuk diunduh di launcher pihak ketiga.&lt;br/&gt;Anda perlu mengunduhnya secara manual dan menambahkannya ke instans.</translation>
+        <translation type="vanished">File berikut tidak tersedia untuk diunduh di launcher pihak ketiga.&lt;br/&gt;Anda perlu mengunduhnya secara manual dan menambahkannya ke instans.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 dari %2 selesai</translation>
+        <translation type="vanished">%1 dari %2 selesai</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Gagal mengekstrak mod...</translation>
+        <translation type="vanished">Gagal mengekstrak mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Mengekstrak mod...</translation>
+        <translation type="vanished">Mengekstrak mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Memasang modpack</translation>
+        <translation type="vanished">Memasang modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen library</translation>
+        <translation type="vanished">Gagal membuat komponen library</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Jenis loader tidak dikenal: </translation>
+        <translation type="vanished">Jenis loader tidak dikenal: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Gagal membuat komponen pack</translation>
+        <translation type="vanished">Gagal membuat komponen pack</translation>
     </message>
 </context>
 <context>
@@ -16642,6 +16639,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Tautan tidak berlaku</translation>
     </message>
@@ -17375,11 +17373,12 @@ Apakah Anda yakin?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 diterjemahkan
 %3 kabur
 %4 jumlah</translation>

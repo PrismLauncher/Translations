@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Klarte ikke tolke pakkemanifestet:
+        <translation>Klarte ikke tolke pakkemanifestet:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Klarte ikke hente den lokale metadataindeksen for %1</translation>
+        <translation>Klarte ikke hente den lokale metadataindeksen for %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
+        <translation>Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Installasjonsmetode støttes ikke</translation>
+        <translation>Installasjonsmetode støttes ikke</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Sletter eksisterende filer …</translation>
+        <translation>Sletter eksisterende filer …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Ukjent modifikasjonstype: %1</translation>
+        <translation>Ukjent modifikasjonstype: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Klarte ikke finne versjon for %1-laster</translation>
+        <translation>Klarte ikke finne versjon for %1-laster</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Ingen lasterversjon satt for mod-pakken!</translation>
+        <translation>Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Ukjent eller ustøttet nedlastingstype: %1</translation>
+        <translation>Ukjent eller ustøttet nedlastingstype: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Laster ned oppsett …</translation>
+        <translation>Laster ned oppsett …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Sett opp nedlastinger</translation>
+        <translation>Sett opp nedlastinger</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Pakker ut oppsett …</translation>
+        <translation>Pakker ut oppsett …</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Klarte ikke åpne oppsettsfiler for pakkene %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Velger valgfrie modifikasjoner …</translation>
+        <translation>Velger valgfrie modifikasjoner …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Laster ned modifikasjoner …</translation>
+        <translation>Laster ned modifikasjoner …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Last ned mod</translation>
+        <translation>Last ned mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Ustøttet nedlastningstype: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Ukjent nedlastningstype: %1</translation>
+        <translation>Ukjent nedlastningstype: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Fant blokkerte modifikasjoner</translation>
+        <translation>Fant blokkerte modifikasjoner</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">De følgene filene er ikke tilgjengelige for nedlastning i tredjeparts-startprogrammer.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
+        <translation>De følgene filene er ikke tilgjengelige for nedlastning i tredjeparts-startprogrammer.&lt;br/&gt;Du må laste dem ned manuelt og legge dem til i instansen.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 av %2 fullført</translation>
+        <translation>%1 av %2 fullført</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Klarte ikke pakke ut modifikasjoner …</translation>
+        <translation>Klarte ikke pakke ut modifikasjoner …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Pakker ut modifikasjoner …</translation>
+        <translation>Pakker ut modifikasjoner …</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Installerer mod-pakke</translation>
+        <translation>Installerer mod-pakke</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Klarte ikke opprette bibliotekskomponent</translation>
+        <translation>Klarte ikke opprette bibliotekskomponent</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Ukjent innlastertype: </translation>
+        <translation>Ukjent innlastertype: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Klarte ikke opprette pakkekomponent</translation>
+        <translation>Klarte ikke opprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -1425,9 +1457,8 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Laster inn lokal fil</translation>
+        <translation type="vanished">Laster inn lokal fil</translation>
     </message>
 </context>
 <context>
@@ -1914,9 +1945,8 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <translation>Kopierer verden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Kunne ikke kopiere verden.</translation>
+        <translation type="vanished">Kunne ikke kopiere verden.</translation>
     </message>
 </context>
 <context>
@@ -2479,9 +2509,8 @@ Er du sikker?</translation>
         <translation>Sletter verden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Kunne ikke slette verden.</translation>
+        <translation type="vanished">Kunne ikke slette verden.</translation>
     </message>
 </context>
 <context>
@@ -3704,6 +3733,8 @@ Prøv på nytt.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4678,9 +4709,8 @@ What would you like to do with %2?</source>
         <translation>Importerer verden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Kunne ikke importere verden.</translation>
+        <translation type="vanished">Kunne ikke importere verden.</translation>
     </message>
 </context>
 <context>
@@ -7545,10 +7575,8 @@ Grunn:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9293,6 +9321,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Laster inn lokal fil</translation>
     </message>
@@ -11940,137 +11969,68 @@ Er du sikker?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Installasjonsmetode støttes ikke</translation>
+        <translation type="obsolete">Installasjonsmetode støttes ikke</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
+        <translation type="obsolete">Klarte ikke hente den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Sletter eksisterende filer …</translation>
+        <translation type="obsolete">Sletter eksisterende filer …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Ukjent modifikasjonstype: %1</translation>
+        <translation type="obsolete">Ukjent modifikasjonstype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
-        <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ingen lasterversjon satt for mod-pakken!</translation>
+        <translation type="obsolete">Ingen lasterversjon satt for mod-pakken!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Ukjent eller ustøttet nedlastingstype: %1</translation>
+        <translation type="obsolete">Ukjent eller ustøttet nedlastingstype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Laster ned oppsett …</translation>
+        <translation type="obsolete">Laster ned oppsett …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">Sett opp nedlastinger</translation>
+        <translation type="obsolete">Sett opp nedlastinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Pakker ut oppsett …</translation>
+        <translation type="obsolete">Pakker ut oppsett …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Velger valgfrie modifikasjoner …</translation>
+        <translation type="obsolete">Velger valgfrie modifikasjoner …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Ukjent nedlastningstype: %1</translation>
+        <translation type="obsolete">Ukjent nedlastningstype: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Klarte ikke pakke ut modifikasjoner …</translation>
+        <translation type="obsolete">Klarte ikke pakke ut modifikasjoner …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Pakker ut modifikasjoner …</translation>
+        <translation type="obsolete">Pakker ut modifikasjoner …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
-        <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Klarte ikke opprette bibliotekskomponent</translation>
+        <translation type="obsolete">Klarte ikke opprette bibliotekskomponent</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Ukjent innlastertype: </translation>
+        <translation type="obsolete">Ukjent innlastertype: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Klarte ikke opprette pakkekomponent</translation>
+        <translation type="obsolete">Klarte ikke opprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -15630,6 +15590,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16247,11 +16208,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 oversatt
 %3 uklar
 %4 totalt</translation>

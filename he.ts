@@ -201,114 +201,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">לא ניתן היה להבין את המניפסט של החבילה:
+        <translation>לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">נכשלה קבלת מפתח נתוני העל עבור %1</translation>
+        <translation>נכשלה קבלת מפתח נתוני העל עבור %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
+        <translation>לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">מצב ההתקנה לא נתמך</translation>
+        <translation>מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">הקבצים הקיימים נמחקים...</translation>
+        <translation>הקבצים הקיימים נמחקים...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">סוג מוד לא מוכר: %1</translation>
+        <translation>סוג מוד לא מוכר: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
+        <translation>לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
+        <translation>לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">סוג הורדה לא מוכר או לא נתמך: %1</translation>
+        <translation>סוג הורדה לא מוכר או לא נתמך: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">הגדרות התצורה מתקבלות...</translation>
+        <translation>הגדרות התצורה מתקבלות...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">הורדת הגדרות התצורה</translation>
+        <translation>הורדת הגדרות התצורה</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">הגדרות התצורה מחולצות...</translation>
+        <translation>הגדרות התצורה מחולצות...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">נכשל לפתוח הגדרות של %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">מודים רשותיים נבחרים...</translation>
+        <translation>מודים רשותיים נבחרים...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">המודים מתקבלים...</translation>
+        <translation>המודים מתקבלים...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">הורדת מוד</translation>
+        <translation>הורדת מוד</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">סוג הורדה לא נתמך: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">סוג הורדה לא מוכר: %1</translation>
+        <translation>סוג הורדה לא מוכר: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">מודים חסומים נמצאו</translation>
+        <translation>מודים חסומים נמצאו</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
+        <translation>הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">הושלמו %1 מתוך %2</translation>
+        <translation>הושלמו %1 מתוך %2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">חילוץ המודים נכשל...</translation>
+        <translation>חילוץ המודים נכשל...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">המודים מחולצים...</translation>
+        <translation>המודים מחולצים...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">חבילת המודים בהתקנה</translation>
+        <translation>חבילת המודים בהתקנה</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">יצירת רכיב ספריות נכשלה</translation>
+        <translation>יצירת רכיב ספריות נכשלה</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">סוג טוען מודים לא ידוע: </translation>
+        <translation>סוג טוען מודים לא ידוע: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">נכשלה יצירת רכיב החבילה</translation>
+        <translation>נכשלה יצירת רכיב החבילה</translation>
     </message>
 </context>
 <context>
@@ -1450,9 +1482,8 @@ Some versions of Minecraft may not launch.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">הקובץ המקומי נטען</translation>
+        <translation type="obsolete">הקובץ המקומי נטען</translation>
     </message>
 </context>
 <context>
@@ -1935,9 +1966,8 @@ Some versions of Minecraft may not launch.
         <translation>העולם מועתק...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>העתקת העולם נכשלה.</translation>
+        <translation type="vanished">העתקת העולם נכשלה.</translation>
     </message>
 </context>
 <context>
@@ -2496,9 +2526,8 @@ Are you sure?</source>
         <translation>העולם נמחק...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>מחיקת העולם נכשלה.</translation>
+        <translation type="vanished">מחיקת העולם נכשלה.</translation>
     </message>
 </context>
 <context>
@@ -3752,6 +3781,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>‎Minecraft %1</translation>
     </message>
@@ -4767,9 +4798,8 @@ What would you like to do with %2?</source>
         <translation>העולם מיובא...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>ייבוא העולם נכשל.</translation>
+        <translation type="vanished">ייבוא העולם נכשל.</translation>
     </message>
 </context>
 <context>
@@ -7263,10 +7293,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">‎Minecraft %1</translation>
+        <translation type="obsolete">‎Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8857,6 +8885,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>הקובץ המקומי נטען</translation>
     </message>
@@ -11388,137 +11417,84 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>מצב ההתקנה לא נתמך</translation>
+        <translation type="vanished">מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>נכשלה קבלת נתוני העל המקומיים עבור גרסה %2 של ‚%1’</translation>
+        <translation type="vanished">נכשלה קבלת נתוני העל המקומיים עבור גרסה %2 של ‚%1’</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>הקבצים הקיימים נמחקים...</translation>
+        <translation type="vanished">הקבצים הקיימים נמחקים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>סוג מוד לא מוכר: %1</translation>
+        <translation type="vanished">סוג מוד לא מוכר: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
-        <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>סוג הורדה לא מוכר או לא נתמך: %1</translation>
+        <translation type="vanished">סוג הורדה לא מוכר או לא נתמך: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>הגדרות התצורה מתקבלות...</translation>
+        <translation type="vanished">הגדרות התצורה מתקבלות...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>הורדת הגדרות התצורה</translation>
+        <translation type="vanished">הורדת הגדרות התצורה</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>הגדרות התצורה מחולצות...</translation>
+        <translation type="vanished">הגדרות התצורה מחולצות...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">מודים אופציונליים נבחרים...</translation>
+        <translation type="obsolete">מודים אופציונליים נבחרים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>המודים בהורדה...</translation>
+        <translation type="vanished">המודים בהורדה...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>הורדת מוד</translation>
+        <translation type="vanished">הורדת מוד</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>סוג הורדה לא מוכר: %1</translation>
+        <translation type="vanished">סוג הורדה לא מוכר: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>נמצאו מודים חסומים</translation>
+        <translation type="vanished">נמצאו מודים חסומים</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>הושלמו %1 מתוך %2</translation>
+        <translation type="vanished">הושלמו %1 מתוך %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>חילוץ המודים נכשל...</translation>
+        <translation type="vanished">חילוץ המודים נכשל...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>המודים מחולצים...</translation>
+        <translation type="vanished">המודים מחולצים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>ערכת המודים בתהליך התקנה</translation>
+        <translation type="vanished">ערכת המודים בתהליך התקנה</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>נכשלה יצירת רכיב הספריות</translation>
+        <translation type="vanished">נכשלה יצירת רכיב הספריות</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">סוג טוען מודים לא ידוע: </translation>
+        <translation type="obsolete">סוג טוען מודים לא ידוע: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">נכשלה יצירת רכיב החבילה</translation>
+        <translation type="obsolete">נכשלה יצירת רכיב החבילה</translation>
     </message>
 </context>
 <context>
@@ -15039,6 +15015,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15665,6 +15642,14 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

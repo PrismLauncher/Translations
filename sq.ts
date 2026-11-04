@@ -200,110 +200,142 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nuk mund ta kuptoja manifestin e paketës:
+        <translation>Nuk mund ta kuptoja manifestin e paketës:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
+        <translation>Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
+        <translation>Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Modaliteti i instalimit i pambështetur</translation>
+        <translation>Modaliteti i instalimit i pambështetur</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Po fshin skedarët ekzistues...</translation>
+        <translation>Po fshin skedarët ekzistues...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Lloji i panjohur i modalitetit: %1</translation>
+        <translation>Lloji i panjohur i modalitetit: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
+        <translation>Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
+        <translation>Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
+        <translation>Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Po shkarkon konfigurimet...</translation>
+        <translation>Po shkarkon konfigurimet...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Shkarkimi i konfigurimit</translation>
+        <translation>Shkarkimi i konfigurimit</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Po nxjerr konfigurimet...</translation>
+        <translation>Po nxjerr konfigurimet...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Dështoi në hapjen e konfigurimeve të paketës %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Zgjedhja e modaliteteve opsionale...</translation>
+        <translation>Zgjedhja e modaliteteve opsionale...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Po shkarkon modalitetet...</translation>
+        <translation>Po shkarkon modalitetet...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Shkarkimi i modës</translation>
+        <translation>Shkarkimi i modës</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Lloji i panjohur i shkarkimit: %1</translation>
+        <translation>Lloji i panjohur i shkarkimit: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">U gjetën modalitete të bllokuara</translation>
+        <translation>U gjetën modalitete të bllokuara</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation>Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 nga %2 ka përfunduar</translation>
+        <translation>%1 nga %2 ka përfunduar</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Ekstraktimi i modaliteteve dështoi...</translation>
+        <translation>Ekstraktimi i modaliteteve dështoi...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Po nxjerr modalitete...</translation>
+        <translation>Po nxjerr modalitete...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Instalimi i modpack</translation>
+        <translation>Instalimi i modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Krijimi i komponentit të bibliotekave dështoi</translation>
+        <translation>Krijimi i komponentit të bibliotekave dështoi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Lloji i panjohur i ngarkuesit: </translation>
+        <translation>Lloji i panjohur i ngarkuesit: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Krijimi i komponentit të paketës dështoi</translation>
+        <translation>Krijimi i komponentit të paketës dështoi</translation>
     </message>
 </context>
 <context>
@@ -1201,9 +1233,8 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">Duke ngarkuar skedarin lokal</translation>
+        <translation type="obsolete">Duke ngarkuar skedarin lokal</translation>
     </message>
 </context>
 <context>
@@ -1678,9 +1709,8 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <translation>Po kopjohet bota...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Kopjimi i botës dështoi.</translation>
+        <translation type="vanished">Kopjimi i botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -2178,9 +2208,8 @@ Je i sigurt?</translation>
         <translation>Po fshihet bota...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Fshirja e botës dështoi.</translation>
+        <translation type="vanished">Fshirja e botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -3183,6 +3212,8 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4034,9 +4065,8 @@ What would you like to do with %2?</source>
         <translation>Po importohet bota...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Importimi i botës dështoi.</translation>
+        <translation type="vanished">Importimi i botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -5938,10 +5968,8 @@ Arsyeja:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7337,6 +7365,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Duke ngarkuar skedarin lokal</translation>
     </message>
@@ -9481,138 +9510,106 @@ Je i sigurt?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nuk u kuptua manifesti i paketës:
+        <translation type="vanished">Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Mënyrë instalimi e pambështetur</translation>
+        <translation type="vanished">Mënyrë instalimi e pambështetur</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Marrja e indeksit lokal të metadhënave për &apos;%1&apos; v%2 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit lokal të metadhënave për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Po fshihen skedarët ekzistues...</translation>
+        <translation type="vanished">Po fshihen skedarët ekzistues...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Lloj modi i panjohur: %1</translation>
+        <translation type="vanished">Lloj modi i panjohur: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Gjetja e versionit për ngarkuesin %1 dështoi</translation>
+        <translation type="vanished">Gjetja e versionit për ngarkuesin %1 dështoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nuk është caktuar version ngarkuesi për modpack-un!</translation>
+        <translation type="vanished">Nuk është caktuar version ngarkuesi për modpack-un!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Lloj shkarkimi i panjohur ose i pambështetur: %1</translation>
+        <translation type="vanished">Lloj shkarkimi i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Po shkarkohen konfigurimet...</translation>
+        <translation type="vanished">Po shkarkohen konfigurimet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Shkarkimi i konfigurimeve</translation>
+        <translation type="vanished">Shkarkimi i konfigurimeve</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Po nxirren konfigurimet...</translation>
+        <translation type="vanished">Po nxirren konfigurimet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Po zgjidhen modet opsionale...</translation>
+        <translation type="vanished">Po zgjidhen modet opsionale...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Po shkarkohen modet...</translation>
+        <translation type="vanished">Po shkarkohen modet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Shkarkimi i modeve</translation>
+        <translation type="vanished">Shkarkimi i modeve</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Lloj shkarkimi i panjohur: %1</translation>
+        <translation type="vanished">Lloj shkarkimi i panjohur: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>U gjetën mode të bllokuara</translation>
+        <translation type="vanished">U gjetën mode të bllokuara</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
+        <translation type="vanished">Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 nga %2 u përfundua</translation>
+        <translation type="vanished">%1 nga %2 u përfundua</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Nxjerrja e modeve dështoi...</translation>
+        <translation type="vanished">Nxjerrja e modeve dështoi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Po nxirren modet...</translation>
+        <translation type="vanished">Po nxirren modet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Po instalohet modpack-u</translation>
+        <translation type="vanished">Po instalohet modpack-u</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Krijimi i përbërësit të librarive dështoi</translation>
+        <translation type="vanished">Krijimi i përbërësit të librarive dështoi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Lloj ngarkuesi i panjohur: </translation>
+        <translation type="vanished">Lloj ngarkuesi i panjohur: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Krijimi i përbërësit të paketës dështoi</translation>
+        <translation type="vanished">Krijimi i përbërësit të paketës dështoi</translation>
     </message>
 </context>
 <context>
@@ -13113,6 +13110,7 @@ Jeni i sigurt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>URL e pavlefshme</translation>
     </message>
@@ -13635,11 +13633,12 @@ Jeni i sigurt?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 të përkthyera
 %3 të paqarta
 %4 gjithsej</translation>

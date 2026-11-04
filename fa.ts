@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">عدم توانایی در فهمیدن بسته manifest:
+        <translation>عدم توانایی در فهمیدن بسته manifest:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">گرفتن فهرست متادیتا داخلی برای %1 ناموفق بود</translation>
+        <translation>گرفتن فهرست متادیتا داخلی برای %1 ناموفق بود</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">گرفتن فهرست متادیتای لوکال برای &apos;%1&apos; v%2 ناموفق بود</translation>
+        <translation>گرفتن فهرست متادیتای لوکال برای &apos;%1&apos; v%2 ناموفق بود</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">نحوه‌ی نصب پشتیبانی نشده</translation>
+        <translation>نحوه‌ی نصب پشتیبانی نشده</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">در حال حذف فایل های موجود...</translation>
+        <translation>در حال حذف فایل های موجود...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">تایپ ماد ناشناخته: %1</translation>
+        <translation>تایپ ماد ناشناخته: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">پیدا کردن نسخه لودر %1 ناموفق بود</translation>
+        <translation>پیدا کردن نسخه لودر %1 ناموفق بود</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">نسخه‌ی لودر برای مادپک انتخاب نشده!</translation>
+        <translation>نسخه‌ی لودر برای مادپک انتخاب نشده!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">نوع دانلود ناشناخته یا پشتیبانی نشده: %1</translation>
+        <translation>نوع دانلود ناشناخته یا پشتیبانی نشده: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">در حال دانلود تنظیمات...</translation>
+        <translation>در حال دانلود تنظیمات...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">دانلود کانفیگ</translation>
+        <translation>دانلود کانفیگ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">استخراج کانفیگ ها...</translation>
+        <translation>استخراج کانفیگ ها...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">شکست در بازکردن بسته کانفیگ های %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">در حال انتخاب ماد های اختیاری...</translation>
+        <translation>در حال انتخاب ماد های اختیاری...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">درحال دانلود مادها...</translation>
+        <translation>درحال دانلود مادها...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">دانلود ماد</translation>
+        <translation>دانلود ماد</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">نوع دانلود پشتیبانی نشده: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">نوع دانلود ناشناخته: %1</translation>
+        <translation>نوع دانلود ناشناخته: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">ماد‌های مسدود شده پیدا شد</translation>
+        <translation>ماد‌های مسدود شده پیدا شد</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به اینستنس اضافه کنید.</translation>
+        <translation>این ‌فایل‌ها در لانچرهای شخص ثالث برای دانلود در دسترس نیستند. باید به صورت دستی دانلود کرده و به اینستنس اضافه کنید.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">1% از %2 تمام شده است</translation>
+        <translation>1% از %2 تمام شده است</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">شکست در استخراج مادها...</translation>
+        <translation>شکست در استخراج مادها...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">درحال استخراج مادها...</translation>
+        <translation>درحال استخراج مادها...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">درحال نصب مادپک</translation>
+        <translation>درحال نصب مادپک</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ساخت کامپوننت لایبرری‌ها ناموفق بود</translation>
+        <translation>ساخت کامپوننت لایبرری‌ها ناموفق بود</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">نوع لودر ناشناخته است: </translation>
+        <translation>نوع لودر ناشناخته است: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">ساخت کامپوننت پک ناموفق بود</translation>
+        <translation>ساخت کامپوننت پک ناموفق بود</translation>
     </message>
 </context>
 <context>
@@ -1417,9 +1449,8 @@ Some versions of Minecraft may not launch.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>درحال بارگذاری فایل محلی</translation>
+        <translation type="vanished">درحال بارگذاری فایل محلی</translation>
     </message>
 </context>
 <context>
@@ -1906,9 +1937,8 @@ Some versions of Minecraft may not launch.
         <translation>کپی کردن جهان ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>خطا در کپی کردن دنیا.</translation>
+        <translation type="vanished">خطا در کپی کردن دنیا.</translation>
     </message>
 </context>
 <context>
@@ -2453,9 +2483,8 @@ Are you sure?</source>
         <translation>در حال حذف دنیا...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>خطا در حذف دنیا.</translation>
+        <translation type="vanished">خطا در حذف دنیا.</translation>
     </message>
 </context>
 <context>
@@ -3710,6 +3739,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>ماینکرفت %1</translation>
     </message>
@@ -4726,9 +4757,8 @@ What would you like to do with %2?</source>
         <translation>در حال وارد کردن دنیا...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>وارد کردن دنیا با شکست مواجه شد.</translation>
+        <translation type="vanished">وارد کردن دنیا با شکست مواجه شد.</translation>
     </message>
 </context>
 <context>
@@ -7431,10 +7461,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>ماینکرفت %1</translation>
+        <translation type="vanished">ماینکرفت %1</translation>
     </message>
 </context>
 <context>
@@ -9020,6 +9048,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>درحال بارگذاری فایل محلی</translation>
     </message>
@@ -11550,137 +11579,68 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>نحوه‌ی نصب پشتیبانی نشده</translation>
+        <translation type="vanished">نحوه‌ی نصب پشتیبانی نشده</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>گرفتن اندیس متادیتای محلی برای 1% 2%v با شکست مواجه شد</translation>
+        <translation type="vanished">گرفتن اندیس متادیتای محلی برای 1% 2%v با شکست مواجه شد</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>در حال حذف فایل های موجود...</translation>
+        <translation type="vanished">در حال حذف فایل های موجود...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>نوع ماد ناشناخته: %1</translation>
+        <translation type="vanished">نوع ماد ناشناخته: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
-        <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>نوع بارگیری ناشناخته یا پشتیبانی نشده: %1</translation>
+        <translation type="vanished">نوع بارگیری ناشناخته یا پشتیبانی نشده: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>در حال دانلود کانفیگ ها...</translation>
+        <translation type="vanished">در حال دانلود کانفیگ ها...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>بارگیری کانفیگ</translation>
+        <translation type="vanished">بارگیری کانفیگ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>درحال استخراج کانفیگ ها...</translation>
+        <translation type="vanished">درحال استخراج کانفیگ ها...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>در حال انتخاب ماد های اختیاری...</translation>
+        <translation type="vanished">در حال انتخاب ماد های اختیاری...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>نوع دانلود ناشناخته: %1</translation>
+        <translation type="vanished">نوع دانلود ناشناخته: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>1% از %2 تکمیل شده است</translation>
+        <translation type="vanished">1% از %2 تکمیل شده است</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>شکست در استخراج مادها...</translation>
+        <translation type="vanished">شکست در استخراج مادها...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>درحال استخراج مادها...</translation>
+        <translation type="vanished">درحال استخراج مادها...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
-        <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>ساخت اجزای کتابخانه ها با شکست مواجه شد</translation>
+        <translation type="vanished">ساخت اجزای کتابخانه ها با شکست مواجه شد</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>نوع لودر ناشناخته است: • </translation>
+        <translation type="vanished">نوع لودر ناشناخته است: • </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>ساخت کامپوننت پک ناموفق بود</translation>
+        <translation type="vanished">ساخت کامپوننت پک ناموفق بود</translation>
     </message>
 </context>
 <context>
@@ -15237,6 +15197,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15861,11 +15822,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 ترجمه شده
 %3 جفنگ
 %4 درکل</translation>

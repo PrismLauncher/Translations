@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Αδυναμία αναγνώρισης του pack manifest:
+        <translation>Αδυναμία αναγνώρισης του pack manifest:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Άγνωστος τύπος mod: %1</translation>
+        <translation>Άγνωστος τύπος mod: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
+        <translation>Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
+        <translation>Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Λήψη ρυθμίσεων</translation>
+        <translation>Λήψη ρυθμίσεων</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Εξαγωγή ρυθμίσεων...</translation>
+        <translation>Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Αδυναμία ανοίγματος ρυθμίσεων πακέτου %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Επιλογή προαιρετικών mod...</translation>
+        <translation>Επιλογή προαιρετικών mod...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Λήψη mods...</translation>
+        <translation>Λήψη mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Λήψη Mod</translation>
+        <translation>Λήψη Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Mη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Άγνωστος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Μπλοκαρισμένα mods βρέθηκαν</translation>
+        <translation>Μπλοκαρισμένα mods βρέθηκαν</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
+        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Ολοκληρώθηκε 1% από 2%</translation>
+        <translation>Ολοκληρώθηκε 1% από 2%</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Αδυναμία εξαγωγής mods...</translation>
+        <translation>Αδυναμία εξαγωγής mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Εξαγωγή mods...</translation>
+        <translation>Εξαγωγή mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Εγκατάσταση modpack</translation>
+        <translation>Εγκατάσταση modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Άγνωστος τύπος φορτωτή: </translation>
+        <translation>Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -1406,9 +1438,8 @@ Some versions of Minecraft may not launch.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Γίνεται φόρτωση τοπικού αρχείου</translation>
+        <translation type="vanished">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -1894,9 +1925,8 @@ Some versions of Minecraft may not launch.
         <translation>Αντιγραφή κόσμου...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Αποτυχία αντιγραφής του κόσμου.</translation>
+        <translation type="vanished">Αποτυχία αντιγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -2441,9 +2471,8 @@ Are you sure?</source>
         <translation>Διαγράφωντας τον κόσμο...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Αποτυχία διαγραφής του κόσμου.</translation>
+        <translation type="vanished">Αποτυχία διαγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -3600,6 +3629,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4598,11 +4629,6 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
-        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7136,10 +7162,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8716,6 +8740,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation type="unfinished">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
@@ -11139,137 +11164,92 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation type="obsolete">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation type="obsolete">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation type="obsolete">Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Άγνωστος τύπος τροποποιήσης: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος τροποποιήσης: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
+        <translation type="vanished">Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
+        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
+        <translation type="vanished">Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation type="obsolete">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation type="obsolete">Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">Λήψη ρυθμίσεων</translation>
+        <translation type="obsolete">Λήψη ρυθμίσεων</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Εξαγωγή ρυθμίσεων...</translation>
+        <translation type="obsolete">Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Επιλογή προαιρετικών τροποποιήσεων...</translation>
+        <translation type="vanished">Επιλογή προαιρετικών τροποποιήσεων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Λήψη τροποποιήσεων...</translation>
+        <translation type="vanished">Λήψη τροποποιήσεων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Λήψη Τροποποίησης</translation>
+        <translation type="vanished">Λήψη Τροποποίησης</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Άγνωστος τύπος λήψης: %1</translation>
+        <translation type="obsolete">Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
+        <translation type="vanished">Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
+        <translation type="vanished">Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Εξαγωγή τροποποιήσεων...</translation>
+        <translation type="vanished">Εξαγωγή τροποποιήσεων...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Εγκατάσταση πακέτου τροποποιήσεων</translation>
+        <translation type="vanished">Εγκατάσταση πακέτου τροποποιήσεων</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Άγνωστος τύπος φορτωτή: </translation>
+        <translation type="obsolete">Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation type="obsolete">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -14819,6 +14799,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15439,11 +15420,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 μεταφράστηκε
 %3 ασαφής
 %4 συνολικά</translation>

@@ -205,110 +205,142 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
+        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation>ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
+        <translation>ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
+        <translation>მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
+        <translation>მიმდინარეობს არსებული ფაილების წაშლა...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">უცნობი mod -ის ტიპი: %1</translation>
+        <translation>უცნობი mod -ის ტიპი: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation>ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation>არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
+        <translation>უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
+        <translation>მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">კონფიგურაციის გადმოწერა</translation>
+        <translation>კონფიგურაციის გადმოწერა</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
+        <translation>მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">ვერ მოხერხდა პაკის კონფიგურაციის გახსნა %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
+        <translation>მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">მოდის გადმოწერა</translation>
+        <translation>მოდის გადმოწერა</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">უცნობი გადმოწერის ტიპი: %1</translation>
+        <translation>უცნობი გადმოწერის ტიპი: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation>ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation>%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
+        <translation>ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">მიმდინარეობს მოდების ექსტრაქცია...</translation>
+        <translation>მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation>მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
+        <translation>ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">უცნობი მტვირთავის ტიპი: </translation>
+        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+        <translation>ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
     </message>
 </context>
 <context>
@@ -1258,14 +1290,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
-    <name>BaseEntityLoadTask</name>
-    <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
-        <source>Loading local file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>BaseProfiler</name>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
@@ -1734,11 +1758,6 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
-        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2239,11 +2258,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
-        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3268,6 +3282,8 @@ Are you sure you want to do this?</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4129,11 +4145,6 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
-        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6065,15 +6076,6 @@ Reason:
     </message>
 </context>
 <context>
-    <name>ListModel</name>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="54"/>
@@ -7450,6 +7452,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9676,138 +9679,106 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
+        <translation type="obsolete">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
+        <translation type="obsolete">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
+        <translation type="obsolete">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
+        <translation type="obsolete">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">უცნობი mod -ის ტიპი: %1</translation>
+        <translation type="obsolete">უცნობი mod -ის ტიპი: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation type="obsolete">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation type="obsolete">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation type="obsolete">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
+        <translation type="obsolete">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
+        <translation type="obsolete">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">კონფიგურაციის გადმოწერა</translation>
+        <translation type="obsolete">კონფიგურაციის გადმოწერა</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
+        <translation type="obsolete">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
+        <translation type="obsolete">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation type="obsolete">მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="unfinished">მოდის გადმოწერა</translation>
+        <translation type="obsolete">მოდის გადმოწერა</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">უცნობი გადმოწერის ტიპი: %1</translation>
+        <translation type="obsolete">უცნობი გადმოწერის ტიპი: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation type="obsolete">ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation type="obsolete">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation type="obsolete">%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
+        <translation type="obsolete">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების ექსტრაქცია...</translation>
+        <translation type="obsolete">მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation type="obsolete">მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
+        <translation type="obsolete">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
+        <translation type="obsolete">უცნობი მტვირთავის ტიპი: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+        <translation type="obsolete">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
     </message>
 </context>
 <context>
@@ -13241,6 +13212,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13772,6 +13744,14 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

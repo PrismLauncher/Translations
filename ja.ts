@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">パックのマニフェストを解釈できませんでした:
+        <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">非対応のインストールモードです</translation>
+        <translation>非対応のインストールモードです</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">既存ファイルを削除中…</translation>
+        <translation>既存ファイルを削除中…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">不明なModの種類:%1</translation>
+        <translation>不明なModの種類:%1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1ローダーのバージョンを見つけられませんでした</translation>
+        <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">ModパックにModローダーのバージョンが設定されていません！</translation>
+        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">不明または非対応なダウンロードの種類です: %1</translation>
+        <translation>不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">コンフィグをダウンロード中…</translation>
+        <translation>コンフィグをダウンロード中…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">構成データのダウンロード</translation>
+        <translation>構成データのダウンロード</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">コンフィグを展開中…</translation>
+        <translation>コンフィグを展開中…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">パックのコンフィグを開くのに失敗しました %1！</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">オプションのModを選択中…</translation>
+        <translation>オプションのModを選択中…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modをダウンロード中…</translation>
+        <translation>Modをダウンロード中…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Mod のダウンロード</translation>
+        <translation>Mod のダウンロード</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">対応していないダウンロードのタイプです:%1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">不明なダウンロードの種類です: %1</translation>
+        <translation>不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished">%1 内のパストラバーサルを阻止しました</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">ブロックされたModが見つかりました</translation>
+        <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 / %2 完了</translation>
+        <translation>%1 / %2 完了</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modの展開に失敗しました…</translation>
+        <translation>Modの展開に失敗しました…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modを展開中…</translation>
+        <translation>Modを展開中…</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Modパックをインストール中</translation>
+        <translation>Modパックをインストール中</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ライブラリコンポーネントの作成に失敗しました</translation>
+        <translation>ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">不明なModローダーの種類です: </translation>
+        <translation>不明なModローダーの種類です: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">パックコンポーネントの作成に失敗しました</translation>
+        <translation>パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -1446,9 +1478,8 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>ローカルファイルを読み込み中</translation>
+        <translation type="vanished">ローカルファイルを読み込み中</translation>
     </message>
 </context>
 <context>
@@ -1935,9 +1966,8 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>ワールドをコピー中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>ワールドのコピーに失敗しました。</translation>
+        <translation type="vanished">ワールドのコピーに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -2500,9 +2530,8 @@ Are you sure?</source>
         <translation>ワールドを削除中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>ワールドの削除に失敗しました。</translation>
+        <translation type="vanished">ワールドの削除に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -3797,6 +3826,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4825,9 +4856,8 @@ What would you like to do with %2?</source>
         <translation>ワールドをインポート中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>ワールドのインポートに失敗しました。</translation>
+        <translation type="vanished">ワールドのインポートに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -7811,10 +7841,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9691,6 +9719,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>ローカルファイルを読み込み中</translation>
     </message>
@@ -12714,138 +12743,110 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした:
+        <translation type="vanished">パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>非対応のインストールモードです</translation>
+        <translation type="vanished">非対応のインストールモードです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>既存ファイルを削除中…</translation>
+        <translation type="vanished">既存ファイルを削除中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>不明なModの種類: %1</translation>
+        <translation type="vanished">不明なModの種類: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1ローダーのバージョンが見つかりませんでした</translation>
+        <translation type="vanished">%1ローダーのバージョンが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
+        <translation type="vanished">ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>不明または非対応なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>コンフィグをダウンロード中…</translation>
+        <translation type="vanished">コンフィグをダウンロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>コンフィグのダウンロード</translation>
+        <translation type="vanished">コンフィグのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>コンフィグを展開中…</translation>
+        <translation type="vanished">コンフィグを展開中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>オプションのModを選択中…</translation>
+        <translation type="vanished">オプションのModを選択中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Modをダウンロード中...</translation>
+        <translation type="vanished">Modをダウンロード中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Modのダウンロード</translation>
+        <translation type="vanished">Modのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>不明なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>%1 内のパストラバーサルを阻止しました</translation>
+        <translation type="vanished">%1 内のパストラバーサルを阻止しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>ブロックされたModが見つかりました</translation>
+        <translation type="vanished">ブロックされたModが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation type="vanished">以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 / %2 完了</translation>
+        <translation type="vanished">%1 / %2 完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Modの展開に失敗しました…</translation>
+        <translation type="vanished">Modの展開に失敗しました…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Modを展開中…</translation>
+        <translation type="vanished">Modを展開中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Modパックをインストール中</translation>
+        <translation type="vanished">Modパックをインストール中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>ライブラリコンポーネントの作成に失敗しました</translation>
+        <translation type="vanished">ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>不明なModローダーの種類です: </translation>
+        <translation type="vanished">不明なModローダーの種類です: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>パックコンポーネントの作成に失敗しました</translation>
+        <translation type="vanished">パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -16723,6 +16724,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>無効なURL</translation>
     </message>
@@ -17452,11 +17454,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 翻訳済み %2
 要確認 %3
 全体 %4</translation>

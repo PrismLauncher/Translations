@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nije moguće razumjeti manifest paketa:
+        <translation>Nije moguće razumjeti manifest paketa:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Neuspješno dohvaćivanje lokalnih indeksa metadate za %1</translation>
+        <translation>Neuspješno dohvaćivanje lokalnih indeksa metadate za %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
+        <translation>Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nepodržani instalacijski način</translation>
+        <translation>Nepodržani instalacijski način</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Brisanje postojećih datoteka...</translation>
+        <translation>Brisanje postojećih datoteka...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Nepoznata vrsta moda: %1</translation>
+        <translation>Nepoznata vrsta moda: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Neuspješno pronalaženje verzije za %1 učitavača</translation>
+        <translation>Neuspješno pronalaženje verzije za %1 učitavača</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nije postavljena verzija učitavača za modpack!</translation>
+        <translation>Nije postavljena verzija učitavača za modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
+        <translation>Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Preuzimanje konfiguracija...</translation>
+        <translation>Preuzimanje konfiguracija...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Preuzimanje konfiguracije</translation>
+        <translation>Preuzimanje konfiguracije</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Izdvajanje konfiguracija...</translation>
+        <translation>Izdvajanje konfiguracija...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Nije uspjelo otvaranje konfiguracijskih paketa %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Odabiranje opcionalnih modova...</translation>
+        <translation>Odabiranje opcionalnih modova...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Preuzimanje modova...</translation>
+        <translation>Preuzimanje modova...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Preuzmi mod</translation>
+        <translation>Preuzmi mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Nepodržana vrsta preuzimanja: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Nepoznata vrsta preuzimanja: %1</translation>
+        <translation>Nepoznata vrsta preuzimanja: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Pronađeni su blokirani modovi</translation>
+        <translation>Pronađeni su blokirani modovi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Sljedeće datoteke nisu dostupne za preuzimanje u launcherima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti te dodati u instancu.</translation>
+        <translation>Sljedeće datoteke nisu dostupne za preuzimanje u launcherima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti te dodati u instancu.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 od %2 dovršeno</translation>
+        <translation>%1 od %2 dovršeno</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Neuspješno izdvajanje modova...</translation>
+        <translation>Neuspješno izdvajanje modova...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Izdvajanje modova...</translation>
+        <translation>Izdvajanje modova...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Instalacija paketa modova</translation>
+        <translation>Instalacija paketa modova</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Neuspješna izrada libraries komponente</translation>
+        <translation>Neuspješna izrada libraries komponente</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Nepoznata vrsta učitavača: </translation>
+        <translation>Nepoznata vrsta učitavača: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Izrada komponente paketa nije uspjela</translation>
+        <translation>Izrada komponente paketa nije uspjela</translation>
     </message>
 </context>
 <context>
@@ -1371,9 +1403,8 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Učitavanje lokalne datoteke</translation>
+        <translation type="vanished">Učitavanje lokalne datoteke</translation>
     </message>
 </context>
 <context>
@@ -1860,9 +1891,8 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <translation>Kopiranje svijeta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Kopiranje svijeta nije uspjelo.</translation>
+        <translation type="vanished">Kopiranje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -2421,9 +2451,8 @@ Jeste li sigurni?</translation>
         <translation>Brisanje svijeta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Brisanje svijeta nije uspjelo.</translation>
+        <translation type="vanished">Brisanje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -3566,6 +3595,8 @@ Jeste li sigurni da to želite napraviti?</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4454,9 +4485,8 @@ What would you like to do with %2?</source>
         <translation>Uvoz svijeta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Uvoz svijeta nije uspio.</translation>
+        <translation type="vanished">Uvoz svijeta nije uspio.</translation>
     </message>
 </context>
 <context>
@@ -6423,10 +6453,8 @@ razlog:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7895,6 +7923,7 @@ Jeste li sigurni?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Učitavanje lokalne datoteke</translation>
     </message>
@@ -10278,138 +10307,106 @@ Jeste li sigurni?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nije moguće razumjeti manifest paketa:
+        <translation type="vanished">Nije moguće razumjeti manifest paketa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Nepodržani instalacijski način</translation>
+        <translation type="vanished">Nepodržani instalacijski način</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Brisanje postojećih datoteka...</translation>
+        <translation type="vanished">Brisanje postojećih datoteka...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Nepoznata vrsta moda: %1</translation>
+        <translation type="vanished">Nepoznata vrsta moda: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Dohvaćanje lokalnog indeksa metapodataka za %1 nije uspjelo</translation>
+        <translation type="vanished">Dohvaćanje lokalnog indeksa metapodataka za %1 nije uspjelo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Neuspješno pronalaženje verzije za %1 učitavač</translation>
+        <translation type="vanished">Neuspješno pronalaženje verzije za %1 učitavač</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nije postavljena verzija učitavača za modpack!</translation>
+        <translation type="vanished">Nije postavljena verzija učitavača za modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
+        <translation type="vanished">Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Preuzimanje konfiguracija...</translation>
+        <translation type="vanished">Preuzimanje konfiguracija...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Preuzimanje konfiguracije</translation>
+        <translation type="vanished">Preuzimanje konfiguracije</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Izdvajanje konfiguracija...</translation>
+        <translation type="vanished">Izdvajanje konfiguracija...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Odabiranje opcionalnih modova...</translation>
+        <translation type="vanished">Odabiranje opcionalnih modova...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Preuzimanje modova...</translation>
+        <translation type="vanished">Preuzimanje modova...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Mod preuzimanje</translation>
+        <translation type="vanished">Mod preuzimanje</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Nepoznata vrsta preuzimanja: %1</translation>
+        <translation type="vanished">Nepoznata vrsta preuzimanja: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Pronađeni su blokirani modovi</translation>
+        <translation type="vanished">Pronađeni su blokirani modovi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sljedeće datoteke nisu dostupne za preuzimanje u pokretačima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti i dodati u instancu.</translation>
+        <translation type="vanished">Sljedeće datoteke nisu dostupne za preuzimanje u pokretačima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti i dodati u instancu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 od %2 dovršeno</translation>
+        <translation type="vanished">%1 od %2 dovršeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Neuspješno izdvajanje modova...</translation>
+        <translation type="vanished">Neuspješno izdvajanje modova...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Izdvajanje modova...</translation>
+        <translation type="vanished">Izdvajanje modova...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Instalacija paketa modova</translation>
+        <translation type="vanished">Instalacija paketa modova</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Neuspješna izrada libraries komponente</translation>
+        <translation type="vanished">Neuspješna izrada libraries komponente</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Nepoznata vrsta učitavača: </translation>
+        <translation type="vanished">Nepoznata vrsta učitavača: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Izrada komponente paketa nije uspjela</translation>
+        <translation type="vanished">Izrada komponente paketa nije uspjela</translation>
     </message>
 </context>
 <context>
@@ -13962,6 +13959,7 @@ Jeste li sigurni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Nevažeći url</translation>
     </message>
@@ -14526,11 +14524,12 @@ Jeste li sigurni?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 prevedeno
 %3 nejasno
 %4 ukupno</translation>

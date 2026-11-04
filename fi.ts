@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Ei pystytty käsittelemään paketin manifest-tiedostoa:
+        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Tukematon asennustila</translation>
+        <translation>Tukematon asennustila</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Poistetaan olemassa olevia tiedostoja...</translation>
+        <translation>Poistetaan olemassa olevia tiedostoja...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tuntematon modityyppi: %1</translation>
+        <translation>Tuntematon modityyppi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Versiota ei löytynyt %1-modilataajalle</translation>
+        <translation>Versiota ei löytynyt %1-modilataajalle</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Modipaketilla ei ole määritetty modilataajan versiota!</translation>
+        <translation>Modipaketilla ei ole määritetty modilataajan versiota!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tuntematon tai ei tuettu lataustyyppi: %1</translation>
+        <translation>Tuntematon tai ei tuettu lataustyyppi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Ladataan konfiguraatioita...</translation>
+        <translation>Ladataan konfiguraatioita...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Konfiguraatioiden lataus</translation>
+        <translation>Konfiguraatioiden lataus</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Puretaan konfiguraatioita...</translation>
+        <translation>Puretaan konfiguraatioita...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Paketin konfiguraatioiden %1 avaus epäonnistui!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Valitaan valinnaisia modeja...</translation>
+        <translation>Valitaan valinnaisia modeja...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Ladataan modeja...</translation>
+        <translation>Ladataan modeja...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Modien lataus</translation>
+        <translation>Modien lataus</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Lataustyyppiä ei tueta: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tuntematon lataustyyppi: %1</translation>
+        <translation>Tuntematon lataustyyppi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished">Polun läpikäynti estetty kohteessa %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Estettyjä modeja löydetty</translation>
+        <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
+        <translation>Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/%2 valmiina</translation>
+        <translation>%1/%2 valmiina</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modien purku epäonnistui...</translation>
+        <translation>Modien purku epäonnistui...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Puretaan modeja...</translation>
+        <translation>Puretaan modeja...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Asennetaan modipakettia</translation>
+        <translation>Asennetaan modipakettia</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kirjastokomponenttien luonti epäonnistui</translation>
+        <translation>Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tuntematon lataajatyyppi: </translation>
+        <translation>Tuntematon lataajatyyppi: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Pakettikomponentin luonti epäonnistui</translation>
+        <translation>Pakettikomponentin luonti epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -1401,9 +1433,8 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Ladataan paikallista tiedostoa</translation>
+        <translation type="vanished">Ladataan paikallista tiedostoa</translation>
     </message>
 </context>
 <context>
@@ -1894,9 +1925,8 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
         <translation>Kopioi maailmaa...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Maailman kopiointi epäonnistui.</translation>
+        <translation type="vanished">Maailman kopiointi epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -2459,9 +2489,8 @@ Oletko varma?</translation>
         <translation>Maailmaa poistetaan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Maailman poisto epäonnistui.</translation>
+        <translation type="vanished">Maailman poisto epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -3708,6 +3737,8 @@ Yritä uudelleen.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft%1</translation>
     </message>
@@ -4737,9 +4768,8 @@ Mitä haluat tehdä kohteelle %2?</translation>
         <translation>Tuodaan maailmaa...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Maailman tuonti epäonnistui.</translation>
+        <translation type="vanished">Maailman tuonti epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -7688,10 +7718,8 @@ Syy:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9499,6 +9527,7 @@ Oletko varma?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Ladataan paikallista tiedostoa</translation>
     </message>
@@ -12440,138 +12469,110 @@ Oletko varma?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
+        <translation type="vanished">Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Tukematon asennustila</translation>
+        <translation type="vanished">Tukematon asennustila</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Poistetaan olemassa olevia tiedostoja...</translation>
+        <translation type="vanished">Poistetaan olemassa olevia tiedostoja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Tuntematon modityyppi: %1</translation>
+        <translation type="vanished">Tuntematon modityyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Versiota ei löytynyt %1-modilataajalle</translation>
+        <translation type="vanished">Versiota ei löytynyt %1-modilataajalle</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modipaketilla ei ole määritetty modilataajan versiota!</translation>
+        <translation type="vanished">Modipaketilla ei ole määritetty modilataajan versiota!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tuntematon tai ei tuettu lataustyyppi: %1</translation>
+        <translation type="vanished">Tuntematon tai ei tuettu lataustyyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Ladataan konfiguraatioita...</translation>
+        <translation type="vanished">Ladataan konfiguraatioita...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Konfiguraatioiden lataus</translation>
+        <translation type="vanished">Konfiguraatioiden lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Puretaan konfiguraatioita...</translation>
+        <translation type="vanished">Puretaan konfiguraatioita...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Valitaan valinnaisia modeja...</translation>
+        <translation type="vanished">Valitaan valinnaisia modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Ladataan modeja...</translation>
+        <translation type="vanished">Ladataan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Modien lataus</translation>
+        <translation type="vanished">Modien lataus</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Tuntematon lataustyyppi: %1</translation>
+        <translation type="vanished">Tuntematon lataustyyppi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>Polun läpikäynti estetty kohteessa %1</translation>
+        <translation type="vanished">Polun läpikäynti estetty kohteessa %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Estettyjä modeja löydetty</translation>
+        <translation type="vanished">Estettyjä modeja löydetty</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
+        <translation type="vanished">Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 valmiina</translation>
+        <translation type="vanished">%1/%2 valmiina</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Modien purku epäonnistui...</translation>
+        <translation type="vanished">Modien purku epäonnistui...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Puretaan modeja...</translation>
+        <translation type="vanished">Puretaan modeja...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Asennetaan modipakettia</translation>
+        <translation type="vanished">Asennetaan modipakettia</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Kirjastokomponenttien luonti epäonnistui</translation>
+        <translation type="vanished">Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Tuntematon lataajatyyppi: </translation>
+        <translation type="vanished">Tuntematon lataajatyyppi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Pakettikomponentin luonti epäonnistui</translation>
+        <translation type="vanished">Pakettikomponentin luonti epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -16380,6 +16381,7 @@ Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Virheellinen url</translation>
     </message>
@@ -17075,11 +17077,12 @@ Oletko varma?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 käännetty
 %3 epäselvää
 %4 yhteensä</translation>

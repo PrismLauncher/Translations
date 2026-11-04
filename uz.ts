@@ -197,106 +197,138 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Paket manifestini tushunib bo&apos;lmadi.
+        <translation>Paket manifestini tushunib bo&apos;lmadi.
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation>%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
+        <translation>Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
+        <translation>Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Nomaʼlum mod turi: %1</translation>
+        <translation>Nomaʼlum mod turi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
+        <translation>%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
+        <translation>Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
+        <translation>Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Konfiguratsiyalar yuklanmoqda...</translation>
+        <translation>Konfiguratsiyalar yuklanmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Konfiguratsiya yuklandi</translation>
+        <translation>Konfiguratsiya yuklandi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Konfiguratsiyalar chiqarilmoqda...</translation>
+        <translation>Konfiguratsiyalar chiqarilmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Ixtiyoriy modlarni tanlash...</translation>
+        <translation>Ixtiyoriy modlarni tanlash...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modlar yuklanmoqda...</translation>
+        <translation>Modlar yuklanmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Mod yuklab olish</translation>
+        <translation>Mod yuklab olish</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Noma&apos;lum yuklab olish turi: %1</translation>
+        <translation>Noma&apos;lum yuklab olish turi: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Bloklangan modlar topildi</translation>
+        <translation>Bloklangan modlar topildi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation>Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%2 dan %1 bajarildi</translation>
+        <translation>%2 dan %1 bajarildi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modlarni chiqarib bo&apos;lmadi...</translation>
+        <translation>Modlarni chiqarib bo&apos;lmadi...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modlar ajratilmoqda...</translation>
+        <translation>Modlar ajratilmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Modpack o&apos;rnatilmoqda</translation>
+        <translation>Modpack o&apos;rnatilmoqda</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kutubxonalar komponentini yaratib bo‘lmadi</translation>
+        <translation>Kutubxonalar komponentini yaratib bo‘lmadi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Noma&apos;lum yuklovchi turi: </translation>
+        <translation>Noma&apos;lum yuklovchi turi: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Paket komponentini yaratib bo‘lmadi</translation>
+        <translation>Paket komponentini yaratib bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -1238,9 +1270,8 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Mahalliy fayl yuklanmoqda</translation>
+        <translation type="vanished">Mahalliy fayl yuklanmoqda</translation>
     </message>
 </context>
 <context>
@@ -1715,9 +1746,8 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation>Olam nusxalanmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Olamni nusxalab bölmadi.</translation>
+        <translation type="vanished">Olamni nusxalab bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -2227,9 +2257,8 @@ Işonçingiz komilmi?</translation>
         <translation>Olam öçirilmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Olamni öçirib bölmadi.</translation>
+        <translation type="vanished">Olamni öçirib bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -3246,6 +3275,8 @@ Haqiqatan ham buni qilmoqçimisiz?</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4099,9 +4130,8 @@ What would you like to do with %2?</source>
         <translation>Olam import qilinmoqda…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Olamni import qilib bölmadi.</translation>
+        <translation type="vanished">Olamni import qilib bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -5998,10 +6028,8 @@ Sabab:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7399,6 +7427,7 @@ Işonçingiz komilmi?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Lokal fayl yuklanmoqda</translation>
     </message>
@@ -9564,138 +9593,110 @@ Işonçingiz komilmi?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Töplam manifestini tuşunib bölmadi.
+        <translation type="vanished">Töplam manifestini tuşunib bölmadi.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Qöllab-quvvatlanmaydigan o&apos;rnatma rejimi</translation>
+        <translation type="vanished">Qöllab-quvvatlanmaydigan o&apos;rnatma rejimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 uçun mahalliy metadata indeksini olib bölmadi</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 uçun mahalliy metadata indeksini olib bölmadi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Mavjud fayllar yöq qilinmoqda...</translation>
+        <translation type="vanished">Mavjud fayllar yöq qilinmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Mod turi nomaʼlum: %1</translation>
+        <translation type="vanished">Mod turi nomaʼlum: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 uçun mahalliy metadata indeksi olinmadi</translation>
+        <translation type="vanished">%1 uçun mahalliy metadata indeksi olinmadi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 loader uçun versiya topilmadi</translation>
+        <translation type="vanished">%1 loader uçun versiya topilmadi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modlar töplami uçun yuklagiç versiyasi örnatilmagan!</translation>
+        <translation type="vanished">Modlar töplami uçun yuklagiç versiyasi örnatilmagan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Yuklab oliş turi nomaʼlum yoki qöllab-quvvatlanmagan: %1</translation>
+        <translation type="vanished">Yuklab oliş turi nomaʼlum yoki qöllab-quvvatlanmagan: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Konfiguratsiyalar yuklab olinmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar yuklab olinmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Konfiguratsiya yuklab olindi</translation>
+        <translation type="vanished">Konfiguratsiya yuklab olindi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Konfiguratsiyalar çiqarilmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar çiqarilmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Ixtiyoriy modlarni tanlaş...</translation>
+        <translation type="vanished">Ixtiyoriy modlarni tanlaş...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Modlar yuklab olinmoqda...</translation>
+        <translation type="vanished">Modlar yuklab olinmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Modni yuklab oliş</translation>
+        <translation type="vanished">Modni yuklab oliş</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Yuklab oliş turi nomaʼlum: %1</translation>
+        <translation type="vanished">Yuklab oliş turi nomaʼlum: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>%1 içida yöl böylab ötiş bloklandi</translation>
+        <translation type="vanished">%1 içida yöl böylab ötiş bloklandi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Bloklangan modlar topildi</translation>
+        <translation type="vanished">Bloklangan modlar topildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Quyidagi fayllarni uchinchi tomon launcherlarida yuklab olib boʻlmaydi.&lt;br/&gt;Ularni qoʻlda yuklab olib, nusxaga qoʻshishingiz kerak boʻladi.</translation>
+        <translation type="vanished">Quyidagi fayllarni uchinchi tomon launcherlarida yuklab olib boʻlmaydi.&lt;br/&gt;Ularni qoʻlda yuklab olib, nusxaga qoʻshishingiz kerak boʻladi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 bajarildi</translation>
+        <translation type="vanished">%1/%2 bajarildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Modlarni çiqarib bölmadi...</translation>
+        <translation type="vanished">Modlarni çiqarib bölmadi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Modlar çiqarilmoqda...</translation>
+        <translation type="vanished">Modlar çiqarilmoqda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Modlar töplami örnatilmoqda</translation>
+        <translation type="vanished">Modlar töplami örnatilmoqda</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Kutubxona komponentini yaratib bölmadi</translation>
+        <translation type="vanished">Kutubxona komponentini yaratib bölmadi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Yuklovçi turi nomaʼlum: </translation>
+        <translation type="vanished">Yuklovçi turi nomaʼlum: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Töplam komponentini yaratib bölmadi</translation>
+        <translation type="vanished">Töplam komponentini yaratib bölmadi</translation>
     </message>
 </context>
 <context>
@@ -13217,6 +13218,7 @@ Işonçingiz komilmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>URL yaroqsiz</translation>
     </message>
@@ -13731,6 +13733,14 @@ Işonçingiz komilmi?</translation>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

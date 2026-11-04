@@ -217,114 +217,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">팩 매니페스트를 해석할 수 없음:
+        <translation>팩 매니페스트를 해석할 수 없음:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">지원하지 않는 설치 모드</translation>
+        <translation>지원하지 않는 설치 모드</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">기존 파일을 삭제하는 중...</translation>
+        <translation>기존 파일을 삭제하는 중...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">알 수 없는 모드 유형: %1</translation>
+        <translation>알 수 없는 모드 유형: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 로더에 대한 버전을 찾지 못함</translation>
+        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">모드 팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
+        <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">설정을 다운로드하는 중...</translation>
+        <translation>설정을 다운로드하는 중...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">설정 다운로드</translation>
+        <translation>설정 다운로드</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">설정 내보내는 중...</translation>
+        <translation>설정 내보내는 중...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">팩 설정 %1을(를) 열지 못하였습니다!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">선택적 모드 선택 중...</translation>
+        <translation>선택적 모드 선택 중...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">모드를 다운로드하는 중...</translation>
+        <translation>모드를 다운로드하는 중...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">알 수 없는 다운로드 유형: %1</translation>
+        <translation>알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished">%1에서의 경로 탐색이 차단됨</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">차단된 모드 발견</translation>
+        <translation>차단된 모드 발견</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
+        <translation>해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/&amp;2 완료</translation>
+        <translation>%1/&amp;2 완료</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">모드 추출에 실패하였습니다...</translation>
+        <translation>모드 추출에 실패하였습니다...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">모드 추출 중...</translation>
+        <translation>모드 추출 중...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">모드 팩 설치 중</translation>
+        <translation>모드 팩 설치 중</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">라이브러리 구성 요소를 만들지 못함</translation>
+        <translation>라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">알 수 없는 로더 종류: </translation>
+        <translation>알 수 없는 로더 종류: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">팩 구성 요소를 만들지 못함</translation>
+        <translation>팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -1470,9 +1502,8 @@ Some versions of Minecraft may not launch.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>로컬 파일을 불러오는 중</translation>
+        <translation type="vanished">로컬 파일을 불러오는 중</translation>
     </message>
 </context>
 <context>
@@ -1967,9 +1998,8 @@ Some versions of Minecraft may not launch.
         <translation>세계 복사 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>세계를 복사하지 못하였습니다.</translation>
+        <translation type="vanished">세계를 복사하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -2532,9 +2562,8 @@ Are you sure?</source>
         <translation>세계 삭제 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>세계를 삭제하지 못하였습니다.</translation>
+        <translation type="vanished">세계를 삭제하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -3833,6 +3862,8 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
@@ -4902,9 +4933,8 @@ What would you like to do with %2?</source>
         <translation>세계 가져오는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>세계를 가져오지 못하였습니다.</translation>
+        <translation type="vanished">세계를 가져오지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -8003,10 +8033,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>마인크래프트 %1</translation>
+        <translation type="vanished">마인크래프트 %1</translation>
     </message>
 </context>
 <context>
@@ -10009,6 +10037,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>로컬 파일을 불러오는 중</translation>
     </message>
@@ -13209,138 +13238,110 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>팩 매니페스트를 해석할 수 없음:
+        <translation type="vanished">팩 매니페스트를 해석할 수 없음:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>지원하지 않는 설치 모드</translation>
+        <translation type="vanished">지원하지 않는 설치 모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>기존 파일을 삭제하는 중...</translation>
+        <translation type="vanished">기존 파일을 삭제하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>알 수 없는 모드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 모드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
+        <translation type="vanished">%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation type="vanished">모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>설정을 다운로드하는 중...</translation>
+        <translation type="vanished">설정을 다운로드하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>설정 다운로드</translation>
+        <translation type="vanished">설정 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>설정 내보내는 중...</translation>
+        <translation type="vanished">설정 내보내는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>선택적 모드 선택 중...</translation>
+        <translation type="vanished">선택적 모드 선택 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>모드를 다운로드하는 중...</translation>
+        <translation type="vanished">모드를 다운로드하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>모드 다운로드</translation>
+        <translation type="vanished">모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>알 수 없는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>%1에서의 경로 탐색이 차단됨</translation>
+        <translation type="vanished">%1에서의 경로 탐색이 차단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>차단된 모드 발견</translation>
+        <translation type="vanished">차단된 모드 발견</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
+        <translation type="vanished">해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1/&amp;2 완료</translation>
+        <translation type="vanished">%1/&amp;2 완료</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>모드를 압축 해제하지 못하였습니다...</translation>
+        <translation type="vanished">모드를 압축 해제하지 못하였습니다...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>모드를 압축 해제하는 중...</translation>
+        <translation type="vanished">모드를 압축 해제하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>모드 팩을 설치하는 중</translation>
+        <translation type="vanished">모드 팩을 설치하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>라이브러리 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>알 수 없는 로더 종류: </translation>
+        <translation type="vanished">알 수 없는 로더 종류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>팩 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -17289,6 +17290,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>잘못된 url</translation>
     </message>
@@ -18022,11 +18024,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 번역됨: %2
 정확하지 않음: %3
 전체: %4</translation>

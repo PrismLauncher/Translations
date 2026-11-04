@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nu s-a putut înțelege manifestul pachetului:
+        <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
+        <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
+        <translation>Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Mod de instalare nesuportat</translation>
+        <translation>Mod de instalare nesuportat</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Se șterg fișierele existente...</translation>
+        <translation>Se șterg fișierele existente...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tip de mod necunoscut: %1</translation>
+        <translation>Tip de mod necunoscut: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
+        <translation>Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nu este setată nicio versiune de loader pentru modpack!</translation>
+        <translation>Nu este setată nicio versiune de loader pentru modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tip de descărcare necunoscut sau neacceptat: %1</translation>
+        <translation>Tip de descărcare necunoscut sau neacceptat: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Se descarcă configurațiile...</translation>
+        <translation>Se descarcă configurațiile...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Descărcare configurație</translation>
+        <translation>Descărcare configurație</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Se extrag configurațiile...</translation>
+        <translation>Se extrag configurațiile...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Nu s-a putut deschide configurația pachetului %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Selectarea modurilor opționale...</translation>
+        <translation>Selectarea modurilor opționale...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Se descarcă modurile...</translation>
+        <translation>Se descarcă modurile...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Descărcare mod</translation>
+        <translation>Descărcare mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Tip de descărcare neacceptat: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tip de descărcare necunoscut: %1</translation>
+        <translation>Tip de descărcare necunoscut: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Moduri blocate găsite</translation>
+        <translation>Moduri blocate găsite</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Următoarele fișiere nu sunt disponibile pentru a fi descărcate cu launchere terțe.&lt;br/&gt;Va trebui să le descarci manual și să le adaugi la instanță.</translation>
+        <translation>Următoarele fișiere nu sunt disponibile pentru a fi descărcate cu launchere terțe.&lt;br/&gt;Va trebui să le descarci manual și să le adaugi la instanță.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 din %2 complet</translation>
+        <translation>%1 din %2 complet</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Extragerea modurilor a eșuat...</translation>
+        <translation>Extragerea modurilor a eșuat...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Se extrag modurile...</translation>
+        <translation>Se extrag modurile...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Se instalează modpack-ul</translation>
+        <translation>Se instalează modpack-ul</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Nu s-a reușit crearea componentei bibliotecilor</translation>
+        <translation>Nu s-a reușit crearea componentei bibliotecilor</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tip de loader necunoscut: </translation>
+        <translation>Tip de loader necunoscut: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Nu s-a reușit crearea componentei de pachet</translation>
+        <translation>Nu s-a reușit crearea componentei de pachet</translation>
     </message>
 </context>
 <context>
@@ -1421,9 +1453,8 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Incarcare Fisier Local</translation>
+        <translation type="vanished">Incarcare Fisier Local</translation>
     </message>
 </context>
 <context>
@@ -1914,9 +1945,8 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
         <translation>Se copiază lumea...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Nu s-a putut copia lumea.</translation>
+        <translation type="vanished">Nu s-a putut copia lumea.</translation>
     </message>
 </context>
 <context>
@@ -2479,9 +2509,8 @@ Sigur doriți să continuați?</translation>
         <translation>Lumea se șterge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Nu s-a putut șterge lumea.</translation>
+        <translation type="vanished">Nu s-a putut șterge lumea.</translation>
     </message>
 </context>
 <context>
@@ -3776,6 +3805,8 @@ Vă rugăm să încercați din nou.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4819,9 +4850,8 @@ Ce doriți să faceți cu %2?</translation>
         <translation>Se importează lumea...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Nu s-a putut importa lumea.</translation>
+        <translation type="vanished">Nu s-a putut importa lumea.</translation>
     </message>
 </context>
 <context>
@@ -7807,10 +7837,8 @@ Motiv:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9580,6 +9608,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Incarcare Fisier Local</translation>
     </message>
@@ -12406,138 +12435,106 @@ Ești sigur(ă)?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nu s-a putut înțelege manifestul pachetului:
+        <translation type="vanished">Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Mod de instalare nesuportat</translation>
+        <translation type="vanished">Mod de instalare nesuportat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
+        <translation type="vanished">Obținerea indexului de metadate locale pentru &apos;%1&apos; v%2 a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Se șterg fișierele existente...</translation>
+        <translation type="vanished">Se șterg fișierele existente...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Tip de mod necunoscut: %1</translation>
+        <translation type="vanished">Tip de mod necunoscut: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
+        <translation type="vanished">Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nu s-a putut găsi versiunea pentru încărcător %1</translation>
+        <translation type="vanished">Nu s-a putut găsi versiunea pentru încărcător %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nu este setată nicio versiune de încărcător pentru modpack!</translation>
+        <translation type="vanished">Nu este setată nicio versiune de încărcător pentru modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tip de descărcare necunoscut sau neacceptat: %1</translation>
+        <translation type="vanished">Tip de descărcare necunoscut sau neacceptat: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Se descarcă configurațiile...</translation>
+        <translation type="vanished">Se descarcă configurațiile...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Descărcare configurație</translation>
+        <translation type="vanished">Descărcare configurație</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Se extrag configurațiile...</translation>
+        <translation type="vanished">Se extrag configurațiile...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Selectarea modurilor opționale...</translation>
+        <translation type="vanished">Selectarea modurilor opționale...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Se descarcă modurile...</translation>
+        <translation type="vanished">Se descarcă modurile...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Descărcare mod</translation>
+        <translation type="vanished">Descărcare mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Tip de descărcare necunoscut: %1</translation>
+        <translation type="vanished">Tip de descărcare necunoscut: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Moduri blocate găsite</translation>
+        <translation type="vanished">Moduri blocate găsite</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Următoarele fișiere nu pot fi descărcate prin intermediul unor programe de lansare ale unor terți.&lt;br/&gt;Va trebui să le descărcați manual și să adăugați la instanță.</translation>
+        <translation type="vanished">Următoarele fișiere nu pot fi descărcate prin intermediul unor programe de lansare ale unor terți.&lt;br/&gt;Va trebui să le descărcați manual și să adăugați la instanță.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 din %2 complet</translation>
+        <translation type="vanished">%1 din %2 complet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Extragerea modurilor a eșuat...</translation>
+        <translation type="vanished">Extragerea modurilor a eșuat...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Se extrag modurile...</translation>
+        <translation type="vanished">Se extrag modurile...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Se instalează modpack</translation>
+        <translation type="vanished">Se instalează modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Nu s-a reușit crearea componentei bibliotecilor</translation>
+        <translation type="vanished">Nu s-a reușit crearea componentei bibliotecilor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Tip de încărcător necunoscut: </translation>
+        <translation type="vanished">Tip de încărcător necunoscut: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Nu s-a reușit crearea componentei de pachet</translation>
+        <translation type="vanished">Nu s-a reușit crearea componentei de pachet</translation>
     </message>
 </context>
 <context>
@@ -16313,6 +16310,7 @@ Sunteți sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Url nevalid</translation>
     </message>
@@ -16991,11 +16989,12 @@ Ești sigur(ă)?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 tradus
 %3 neclar
 %4 total</translation>

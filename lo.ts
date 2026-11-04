@@ -146,106 +146,138 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
+        <translation>ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
+        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation>ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation>ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
+        <translation>ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
+        <translation>ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation>ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation>ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">ດາວໂຫຼດ Config</translation>
+        <translation>ດາວໂຫຼດ Config</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation>ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation>ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">ກຳລັງດາວໂຫຼດມອດ...</translation>
+        <translation>ກຳລັງດາວໂຫຼດມອດ...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">ດາວໂຫຼດມອດ</translation>
+        <translation>ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
+        <translation>ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">ສຳເລັດ %1 ຈາກ %2</translation>
+        <translation>ສຳເລັດ %1 ຈາກ %2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation>ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation>ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation>ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
     </message>
 </context>
 <context>
@@ -1074,9 +1106,8 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation type="unfinished">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
+        <translation type="obsolete">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
     </message>
 </context>
 <context>
@@ -1548,11 +1579,6 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
-        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2048,11 +2074,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
-        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3056,6 +3077,8 @@ Are you sure you want to do this?</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -3904,11 +3927,6 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
-        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5795,10 +5813,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7194,6 +7210,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
     </message>
@@ -9315,137 +9332,76 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation type="obsolete">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation type="obsolete">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation type="obsolete">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
-        <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation type="obsolete">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation type="obsolete">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">ດາວໂຫຼດ Config</translation>
+        <translation type="obsolete">ດາວໂຫຼດ Config</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation type="obsolete">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation type="obsolete">ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="unfinished">ດາວໂຫຼດມອດ</translation>
+        <translation type="obsolete">ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
+        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation type="obsolete">ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation type="obsolete">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation type="obsolete">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation type="obsolete">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation type="obsolete">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation type="obsolete">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
     </message>
 </context>
 <context>
@@ -12940,6 +12896,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>URL ບໍ່ຖືກຕ້ອງ</translation>
     </message>
@@ -13447,11 +13404,12 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 ແປແລ້ວ %2
 ຄຸມເຄືອ %3
 ທັງໝົດ %4</translation>

@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nepodařilo se pochopit manifest balíčku:
+        <translation>Nepodařilo se pochopit manifest balíčku:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro %1</translation>
+        <translation>Nepodařilo se získat index lokálních metadat pro %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
+        <translation>Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nepodporovaný režim instalace</translation>
+        <translation>Nepodporovaný režim instalace</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Mazání existujících souborů...</translation>
+        <translation>Mazání existujících souborů...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Neznámý typ modu: %1</translation>
+        <translation>Neznámý typ modu: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Nepodařilo se najít verzi pro zavaděč %1</translation>
+        <translation>Nepodařilo se najít verzi pro zavaděč %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Není nastavena žádná zavaděče verze pro modpack!</translation>
+        <translation>Není nastavena žádná zavaděče verze pro modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Neznámý nebo nepodporovaný typ stahování: %1</translation>
+        <translation>Neznámý nebo nepodporovaný typ stahování: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Stahování konfigurací...</translation>
+        <translation>Stahování konfigurací...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Konfigurace stahování</translation>
+        <translation>Konfigurace stahování</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Extrahování konfigurací...</translation>
+        <translation>Extrahování konfigurací...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Nepodařilo se otevřít konfiguraci balíčku %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Výběr volitelných modů...</translation>
+        <translation>Výběr volitelných modů...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Stahování modů...</translation>
+        <translation>Stahování modů...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Stáhnout mod</translation>
+        <translation>Stáhnout mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Nepodporovaný typ stahování: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Neznámý typ stahování: %1</translation>
+        <translation>Neznámý typ stahování: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished">Zablokováno obcházení cesty v %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Nalezeny blokované mody</translation>
+        <translation>Nalezeny blokované mody</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Následující soubory nejsou dostupné ke stažení v launcherech třetích stran.&lt;br/&gt;Budete si je muset ručně stáhnout a přidat je do instance.</translation>
+        <translation>Následující soubory nejsou dostupné ke stažení v launcherech třetích stran.&lt;br/&gt;Budete si je muset ručně stáhnout a přidat je do instance.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Dokončeno %1 z %2</translation>
+        <translation>Dokončeno %1 z %2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Nepodařilo se rozbalit mody...</translation>
+        <translation>Nepodařilo se rozbalit mody...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Rozbalování modů...</translation>
+        <translation>Rozbalování modů...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Instalace modpacku</translation>
+        <translation>Instalace modpacku</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Nepodařilo se vytvořit komponent knihoven</translation>
+        <translation>Nepodařilo se vytvořit komponent knihoven</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Neznámý typ zavaděče: </translation>
+        <translation>Neznámý typ zavaděče: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Nepodařilo se vytvořit komponent balíku</translation>
+        <translation>Nepodařilo se vytvořit komponent balíku</translation>
     </message>
 </context>
 <context>
@@ -1457,9 +1489,8 @@ Některé verze Minecraftu se nemusí spustit.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Načítání místního souboru</translation>
+        <translation type="vanished">Načítání místního souboru</translation>
     </message>
 </context>
 <context>
@@ -1958,9 +1989,8 @@ Některé verze Minecraftu se nemusí spustit.
         <translation>Kopírování světa…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Nepodařilo se zkopírovat svět.</translation>
+        <translation type="vanished">Nepodařilo se zkopírovat svět.</translation>
     </message>
 </context>
 <context>
@@ -2523,9 +2553,8 @@ Jste si jisti?</translation>
         <translation>Mazání světa…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Nepodařilo se smazat svět.</translation>
+        <translation type="vanished">Nepodařilo se smazat svět.</translation>
     </message>
 </context>
 <context>
@@ -3824,6 +3853,8 @@ Prosím zkus znovu.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4907,9 +4938,8 @@ Co chcete provést se zavaděčem %2?</translation>
         <translation>Importování světa…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Nepodařilo se importovat svět.</translation>
+        <translation type="vanished">Nepodařilo se importovat svět.</translation>
     </message>
 </context>
 <context>
@@ -8042,10 +8072,8 @@ Důvod:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -10036,6 +10064,7 @@ Chcete pokračovat?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Načítání místního souboru</translation>
     </message>
@@ -13303,138 +13332,110 @@ Jste si jisti?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nepodařilo se pochopit manifest balíčku:
+        <translation type="vanished">Nepodařilo se pochopit manifest balíčku:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Nepodporovaný režim instalace</translation>
+        <translation type="vanished">Nepodporovaný režim instalace</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
+        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro „%1“ v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Mazání existujících souborů...</translation>
+        <translation type="vanished">Mazání existujících souborů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Neznámý typ modu: %1</translation>
+        <translation type="vanished">Neznámý typ modu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nepodařilo se získat index lokálních metadat pro %1</translation>
+        <translation type="vanished">Nepodařilo se získat index lokálních metadat pro %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepodařilo se nalézt verzi pro zavaděč %1</translation>
+        <translation type="vanished">Nepodařilo se nalézt verzi pro zavaděč %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Není nastavena žádná verze zavaděče pro modpack!</translation>
+        <translation type="vanished">Není nastavena žádná verze zavaděče pro modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Neznámý nebo nepodporovaný typ stahování: %1</translation>
+        <translation type="vanished">Neznámý nebo nepodporovaný typ stahování: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Stahování konfigurací...</translation>
+        <translation type="vanished">Stahování konfigurací...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Stažení konfigurace</translation>
+        <translation type="vanished">Stažení konfigurace</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Rozbalování konfigurací...</translation>
+        <translation type="vanished">Rozbalování konfigurací...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Výběr volitelných modů...</translation>
+        <translation type="vanished">Výběr volitelných modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Stahování modů...</translation>
+        <translation type="vanished">Stahování modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Stažení modu</translation>
+        <translation type="vanished">Stažení modu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Neznámý typ stahování: %1</translation>
+        <translation type="vanished">Neznámý typ stahování: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>Zablokováno obcházení cesty v %1</translation>
+        <translation type="vanished">Zablokováno obcházení cesty v %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Nalezeny blokované mody</translation>
+        <translation type="vanished">Nalezeny blokované mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Následující soubory nejsou dostupné ke stažení v launcehrech třetích stran.&lt;br/&gt;Budete je muset ručně stáhnout a přidat do instance.</translation>
+        <translation type="vanished">Následující soubory nejsou dostupné ke stažení v launcehrech třetích stran.&lt;br/&gt;Budete je muset ručně stáhnout a přidat do instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>Dokončeno %1 z %2</translation>
+        <translation type="vanished">Dokončeno %1 z %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Nepodařilo se rozbalit mody...</translation>
+        <translation type="vanished">Nepodařilo se rozbalit mody...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Rozbalování modů...</translation>
+        <translation type="vanished">Rozbalování modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Instalace modpacku</translation>
+        <translation type="vanished">Instalace modpacku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Nepodařilo se vytvořit komponentu knihoven</translation>
+        <translation type="vanished">Nepodařilo se vytvořit komponentu knihoven</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Neznámý typ zavaděče: </translation>
+        <translation type="vanished">Neznámý typ zavaděče: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Nepodařilo se vytvořit komponentu balíku</translation>
+        <translation type="vanished">Nepodařilo se vytvořit komponentu balíku</translation>
     </message>
 </context>
 <context>
@@ -17379,6 +17380,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Neplatná URL</translation>
     </message>
@@ -18112,11 +18114,12 @@ Jste si jisti?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 přeloženo
 %3 nejasný
 %4 celkem</translation>

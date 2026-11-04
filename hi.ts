@@ -201,110 +201,142 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
+        <translation>%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
+        <translation>&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">असमर्थित संस्थापन मोड</translation>
+        <translation>असमर्थित संस्थापन मोड</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
+        <translation>मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">अज्ञात mod प्रकार: %1</translation>
+        <translation>अज्ञात mod प्रकार: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
+        <translation>%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
+        <translation>Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
+        <translation>अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
+        <translation>डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">कॉन्फ़िग डाउनलोड</translation>
+        <translation>कॉन्फ़िग डाउनलोड</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">कॉन्फ़िग निकाले जा रहे हैं..।</translation>
+        <translation>कॉन्फ़िग निकाले जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">कॉन्फ़िग पैक खोलने में असफल हो गए %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
+        <translation>ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation>मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Mod डाउनलोड</translation>
+        <translation>Mod डाउनलोड</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">अज्ञात डाउनलोड प्रकार: %1</translation>
+        <translation>अज्ञात डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">अवरोधित (Blocked) मॉड्स पाए गए</translation>
+        <translation>अवरोधित (Blocked) मॉड्स पाए गए</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
+        <translation>तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 में से %2 पूर्ण हुए</translation>
+        <translation>%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">मॉड्स निकालने में विफल रहे..।</translation>
+        <translation>मॉड्स निकालने में विफल रहे..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">मॉड्स निकाले जा रहे हैं..।</translation>
+        <translation>मॉड्स निकाले जा रहे हैं..।</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">modpack इंस्टॉल किया जा रहा है</translation>
+        <translation>modpack इंस्टॉल किया जा रहा है</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">library कॉम्पोनेंट बनाने में विफल रहा</translation>
+        <translation>library कॉम्पोनेंट बनाने में विफल रहा</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">अज्ञात लोडर प्रकार:- </translation>
+        <translation>अज्ञात लोडर प्रकार:- </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
+        <translation>पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
     </message>
 </context>
 <context>
@@ -1289,14 +1321,6 @@ Some versions of Minecraft may not launch.
     </message>
 </context>
 <context>
-    <name>BaseEntityLoadTask</name>
-    <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
-        <source>Loading local file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>BaseProfiler</name>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
@@ -1777,11 +1801,6 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
-        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2312,11 +2331,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
-        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3309,6 +3323,8 @@ Are you sure you want to do this?</source>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4159,11 +4175,6 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
-        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6003,15 +6014,6 @@ Reason:
     </message>
 </context>
 <context>
-    <name>ListModel</name>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="54"/>
@@ -7380,6 +7382,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9504,138 +9507,106 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
+        <translation type="obsolete">पैक मेनिफ़ेस्ट समझ में नहीं आया:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">असमर्थित संस्थापन मोड</translation>
+        <translation type="obsolete">असमर्थित संस्थापन मोड</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
+        <translation type="obsolete">&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
+        <translation type="obsolete">मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">अज्ञात mod प्रकार: %1</translation>
+        <translation type="obsolete">अज्ञात mod प्रकार: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
+        <translation type="obsolete">%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
+        <translation type="obsolete">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
+        <translation type="obsolete">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
+        <translation type="obsolete">अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
+        <translation type="obsolete">डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">कॉन्फ़िग डाउनलोड</translation>
+        <translation type="obsolete">कॉन्फ़िग डाउनलोड</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">कॉन्फ़िग निकाले जा रहे हैं..।</translation>
+        <translation type="obsolete">कॉन्फ़िग निकाले जा रहे हैं..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
+        <translation type="obsolete">ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation type="obsolete">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod डाउनलोड</translation>
+        <translation type="obsolete">Mod डाउनलोड</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">अज्ञात डाउनलोड प्रकार: %1</translation>
+        <translation type="obsolete">अज्ञात डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">अवरोधित (Blocked) मॉड्स पाए गए</translation>
+        <translation type="obsolete">अवरोधित (Blocked) मॉड्स पाए गए</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
+        <translation type="obsolete">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
+        <translation type="obsolete">%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">मॉड्स निकालने में विफल रहे..।</translation>
+        <translation type="obsolete">मॉड्स निकालने में विफल रहे..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">मॉड्स निकाले जा रहे हैं..।</translation>
+        <translation type="obsolete">मॉड्स निकाले जा रहे हैं..।</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">modpack इंस्टॉल किया जा रहा है</translation>
+        <translation type="obsolete">modpack इंस्टॉल किया जा रहा है</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">library कॉम्पोनेंट बनाने में विफल रहा</translation>
+        <translation type="obsolete">library कॉम्पोनेंट बनाने में विफल रहा</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">अज्ञात लोडर प्रकार:- </translation>
+        <translation type="obsolete">अज्ञात लोडर प्रकार:- </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
+        <translation type="obsolete">पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
     </message>
 </context>
 <context>
@@ -13042,6 +13013,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13554,6 +13526,14 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

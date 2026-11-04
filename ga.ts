@@ -200,110 +200,142 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nior thuigeamar an pack manifest.
+        <translation>Nior thuigeamar an pack manifest.
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Ní feidir linn an index metadata áitiúla le %1</translation>
+        <translation>Ní feidir linn an index metadata áitiúla le %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
+        <translation>Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Mód suiteála nach dtacaítear leis</translation>
+        <translation>Mód suiteála nach dtacaítear leis</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Ag scriosadh comhaid atá ann cheana féin...</translation>
+        <translation>Ag scriosadh comhaid atá ann cheana féin...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Cineál mod anaithnid: %1</translation>
+        <translation>Cineál mod anaithnid: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Theip ar leagan a aimsiú don luchtóir %1</translation>
+        <translation>Theip ar leagan a aimsiú don luchtóir %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Níl aon leagan luchtóra socraithe don modpack!</translation>
+        <translation>Níl aon leagan luchtóra socraithe don modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
+        <translation>Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Cumraíochtaí á n-íoslódáil...</translation>
+        <translation>Cumraíochtaí á n-íoslódáil...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Cumraíocht íoslódáil</translation>
+        <translation>Cumraíocht íoslódáil</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Ag baint cumraíochtaí...</translation>
+        <translation>Ag baint cumraíochtaí...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Theip ar chumraíochtaí an phacáiste %1 a oscailt!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Ag roghnú modhanna roghnacha...</translation>
+        <translation>Ag roghnú modhanna roghnacha...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Ag íoslódáil mods...</translation>
+        <translation>Ag íoslódáil mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Mod íoslódáil</translation>
+        <translation>Mod íoslódáil</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Cineál íoslódála anaithnid: %1</translation>
+        <translation>Cineál íoslódála anaithnid: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished">Cuireadh bac ar thrasnú conaire i %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Fuarthas modanna blocáilte</translation>
+        <translation>Fuarthas modanna blocáilte</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
+        <translation>Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 as %2 críochnaithe</translation>
+        <translation>%1 as %2 críochnaithe</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Theip ar na leasuithe a bhaint amach...</translation>
+        <translation>Theip ar na leasuithe a bhaint amach...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Ag baint modhanna...</translation>
+        <translation>Ag baint modhanna...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Modpack a shuiteáil</translation>
+        <translation>Modpack a shuiteáil</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Theip ar chomhpháirt leabharlann a chruthú</translation>
+        <translation>Theip ar chomhpháirt leabharlann a chruthú</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Cineál lódóra anaithnid:- </translation>
+        <translation>Cineál lódóra anaithnid:- </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Theip ar chomhpháirt an phacáiste a chruthú</translation>
+        <translation>Theip ar chomhpháirt an phacáiste a chruthú</translation>
     </message>
 </context>
 <context>
@@ -1201,9 +1233,8 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Ag luchtú comhaid áitiúil</translation>
+        <translation type="vanished">Ag luchtú comhaid áitiúil</translation>
     </message>
 </context>
 <context>
@@ -1690,9 +1721,8 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <translation>Ag cóipeáil an domhain...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Theip ar an domhan a chóipeáil.</translation>
+        <translation type="vanished">Theip ar an domhan a chóipeáil.</translation>
     </message>
 </context>
 <context>
@@ -2251,9 +2281,8 @@ An bhfuil tú cinnte?</translation>
         <translation>Ag scriosadh an domhain...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Theip ar an domhan a scriosadh.</translation>
+        <translation type="vanished">Theip ar an domhan a scriosadh.</translation>
     </message>
 </context>
 <context>
@@ -3420,6 +3449,8 @@ Déan iarracht arís.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4300,9 +4331,8 @@ Cad ba mhaith leat a dhéanamh le %2?</translation>
         <translation>Ag allmhairiú an domhain...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Theip ar an domhan a iompórtáil.</translation>
+        <translation type="vanished">Theip ar an domhan a iompórtáil.</translation>
     </message>
 </context>
 <context>
@@ -6974,10 +7004,8 @@ Cúis:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8564,6 +8592,7 @@ An bhfuil tú cinnte?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Comhad áitiúil á lódáil</translation>
     </message>
@@ -11146,138 +11175,110 @@ An bhfuil tú cinnte?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Níorbh fhéidir manifíl an phacáiste a thuiscint:
+        <translation type="vanished">Níorbh fhéidir manifíl an phacáiste a thuiscint:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Mód suiteála nach dtacaítear leis</translation>
+        <translation type="vanished">Mód suiteála nach dtacaítear leis</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Theip ar innéacs meiteashonraí áitiúil a fháil do &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Ag scriosadh comhad atá ann cheana féin...</translation>
+        <translation type="vanished">Ag scriosadh comhad atá ann cheana féin...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Cineál mod anaithnid: %1</translation>
+        <translation type="vanished">Cineál mod anaithnid: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Theip ar innéacs meiteashonraí áitiúil a fháil do %1</translation>
+        <translation type="vanished">Theip ar innéacs meiteashonraí áitiúil a fháil do %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Theip ar leagan a aimsiú don luchtóir %1</translation>
+        <translation type="vanished">Theip ar leagan a aimsiú don luchtóir %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Níl aon leagan luchtóra socraithe don modpack!</translation>
+        <translation type="vanished">Níl aon leagan luchtóra socraithe don modpack!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
+        <translation type="vanished">Cineál íoslódála anaithnid nó neamhthacaithe: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Cumraíochtaí á n-íoslódáil...</translation>
+        <translation type="vanished">Cumraíochtaí á n-íoslódáil...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Íoslódáil chumraíochta</translation>
+        <translation type="vanished">Íoslódáil chumraíochta</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Cumraíochtaí á mbaint amach...</translation>
+        <translation type="vanished">Cumraíochtaí á mbaint amach...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>Ag roghnú modhanna roghnacha...</translation>
+        <translation type="vanished">Ag roghnú modhanna roghnacha...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Ag íoslódáil mods...</translation>
+        <translation type="vanished">Ag íoslódáil mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Íoslódáil mod</translation>
+        <translation type="vanished">Íoslódáil mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Cineál íoslódála anaithnid: %1</translation>
+        <translation type="vanished">Cineál íoslódála anaithnid: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation>Cuireadh bac ar thrasnú conaire i %1</translation>
+        <translation type="vanished">Cuireadh bac ar thrasnú conaire i %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Fuarthas modanna blocáilte</translation>
+        <translation type="vanished">Fuarthas modanna blocáilte</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
+        <translation type="vanished">Níl na comhaid seo a leanas ar fáil le híoslódáil i lainseálaithe tríú páirtí.&lt;br/&gt;Beidh ort iad a íoslódáil de láimh agus iad a chur leis an sampla.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 as %2 críochnaithe</translation>
+        <translation type="vanished">%1 as %2 críochnaithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Theip ar na modanna a bhaint amach...</translation>
+        <translation type="vanished">Theip ar na modanna a bhaint amach...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Ag baint modhanna...</translation>
+        <translation type="vanished">Ag baint modhanna...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Ag suiteáil modpack</translation>
+        <translation type="vanished">Ag suiteáil modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Theip ar chomhpháirt leabharlann a chruthú</translation>
+        <translation type="vanished">Theip ar chomhpháirt leabharlann a chruthú</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Cineál luchtaitheora anaithnid: </translation>
+        <translation type="vanished">Cineál luchtaitheora anaithnid: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Theip ar chomhpháirt an phacáiste a chruthú</translation>
+        <translation type="vanished">Theip ar chomhpháirt an phacáiste a chruthú</translation>
     </message>
 </context>
 <context>
@@ -15003,6 +15004,7 @@ An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>URL neamhbhailí</translation>
     </message>
@@ -15599,11 +15601,12 @@ An bhfuil tú cinnte?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 aistrithe
 %3 doiléir
 %4 san iomlán</translation>

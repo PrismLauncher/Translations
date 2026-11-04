@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Não foi possível entender o manifesto do pacote:
+        <translation>Não foi possível entender o manifesto do pacote:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Não foi possível obter o índice de metadados local para %1</translation>
+        <translation>Não foi possível obter o índice de metadados local para %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Não foi possível obter o índice de metadados local para &apos;%1&apos; v%2</translation>
+        <translation>Não foi possível obter o índice de metadados local para &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Modo de instalação não suportado</translation>
+        <translation>Modo de instalação não suportado</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">A apagar ficheiros existentes...</translation>
+        <translation>A apagar ficheiros existentes...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tipo de mod desconhecido: %1</translation>
+        <translation>Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Não foi possível localizar a versão do loader %1</translation>
+        <translation>Não foi possível localizar a versão do loader %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nenhuma versão do loader definida para o modpack!</translation>
+        <translation>Nenhuma versão do loader definida para o modpack!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tipo de descarregamento desconhecido ou não suportado: %1</translation>
+        <translation>Tipo de descarregamento desconhecido ou não suportado: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">A transferir configs...</translation>
+        <translation>A transferir configs...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Config transferida</translation>
+        <translation>Config transferida</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">A extrair configs...</translation>
+        <translation>A extrair configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Falha ao abrir o pacote de configs %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">A selecionar mods opcionais...</translation>
+        <translation>A selecionar mods opcionais...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">A transferir mods...</translation>
+        <translation>A transferir mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Transferência do mod</translation>
+        <translation>Transferência do mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Tipo de download não suportado: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tipo de descarregamento desconhecido: %1</translation>
+        <translation>Tipo de descarregamento desconhecido: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Mods bloqueados encontrados</translation>
+        <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Os ficheiros que se seguem indisponíveis para transferência com launchers de terceiros.&lt;br/&gt;Vais ter de os descarregar manualmente e adicioná-los à instância.</translation>
+        <translation>Os ficheiros que se seguem indisponíveis para transferência com launchers de terceiros.&lt;br/&gt;Vais ter de os descarregar manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 de %2 completos</translation>
+        <translation>%1 de %2 completos</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Não foi possível extrair os mods...</translation>
+        <translation>Não foi possível extrair os mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">A extrair mods...</translation>
+        <translation>A extrair mods...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">A instalar modpack</translation>
+        <translation>A instalar modpack</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Não foi possível criar o componente de bibliotecas</translation>
+        <translation>Não foi possível criar o componente de bibliotecas</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tipo de loader desconhecido: </translation>
+        <translation>Tipo de loader desconhecido: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Não foi possível criar o componente de pacote</translation>
+        <translation>Não foi possível criar o componente de pacote</translation>
     </message>
 </context>
 <context>
@@ -1454,9 +1486,8 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>A carregar ficheiro local</translation>
+        <translation type="vanished">A carregar ficheiro local</translation>
     </message>
 </context>
 <context>
@@ -1943,9 +1974,8 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <translation>A copiar mundo...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Não foi possível copiar o mundo.</translation>
+        <translation type="vanished">Não foi possível copiar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -2508,9 +2538,8 @@ Tens a certeza?</translation>
         <translation>A apagar mundo...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Não foi possível apagar o mundo.</translation>
+        <translation type="vanished">Não foi possível apagar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -3809,6 +3838,8 @@ Por favor tenta de novo.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4837,9 +4868,8 @@ O que gostarias de fazer com %2?</translation>
         <translation>A importar o mundo...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Não foi possível importar o mundo.</translation>
+        <translation type="vanished">Não foi possível importar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -7868,10 +7898,8 @@ Motivo:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9736,6 +9764,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Carregando ficheiro local</translation>
     </message>
@@ -12756,138 +12785,106 @@ Tens a certeza de que queres prosseguir?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não foi possível perceber o manifesto do pacote:
+        <translation type="vanished">Não foi possível perceber o manifesto do pacote:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Modo de instalação não suportado</translation>
+        <translation type="vanished">Modo de instalação não suportado</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Erro ao obter o índice local de metadados em &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Erro ao obter o índice local de metadados em &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>A apagar ficheiros existentes...</translation>
+        <translation type="vanished">A apagar ficheiros existentes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Tipo de mod desconhecido: %1</translation>
+        <translation type="vanished">Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Não foi possível obter o índice do metadados local para %1</translation>
+        <translation type="vanished">Não foi possível obter o índice do metadados local para %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Não foi possível encontrar a versão do carregador %1</translation>
+        <translation type="vanished">Não foi possível encontrar a versão do carregador %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nenhuma versão do loader definida para o pacote de mods!</translation>
+        <translation type="vanished">Nenhuma versão do loader definida para o pacote de mods!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipo de descarga desconhecido ou não suportado: %1</translation>
+        <translation type="vanished">Tipo de descarga desconhecido ou não suportado: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>A descarregar configurações...</translation>
+        <translation type="vanished">A descarregar configurações...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Descarregar configuração</translation>
+        <translation type="vanished">Descarregar configuração</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>A extrair configurações...</translation>
+        <translation type="vanished">A extrair configurações...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>A escolher mods opcionais...</translation>
+        <translation type="vanished">A escolher mods opcionais...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>A descarregar mods...</translation>
+        <translation type="vanished">A descarregar mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Descarga de mod</translation>
+        <translation type="vanished">Descarga de mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Tipo de descarga desconhecida: %1</translation>
+        <translation type="vanished">Tipo de descarga desconhecida: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Mods bloqueados encontrados</translation>
+        <translation type="vanished">Mods bloqueados encontrados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Os ficheiros a seguir não estão disponíveis para descargas em launchers de terceiros.&lt;br/&gt;Precisará descarregá-los manualmente e adicioná-los à instância.</translation>
+        <translation type="vanished">Os ficheiros a seguir não estão disponíveis para descargas em launchers de terceiros.&lt;br/&gt;Precisará descarregá-los manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 completo</translation>
+        <translation type="vanished">%1 de %2 completo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Não foi possível extrair mods...</translation>
+        <translation type="vanished">Não foi possível extrair mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>A extrair mods...</translation>
+        <translation type="vanished">A extrair mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>A instalar o pacote de mods</translation>
+        <translation type="vanished">A instalar o pacote de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Erro ao criar o componente de bibliotecas</translation>
+        <translation type="vanished">Erro ao criar o componente de bibliotecas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Tipo de carregador desconhecido: </translation>
+        <translation type="vanished">Tipo de carregador desconhecido: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Erro ao criar o componente do pacote</translation>
+        <translation type="vanished">Erro ao criar o componente do pacote</translation>
     </message>
 </context>
 <context>
@@ -16774,6 +16771,7 @@ Tens a certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>url inválido</translation>
     </message>
@@ -17503,11 +17501,12 @@ Tens a certeza?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 traduzidos
 %3 imprecisos
 %4 total</translation>

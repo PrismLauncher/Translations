@@ -205,114 +205,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Negaliu suprasti paketo manifesto:
+        <translation>Negaliu suprasti paketo manifesto:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation>Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation>Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nepalaikomas diegimo režimas</translation>
+        <translation>Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Naikinami esami failai...</translation>
+        <translation>Naikinami esami failai...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Nežinomas modifikacijos tipas: %1</translation>
+        <translation>Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation>Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation>Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation>Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Siunčiamas konfigūracijos failas...</translation>
+        <translation>Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Atsisiųsti konfigūraciją</translation>
+        <translation>Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Išpakuojamos konfigūracijos...</translation>
+        <translation>Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Nepavyko atidaryti paketo konfigūracijos %1!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation>Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modifikacijas atsisiuntimas...</translation>
+        <translation>Modifikacijas atsisiuntimas...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Atsisiųsti modifikaciją</translation>
+        <translation>Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation>Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Rasta užblokuotų modifikacijų</translation>
+        <translation>Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Įdiegta %1 iš %2</translation>
+        <translation>Įdiegta %1 iš %2</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Nepavyko išpakuoti modifikacijas...</translation>
+        <translation>Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modifikacijos išpakavimas...</translation>
+        <translation>Modifikacijos išpakavimas...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Modpack diegimas</translation>
+        <translation>Modpack diegimas</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation>Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Neatpažintas krautuvo tipas: </translation>
+        <translation>Neatpažintas krautuvo tipas: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Nepavyko sukurti rinkinio komponentų</translation>
+        <translation>Nepavyko sukurti rinkinio komponentų</translation>
     </message>
 </context>
 <context>
@@ -1395,14 +1427,6 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
 </context>
 <context>
-    <name>BaseEntityLoadTask</name>
-    <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
-        <source>Loading local file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>BaseProfiler</name>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
@@ -1886,9 +1910,8 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
         <translation>Kopijuojamas pasaulis...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Nepavyko nukopijuoti pasaulio.</translation>
+        <translation type="vanished">Nepavyko nukopijuoti pasaulio.</translation>
     </message>
 </context>
 <context>
@@ -2444,11 +2467,6 @@ Ar tikrai norite tai padaryti?</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
-        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3740,6 +3758,8 @@ Bandykite dar kartą.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4701,11 +4721,6 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
-        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7318,10 +7333,8 @@ Reason:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8835,6 +8848,7 @@ Are you sure?</source>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11277,137 +11291,88 @@ Are you sure?</source>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nepalaikomas diegimo režimas</translation>
+        <translation type="obsolete">Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation type="obsolete">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Naikinami esami failai...</translation>
+        <translation type="obsolete">Naikinami esami failai...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Nežinomas modifikacijos tipas: %1</translation>
+        <translation type="obsolete">Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation type="obsolete">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation type="obsolete">Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation type="obsolete">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="obsolete">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Siunčiamas konfigūracijos failas...</translation>
+        <translation type="obsolete">Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="unfinished">Atsisiųsti konfigūraciją</translation>
+        <translation type="obsolete">Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Išpakuojamos konfigūracijos...</translation>
+        <translation type="obsolete">Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation type="obsolete">Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
+        <translation type="obsolete">Atsisiųsti modifikaciją</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="obsolete">Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Rasta užblokuotų modifikacijų</translation>
+        <translation type="obsolete">Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation type="obsolete">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nepavyko išpakuoti modifikacijas...</translation>
+        <translation type="obsolete">Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Modifikacijos išpakavimas...</translation>
+        <translation type="obsolete">Modifikacijos išpakavimas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
-        <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation type="obsolete">Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Neatpažintas krautuvo tipas: </translation>
+        <translation type="obsolete">Neatpažintas krautuvo tipas: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Nepavyko sukurti rinkinio komponentų</translation>
+        <translation type="obsolete">Nepavyko sukurti rinkinio komponentų</translation>
     </message>
 </context>
 <context>
@@ -14882,6 +14847,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15440,6 +15406,14 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Language</source>

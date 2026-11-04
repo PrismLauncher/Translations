@@ -213,114 +213,146 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Paket manifest dosyası anlaşılamadı:
+        <translation>Paket manifest dosyası anlaşılamadı:
 </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 için yerel meta veri dizini alınamadı</translation>
+        <translation>%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Desteklenmeyen yükleme modu</translation>
+        <translation>Desteklenmeyen yükleme modu</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Mevcut dosyalar siliniyor...</translation>
+        <translation>Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Bilinmeyen mod türü: %1</translation>
+        <translation>Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Mod paketi için yükleyici sürümü seçilmemiş!</translation>
+        <translation>Mod paketi için yükleyici sürümü seçilmemiş!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation type="vanished">Yapılandırmalar indiriliyor...</translation>
+        <translation>Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation type="vanished">Yapılandırma indirmesi</translation>
+        <translation>Yapılandırma indirmesi</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation type="vanished">Yapılandırmalar çıkarılıyor...</translation>
+        <translation>Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
         <translation type="vanished">Paket yapılandırmaları (%1) açılamadı!</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">İsteğe bağlı modlar seçiliyor...</translation>
+        <translation>İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modlar indiriliyor...</translation>
+        <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation type="vanished">Mod indirmesi</translation>
+        <translation>Mod indirmesi</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
         <translation type="vanished">Desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Bilinmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation type="vanished">Engellenmiş modlar bulundu</translation>
+        <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
+        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%2 görevin %1 tanesi tamamlandı</translation>
+        <translation>%2 görevin %1 tanesi tamamlandı</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modları dışarı aktarma başarısız oldu...</translation>
+        <translation>Modları dışarı aktarma başarısız oldu...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modlar dışarı aktarılıyor...</translation>
+        <translation>Modlar dışarı aktarılıyor...</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation type="vanished">Mod paketi kuruluyor</translation>
+        <translation>Mod paketi kuruluyor</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kütüphane bileşeni oluşturulamadı</translation>
+        <translation>Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Bilinmeyen yükleyici tipi: </translation>
+        <translation>Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Paket bileşeni oluşturulamadı</translation>
+        <translation>Paket bileşeni oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -1471,9 +1503,8 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 <context>
     <name>BaseEntityLoadTask</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>Yerel dosya yükleniyor</translation>
+        <translation type="vanished">Yerel dosya yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -1972,9 +2003,8 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation>Dünya kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation>Dünya kopyalaması başarısız oldu.</translation>
+        <translation type="vanished">Dünya kopyalaması başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -2537,9 +2567,8 @@ Emin misiniz?</translation>
         <translation>Dünya siliniyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation>Dünya silinmesi başarısız oldu.</translation>
+        <translation type="vanished">Dünya silinmesi başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -3838,6 +3867,8 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4909,9 +4940,8 @@ What would you like to do with %2?</source>
         <translation>Dünya içe aktarılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation>Dünya aktarımı başarısız oldu.</translation>
+        <translation type="vanished">Dünya aktarımı başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -8028,10 +8058,8 @@ Sebep:
 <context>
     <name>ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="131"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -10040,6 +10068,7 @@ Emin misiniz?</translation>
 <context>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
         <translation>Yerel dosya yükleniyor</translation>
     </message>
@@ -13245,138 +13274,106 @@ Emin misiniz?</translation>
 <context>
     <name>PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paket manifest dosyası anlaşılamadı:
+        <translation type="vanished">Paket manifest dosyası anlaşılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>Desteklenmeyen yükleme modu</translation>
+        <translation type="vanished">Desteklenmeyen yükleme modu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>Mevcut dosyalar siliniyor...</translation>
+        <translation type="vanished">Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>Bilinmeyen mod türü: %1</translation>
+        <translation type="vanished">Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation type="vanished">%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>Mod paketi için yükleyici versiyonu seçilmedi!</translation>
+        <translation type="vanished">Mod paketi için yükleyici versiyonu seçilmedi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation type="vanished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>Yapılandırmalar indiriliyor...</translation>
+        <translation type="vanished">Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <source>Config download</source>
-        <translation>Yapılandırma indirmesi</translation>
+        <translation type="vanished">Yapılandırma indirmesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>Yapılandırmalar çıkarılıyor...</translation>
+        <translation type="vanished">Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>İsteğe bağlı modlar seçiliyor...</translation>
+        <translation type="vanished">İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>Modlar indiriliyor...</translation>
+        <translation type="vanished">Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>Mod indir</translation>
+        <translation type="vanished">Mod indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>Bilinmeyen indirme türü: %1</translation>
+        <translation type="vanished">Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>Engellenmiş modlar bulundu</translation>
+        <translation type="vanished">Engellenmiş modlar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilmeye uygun değildir.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
+        <translation type="vanished">Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilmeye uygun değildir.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>%2&apos;nin %1&apos;i tamamlandı</translation>
+        <translation type="vanished">%2&apos;nin %1&apos;i tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>Modları çıkartma başarısız oldu...</translation>
+        <translation type="vanished">Modları çıkartma başarısız oldu...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>Modlar çıkartılıyor...</translation>
+        <translation type="vanished">Modlar çıkartılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>Mod paketi kuruluyor</translation>
+        <translation type="vanished">Mod paketi kuruluyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>Kütüphane bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>Bilinmeyen yükleyici tipi: </translation>
+        <translation type="vanished">Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>Paket bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Paket bileşeni oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -17312,6 +17309,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
         <translation>Geçersiz URL</translation>
     </message>
@@ -18041,11 +18039,12 @@ Emin misiniz?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
         <source>%1:
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 çevrilmiş
 %3 muhtemelen
 %4 toplam</translation>
