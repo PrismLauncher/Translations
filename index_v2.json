@@ -154,6 +154,14 @@
             "fuzzy" : 315,
             "untranslated" : 1658
         },
+        "efi" : {
+            "file" : "e11f4e5e9dedab0ffb9ab050ad7d4ab8de754428.class",
+            "sha1" : "e11f4e5e9dedab0ffb9ab050ad7d4ab8de754428",
+            "size" : 24,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 2570
+        },
         "el" : {
             "file" : "6d2a3bef97cafe271ff4dc9dc732e5cb0a521e7c.class",
             "sha1" : "6d2a3bef97cafe271ff4dc9dc732e5cb0a521e7c",
