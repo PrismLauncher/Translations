@@ -2729,7 +2729,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation>消去(&amp;C)</translation>
+        <translation>すべて消去(&amp;C)</translation>
     </message>
 </context>
 <context>
