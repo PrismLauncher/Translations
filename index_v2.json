@@ -187,12 +187,12 @@
             "untranslated" : 62
         },
         "en_NZ" : {
-            "file" : "6e66cb145ec3d7228e93c17ab8410262a1f2521d.class",
-            "sha1" : "6e66cb145ec3d7228e93c17ab8410262a1f2521d",
-            "size" : 214446,
-            "translated" : 1555,
-            "fuzzy" : 0,
-            "untranslated" : 0
+            "file" : "c3b4db7abc993bede5600442ba5379d878cd93eb.class",
+            "sha1" : "c3b4db7abc993bede5600442ba5379d878cd93eb",
+            "size" : 166628,
+            "translated" : 977,
+            "fuzzy" : 371,
+            "untranslated" : 1218
         },
         "eo" : {
             "file" : "7f41b738127980b8909cf54c37c1d534878df705.class",
@@ -598,8 +598,8 @@
             "file" : "62d47ffa7949083ffc949b7f08f6e983ef6109c9.class",
             "sha1" : "62d47ffa7949083ffc949b7f08f6e983ef6109c9",
             "size" : 385363,
-            "translated" : 2565,
-            "fuzzy" : 1,
+            "translated" : 2566,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "rue" : {
