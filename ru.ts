@@ -9558,7 +9558,9 @@ Please add your Microsoft or Mojang account.</oldsource>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось очистить кэш метаданных!
+Чтобы очистить кэш метаданных вручную, нажмите &quot;Папки&quot; -&gt; &quot;Данные лаунчера&quot; и после закрытия лаунчера удалите папку с именем &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
