@@ -426,14 +426,6 @@
             "fuzzy" : 0,
             "untranslated" : 0
         },
-        "ja_KANJI" : {
-            "file" : "18493b01df020d344e1b2909e84ccddbcc4824da.class",
-            "sha1" : "18493b01df020d344e1b2909e84ccddbcc4824da",
-            "size" : 70892,
-            "translated" : 490,
-            "fuzzy" : 233,
-            "untranslated" : 1847
-        },
         "jam" : {
             "file" : "c64b7cae71338f9e47ec27d997257c1da866a0da.class",
             "sha1" : "c64b7cae71338f9e47ec27d997257c1da866a0da",
