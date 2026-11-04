@@ -16443,11 +16443,6 @@ Error: %1</source>
         <translation type="unfinished">Failed to get authorization for %1 services. Error %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
-        <source>Unknown STS error for %1 services: %2</source>
-        <translation>Unknown STS error for %1 services: %2</translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
         <translation>Failed to get authorisation for %1 services: %2</translation>
