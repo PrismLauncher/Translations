@@ -290,7 +290,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Cuireadh bac ar thrasnú conaire i %1</translation>
+        <translation>Cuireadh bac ar thrasnú conaire i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -8305,7 +8305,9 @@ Ar mhaith leat dul ar aghaidh?</numerusform>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar ghlanadh thaisce na meiteashonraí!
+Chun taisce na meiteashonraí a ghlanadh de láimh, téigh chuig Fillteáin -&gt; Sonraí an Lainseálaí (Folders -&gt; Launcher Data), agus tar éis duit an lainseálaí a dhúnadh, scrios an fillteán dar ainm &quot;meta&quot;.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
