@@ -28,6 +28,7 @@
         {
           default = pkgs.mkShell {
             packages = with pkgs; [
+              gnused
               qt6.qttools
               gettext
             ];
