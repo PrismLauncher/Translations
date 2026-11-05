@@ -299,7 +299,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Polun läpikäynti estetty kohteessa %1</translation>
+        <translation>Polun läpikäynti estetty kohteessa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -9215,7 +9215,9 @@ Haluatko jatkaa?</numerusform>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatan välimuistin tyhjennys epäonnistui!
+Tyhjentääksesi metadatavälimuistin manuaalisesti, paina Kansiot -&gt; Käynnistyslataajan tiedot, ja käynnistyslataajan sulkemisen jälkeen poista kansio nimeltä &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
