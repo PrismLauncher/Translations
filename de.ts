@@ -319,7 +319,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockierte Pfad Durchquerung in %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -9574,7 +9574,9 @@ Bitte füge ein Microsoft-Konto hinzu.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Metadaten cache Leerung fehlgeschlagen!
+Um den Metadaten cache manuell zu löschen, drücke Ordner -&gt; Startprogramm Wurzel, und nach dem schließen des launchers lösche den Ordner namens &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
