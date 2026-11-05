@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Remarque&#xa0;: vous devez définir ce paramètre que pour accéder à vos données privées. Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Remarque&#xa0;: vous n&apos;avez besoin de définir ce paramètre que pour accéder à vos données privées. Pour plus d&apos;informations, consultez la &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -2007,7 +2007,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation>Copie du monde en cours...</translation>
+        <translation>Copie du monde...</translation>
     </message>
     <message>
         <source>Failed to copy world.</source>
@@ -2571,7 +2571,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation>Suppression du monde en cours...</translation>
+        <translation>Suppression du monde...</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
@@ -3336,12 +3336,12 @@ Cette instance ne peut pas être lancée car certaines bibliothèques sont manqu
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
         <source>Lock Updates</source>
-        <translation>Bloquer les mises à jour</translation>
+        <translation>Verrouiller les mises à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation>Empêcher la ressource d&apos;être mise à jour</translation>
+        <translation>Verrouiller la ressource pour empêcher sa mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
@@ -3423,10 +3423,10 @@ Ceci pourrait être permanent et ils disparaitront du dossier.
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;effacer le fichier «&#xa0;%1&#xa0;».
+        <translation>Vous êtes sur le point d&apos;effacer le dossier &quot;%1&quot;.
 Ceci pourrait être permanent et il disparaîtra du dossier parent.
 
-Êtes-vous sûr&#xa0;?</translation>
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="280"/>
@@ -3497,7 +3497,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation>Utilisé pour modifier le fichier JSON des composants.</translation>
+        <translation>Utilisé pour modifier les fichiers JSON du composant.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
@@ -6183,7 +6183,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Installations de Java épinglées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -6292,7 +6292,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Détecter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
@@ -6319,12 +6319,12 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionner une installation Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aucune installation Java n&apos;a été détectée sur votre système.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -8929,7 +8929,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir le dossier du modèle dans l&apos;explorateur de fichier.</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -9535,7 +9535,9 @@ Veuillez ajouter un compte Microsoft.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;effacement du cache a échoué&#x202f;!
+Pour effacer le cache manuellement, appuyez sur Dossier -&gt; Données du Launcher, et après avoir fermé le launcher, supprimez le dossier nommé &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
@@ -9664,7 +9666,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished">Pas d&apos;instance sélectionnée</translation>
+        <translation>Pas d&apos;instance sélectionnée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
@@ -12914,12 +12916,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le dossier des modèles n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">Sous Windows, la création de liens symboliques peut nécessiter l&apos;autorisation de l&apos;administrateur.</translation>
+        <translation>Sous Windows, la création de liens symboliques peut nécessiter l&apos;autorisation de l&apos;administrateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
@@ -16070,7 +16072,9 @@ Are you sure you want to do this?</source>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Cette ressource est liée symboliquement autre part. La modifier changera aussi l&apos;originale.
+Chemin canonique&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
@@ -17892,7 +17896,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Update</source>
@@ -19142,7 +19146,8 @@ Chemin canonique : %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ce monde est lié symboliquement autre part. Le modifier changera aussi l&apos;original.
+Chemin canonique&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
