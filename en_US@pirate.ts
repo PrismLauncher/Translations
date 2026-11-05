@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en@uwu">
+<TS version="2.1" language="en_US@pirate">
 <context>
     <name>APIPage</name>
     <message>
@@ -8,20 +8,20 @@
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="44"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pwastebwin Swervice</translation>
+        <translation>&amp;Pastebin Serrrvice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Pwaste Swervice &amp;Twype</translation>
+        <translation>Paste Serrrvice &amp;Type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="70"/>
         <source>Base &amp;URL</source>
-        <translation>Bwase &amp;URL</translation>
+        <translation>Base &amp;UarrrrL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="80"/>
@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="90"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nyote: u pwobabwy wobabwy want to change ow queer the Base UwURL aftew changing the pwaste swervice type.</translation>
+        <translation>Note: you should prob&apos;ly get to changin&apos; or clearin&apos; th Base UarrrrL after changing the paste serrrvice type.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
@@ -126,96 +126,96 @@
     </message>
     <message>
         <source>API Keys</source>
-        <translation type="vanished">API Kweys</translation>
+        <translation type="vanished">Maps</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="240"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Micwosoft Authenticwation</translation>
+        <translation>&amp;Micrrrosoft Authentic-ayy-tion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="266"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nyote: u pwobabwy wobabwy don&apos;t nyeed to set this if logging in via Micwosoft Authenticwation awweady wowrks,,,,</translation>
+        <translation>Yo ho ho, ye prrrabably do not need to set t&apos;is if Micrrrosoft Authentic-ayy-tion already be working.</translation>
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="vanished">(Defauwt)</translation>
+        <translation type="vanished">(Defarrrrlt)</translation>
     </message>
     <message>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="vanished">Entew a custom cwient ID fow Micwosoft Authenticwation hewe.</translation>
+        <translation type="vanished">Enterr a custom cliayyent ID for Micrrrosoft Authentic-ayy-tion herrr.</translation>
     </message>
     <message>
         <source>&amp;Modrinth API</source>
-        <translation type="vanished">&amp;Modwinth API</translation>
+        <translation type="vanished">The API fer the Rinth of the Mods</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: u onwy need to set this to access pwivate data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;docuwmentation&lt;/a&gt; fow mowe infowmation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A warning for ye to heed: ye only be needing to set this to access ye private booty. Be reading of the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; if ye be needing more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="vanished">Entew a custom API token fow Modwinth hewe. OwO</translation>
+        <translation type="vanished">Enterrrr a self-explored API doubloon for the Rinth of the Mods in this place.</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="vanished">(Nyone)</translation>
+        <translation type="vanished">(None be here)</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Miscewwanyeous OwO</translation>
+        <translation type="vanished">Mixture of ye&apos; olde treasure</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="208"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>User Agent</source>
-        <translation>Usew Agent</translation>
+        <translation>Userrr Arrrgent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="221"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Entew a custom Usew Agent hewe. The speciaw stwing $LAUNCHER_VER w-wiww be wepwaced with t-the vewsion of the waunchew.</translation>
+        <translation>Ye be entering a custom Userr Aygent herrr. The magic strrri&apos;ng $LAUNCHER_VER will be replaced with ye version of ye launcharrr.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;dwata Sewvew</translation>
+        <translation>Meta&amp;data Boat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>You can set this to a thiwd-pawty wawty metadwata s-s-sewvew to u-use patched wibwawies ow othew hacks OwO.</translation>
+        <translation>You can select this to another ship&apos;s metadata server to use patched libraries or other sorts o&apos; cheatin&apos;.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="vanished">Entew a custom UwURL fow meta hewe.</translation>
+        <translation type="vanished">Guide the ship to special meta loot here.</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
-        <translation type="vanished">&amp;CuwseFowge Cowe API</translation>
+        <translation type="vanished">&amp;CurseForge Corrre Map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="382"/>
         <location filename="src_stable/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Nyote: you pwobabwy wobabwy don&apos;t nyeed to set this i-i-if CuwseFowge awweady wowks.</translation>
+        <translation>Note: you probably don&apos;t need to set this if CurrseForrrge already be guidin&apos; ya.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="vanished">Entew a custom API Key fow CuwseFowge hewe.</translation>
+        <translation type="vanished">Enter a custom API Doubloon for CurseForge &apos;ere.</translation>
     </message>
     <message>
         <source>APIs</source>
-        <translation type="vanished">APIs</translation>
+        <translation type="vanished">Maps</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -231,100 +231,100 @@
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="134"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Couwd nyot undewstand pack m-manyifest:
+        <translation>Ye couldn&apos;t recognize pack manifest:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="361"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>F-Faiwed to get wocaw metadata index fow %1</translation>
+        <translation>No metadata index be found for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="167"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Faiwed to g-get w-wocaw metadata index fow &apos;%1&apos; v%2</translation>
+        <translation>No metadata index be found for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Unsupported installation mode</source>
-        <translation>Unsuppowted instawwation mode</translation>
+        <translation>Ye olde&apos; install mode be not honored</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="198"/>
         <source>Deleting existing files...</source>
-        <translation>Deweting existing f-fiwes...</translation>
+        <translation>Forgettin&apos; existin&apos; files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="349"/>
         <source>Unknown mod type: %1</source>
-        <translation>Unknyown mod type: %1</translation>
+        <translation>Yar captain ain&apos;t seen this mod flag: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="395"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Faiwed to f-find v-vewsion fow %1 woadew</translation>
+        <translation>Blimey! Blunder&apos;d findin&apos; target for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="409"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nyo woadew vewsion set fow modpack!</translation>
+        <translation>No loader version be set for ye modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="541"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Unkwnown ow uwnsuppwowted wownloawd twype: %1</translation>
+        <translation>Confuzzlin&apos; or rogue download type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
         <source>Downloading configs...</source>
-        <translation>Wownwoadwing cwonfwigs...</translation>
+        <translation>Fetchin&apos; configs...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="657"/>
         <source>Config download</source>
-        <translation>Cwonfwig wownwoad</translation>
+        <translation>Layout raid</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation>Extwactwing cwonfwigs...</translation>
+        <translation>Extractin&apos; configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
-        <translation type="vanished">Fwaied two owpwen pwack cwonfwigs %1!!!</translation>
+        <translation type="vanished">Ye pack layout not be raiding %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Selecting optional mods...</source>
-        <translation>Sewectwing owptwionaw mods...</translation>
+        <translation>Selectin&apos; mods the captain disagrees with...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="731"/>
         <source>Downloading mods...</source>
-        <translation>Wownloawdwing mods...</translation>
+        <translation>Loadin&apos; up mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="734"/>
         <source>Mod download</source>
-        <translation>Mod wownloawd</translation>
+        <translation>Mod plunderin&apos;</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
-        <translation type="vanished">Uwnswuppowted wownloawd twype: %1</translation>
+        <translation type="vanished">Rogue raiding type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
@@ -332,7 +332,7 @@
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="761"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="894"/>
         <source>Unknown download type: %1</source>
-        <translation>Uwnkwown wownloawd twype: %1</translation>
+        <translation>Confuzzlin&apos; raid type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
@@ -344,13 +344,13 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="842"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">B-Bwocked mods found</translation>
+        <translation type="unfinished">Forbidden mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="843"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The following files be too carefully guarded to be plundered by third party launchers.&lt;br/&gt;Ye&apos;ll need to manually pilfer them and add them to the instance on ye own.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
@@ -362,37 +362,37 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="936"/>
         <source>Failed to extract mods...</source>
-        <translation>Fwailed two extwact mods...</translation>
+        <translation>Blunder&apos;d grabbin&apos; treasure out of coffer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="946"/>
         <source>Extracting mods...</source>
-        <translation>Extwactwing mods...</translation>
+        <translation>Extractin&apos; mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1027"/>
         <source>Installing modpack</source>
-        <translation>Instawwing modpwack</translation>
+        <translation>Hoisting the sails of ye chosen pack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1038"/>
         <source>Failed to create libraries component</source>
-        <translation>Fwailed two cweate wibwawies cwompownyent</translation>
+        <translation>Maroon&apos;d the creation of ye archives part</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1068"/>
         <source>Unknown loader type: </source>
-        <translation>Uwnknwown woader twype: </translation>
+        <translation>Confuzzlin&apos; cannon type: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <location filename="src_stable/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1082"/>
         <source>Failed to create pack component</source>
-        <translation>Fwailed two cweate pwack cwompownyent</translation>
+        <translation>Maroon&apos;d makin&apos; ye pack part</translation>
     </message>
 </context>
 <context>
@@ -401,92 +401,92 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>Awout</translation>
+        <translation>Who&apos;s this</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A cwustow waunchew that wakes wawaging Minecraft weasiew wy awowing wou two hawe wultipwe winstwances ow Minecraft at wonce.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A make-it-yerr-own launcher that makes yerr captainin&apos; Minecraft easy by makin&apos; yerr havin&apos; many-of-an-instance of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Pwatfowm:</translation>
+        <translation>Softwarre Dock:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Wuild Wate:</translation>
+        <translation>Laid Down:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>Cowwit:</translation>
+        <translation>Bounty:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Chwannel:</translation>
+        <translation>Sea Passage:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Cwedits</translation>
+        <translation>Ship Captains</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>Wicense</translation>
+        <translation>Letter of Marque</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>Awout Qt</translation>
+        <translation>Tale of Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Cwose</translation>
+        <translation>Walk the plank</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>About %1</source>
-        <translation>Awout %1</translation>
+        <translation>Arrrbout %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>Platform</source>
-        <translation>Pwawfowm</translation>
+        <translation>Ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>Cowwit: %1</translation>
+        <translation>Bounty: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation>Wuild wate: %1</translation>
+        <translation>Date of sailing: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="113"/>
         <source>Channel</source>
-        <translation>Chwannel</translation>
+        <translation>Sea Channel</translation>
     </message>
 </context>
 <context>
@@ -494,37 +494,37 @@
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="vanished">Unchwecked</translation>
+        <translation type="vanished">Unscrutinized</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="vanished">Offwine</translation>
+        <translation type="vanished">On land</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="vanished">Weady</translation>
+        <translation type="vanished">Ready to sail</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="vanished">Wowking</translation>
+        <translation type="vanished">Sailing away</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="vanished">Ewwowed</translation>
+        <translation type="vanished">Abandoned ship</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="vanished">Expwired</translation>
+        <translation type="vanished">Ship marrooned</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="vanished">Wone</translation>
+        <translation type="vanished">Sailed Away</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -534,22 +534,22 @@
     <message>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="vanished">Wes</translation>
+        <translation type="vanished">Ay</translation>
     </message>
     <message>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="vanished">Nwo</translation>
+        <translation type="vanished">Nay</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Username</source>
-        <translation>Wusewname</translation>
+        <translation>Yer Name</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="vanished">Acwount</translation>
+        <translation type="vanished">Yer ship</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
@@ -563,26 +563,26 @@
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="347"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Offwine</translation>
+        <translation type="unfinished">On land</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="338"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="350"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="367"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Type</source>
-        <translation>Twype</translation>
+        <translation>Clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Status</source>
-        <translation>Stwatus</translation>
+        <translation>This boat be</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
@@ -592,37 +592,37 @@
     </message>
     <message>
         <source>Can Migrate?</source>
-        <translation type="vanished">Cwan Migwate?</translation>
+        <translation type="vanished">Can Sail?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="389"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft wusewname wassociatwed wiw the acwount.</translation>
+        <translation>Minecraft username associated with yer ship.</translation>
     </message>
     <message>
         <source>User name of the account.</source>
-        <translation type="vanished">Wusew name ow the acwount.</translation>
+        <translation type="vanished">Username of yer ship.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="vanished">Twype ow the acwount - Mojang ow MSA.</translation>
+        <translation type="vanished">Type of ship - Mojang or MSA.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Current status of the account.</source>
-        <translation>Cwuwent stwatus ow the acwount.</translation>
+        <translation>Current condition of the ship.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="vanished">Cwan twis acwount migwate two a Microsoft acwount?</translation>
+        <translation type="vanished">Can this ship sail to Microsoft Island?</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="vanished">Disabwed</translation>
+        <translation type="vanished">Ran aground</translation>
     </message>
 </context>
 <context>
@@ -630,42 +630,42 @@
     <message>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="vanished">Add &amp;Mojang</translation>
+        <translation type="vanished">Add Ye &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Remo&amp;we</translation>
+        <translation>Jettison</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Swet Dwefawt</translation>
+        <translation>&amp;Set Flagship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Nwo Dwefawt</translation>
+        <translation>&amp;No Flagship</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="vanished">&amp;Upwoad Skwin</translation>
+        <translation type="vanished">&amp;Deliver Trousers</translation>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="vanished">&amp;Dewete Skwin</translation>
+        <translation type="vanished">&amp;Scuttle Trousers</translation>
     </message>
     <message>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="vanished">Dewete the cuwentwy actwive skwin and go wack two the defawt wone</translation>
+        <translation type="vanished">Be scuttlin&apos; yer trousers and be returnin&apos; to the standard one</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
@@ -684,20 +684,20 @@
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Add Microsoft</translation>
+        <translation>Add ye Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Wefwesh</translation>
+        <translation>&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="102"/>
         <source>Refresh the account tokens</source>
-        <translation>Wefwesh the acwount twokens</translation>
+        <translation>Renew ye account doubloons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
@@ -714,8 +714,8 @@
     <message>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation type="vanished">Wewcome!
-I-I-If you&apos;w new hewe, y-y-you can cwick the &quot;Add&quot; wutton two add youw Mojang ow Minecraft acwount.</translation>
+        <translation type="vanished">Ahoy, Matey!
+If yer new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
@@ -728,7 +728,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
         <source>Context menu</source>
-        <translation>Cwontext menu</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
@@ -750,90 +750,90 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="vanished">P-P-Pwease entwew youw Mojang acwount emaiw and passwowd two adds youw acwount.</translation>
+        <translation type="vanished">Kindly enter yer Mojang captain&apos;s seaemail and secret phrase to enlist yer captain.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
-        <translation type="vanished">Micwosoft A-Accounts nyot avaiwabwe</translation>
+        <translation type="vanished">Microsoft ships ran aground</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated %1.
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="vanished">Micwosoft a-accounts awe onwy usabwe on macOS 10.13 ow nyewew, with fuwwy wuwwy updated %1.
+        <translation type="vanished">Microsoft accounts be usable only on macOS 10.13 or newer, with fully updated %1.
 
-Pwease update b-both youw opewating system and %1.</translation>
+Kindly be updating of both your operating system and %1.</translation>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="vanished">Skin Dewete</translation>
+        <translation type="vanished">Scuttle Trousers</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="vanished">Faiwed to dewete cuwwent skin!</translation>
+        <translation type="vanished">Failed to scuttle current trousers!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.h" line="58"/>
         <source>Accounts</source>
-        <translation>Accownts</translation>
+        <translation>Ships</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Add &amp;Offwinye</translation>
+        <translation>Add Ye No Interwebs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="vanished">You must add a-a Micwosoft ow Mojang account that owns Minyecwaft befowe you can add an offwinye account.&lt;br&gt;&lt;br&gt;If you have wost youw a-account you can contact Micwosoft fow s-suppowt OwO.</translation>
+        <translation type="vanished">Ye cant be pirating minecraft! That is a golden rule. You be needing to add an account that be owning the game first.&lt;br&gt;&lt;br&gt;If you have lost your account you can write Microsoft a letter for support.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Pwease entew youw desiwed usewnyame to add youw offwinye account.</translation>
+        <translation>Kindly declare yer desired pirate name to join the offline crew.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <location filename="src_stable/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Nyo Micwosoft Authentication cwient ID was set.</translation>
+        <translation>No Microsoft Plunder Validation Ship&apos;s Mark was configured.</translation>
     </message>
 </context>
 <context>
     <name>AccountTask</name>
     <message>
         <source>Sending request to auth servers...</source>
-        <translation type="vanished">Sending wequest to auf sewvews...</translation>
+        <translation type="vanished">Sendin&apos; letter to auth servers...</translation>
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="vanished">Authywuthy task suwucceeded.</translation>
+        <translation type="vanished">Yer letter be successfully delivered and you be authorised to be sailing.</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
-        <translation type="vanished">Faiwed t-to contact the authentication sewvew.</translation>
+        <translation type="vanished">Yer letter got lost in the wind matey.</translation>
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
-        <translation type="vanished">Encountewed an ewwow duwing a-authentication.</translation>
+        <translation type="vanished">Met a snag in the midst of authentication.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="vanished">Faiwed to authenticate. The session has expiwed.</translation>
+        <translation type="vanished">Failed to validate. Thine hourglass has run out.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="vanished">F-Faiwed to authenticate. The account nyo w-wongew exists.</translation>
+        <translation type="vanished">Failed to validate, Thine account be lost to Davy Jones&apos; locker.</translation>
     </message>
     <message>
         <source>...</source>
@@ -841,11 +841,11 @@ Pwease update b-both youw opewating system and %1.</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="vanished">Unknyown account task state: %1</translation>
+        <translation type="vanished">Mysterious account duty status: %1</translation>
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="vanished">Cwient ID has changed. Nyew session nyeeds to be c-c-cweated OwO.</translation>
+        <translation type="vanished">The Ship&apos;s Mark be altered. We must hoist a new flag and set sail on a fresh voyage.</translation>
     </message>
 </context>
 <context>
@@ -882,7 +882,7 @@ Pwease update b-both youw opewating system and %1.</translation>
         <location filename="src_stable/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src_stable/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Open fowdew</translation>
+        <translation type="unfinished">Open ye Chest o&apos; Flags</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
@@ -918,7 +918,7 @@ Pwease update b-both youw opewating system and %1.</translation>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <location filename="src_stable/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Icons:</translation>
+        <translation type="unfinished">&amp;Flags:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
@@ -1022,11 +1022,11 @@ Pwease update b-both youw opewating system and %1.</translation>
         <location filename="src/launcher/Application.cpp" line="922"/>
         <location filename="src_stable/launcher/Application.cpp" line="899"/>
         <source>Settings</source>
-        <translation>owo Settings</translation>
+        <translation>Settins&apos;</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted</translation>
+        <translation type="vanished">Abandoned</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="695"/>
@@ -1111,25 +1111,25 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/Application.cpp" line="2002"/>
         <location filename="src_stable/launcher/Application.cpp" line="1929"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Owd dwata fwom %1 was fownd, but yu awweady have exwisting data for %2. Sadwy you wiw need two migwate yourswelf. Do yu want to be weminded of the pending dwata migration next time yu stawt %2?</translation>
+        <translation>Ancient records from %1 have surfaced, yet we already hold current records for %2. &apos;Tis a task ye must take on yer own. Would ye like to be reminded of this pending data journey when ye next launch %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2006"/>
         <location filename="src_stable/launcher/Application.cpp" line="1933"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>It wooks wike you wused %1 befowe. Do you want to migwate your wata to the new wocation of %2?</translation>
+        <translation>Ye stashed yer treasures in %1 afore. Would ye like to transfer yer loot to the new treasure chest at %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2012"/>
         <location filename="src_stable/launcher/Application.cpp" line="1939"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>It wooks wike you wused %1 on %2 befowe. Do you want to migwate your wata to the new wocation of %3?</translation>
+        <translation>Ye set foot on %1 on the date %2 in days of yore. Be ye willin&apos; to shift yer digital booty to the fresh hideout at %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2058"/>
         <location filename="src_stable/launcher/Application.cpp" line="1985"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>OwO Migwation failed! Weason: %1</translation>
+        <translation>Ye failed to migrate. Thine reason be: %1</translation>
     </message>
 </context>
 <context>
@@ -1138,13 +1138,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <location filename="src_stable/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Uwupdating assets index owo</translation>
+        <translation>Updatin&apos; assets index...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <location filename="src_stable/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Asset index fow %1</translation>
+        <translation>Asset index fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
@@ -1160,24 +1160,24 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted</translation>
+        <translation type="vanished">Ceased Sailing</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <location filename="src_stable/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation>Faiwed to wead the assets index!</translation>
+        <translation>Failed t&apos; read the assets index!</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="vanished">Getting the assets fiwes fwom Mojang...</translation>
+        <translation type="vanished">Plunderin&apos; the booty from Mojang&apos;s coffers...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <location filename="src_stable/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Faiwed to downwoad the assets index:
+        <translation>Failed t&apos; download the assets index:
 %1</translation>
     </message>
     <message>
@@ -1185,7 +1185,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Faiwed to downwoad assets:
+        <translation>Failed t&apos; download assets:
 %1</translation>
     </message>
 </context>
@@ -1196,21 +1196,21 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Sowt by Wopuwawity</translation>
+        <translation>Sort by Pirates lookin&apos; for this booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sowt by Nyame</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Sowt by Game Vewsion</translation>
+        <translation>Sort by Ship Model</translation>
     </message>
 </context>
 <context>
@@ -1219,49 +1219,49 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Sewect Mods To Instaww</translation>
+        <translation>Select Mods T&apos; Install</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Instaww</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Sewect Wecommended</translation>
+        <translation>Selectin&apos; Captain&apos;s Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Use Shawe Code</translation>
+        <translation>Use Sharrre Code</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Cweaw Aww</translation>
+        <translation>Rrremove All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Select a share code</source>
-        <translation>Sewect a shawe code</translation>
+        <translation>Pick a flag to sail under</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="347"/>
         <source>Share code:</source>
-        <translation>Shawe code:</translation>
+        <translation>Flag code:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="355"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="357"/>
         <source>No share code specified!</source>
-        <translation>N-Nyo shawe code specified!</translation>
+        <translation>No flag name specified!</translation>
     </message>
 </context>
 <context>
@@ -1270,13 +1270,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="247"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Awe you suwe that you want to enyabwe this mod?</translation>
+        <translation>Yee lad, sure you want to string this flag high on ye mast?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="248"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="250"/>
         <source>Warning</source>
-        <translation>Wawnying</translation>
+        <translation>Heed caution</translation>
     </message>
 </context>
 <context>
@@ -1285,20 +1285,20 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>W-Wawnying: This i-is stiww a wowk in pwogwess. If you wun into issues with the impowted modpack, it may be a bug OwO.</translation>
+        <translation>Heed caution: This is still a work in progress. If you run into issues with the imported modpack. it may cause unforeseen curses.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
         <source>Version selected:</source>
-        <translation>Vewson sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Seawch a-and fiwtew...</translation>
+        <translation>Scour and separate...</translation>
     </message>
 </context>
 <context>
@@ -1307,25 +1307,25 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>N-Nyo vewsions awe cuwwentwy wuwwentwy avaiwabwe fow Minyecwaft %1</translation>
+        <translation>No model be present right now for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Nyo vewsions awe cuwwentwy w-wuwwentwy avaiwabwe</translation>
+        <translation>No models be present right now</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Couwdn&apos;t woad ow downwoad the vewsion wists!</translation>
+        <translation>Crew unable load or plunder the model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>Instawwing</translation>
+        <translation>Hoisting the sails</translation>
     </message>
 </context>
 <context>
@@ -1334,13 +1334,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="46"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="47"/>
         <source>Finished all authentication steps</source>
-        <translation>Finyished aww authentication steps</translation>
+        <translation>Done finishin&apos; all steps to fly our flag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="52"/>
         <source>Initializing</source>
-        <translation>Inyitiawizing</translation>
+        <translation>Raising the sails</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="87"/>
@@ -1358,37 +1358,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="100"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Authywuthy task suwucceeded.</translation>
+        <translation type="unfinished">Yer letter be successfully delivered and you be authorised to be sailing.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="105"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="106"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Faiwed t-to contact the authentication sewvew.</translation>
+        <translation type="unfinished">Yer letter got lost in the wind matey.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="112"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="113"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Cwient ID has changed. Nyew session nyeeds to be c-c-cweated OwO.</translation>
+        <translation type="unfinished">The Ship&apos;s Mark be altered. We must hoist a new flag and set sail on a fresh voyage.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="119"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="120"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Encountewed an ewwow duwing a-authentication.</translation>
+        <translation type="unfinished">Met a snag in the midst of authentication.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="126"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="127"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Faiwed to authenticate. The session has expiwed.</translation>
+        <translation type="unfinished">Failed to validate. Thine hourglass has run out.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="133"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="134"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">F-Faiwed to authenticate. The account nyo w-wongew exists.</translation>
+        <translation type="unfinished">Failed to validate, Thine account be lost to Davy Jones&apos; locker.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
@@ -1400,11 +1400,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <location filename="src_stable/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Unknyown account task state: %1</translation>
+        <translation type="unfinished">Mysterious account duty status: %1</translation>
     </message>
     <message>
         <source>Working...</source>
-        <translation type="vanished">Wowking...</translation>
+        <translation type="vanished">Ponderin...</translation>
     </message>
 </context>
 <context>
@@ -1481,7 +1481,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <location filename="src_stable/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1514,31 +1514,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <location filename="src_stable/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Pwofiwew abowted</translation>
+        <translation>Profiler sent off the port bow</translation>
     </message>
 </context>
 <context>
     <name>BlockedModsDialog</name>
     <message>
-        <source>Open All</source>
-        <translation type="vanished">Open Aww</translation>
-    </message>
-    <message>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
-        <translation>Aww mods fouwnd</translation>
+        <translation>All sails found</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Please download the missing mods.</source>
-        <translation>Plwease dwownlwod da misising mwods.</translation>
+        <translation>Kindly set out to find our missin&apos; sails.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Fwound at %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Located at %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
@@ -1556,7 +1552,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>Owopen Mwissing</translation>
+        <translation>Open Mods Lost at Sea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
@@ -1568,7 +1564,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
         <source>Add Download Folder</source>
-        <translation>Add Downwoad Fowder</translation>
+        <translation>Add Plunder&apos; Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1581,43 +1577,39 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Sewect diwectowy whewe u downwoaded the mowds</translation>
+        <translation>Select stash where ye store ye sails</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Fowund &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Untracable Booty &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hwash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <location filename="src_stable/launcher/ui/dialogs/BlockedModsDialog.cpp" line="180"/>
         <source>Skip</source>
-        <translation type="unfinished">Skiwp</translation>
-    </message>
-    <message>
-        <source>All mods found ✔</source>
-        <translation type="vanished">Awll mwods fwound ✔</translation>
+        <translation type="unfinished">Belay</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Youw configuwed gwobaw mods fowdew and defauwt downwoads fowder awe automaticawwy chwecked fow the downwoaded mods and they wiww be copwied to the instwance if fwound.&lt;/p&gt;&lt;p&gt;Optionawwy, you mway dwag and dwop the downwoaded mods onto thwis diawog ow add a fowder to watch if ywou dwid not downwoad the mods to a defauwt wocation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Yer configured global booty stash and default plunderin&apos; chest are automatically checked for plundered booty and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the plundered booty onto this dialog or add a folder to watch if you did not download the booty to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Watched Folders:</source>
-        <translation type="vanished">Watched Fowders:</translation>
+        <translation type="vanished">Watched Stashes:</translation>
     </message>
 </context>
 <context>
@@ -1625,12 +1617,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src_stable/launcher/minecraft/skins/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation>Equwipping cape</translation>
+        <translation>Puttin&apos; on tricorne</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/minecraft/skins/CapeChange.cpp" line="51"/>
         <source>Removing cape</source>
-        <translation>Wemoving capeywapey</translation>
+        <translation>Removin&apos; tricorne</translation>
     </message>
 </context>
 <context>
@@ -1639,7 +1631,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <location filename="src_stable/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Jawa checkew wibwawy couwd nyot be found. Pwease check youw instawwation.</translation>
+        <translation>Java checker library couldn&apos;t be located. Kindly check yer installation.</translation>
     </message>
 </context>
 <context>
@@ -1660,7 +1652,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
         <source>Username</source>
-        <translation type="unfinished">Wusewname</translation>
+        <translation type="unfinished">Yer Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
@@ -1684,7 +1676,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -1693,37 +1685,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Choose a mod pwovidew</translation>
+        <translation>Choose a sail merchant</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Skwip this mod</translation>
+        <translation>Skip this here mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>Skip aww</translation>
+        <translation>Skippin&apos; all</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>Confiwm fow aww</translation>
+        <translation>Confirming fer all</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>Confiwm</translation>
+        <translation>Verify</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <location filename="src_stable/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Twy to automaticawwy wutomaticawwy use othew pwovidews if the chosen onye faiws</translation>
+        <translation>Tryin to automatically use other merchants if the chosen one goes missin&apos;</translation>
     </message>
 </context>
 <context>
@@ -1738,13 +1730,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="219"/>
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Sent Off The Port Bow</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="243"/>
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Some componyent metadata woad tasks faiwed.</translation>
+        <translation>Sum part engravin&apos;s be failin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="248"/>
@@ -1756,19 +1748,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="487"/>
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Confwicting wequiwements detected duwing wependency checking!</translation>
+        <translation>Conflictin&apos; requirements be detected while dependency checkin&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="504"/>
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Instawnce has confwicting dependencies.</translation>
+        <translation>Ship be havin&apos; conflictin&apos; dependencies.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="510"/>
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Instance has unwesowved d-dependencies whiwe woading/checking fow waunch.</translation>
+        <translation>Yer&apos; instance be havin&apos; unresolved dependencies while sailin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="810"/>
@@ -1781,7 +1773,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Componyent metadata update task faiwed whiwe downwoading fwom wemote sewvew:
+        <translation>Booty metadata update raid failed while plunderin&apos; from faraway crew:
 %1</translation>
     </message>
 </context>
@@ -1791,7 +1783,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <location filename="src_stable/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Faiwed to a-abowt aww wunnying tasks.</translation>
+        <translation>Couldn&apos;t abort all ye runnin&apos; tasks.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="127"/>
@@ -1816,13 +1808,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <location filename="src_stable/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Execwuting %1 task(s) (%2 ouwt of %3 awe donye)</translation>
+        <translation>Executin&apos; %1 raid(s) (%2 o&apos; %3 arr&apos; done)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <location filename="src_stable/launcher/tasks/ConcurrentTask.cpp" line="249"/>
         <source>Please wait...</source>
-        <translation type="unfinished">P-Pwease wait...</translation>
+        <translation type="unfinished">Kindly wait...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
@@ -1849,31 +1841,31 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Cowopy instwance</translation>
+        <translation>Replicate yer&apos; Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation>&amp;Gwoup</translation>
+        <translation>&amp;Crew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>Sewect aww</translation>
+        <translation>Plunder all</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Disabwing this wiww stiww keep the mod woadew (ex: Fabwic, Quiwt, etc.) but ewase the mods fowdew and theiw configs.</translation>
+        <translation>Disablin&apos; this here&apos;ll keep &apos;yer mod loader (ex. Fabric, Quilt, etc.) but&apos;ll destroy &apos;yer mod containers and their configs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1885,25 +1877,25 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>Cowopy mowds</translation>
+        <translation>Copy ye mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Cowopy the in-game options w-wike FOV, max fwamewate, etc.</translation>
+        <translation>Copy ye in-sea options like FOV, max framerate, etc.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>Cowopy gwame optwions</translation>
+        <translation>Copy yer game options</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Cowopy swaves</translation>
+        <translation>Copy saved plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -2007,37 +1999,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Cowopy shadew packs</translation>
+        <translation>Replicate lookin&apos; glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>Cowopy servers</translation>
+        <translation>Copy high seas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Cowopy wesource packs</translation>
+        <translation>Replicate booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>Keep pway time</translation>
+        <translation>Keep raidin&apos; time</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Cowopy scweenshots</translation>
+        <translation>Copy yer pictures</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation>Nyo gwoup</translation>
+        <translation>No fleet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
@@ -2061,7 +2053,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Hewp</translation>
+        <translation type="unfinished">Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -2073,7 +2065,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <location filename="src_stable/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -2088,7 +2080,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CoreModFolderPage</name>
     <message>
         <source>Core mods</source>
-        <translation type="vanished">Cowore mowds</translation>
+        <translation type="vanished">Critical mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
@@ -2103,7 +2095,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <location filename="src_stable/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Couwdn&apos;t cweate t-the main game fowdew</translation>
+        <translation>Couldn&apos;t create yer game&apos;s main chest</translation>
     </message>
 </context>
 <context>
@@ -2130,7 +2122,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <location filename="src_stable/launcher/ui/dialogs/CreateShortcutDialog.ui" line="68"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
@@ -2216,7 +2208,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="111"/>
         <location filename="src_stable/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="112"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (in use)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="178"/>
@@ -2254,28 +2246,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="vanished">&amp;Cwustom Cowomands</translation>
+        <translation type="vanished">&amp;Custom Orders</translation>
     </message>
     <message>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="vanished">P&amp;ost-exit cowommand:</translation>
+        <translation type="vanished">P&amp;ost-walk-the-plank orders:</translation>
     </message>
     <message>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="vanished">&amp;Pwe-waunch cowommand:</translation>
+        <translation type="vanished">&amp;Pre-set-sail order:</translation>
     </message>
     <message>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="vanished">&amp;Wapper cowommand:</translation>
+        <translation type="vanished">&amp;Wrapper order:</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pwe-waunch command w-wuns befowe the instance waunches a-and post-exit command wuns aftew it exits.&lt;/p&gt;&lt;p&gt;Both wiww be w-wun in t-the waunchew&apos;s wowking fowdew with extwa enviwonment vawiabwes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nyame of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its fowdew nyame)&lt;/li&gt;&lt;li&gt;$INST_DIR - absowute path o-of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absowute p-path o-of Minyecwaft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binyawy w-winyawy used fow waunch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-winye p-pawametews used fow waunch (wawnying: wiww nyot wowk cowwectwy wowwectwy if awguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wwappew command awwows waunching using an extwa wwappew pwogwam (wike &apos;optiwun&apos; on Winyux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-set-sail order runs pre-the ship sails and post-walk-the-plank order runs after ye quit plunderin&apos;.&lt;/p&gt;&lt;p&gt;Both&apos;ll be run in ye&apos; launcher&apos;s workin&apos; chest with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$SHIP_NAME - Name of the ship&lt;/li&gt;&lt;li&gt;$SHIP_ID - ID of the ship (its chest name)&lt;/li&gt;&lt;li&gt;$SHIP_DIR - absolute trail of the ship&lt;/li&gt;&lt;li&gt;$SHIP_MC_DIR - absolute trail of The High Seas&lt;/li&gt;&lt;li&gt;$SHIP_JAVA - Java binary used for settin&apos; sail&lt;/li&gt;&lt;li&gt;$SHIP_JAVA_ARGS - command-line parameters used for settin&apos; sail (Heed caution: won&apos;t work correctly if arrrgs contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows settin&apos; sail usin&apos; an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
@@ -2316,7 +2308,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomCommandsPage</name>
     <message>
         <source>Custom Commands</source>
-        <translation type="vanished">Cwustum Cwoomands</translation>
+        <translation type="vanished">Yer own orders</translation>
     </message>
 </context>
 <context>
@@ -2325,37 +2317,37 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished">Fiwtew</translation>
+        <translation type="unfinished">Sifter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished">Weweases</translation>
+        <translation type="unfinished">Rrreleases</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Snyapshots</translation>
+        <translation type="unfinished">Spyin&apos; on the future</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished">Byetas</translation>
+        <translation type="unfinished">Unreleased Sails</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished">Awphas</translation>
+        <translation type="unfinished">New Mates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation type="unfinished">Expewiments</translation>
+        <translation type="unfinished">Novelties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -2363,19 +2355,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">Wefwesh</translation>
+        <translation type="unfinished">Ruh-fresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Mowd Woader</translation>
+        <translation type="unfinished">Mod Loadurr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation type="unfinished">Nothin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
@@ -2387,49 +2379,49 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished">Fowge</translation>
+        <translation type="unfinished">Forrrge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabwic</translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quiwt</translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">WiteWoader</translation>
+        <translation type="unfinished">LiteLoaderrr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="124"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished">Nyo Minecwaft vewsion is sewected.</translation>
+        <translation type="unfinished">No Minecraft model be selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="130"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">Nyo mowd woader is sewected.</translation>
+        <translation type="unfinished">No modification rigger be selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="164"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No model be present right now for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="55"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Custyom</translation>
+        <translation type="unfinished">Custom</translation>
     </message>
 </context>
 <context>
@@ -2438,29 +2430,29 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/DataMigrationTask.cpp" line="22"/>
         <location filename="src_stable/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
-        <translation>Scwanning fiwes...</translation>
+        <translation>Searching the ship...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="40"/>
         <location filename="src_stable/launcher/DataMigrationTask.cpp" line="41"/>
         <source>Failed to scan source path.</source>
-        <translation>Fwailed to scwan souwce pwath OwO.</translation>
+        <translation>Couldn&apos;t search the ship trail.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="53"/>
         <location filename="src_stable/launcher/DataMigrationTask.cpp" line="54"/>
         <source>Copying %1…</source>
-        <translation>Cowopying %1…</translation>
+        <translation>Transferring loot %1…</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted</translation>
+        <translation type="vanished">Sails Raised</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="74"/>
         <location filename="src_stable/launcher/DataMigrationTask.cpp" line="75"/>
         <source>Some paths could not be copied!</source>
-        <translation>Sowome paffs couwd nawt be cowopied!</translation>
+        <translation>Some planks could not be replaced!</translation>
     </message>
 </context>
 <context>
@@ -2468,7 +2460,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src_stable/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Unwecognized</translation>
+        <translation type="unfinished">Unrecognized</translation>
     </message>
 </context>
 <context>
@@ -2477,7 +2469,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <location filename="src_stable/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2488,7 +2480,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <location filename="src_stable/launcher/minecraft/mod/DataPackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Pack Fowmat</translation>
+        <translation type="unfinished">Cargo Format</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2499,7 +2491,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation type="unfinished">Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2603,7 +2595,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="229"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2613,7 +2605,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="182"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="260"/>
         <source>Warnings</source>
-        <translation type="unfinished">Wawnyings</translation>
+        <translation type="unfinished">Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="113"/>
@@ -2641,7 +2633,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="157"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :3</translation>
+        <translation type="unfinished">&apos;%1&apos; is in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
@@ -2659,13 +2651,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="165"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checkew</translation>
+        <translation type="unfinished">Upgrade checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="187"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="207"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation type="unfinished">Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
@@ -2687,14 +2679,14 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="176"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="254"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plunderin&apos; ceased by the cap&apos;n.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="108"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="192"/>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/DataPackPage.cpp" line="153"/>
@@ -2714,32 +2706,32 @@ Are you sure?</source>
     <name>DirectJavaLaunch</name>
     <message>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="vanished">The wwappew command &quot;%1&quot; couwdn&apos;t be f-found.</translation>
+        <translation type="vanished">The wrapper command &quot;%1&quot; be a yellow-bellied coward, n&apos; couldn&apos;t be found.</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="vanished">Couwd nyot waunch Minyecwaft!</translation>
+        <translation type="vanished">Minecraft wasn&apos;t seaworthy!</translation>
     </message>
     <message>
         <source>Game crashed.</source>
-        <translation type="vanished">Game cwashed.</translation>
+        <translation type="vanished">Game sunk.</translation>
     </message>
 </context>
 <context>
     <name>EditAccountDialog</name>
     <message>
         <source>Login</source>
-        <translation type="vanished">L-Login</translation>
+        <translation type="vanished">Join the crew</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="vanished">Emaiw</translation>
+        <translation type="vanished">Seamail</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Passwowd</translation>
+        <translation type="vanished">Secret Phrase</translation>
     </message>
 </context>
 <context>
@@ -2804,7 +2796,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Cekcing if da mwods have da mwetadwata...</translation>
+        <translation type="vanished">Spying for mod metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="98"/>
@@ -2816,13 +2808,13 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="171"/>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Wequesting metadata infowmation fwom %1...</translation>
+        <translation>Stealing metadata pages from %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="173"/>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Wequesting metadata infowmation fwom %1 fow &apos;%2&apos;...</translation>
+        <translation>Stealing metadata pages from %1 for %2...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="253"/>
@@ -2831,7 +2823,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Pawsing API wesponse fwom Modwinth fow &apos;%1&apos;...</translation>
+        <translation>Parsin&apos; API response from Modrinth for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
@@ -2840,7 +2832,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="390"/>
         <location filename="src_stable/launcher/modplatform/EnsureMetadataTask.cpp" line="458"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Pawsing API wesponse fwom CuwseFowge fow &apos;%1&apos;...</translation>
+        <translation>Parsin&apos; API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2859,13 +2851,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>Detewminying game ownyewship.</translation>
+        <translation>Finding captaining license.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>Gwot da entiwtlemewnts</translation>
+        <translation>Acquired ye old entitlements</translation>
     </message>
 </context>
 <context>
@@ -2874,7 +2866,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <location filename="src_stable/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
@@ -2886,13 +2878,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <location filename="src_stable/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Awd</translation>
+        <translation type="unfinished">&amp;Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <location filename="src_stable/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Wemove</translation>
+        <translation type="unfinished">&amp;Throw overboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
@@ -2904,13 +2896,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <location filename="src_stable/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <location filename="src_stable/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished">Vawue</translation>
+        <translation type="unfinished">Weight in gold</translation>
     </message>
 </context>
 <context>
@@ -2919,21 +2911,21 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Ewxport Instawnce</translation>
+        <translation>Copy ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation>Expowt %1</translation>
+        <translation>Export %1</translation>
     </message>
     <message>
         <source>Overwrite?</source>
-        <translation type="vanished">Ovewwwite?</translation>
+        <translation type="vanished">Replace plank?</translation>
     </message>
     <message>
         <source>This file already exists. Do you want to overwrite it?</source>
-        <translation type="vanished">Dis file aweady exists. Dowo yowou want towo owoverwrite it?</translation>
+        <translation type="vanished">Tis file&apos;s already a sailor. Do ye want to overwrite her?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
@@ -2945,7 +2937,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
@@ -2953,18 +2945,18 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="157"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation>Uwunable towo expowort instance</translation>
+        <translation>Unable to copy ship</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="161"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -2979,7 +2971,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nyame:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
@@ -3057,7 +3049,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
@@ -3065,13 +3057,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
-        <translation type="unfinished">Expowt %1</translation>
+        <translation type="unfinished">Export %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modwinth pack</translation>
+        <translation type="unfinished">Modrrrinth bundle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
@@ -3083,22 +3075,22 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Task abowted</translation>
+        <translation type="unfinished">Task abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The task has been sunk by the captain.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ExportPackDialog.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -3113,7 +3105,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Settins&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -3149,7 +3141,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Custyom</translation>
+        <translation type="unfinished">Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -3228,7 +3220,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
         <source>Copy</source>
-        <translation type="unfinished">Cowopy</translation>
+        <translation type="unfinished">Replicate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -3246,70 +3238,70 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="171"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished">Expowt %1</translation>
+        <translation type="unfinished">Export %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="172"/>
         <location filename="src_stable/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">Fiwe</translation>
+        <translation type="unfinished">File</translation>
     </message>
 </context>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Fiwtew:</translation>
+        <translation type="vanished">Sift through:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="85"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="67"/>
         <source>Actions</source>
-        <translation>Awctions</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Awd</translation>
+        <translation type="vanished">&amp;Stow</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Awd</translation>
+        <translation type="vanished">Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="121"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Wemove</translation>
+        <translation>&amp;Throw overboard</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Wemove sewected item</translation>
+        <translation type="vanished">Throw selected item overboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation>&amp;Enyabwe</translation>
+        <translation>&amp;Enable</translation>
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Enawle sewlected item</translation>
+        <translation type="vanished">Sail selected booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>&amp;Disable</source>
-        <translation>&amp;Disabwe</translation>
+        <translation>&amp;disable</translation>
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="vanished">Disawle sewected item</translation>
+        <translation type="vanished">Anchor selected booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="77"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="59"/>
         <source>Search</source>
-        <translation type="unfinished">Seawch</translation>
+        <translation type="unfinished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="110"/>
@@ -3345,19 +3337,19 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>View &amp;Configs</source>
-        <translation>View &amp;Configs</translation>
+        <translation>spyglass &amp;ye olde configs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>Owpen the &apos;config&apos; fowdew in the sywstem fiwe managew.</translation>
+        <translation>Open the &apos;config&apos; chest in the ships cargo hold.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Folder</source>
-        <translation>View &amp;Fowdew</translation>
+        <translation>spyglass &amp;Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="162"/>
@@ -3369,7 +3361,7 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="170"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>&amp;Download</source>
-        <translation>&amp;Downwoad</translation>
+        <translation>&amp;Plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="173"/>
@@ -3453,31 +3445,31 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Downwoad a nyew wesouwce</translation>
+        <translation type="vanished">Pilfer a new resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="181"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Check for &amp;Updates</source>
-        <translation>Check fow &amp;Uwupdates</translation>
+        <translation>Check fer &amp;Updates</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Twy to check ow update aww sewected wesouwces (aww wesouwces if n-nyonye a-awe sewected)</translation>
+        <translation type="vanished">Attempt t&apos; check or upgrade all chosen booty (all th&apos; booty if none be selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="152"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="133"/>
         <source>Context menu</source>
-        <translation>Cwonwext menu</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="214"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Sewect %1</translation>
+        <translation>Choose %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="268"/>
@@ -3486,10 +3478,10 @@ This instance cannot be launched because some libraries are missing or have not 
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>You awe about to wemuv %1 items.
-This may be pewmanyent and they wiww be gonye fwom the fowdew.
+        <translation>Ye be about to throw %1 items overboard.
+This may be permanent and they will be sent to Davey Jones&apos;s locker.
 
-Awe you suwe?</translation>
+Are ye sure?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
@@ -3498,16 +3490,16 @@ Awe you suwe?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>You awe about to wemove the fowdew &quot;%1&quot;.
-This may be p-pewmanyent a-a-and it wiww be gonye fwom the pawent fowdew.
+        <translation>Ye be about to throw the folder &quot;%1&quot; overboard.
+This may be permanent and it will be sent to Davey Jones&apos;s locker.
 
-Awe you suwe?</translation>
+Are ye sure?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="280"/>
         <location filename="src_stable/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="256"/>
         <source>Confirm Removal</source>
-        <translation>Confiwm Wemovaw</translation>
+        <translation>Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="295"/>
@@ -3567,7 +3559,7 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.ui" line="191"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.ui" line="251"/>
         <source>Browse</source>
-        <translation type="unfinished">Bwowse</translation>
+        <translation type="unfinished">Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
@@ -3600,7 +3592,7 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.ui" line="206"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.ui" line="266"/>
         <source>Check</source>
-        <translation>Check</translation>
+        <translation>Look</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="192"/>
@@ -3621,17 +3613,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Awd</translation>
+        <translation type="unfinished">&amp;Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Wemove</translation>
+        <translation type="unfinished">&amp;Throw overboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
@@ -3640,16 +3632,16 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="vanished">Extewnyaw Editows (weave empty wy fow s-system defauwt)</translation>
+        <translation type="vanished">External ship outfitters (leave empty for ship&apos;s included one)</translation>
     </message>
     <message>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="vanished">&amp;Text Editow:</translation>
+        <translation type="vanished">&amp;Writings changer:</translation>
     </message>
     <message>
         <source>External Tools</source>
-        <translation type="vanished">Extewnyaw Toows</translation>
+        <translation type="vanished">External Handy Objects</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
@@ -3680,7 +3672,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="101"/>
         <source>JProfiler Folder</source>
-        <translation>JPwofiwew Fowdew</translation>
+        <translation>JProfiler Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
@@ -3694,7 +3686,7 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
@@ -3703,7 +3695,7 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="119"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Ewwow whiwe checking JPwofiwew instaww:
+        <translation>Blunder while checking JProfiler plank:
 %1</translation>
     </message>
     <message>
@@ -3713,13 +3705,13 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>OK</source>
-        <translation>Oki</translation>
+        <translation>Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="121"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JPwofiwew setup seems to be OK</translation>
+        <translation>JProfiler setup seems to be seaworthy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
@@ -3750,56 +3742,56 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>JVisualVM Executable</source>
-        <translation type="vanished">JVisuawVM Executabwe</translation>
+        <translation type="vanished">JVisualVM captainer</translation>
     </message>
     <message>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="vanished">Ewwow whiwe checking JVisuawVM instaww:
+        <translation type="vanished">blunder while checking JVisualVM plank:
 %1</translation>
     </message>
     <message>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="vanished">JVisuawVM setup seems to be OK</translation>
+        <translation type="vanished">JVisualVM setup seems to be seaworthy</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="160"/>
         <source>MCEdit Application</source>
-        <translation>MCEdit Appwication</translation>
+        <translation>MCEdit Ship</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="162"/>
         <source>MCEdit Folder</source>
-        <translation>MCEdit Fowdew</translation>
+        <translation>MCEdit Chest</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="169"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="181"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Ewwow whiwe checking MCEdit instaww:
+        <translation>Blunder while checking MCEdit plank:
 %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>MCEdit sewtup seems to be OK</translation>
+        <translation>MCEdit setup seems to be seaworthy</translation>
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="vanished">JSON Editow</translation>
+        <translation type="vanished">Jason&apos;s Educator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>Invalid</source>
-        <translation>Invawid</translation>
+        <translation>Drunken output</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>The fiwe c-chosen does nyot seem t-to b-be an executabwe</translation>
+        <translation>The file chosen ain&apos;t a ship</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.ui" line="97"/>
@@ -3810,7 +3802,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="55"/>
         <location filename="src_stable/launcher/ui/pages/global/ExternalToolsPage.h" line="53"/>
         <source>Tools</source>
-        <translation type="unfinished">Toows</translation>
+        <translation type="unfinished">Handy Objects</translation>
     </message>
 </context>
 <context>
@@ -3818,7 +3810,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src_stable/launcher/minecraft/launch/ExtractNatives.cpp" line="75"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Couwdn&apos;t extwact n-n-nyative jaw &apos;%1&apos; to d-d-destinyation &apos;%2&apos;</translation>
+        <translation>Ye be failing to extract ye native jar &apos;%1&apos; to marked spot &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
@@ -3830,27 +3822,27 @@ Are you sure you want to do this?</source>
     <name>FMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="vanished">Chewcking fow FMW wibwawies...</translation>
+        <translation type="vanished">Spyin&apos; fer FML pages...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="vanished">Downwoading FMW wibwawies...</translation>
+        <translation type="vanished">Pilferin&apos; FML libraries...</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted</translation>
+        <translation type="vanished">Sent Off The Port Bow</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="vanished">Cowopying FMW wibwawies into the instawnce...</translation>
+        <translation type="vanished">Stealin FML pages for the ship...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="vanished">Faiwed cweating FMW wibwawy fowdew inside the instawnce.</translation>
+        <translation type="vanished">Blundered afixin FML book to the ship.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="vanished">Faiwed cowopying Fowge/FMW library: %1.</translation>
+        <translation type="vanished">Blundered stealin Forge/FML pages: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -3858,11 +3850,11 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="vanished">Faiwed to downwoad the fowwowing fiwes:
+        <translation type="vanished">Failed to plunder the followin&apos; files:
 %1
 
-Weason:%2
-Pwease twy a-again.</translation>
+Reason:%2
+Try again, if ye dare.</translation>
     </message>
 </context>
 <context>
@@ -3884,8 +3876,7 @@ Pwease twy a-again.</translation>
         <location filename="src_stable/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="128"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Couwd nyot undewstand pack m-manyifest:
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="137"/>
@@ -3909,7 +3900,7 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <location filename="src_stable/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="213"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The following files be too carefully guarded to be plundered by third party launchers.&lt;br/&gt;Ye&apos;ll need to manually pilfer them and add them to the instance on ye own.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="234"/>
@@ -3939,13 +3930,13 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <location filename="src_stable/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="362"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stealin Forbidden Mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <location filename="src_stable/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="375"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stealin Forbidden Mods (%1 out of %2 are stolen)</translation>
     </message>
 </context>
 <context>
@@ -3954,13 +3945,13 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="143"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="140"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sowt by Nyame</translation>
+        <translation type="unfinished">Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="144"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="141"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sowt by Game Vewsion</translation>
+        <translation type="unfinished">Sort by Ship Model</translation>
     </message>
 </context>
 <context>
@@ -3975,7 +3966,7 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
@@ -4000,7 +3991,7 @@ Pwease twy a-again.</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="111"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="127"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecwaft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4024,7 +4015,7 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <location filename="src_stable/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
-        <translation>Wesowving mod IDs...</translation>
+        <translation>Rememberin&apos; mod names...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="99"/>
@@ -4032,29 +4023,29 @@ Pwease twy a-again.</translation>
         <location filename="src_stable/launcher/modplatform/flame/FileResolvingTask.cpp" line="127"/>
         <location filename="src_stable/launcher/modplatform/flame/FileResolvingTask.cpp" line="149"/>
         <source>Invalid data returned from the API.</source>
-        <translation>Invawid data wetuwnyed fwom the API.</translation>
+        <translation>Drunken data returned from ye API.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="221"/>
         <location filename="src_stable/launcher/modplatform/flame/FileResolvingTask.cpp" line="254"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Pawsing API wesponse fwom CuwseFowge fow &apos;%1&apos;...</translation>
+        <translation type="unfinished">Parsin&apos; API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="vanished">Pwepawing mods fow CuwseFowge...</translation>
+        <translation type="vanished">Preparin&apos; mods for CurrrrrseForrrge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="vanished">Disabwed mods won&apos;t be updated, to pwevent mod dupwication issues!</translation>
+        <translation type="vanished">Mods left on the docks won&apos;t have their decks swabbed, to prevent mod duplication issues!</translation>
     </message>
     <message>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="vanished">Getting A-API w-wesponse fwom CuwseFowge f-fow &apos;%1&apos;...</translation>
+        <translation type="vanished">Gettin&apos; API response over the sea from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="39"/>
@@ -4066,7 +4057,7 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="85"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="92"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Pawsing the API wesponse fwom C-C-CuwseFowge fow &apos;%1&apos;...</translation>
+        <translation>Parsin&apos; the API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="91"/>
@@ -4084,20 +4075,20 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="111"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="118"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nyot instawwed</translation>
+        <translation type="unfinished">Not installed</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="113"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="172"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="182"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Pawsing API wesponse fwom CuwseFowge fow &apos;%1&apos;...</translation>
+        <translation type="unfinished">Parsin&apos; API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
@@ -4108,12 +4099,12 @@ Pwease twy a-again.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nyo vawid vewsion found fow this mod. I-It&apos;s pwobabwy w-wobabwy unyavaiwabwe fow the cuwwent game vewsion / m-mod woadew.</translation>
+        <translation type="vanished">No valid model be found for this modification. It probably be unavailable for yer current game model &apos;r modification rigger.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod has a nyew u-update avaiwabwe, but is n-nyot downwoadabwe using CuwseFowge.</translation>
+        <translation type="vanished">Mod has a new update available, but can&apos;t be plundered from CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4124,26 +4115,14 @@ Pwease twy a-again.</translation>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="353"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Couwd nyot undewstand pack m-manyifest:
+        <translation>Arren&apos;t makin&apos; heads of yerr pack manifest
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="125"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="121"/>
         <source> (version %1)</source>
-        <translation> (vewsion %1)</translation>
-    </message>
-    <message>
-        <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
-
-NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="vanished">Onye ow m-mowe of youw instances awe fwom this same modpack%1. Do you want t-to cweate a sepawate i-i-instance, ow u-update the e-existing onye?
-
-NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe updating, as wowwds can be c-cowwupted and some configuwation may b-be wost (due to pack ovewwides).</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Cancew</translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
@@ -4170,31 +4149,31 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="241"/>
         <source>No index file.</source>
-        <translation>Nyo index fiwe.</translation>
+        <translation>Thar be no file fer indexin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>We couwdn&apos;t find a suitabwe index fiwe fow the owdew vewsion. T-This may cause some of the fiwes to be dupwicated. Do you want to continyue?</translation>
+        <translation>Nary be a logbook from olden times. Some o&apos; the files may be duplicated. Be ye certain about this?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">F-Faiwed to get wocaw metadata index fow %1</translation>
+        <translation type="unfinished">No metadata index be found for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Faiwed to f-find v-vewsion fow %1 woadew</translation>
+        <translation type="unfinished">Blimey! Blunder&apos;d findin&apos; target for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="332"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nyo woadew vewsion set fow modpack!</translation>
+        <translation type="unfinished">No loader version be set for ye modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
@@ -4207,26 +4186,26 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="371"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Couwd nyot wenyame t-the o-ovewwides fowdew:
+        <translation>Couldn&apos;t be renamin&apos; of ye overrides chest:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="412"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="376"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>the specified uvwwides fowdew (%1) is missing. Maybe the modpack waws awweady used befowe?</translation>
+        <translation>Aur&apos; override Bookshelf be missin&apos; (%1). &apos;Ave ye used this bookshelf before?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="447"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="411"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Unknyown mod woadew in manyifest: %1</translation>
+        <translation>Unknown custom ship outfitter in manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="462"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="426"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Mystewious twaiwing dots w-wemoved fwom M-Minyecwaft v-vewsion whiwe i-impowting pack.</translation>
+        <translation>Mysterious trailin&apos; gunholes gon&apos; from Minecraft version while addin&apos; bookshelf.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
@@ -4237,37 +4216,37 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="799"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Wemoving owd confwicting fiwes...</translation>
+        <translation type="unfinished">Throwing old conflictin&apos; files overboard...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="816"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Faiwed to wemove owd confwicting fiwes.</translation>
+        <translation type="unfinished">Failed to throw old conflictin&apos; files overboard.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="vanished">Couwd nyot map wecommended F-Fowge vewsion fow Minyecwaft %1</translation>
+        <translation type="vanished">Couldn&apos;t map Captain&apos;s Choice Forge version for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="531"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Unyabwe to wesowve mod IDs:
+        <translation>Blundered resolve&apos;n book IDs:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="578"/>
         <source>Blocked mods found</source>
-        <translation>B-Bwocked mods found</translation>
+        <translation>Forbidden mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="579"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>the fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty waunchews.&lt;br/&gt;You wiww nyeed to manyuawwy downwoad them and add them to the instawnce.</translation>
+        <translation>The following files be too carefully guarded to be plundered by third party launchers.&lt;br/&gt;Ye&apos;ll need to manually pilfer them and add them to the instance on ye own.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
@@ -4290,35 +4269,35 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="665"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="645"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Cowopying Bwocked Mods...</translation>
+        <translation>Stealin Forbidden Mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="681"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="660"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Cowopying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
+        <translation>Stealin Forbidden Mods (%1 out of %2 are stolen)</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod downloawd</translation>
+        <translation type="vanished">Fetch ye mod</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="vanished">This &apos;Fowdew&apos; may nyeed e-extwacting: %1</translation>
+        <translation type="vanished">This &apos;Chest&apos; may need plundering: %1</translation>
     </message>
     <message>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="vanished">Nyesting modpacks in modpacks is nyot impwemented, n-nyothing was downwoaded: %1</translation>
+        <translation type="vanished">Nay can ye be putting modpacks in other modpacks, none pilfer&apos;d: %1</translation>
     </message>
     <message>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="vanished">Unwecognyized/unhandwed PackageType fow: %1</translation>
+        <translation type="vanished">No crew could figure out the PackageType fer: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="657"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="637"/>
         <source>Downloading mods...</source>
-        <translation>Downloawdwing mods...</translation>
+        <translation>Stealin&apos; mods...</translation>
     </message>
 </context>
 <context>
@@ -4327,13 +4306,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="344"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="402"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hey thewe!&lt;/h1&gt;&lt;h4&gt;It seems w-wike youw Pack ID is nyuww. This is because of a bug i-in owdew vewsions of the waunchew.&lt;br/&gt; Unfowtunyatewy Wowtunyatewy, we c-c-can&apos;t do t-the pwopew API w-wequests w-without this infowmation.&lt;br/&gt;&lt;br/&gt;So, in owdew fow this featuwe t-t-to wowk, you wiww nyeed to we-downwoad the m-modpack fwom the buiwt-in downwoadew.&lt;br/&gt;&lt;br/&gt;Don&apos;t wowwy though, it wiww ask you to update t-this instance instead, so you&apos;ww nyot wose this instance!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Ahoy!&lt;/h1&gt;&lt;h4&gt;It seems yer Pack ID be null. This be caused by a bug in older versions o&apos; the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, ye will need to steal the modpack again from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so ye won&apos;t lose this instance!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="386"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="444"/>
         <source>%1 (Current)</source>
-        <translation>%1 (Cuwwent)</translation>
+        <translation>%1 (Currrent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="448"/>
@@ -4346,34 +4325,6 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="506"/>
         <source>CurseForge pack</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FlameModPage</name>
-    <message>
-        <source>Sort by Featured</source>
-        <translation type="vanished">Sowt by Featuwed</translation>
-    </message>
-    <message>
-        <source>Sort by Popularity</source>
-        <translation type="vanished">Sowt by Wopuwawity</translation>
-    </message>
-    <message>
-        <source>Sort by Last Updated</source>
-        <oldsource>Sort by last updated</oldsource>
-        <translation type="vanished">Sowt by Wast Updated</translation>
-    </message>
-    <message>
-        <source>Sort by Name</source>
-        <translation type="vanished">Sowt by Nyame</translation>
-    </message>
-    <message>
-        <source>Sort by Author</source>
-        <translation type="vanished">Sowt by Authow</translation>
-    </message>
-    <message>
-        <source>Sort by Downloads</source>
-        <translation type="vanished">Sowt by Downwoads</translation>
     </message>
 </context>
 <context>
@@ -4409,7 +4360,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/modplatform/flame/FlamePackExportTask.cpp" line="219"/>
         <location filename="src_stable/launcher/modplatform/flame/FlamePackExportTask.cpp" line="282"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Pawsing API wesponse fwom CuwseFowge fow &apos;%1&apos;...</translation>
+        <translation type="unfinished">Parsin&apos; API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="240"/>
@@ -4430,73 +4381,73 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="97"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="97"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="vanished">Seawch</translation>
+        <translation type="vanished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nyote: CuwseFowge awwows cweatows to bwock access to thiwd-pawty wawty toows wike P-Pwism Waunchew. As s-such, you may n-nyeed to manyuawwy wanyuawwy downwoad some mods to be abwe to instaww a modpack.</translation>
+        <translation>Note: CurseForge allows creators to deny access to high-seas ships like Prism Launcher. As such, ye may need to get to stealin&apos; some mods to be able to install such a pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Fiwtew options</translation>
+        <translation type="unfinished">Separatin&apos; choices</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>S-S-Seawch a-a-and fiwtew...</translation>
+        <translation>Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Sowt by Featuwed</translation>
+        <translation>Sort by Captain&apos;s Favviorit&apos; Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>S-Sowt by Popuwawity</translation>
+        <translation>Sort by Pirates lookin&apos; for this booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sowt by Wast Updated</translation>
+        <translation>Sort by Newest Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sowt by Nyame</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Sowt by Authow</translation>
+        <translation>Sort by Maker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Sowt by Totaw Downwoads</translation>
+        <translation>Sort by Journeys Traveled</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="177"/>
@@ -4504,43 +4455,43 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="221"/>
         <source>No version is available!</source>
-        <translation>Nyo vewsion is avaiwabwe!</translation>
+        <translation>No version be available!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="182"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="204"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="295"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source> by </source>
-        <translation> b-b-by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
         <source>External links:</source>
-        <translation>Extewnyaw winks:</translation>
+        <translation>Maps to unknown seas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="297"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issuwes: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Complaints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="308"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="299"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Encyclopedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="311"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Souwce code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Ship blueprints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4550,7 +4501,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Faiwed to cweate fowdew fow Minyecwaft binyawies.</translation>
+        <translation>Blunder&apos;d buildin&apos; the stores for Minecraft binaries.</translation>
     </message>
 </context>
 <context>
@@ -4559,22 +4510,19 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
-        <oldsource>Sort by plays</oldsource>
-        <translation>Sowt by Pways</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
-        <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sowt by Instawws</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <oldsource>Sort by name</oldsource>
-        <translation>Sowt by Nyame</translation>
+        <translation type="unfinished">Sort by Name</translation>
     </message>
 </context>
 <context>
@@ -4583,14 +4531,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Vewsion sewected:</translation>
+        <translation type="unfinished">Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
-        <oldsource>Search and filter ...</oldsource>
-        <translation>Seawch and fiwtew...</translation>
+        <translation type="unfinished">Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
@@ -4607,7 +4554,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     </message>
     <message>
         <source>Value</source>
-        <translation type="vanished">Vawue</translation>
+        <translation type="vanished">Weight in gold</translation>
     </message>
 </context>
 <context>
@@ -4616,7 +4563,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <location filename="src_stable/launcher/ui/pages/instance/GameOptionsPage.h" line="60"/>
         <source>Game Options</source>
-        <translation>Game Options</translation>
+        <translation>Ship Options</translation>
     </message>
 </context>
 <context>
@@ -4625,37 +4572,37 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/minecraft/World.cpp" line="88"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="89"/>
         <source>Survival</source>
-        <translation>Suwvivaw</translation>
+        <translation>Reality</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="90"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="91"/>
         <source>Creative</source>
-        <translation>Cweative</translation>
+        <translation>Captain&apos;s Dream</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="92"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="93"/>
         <source>Adventure</source>
-        <translation>Adventuwe</translation>
+        <translation>Marooned</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="94"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="95"/>
         <source>Spectator</source>
-        <translation>Spectatow</translation>
+        <translation>Foul Ghost o&apos; the Seas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="100"/>
         <source>Unknown (%1)</source>
-        <translation>Unknyown (%1)</translation>
+        <translation>Gibberish (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
         <location filename="src_stable/launcher/minecraft/World.cpp" line="102"/>
         <source>Undefined</source>
-        <translation>Undefinyed</translation>
+        <translation>Mystery</translation>
     </message>
 </context>
 <context>
@@ -4688,44 +4635,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>Getting skiwn.</translation>
+        <translation>Acquirin&apos; trousers...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation>Got skiwn</translation>
-    </message>
-</context>
-<context>
-    <name>GoUpdate::DownloadTask</name>
-    <message>
-        <source>Loading version information...</source>
-        <translation type="vanished">Woading vewsion infowmation...</translation>
-    </message>
-    <message>
-        <source>Failed to download version info files.</source>
-        <translation type="vanished">Faiwed to downwoad v-vewsion info fiwes.</translation>
-    </message>
-    <message>
-        <source>Reading file list for new version...</source>
-        <translation type="vanished">W-Weading fiwe wist fow nyew vewsion...</translation>
-    </message>
-    <message>
-        <source>Reading file list for current version...</source>
-        <translation type="vanished">Weading fiwe w-wist fow cuwwent v-vewsion...</translation>
-    </message>
-    <message>
-        <source>Processing file lists - figuring out how to install the update...</source>
-        <translation type="obsolete">Pwocessing fiwe wists - figuwing out how to instaww the u-update...</translation>
-    </message>
-    <message>
-        <source>Failed to process update lists...</source>
-        <translation type="vanished">Faiwed to p-pwocess u-update wists...</translation>
-    </message>
-    <message>
-        <source>Downloading one update file.</source>
-        <translation type="vanished">Downwoading onye update fiwe.</translation>
+        <translation>Got a fresh set of trousers</translation>
     </message>
 </context>
 <context>
@@ -4734,7 +4650,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation>Pick icown</translation>
+        <translation>Pick flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="22"/>
@@ -4759,7 +4675,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Legacy</source>
-        <translation type="unfinished">Wegacy</translation>
+        <translation type="unfinished">Ancient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
@@ -4769,19 +4685,19 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Custom</source>
-        <translation type="unfinished">Custyom</translation>
+        <translation type="unfinished">Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="162"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Add Icon</source>
-        <translation>Add Icown</translation>
+        <translation>Add flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="163"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Remove Icon</source>
-        <translation>Remove Icown</translation>
+        <translation>Burn Flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="165"/>
@@ -4793,26 +4709,26 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="166"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="175"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="87"/>
         <source>Open Folder</source>
-        <translation>Open fowdew</translation>
+        <translation>Open ye Chest o&apos; Flags</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="208"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="118"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation>Select Icowns</translation>
+        <translation>Select flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="211"/>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="121"/>
         <source>Icons %1</source>
-        <translation>Icons %1</translation>
+        <translation>Flags %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
@@ -4834,45 +4750,45 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation>Bwowse</translation>
+        <translation>Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>The fowwowing fiwe types awe impwemented (both fow wocaw fiwes and UWWs):</translation>
+        <translation>The following file types be implemented (both fer yer own files and those ye steal by URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CuwseFowge modpacks (ZIP)</translation>
+        <translation type="unfinished">- Cursed Forrrge modbundles (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modwinth modpacks (ZIP awnd mrpack)</translation>
+        <translation>- Modrrrinth modbundles (ZIP and mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Pwism Waunchew, PowyMC ow MuwtiMC expowted instances (ZIP)</translation>
+        <translation>- Prism Launcherrr, PolyMC or MultiMC mutineers (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technyic modpacks (ZIP)</translation>
+        <translation>- Technic modbundles (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Wocaw fiwe ow wink to a diwect downwoad:</translation>
+        <translation>Own files or map to files to plunder:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="138"/>
@@ -4883,7 +4799,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.cpp" line="170"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="157"/>
@@ -4908,17 +4824,17 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.cpp" line="212"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Modwinth pack</translation>
+        <translation>Modrrrinth bundle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="217"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Choose modpack</source>
-        <translation>Choose modpack uwu</translation>
+        <translation>Choose yer modbundle</translation>
     </message>
     <message>
         <source>Import from zip</source>
-        <translation type="vanished">Impowt fwom zip</translation>
+        <translation type="vanished">Plunder from a locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
@@ -4929,7 +4845,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -4938,25 +4854,25 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Choose instawnce to import to</translation>
+        <translation>Pick a ship fer yer plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <location filename="src_stable/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Choose the instawnce you wouwd like to impowt this wesouwce pack to.</translation>
+        <translation>Pick a ship fit for yer bounty.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <location filename="src_stable/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Choose the instawnce you would like to impowt this %1 to.</translation>
+        <translation>Pick a ship fit fer %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <location filename="src_stable/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation>Fiwle: %1</translation>
+        <translation>Log: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
@@ -4968,7 +4884,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <location filename="src_stable/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -5015,13 +4931,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="104"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="103"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Wefwesh</translation>
+        <translation type="unfinished">&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="109"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="111"/>
@@ -5039,25 +4955,25 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Forge</source>
-        <translation type="unfinished">Fowge</translation>
+        <translation type="unfinished">Forrrge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="143"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabwic</translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="144"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quiwt</translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="146"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">WiteWoader</translation>
+        <translation type="unfinished">LiteLoaderrr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="153"/>
@@ -5099,7 +5015,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="41"/>
         <location filename="src_stable/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="40"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No model be present right now for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5114,11 +5030,11 @@ What would you like to do with %2?</source>
     <name>InstanceCardWidget</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;Nyame:</translation>
+        <translation type="vanished">&amp;Name:</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="vanished">&amp;Gwoup:</translation>
+        <translation type="vanished">&amp;Fleet:</translation>
     </message>
 </context>
 <context>
@@ -5127,19 +5043,19 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <location filename="src_stable/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>Copwying instawnce %1</translation>
+        <translation>Mimickin&apos; ship %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <location filename="src_stable/launcher/InstanceCopyTask.cpp" line="144"/>
         <source>Instance folder copy failed.</source>
-        <translation>Instawnce fowdew copy faiwed.</translation>
+        <translation>Ship chest copy failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <location filename="src_stable/launcher/InstanceCopyTask.cpp" line="187"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Instawnce fowdew cwopy has been abowted.</translation>
+        <translation>Instance folder copy has been scuttled.</translation>
     </message>
 </context>
 <context>
@@ -5148,28 +5064,28 @@ What would you like to do with %2?</source>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="47"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>E-Ewwow w-whiwe cweating nyew instance:
+        <translation>Error while buildin&apos; new ship:
 %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="49"/>
         <source>Error while creating new instance.</source>
-        <translation>Ewwow whiwe cweating nyew instance.</translation>
+        <translation>Error while buildin&apos; new ship.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="62"/>
         <source>Removing old conflicting files...</source>
-        <translation>Wemoving owd confwicting fiwes...</translation>
+        <translation>Throwing old conflictin&apos; files overboard...</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="78"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Faiwed to wemove owd confwicting fiwes.</translation>
+        <translation>Failed to throw old conflictin&apos; files overboard.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="85"/>
         <source>Skip</source>
-        <translation type="unfinished">Skiwp</translation>
+        <translation type="unfinished">Belay</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/InstanceCreationTask.cpp" line="102"/>
@@ -5189,14 +5105,14 @@ What would you like to do with %2?</source>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Downwoading modpwack:
+        <translation>Plunderin&apos; modpack:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="103"/>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Modpack downwoad</translation>
+        <translation>Plunder the modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="131"/>
@@ -5208,13 +5124,13 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Extracting modpack</source>
-        <translation>Extwacting modpack</translation>
+        <translation>Looting modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="167"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Unyabwe to open suppwied modpack zip fiwe.</translation>
+        <translation>Unable to open th&apos; locked modpack chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
@@ -5222,17 +5138,17 @@ What would you like to do with %2?</source>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="171"/>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Awchive does nyot contain a wecognyized modpack type.</translation>
+        <translation>Arrrrchive be lackin&apos; a familiar modpack clarr-sification.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation type="vanished">Faiwed to extwact modpack</translation>
+        <translation type="vanished">Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <location filename="src_stable/launcher/InstanceImportTask.cpp" line="228"/>
         <source>Could not fix permissions for %1</source>
-        <translation>C-Couwd nyot fix pewmissions fow %1</translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
 </context>
 <context>
@@ -5241,7 +5157,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceList.cpp" line="179"/>
         <location filename="src_stable/launcher/InstanceList.cpp" line="181"/>
         <source>%1 Instance</source>
-        <translation>%1 I-Instawnce</translation>
+        <translation>%1 Instance</translation>
     </message>
 </context>
 <context>
@@ -5256,86 +5172,86 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <location filename="src_stable/launcher/InstancePageProvider.h" line="52"/>
         <source>Edit Instance (%1)</source>
-        <translation>E-Edit Instawnce (%1)</translation>
+        <translation>Change Instance (%1)</translation>
     </message>
 </context>
 <context>
     <name>InstanceSettingsPage</name>
     <message>
         <source>Open Global Settings</source>
-        <translation type="vanished">Open Gwobaw Settings</translation>
+        <translation type="vanished">Open Ship Settins&apos;</translation>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="vanished">The settings hewe awe ovewwides fow gwobaw settings.</translation>
+        <translation type="vanished">The settins&apos; here are overrides for ship settins&apos;.</translation>
     </message>
     <message>
         <source>Java insta&amp;llation</source>
-        <translation type="vanished">Jawa insta&amp;wwation</translation>
+        <translation type="vanished">Th&apos; attached Java</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
-        <translation type="vanished">Auto-detewct...</translation>
+        <translation type="vanished">Let th&apos; machine find it...</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="vanished">Bwowse...</translation>
+        <translation type="vanished">Explore...</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="vanished">T-Test</translation>
+        <translation type="vanished">Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">If enyabwed, the waunchew wiww nyot check if an instance is compatibwe with the sewected Jawa vewsion.</translation>
+        <translation type="vanished">If enabled, th&apos; launcher ain&apos;t goin&apos; t&apos; check if the instance be compatible with yer Java model.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="vanished">Skip Jawa compatibiwity chewcks</translation>
+        <translation type="vanished">Belay th&apos; compatible Java checks</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="vanished">Wemow&amp;y</translation>
+        <translation type="vanished">Memor&amp;y</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minyimum memowy wemowy awwocation:</translation>
+        <translation type="vanished">Bare thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">the maximum amount of memowy Minecraft is awwowed to use.</translation>
+        <translation type="vanished">The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">The amount of memowy Minecraft is stawted with.</translation>
+        <translation type="vanished">The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">The amount of memowy avaiwabwe to stowe woaded Jawa cwasses.</translation>
+        <translation type="vanished">The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maximum memowy awwocation:</translation>
+        <translation type="vanished">Limit o&apos; thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation type="vanished">Nyote: P-Pewmgen i-is s-set automaticawwy wutomaticawwy by J-Jawa 8 and w-watew</translation>
+        <translation type="vanished">Entry: Permgen is handled automatically by Java Model 8 and newer</translation>
     </message>
     <message>
         <source>Java argumen&amp;ts</source>
-        <translation type="vanished">Jawa awgumen&amp;ts</translation>
+        <translation type="vanished">Java argumen&amp;ts</translation>
     </message>
     <message>
         <source>Game windows</source>
-        <translation type="vanished">Game windows</translation>
+        <translation type="vanished">Ship&apos;s windows</translation>
     </message>
     <message>
         <source>Game Window</source>
-        <translation type="vanished">Game Window</translation>
+        <translation type="vanished">Ship Window</translation>
     </message>
     <message>
         <source>Start Minecraft maximized?</source>
-        <translation type="vanished">Stawt Minyecwaft m-maximized?</translation>
+        <translation type="vanished">Start Minecraft at full sail?</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -5343,145 +5259,145 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Window width:</source>
-        <translation type="vanished">W-Window width:</translation>
+        <translation type="vanished">Window width:</translation>
     </message>
     <message>
         <source>Conso&amp;le Settings</source>
-        <translation type="vanished">Cownso&amp;le Sewttings</translation>
+        <translation type="vanished">Conso&amp;le Choices</translation>
     </message>
     <message>
         <source>Show console while the game is running?</source>
-        <translation type="vanished">Show cownsole while the game is wuwnning?</translation>
+        <translation type="vanished">Display console while the ship be sailin&apos;?</translation>
     </message>
     <message>
         <source>Automatically close console when the game quits?</source>
-        <translation type="vanished">Automaticawwy cwose consowe when the game quits?</translation>
+        <translation type="vanished">Automatically close console when th&apos; ship be anchoring?</translation>
     </message>
     <message>
         <source>Show console when the game crashes?</source>
-        <translation type="vanished">Show consowe when the game cwashes?</translation>
+        <translation type="vanished">Show console when the ship sinks?</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Cwose the waunchew aftew game window opens</translation>
+        <translation type="vanished">Close the launcher after the ship sails</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Quit the waunchew aftew game window closes</translation>
+        <translation type="vanished">Quit the launcher after the ship anchors</translation>
     </message>
     <message>
         <source>Custom commands</source>
-        <translation type="vanished">Custom commands</translation>
+        <translation type="vanished">Custom orders</translation>
     </message>
     <message>
         <source>Workarounds</source>
-        <translation type="vanished">Wowkawounds</translation>
+        <translation type="vanished">Alternate methods</translation>
     </message>
     <message>
         <source>Native libraries</source>
-        <translation type="vanished">Nyative wibwawies</translation>
+        <translation type="vanished">Local archives</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="vanished">Use system instawwation of GLFW</translation>
+        <translation type="vanished">Use system&apos;s model o&apos; GLFW</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="vanished">Use system instawwation of OpenAL</translation>
+        <translation type="vanished">Use system&apos;s model o&apos; OpenAL</translation>
     </message>
     <message>
         <source>Override default account</source>
-        <translation type="vanished">Ovewwide defauwt account</translation>
+        <translation type="vanished">Mutiny th&apos; default captain</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="vanished">Account:</translation>
+        <translation type="vanished">Captain:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Miscewwanyeous OwO</translation>
+        <translation type="vanished">Mixture of ye&apos; olde treasure</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Pewfowmance</translation>
+        <translation type="vanished">Performance</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enyabwe Fewaw Intewactive&apos;s GameMode, t-t-to p-potentiawwy wotentiawwy i-impwove gaming pewfowmance. OwO&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s Gamin&apos;Mode, hopin&apos; t&apos; improve the winds fer the sails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Enyabwe Fewaw GameMode</translation>
+        <translation type="vanished">Enable Feral Gamin&apos;Mode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enyabwe MangoHud&apos;s advanced pewfowmance ovewway w-wewway.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s bett&apos;r performance curtains.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Enyabwe MangoHud</translation>
+        <translation type="vanished">Enable MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the d-discwete GPU instead of the pwimawy wimawy GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the attached GPU instead o&apos; th&apos; main GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">Use discwete GPU</translation>
+        <translation type="vanished">Use attached GPU</translation>
     </message>
     <message>
         <source>Override global game time settings</source>
-        <translation type="vanished">Ovewwide gwobaw game time settings</translation>
+        <translation type="vanished">Mutiny th&apos; time options for th&apos; whole ship</translation>
     </message>
     <message>
         <source>Show time spent playing this instance</source>
-        <translation type="vanished">Show time spent pwaying this i-instawnce</translation>
+        <translation type="vanished">Show time spent sailin&apos; this ship</translation>
     </message>
     <message>
         <source>Record time spent playing this instance</source>
-        <translation type="vanished">Wecowd time spent p-pwaying this instawnce</translation>
+        <translation type="vanished">Write down time spent sailin&apos; this ship</translation>
     </message>
     <message>
         <source>Set a server to join on launch</source>
-        <translation type="vanished">Set a sewvew to join on waunch</translation>
+        <translation type="vanished">Set a sea to sail to on launch</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="vanished">S-Sewvew addwess:</translation>
+        <translation type="vanished">Coordinates:</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Fewaw Intewactive&apos;s GameMode couwd nyot be found on youw system.</translation>
+        <translation type="vanished">Feral Interactive&apos;s Gamin&apos;Mode be missin&apos; from yer system.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud couwd nyot be f-found on youw system.</translation>
+        <translation type="vanished">MangoHud be missin&apos; from yer system.</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Sewect a J-Jawa vewsion</translation>
+        <translation type="vanished">Pick a Java model</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">Find Java executabwe</translation>
+        <translation type="vanished">Locate Java executable</translation>
     </message>
     <message>
         <source>No default account</source>
-        <translation type="vanished">Nyo defauwt account</translation>
+        <translation type="vanished">No default captain</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Ur maximum memowy awwocation exceeds ur system memowy capacity.</translation>
+        <translation type="vanished">Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ur maximum memowy awwocation appwoaches ur system memowy capacity.</translation>
+        <translation type="vanished">Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <location filename="src_stable/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation>Settings</translation>
+        <translation>Settins&apos;</translation>
     </message>
 </context>
 <context>
@@ -5501,7 +5417,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
         <location filename="src_stable/launcher/InstanceList.cpp" line="966"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Faiwed to commit instance, even aftew muwtipwe wetwies. I-It i-is being bwocked by s-something.</translation>
+        <translation>Failed t&apos; commit ship, even after multiple attempts. Somethin&apos; be preventin&apos; it.</translation>
     </message>
 </context>
 <context>
@@ -5509,12 +5425,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Skiwp</translation>
+        <translation type="unfinished">Belay</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
@@ -5548,19 +5464,19 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="57"/>
         <source>Console window for </source>
-        <translation>Consowe window fow </translation>
+        <translation>Console window for </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="81"/>
         <source>Help</source>
-        <translation>Hewp</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="89"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Waunch</translation>
+        <translation type="unfinished">&amp;Set Sail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -5576,47 +5492,47 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Kiww</translation>
+        <translation type="unfinished">&amp;Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctww+K</translation>
+        <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
-        <translation type="vanished">Waunch Offwinye</translation>
+        <translation type="vanished">Launch to Lonely Seas</translation>
     </message>
     <message>
         <source>Launch Demo</source>
-        <translation type="vanished">Waunch Demo</translation>
+        <translation type="vanished">Launch Ye Short Game</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="115"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>Close</source>
-        <translation>Cwose</translation>
+        <translation>Walk the plank</translation>
     </message>
     <message>
         <source>Kill</source>
-        <translation type="vanished">muwdew :)</translation>
+        <translation type="vanished">Sink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>Kill the running instance</source>
-        <translation>muwduw the wunnying instance</translation>
+        <translation>Scuttle the runnin&apos; instance</translation>
     </message>
     <message>
         <source>Launch</source>
-        <translation type="vanished">Waunch</translation>
+        <translation type="vanished">Set Sail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <location filename="src_stable/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>Launch the instance</source>
-        <translation>Waunch the instawnce</translation>
+        <translation>Sail the ship</translation>
     </message>
 </context>
 <context>
@@ -5625,20 +5541,20 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <location filename="src_stable/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>Wistenying on powt: %1</translation>
+        <translation>Perceivin&apos; port: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <location filename="src_stable/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>Pwofiwew abowted</translation>
+        <translation>Profiler sent off the port bow</translation>
     </message>
 </context>
 <context>
     <name>JVisualVM</name>
     <message>
         <source>JVisualVM started</source>
-        <translation type="vanished">JVisuawVM stawted</translation>
+        <translation type="vanished">JVisualVM sailed</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
@@ -5650,7 +5566,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <location filename="src_stable/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>Pwofiwew abowted</translation>
+        <translation>Profiler sent off the port bow</translation>
     </message>
 </context>
 <context>
@@ -5690,7 +5606,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
         <location filename="src_stable/launcher/ui/java/InstallJavaDialog.cpp" line="204"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Wefwesh</translation>
+        <translation type="unfinished">&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -5748,12 +5664,12 @@ What would you like to do with %2?</source>
         <location filename="src_stable/launcher/ui/java/InstallJavaDialog.cpp" line="328"/>
         <location filename="src_stable/launcher/ui/java/InstallJavaDialog.cpp" line="340"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -5804,98 +5720,98 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <location filename="src_stable/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
-        <translation>Detwecting J-Java instawwations... OwO</translation>
+        <translation>Scouring Java models...</translation>
     </message>
 </context>
 <context>
     <name>JavaPage</name>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memowy</translation>
+        <translation type="vanished">Amount o&apos; thinkin&apos;</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="vanished">The maximum amount of w-wemowy Minyecwaft is awwowed to use.</translation>
+        <translation type="vanished">The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="vanished">&amp;Minyimum memowy awwocation:</translation>
+        <translation type="vanished">&amp;Bare thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="vanished">Ma&amp;ximum memowy awwocation:</translation>
+        <translation type="vanished">Li&amp;mit o&apos; thinkin&apos; given to th&apos; ship:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="vanished">The amyount of memowy wemowy M-Minyecwaft is s-stawted with.</translation>
+        <translation type="vanished">The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="vanished">The amount of memowy wemowy avaiwabwe to stowe woaded Jawa cwasses.</translation>
+        <translation type="vanished">The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <source>Java Runtime</source>
-        <translation type="vanished">J-Java Wuntime</translation>
+        <translation type="vanished">Java Runtime</translation>
     </message>
     <message>
         <source>JVM arguments:</source>
-        <translation type="vanished">JVM awguments:</translation>
+        <translation type="vanished">JVM arguments:</translation>
     </message>
     <message>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="vanished">&amp;Java p-path:</translation>
+        <translation type="vanished">&amp;Java path:</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="vanished">&amp;Auto-detwect...</translation>
+        <translation type="vanished">&amp;Let th&apos; machine find it...</translation>
     </message>
     <message>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="vanished">&amp;Test UwU</translation>
+        <translation type="vanished">&amp;Test</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="vanished">If enyabwed, the waunchew wiww n-n-nyot p-pwompt you to choose a Java vewsion if onye isn&apos;t found OwO.</translation>
+        <translation type="vanished">If enabled, th&apos; launcher ain&apos;t gonna ask ye to pick a Java model if there ain&apos;t one found.</translation>
     </message>
     <message>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="vanished">hehe Skip Java &amp;Wizawd</translation>
+        <translation type="vanished">Belay Java &amp;Wizard</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">If enyabwed, the waunchew wiww nyot check if an instyance is compatibwe with the sewected Jawa vewsion.</translation>
+        <translation type="vanished">If enabled, th&apos; launcher ain&apos;t goin&apos; t&apos; check if the instance be compatible with yer Java model.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="vanished">&amp;Skip Java compatibiwity chewcks &gt;:3</translation>
+        <translation type="vanished">&amp;Belay th&apos; compatible Java checks</translation>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="vanished">Sewect a Java vewsion</translation>
+        <translation type="vanished">Pick a Java model</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="vanished">F-Find Java executabwe</translation>
+        <translation type="vanished">Locate Java executable</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="vanished">Ur maximum memowy awwocation e-exceeds ur system memowy capacity.</translation>
+        <translation type="vanished">Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ur maximum memowy awwocation appwoaches ur system memowy capacity.</translation>
+        <translation type="vanished">Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <location filename="src_stable/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation>J-Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5913,13 +5829,13 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <location filename="src_stable/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished">Wemove</translation>
+        <translation type="unfinished">Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <location filename="src_stable/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">Wefwesh</translation>
+        <translation type="unfinished">Ruh-fresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
@@ -5937,7 +5853,7 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <location filename="src_stable/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confiwm Dewetion</translation>
+        <translation type="unfinished">Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
@@ -5951,7 +5867,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>No Java version selected</source>
-        <translation type="vanished">Nyo Java vewsion sewected (&gt;w&lt;)</translation>
+        <translation type="vanished">No Java model picked</translation>
     </message>
     <message>
         <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
@@ -5960,42 +5876,42 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="vanished">You didn&apos;t sewect a Java vewsion ow sewected something that doesn&apos;t wowk.
-%1 wiww nyot b-be abwe to stawt M-Minyecwaft.
-Do you wish to pwoceed without any Java?
+        <translation type="vanished">Ye didn&apos;t pick a Java model or ye picked one that isn&apos;t seaworthy.
+%1 will not be able to weigh anchor.
+Do ye wish to proceed without any Java?
 
-You can change the Java vewsion in t-the settings watew.
+Ye can change the Java model in the settins&apos; later.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.cpp" line="230"/>
         <source>Find Java executable</source>
-        <translation>F-Find Java executabwe</translation>
+        <translation>Locate Java executable</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="vanished">Memowy Wemowy</translation>
+        <translation type="vanished">Amount o&apos; thinkin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="266"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>The maximum amount of w-wemowy Minyecwaft is awwowed to use.</translation>
+        <translation>The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="vanished">Minyimum memowy wemowy awwocation:</translation>
+        <translation type="vanished">Bare thinkin&apos; given:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="vanished">Maximum memowy awwocation:</translation>
+        <translation type="vanished">Limit o&apos; thinkin&apos; given:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
@@ -6049,13 +5965,13 @@ You can change the Java vewsion in t-the settings watew.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">If enabled, th&apos; launcher ain&apos;t goin&apos; t&apos; check if the instance be compatible with yer Java model.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Skip Jawa compatibiwity chewcks</translation>
+        <translation type="unfinished">Belay th&apos; compatible Java checks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
@@ -6090,7 +6006,7 @@ You can change the Java vewsion in t-the settings watew.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="185"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Wemow&amp;y</translation>
+        <translation type="unfinished">Memor&amp;y</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
@@ -6102,7 +6018,7 @@ You can change the Java vewsion in t-the settings watew.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="217"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>The amount of memowy wemowy M-Minyecwaft is s-stawted with.</translation>
+        <translation>The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
@@ -6132,7 +6048,7 @@ You can change the Java vewsion in t-the settings watew.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.ui" line="315"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>The amount of memowy wemowy avaiwabwe to stowe woaded Jawa cwasses.</translation>
+        <translation>The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
@@ -6171,7 +6087,7 @@ You can change the Java vewsion in t-the settings watew.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
         <source>Browse</source>
-        <translation>Bwowse</translation>
+        <translation>Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
@@ -6219,7 +6135,7 @@ You can change the Java vewsion in t-the settings watew.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pick a Java model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
@@ -6239,7 +6155,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <location filename="src_stable/launcher/ui/widgets/JavaSettingsWidget.cpp" line="298"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Ur maximum memowy awwocation exceeds ur system memowy capacity.</translation>
+        <translation>Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
@@ -6255,7 +6171,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="vanished">Ur maximum memowy awwocation appwoaches ur system memowy capacity.</translation>
+        <translation type="vanished">Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
 </context>
 <context>
@@ -6264,7 +6180,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="83"/>
         <location filename="src_stable/launcher/ui/setupwizard/JavaWizardPage.cpp" line="83"/>
         <source>Java</source>
-        <translation>J-Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
@@ -6277,8 +6193,8 @@ Please make sure that the maximum memory value is lower.</source>
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="vanished">You do nyot h-have a w-wowking J-Java set up yet ow it went missing.
-Pwease sewect onye of the fowwowing ow bwowse fow a Java executabwe.</translation>
+        <translation type="vanished">Ye don&apos;t have a working Java set up yet, or it sunk.
+Select one of the following or browse for a Java executable, if ye dare.</translation>
     </message>
 </context>
 <context>
@@ -6310,7 +6226,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished">Nyo Java vewsion sewected (&gt;w&lt;)</translation>
+        <translation type="unfinished">No Java model picked</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="246"/>
@@ -6327,49 +6243,49 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="344"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="350"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Locate Java executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="486"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amount o&apos; thinkin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="487"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="493"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The limit o&apos; thinkin&apos; Minecraft is permitted to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="488"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minyimum memowy wemowy awwocation:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="489"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="495"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maximum memowy awwocation:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="490"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The amount o&apos; thinkin&apos; Minecraft sailed with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The amount o&apos; thinkin&apos; space open fer loadin&apos; Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="498"/>
         <source>Browse</source>
-        <translation type="unfinished">Bwowse</translation>
+        <translation type="unfinished">Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
@@ -6393,13 +6309,13 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yer set limit&apos; o&apos; thinkin&apos; is too heavy for yer vessel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="509"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="515"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Ur maximum memowy awwocation appwoaches ur system memowy capacity.</translation>
+        <translation type="unfinished">Yer set limit&apos; o&apos; thinkin&apos; is nearin&apos; what yer verssel can carry.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
@@ -6420,7 +6336,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <location filename="src_stable/launcher/ui/pages/global/LanguagePage.h" line="52"/>
         <source>Language</source>
-        <translation>Wanguage</translation>
+        <translation>Tongue</translation>
     </message>
 </context>
 <context>
@@ -6429,7 +6345,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <location filename="src_stable/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="63"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Don&apos;t see ur wanguwage ow the quwawity is poow?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Hewp uws with twanswations!&lt;/a&gt;</translation>
+        <translation>Don&apos;t be seein&apos; yer&apos; language or the quality be poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
@@ -6444,13 +6360,13 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <location filename="src_stable/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation>Wanguage</translation>
+        <translation>Tongue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <location filename="src_stable/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation>Sewect the wanguage to use in %1</translation>
+        <translation>Select the tongue ye wish to use in %1</translation>
     </message>
 </context>
 <context>
@@ -6486,19 +6402,19 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="67"/>
         <source>No instance specified!</source>
-        <translation>OwO whats this? Nyo instance specified!</translation>
+        <translation>No ship picked!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="72"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Invawid Java awguments specified. Pwease fix this fiwst. tysm &lt;3 uwu</translation>
+        <translation>Invalid Java arguments specified. Kindly fix this before settin&apos; sail.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="97"/>
         <source>No Accounts</source>
-        <translation>Nyo Accouwnts :(</translation>
+        <translation>No Captains</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="99"/>
@@ -6510,7 +6426,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="116"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
-        <translation>Which accouwnt wouwd u lyike to use?</translation>
+        <translation>Which flag would ye like to raise?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
@@ -6624,87 +6540,87 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="443"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Waunch</translation>
+        <translation type="unfinished">&amp;Set Sail</translation>
     </message>
     <message>
         <source>No account selected for launch.</source>
-        <translation type="vanished">Nyo accouwnt sewected fow waunch :(</translation>
+        <translation type="vanished">No captain picked for launch.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="236"/>
         <source>Player name</source>
-        <translation>Pwayew nyame :3</translation>
+        <translation>Captain&apos;s name</translation>
     </message>
     <message>
         <source>Choose your offline mode player name.</source>
-        <translation type="vanished">Choose ur offwinye mode pwayew nyame.</translation>
+        <translation type="vanished">Enter yer lonely-sea captain name.</translation>
     </message>
     <message>
         <source>Choose your demo mode player name.</source>
-        <translation type="vanished">Choose ur demo mode pwayew nyame.</translation>
+        <translation type="vanished">Enter yer short game captain name.</translation>
     </message>
     <message>
         <source>Received undetermined session status during login.</source>
-        <translation type="vanished">Weceived undetewminyed session status duwing l-login.</translation>
+        <translation type="vanished">Received unknown crew log status during boarding.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="214"/>
         <source>Play demo?</source>
-        <translation>Pway demo?</translation>
+        <translation>Play ye short game?</translation>
     </message>
     <message>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="vanished">This account does nyot own Minyecwaft.
-You nyeed to puwchase the game fiwst to pway it siwwy!
+        <translation type="vanished">This account ain&apos;t be in ownership o&apos; Minecraft.
+Ye need to purchase the game first to play it, unless ye be a scallywag.
 
-Do you want to pway the demo??</translation>
+Do ye want to play the demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
-        <translation>Pway Demo</translation>
+        <translation>Play Ye Short Game</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
-        <translation>Cayncew</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="vanished">OwO account does nyot o-own Minyecwaft.</translation>
+        <translation type="vanished">Didn&apos;t set sail - account ain&apos;t a real pirate.</translation>
     </message>
     <message>
         <source>Play Offline</source>
-        <translation type="vanished">Pway Offwinye</translation>
+        <translation type="vanished">Play in Uncharted Lands</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">The accouwnt has expiwed and needs to be logged into manuwawwy again.</translation>
+        <translation type="vanished">The ol&apos; drunk cap&apos;n was sent to the brig and needs remindin&apos; who they were again.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="340"/>
         <source>Account refresh failed</source>
-        <translation>Account wefwesh faiwed</translation>
+        <translation>Captain recheck failed</translation>
     </message>
     <message>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="vanished">The account nyo wongew exists o-on the sewvews. It may have been migwated, in which case pwease add the nyew account you migwated this onye to.</translation>
+        <translation type="vanished">The account be missin&apos; from the registries. It may have been migrated, in which case kindly ye need to add the new account ye migrated this one to.</translation>
     </message>
     <message>
         <source>Account gone</source>
-        <translation type="vanished">Accwount gyone</translation>
+        <translation type="vanished">Captain gone</translation>
     </message>
     <message>
         <source>Failed to launch.</source>
-        <translation type="vanished">Faiwed to waunch.</translation>
+        <translation type="vanished">Failed to set sail.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
@@ -6712,7 +6628,7 @@ Do you want to pway the demo??</translation>
         <location filename="src_stable/launcher/LaunchController.cpp" line="374"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="430"/>
         <source>Error!</source>
-        <translation>OwO</translation>
+        <translation>Fire on the poop deck!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
@@ -6720,17 +6636,17 @@ Do you want to pway the demo??</translation>
         <location filename="src_stable/launcher/LaunchController.cpp" line="374"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="375"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Couwdn&apos;t woad the instawnce pwofiwe.</translation>
+        <translation>Couldn&apos;t load the ship manifest.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="382"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="381"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Couwdn&apos;t instantiate a waunchew.</translation>
+        <translation>Couldn&apos;t set sail a launcher.</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation type="vanished">Couwdn&apos;t stawt pwofiwew: %1</translation>
+        <translation type="vanished">Couldn&apos;t set sail profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
@@ -6738,7 +6654,7 @@ Do you want to pway the demo??</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>The game waunch i-is dewayed u-untiw you pwess the button. This is the w-wight time to setup the pwofiwew, as the pwofiwew sewvew is wunnying n-nyow.
+        <translation>The ship sailin&apos; be delayed &apos;til ye press the button. This be the right time to prep the profiler, as the profiler server be sailin&apos; now.
 
 %1</translation>
     </message>
@@ -6746,62 +6662,62 @@ Do you want to pway the demo??</translation>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="441"/>
         <source>Waiting.</source>
-        <translation>W-Waiting.</translation>
+        <translation>Waitin&apos;.</translation>
     </message>
     <message>
         <source>Launch</source>
-        <translation type="vanished">Waunch</translation>
+        <translation type="vanished">Set sail</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="449"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Couwdn&apos;t stawt the pwofiwew: %1</translation>
+        <translation>Couldn&apos;t set sail the profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="457"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="450"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/LaunchController.cpp" line="169"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="477"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="497"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="490"/>
         <source>Kill Minecraft?</source>
-        <translation>kiww mincecwaf?</translation>
+        <translation>Scuttle yer ship?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="498"/>
         <location filename="src_stable/launcher/LaunchController.cpp" line="491"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>This can cause the iynstance to get cowwupted and shouwd onwy be used if M-M-Minyecwaft is fwozen fow some weason!</translation>
+        <translation>This can cause ye ship to get cursed and should only be used if somehow yer sails be broken</translation>
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="vanished">The wauwnchew&apos;s cwient identification has changed. Pwease wemove this accouwnt and wadd it again.</translation>
+        <translation type="vanished">The launcher now sails with new colors. Kindly relieve this captain and return &apos;em with new colors.</translation>
     </message>
     <message>
         <source>Continue launch?</source>
-        <translation type="vanished">Continyue waunch?</translation>
+        <translation type="vanished">Weigh Anchor?</translation>
     </message>
     <message>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="vanished">I couwdn&apos;t waunch a-aftew %1 twies. Do you want me t-to continyue twying f-f-fow u-u? :3</translation>
+        <translation type="vanished">It looks like ye crew couldn&apos;t weigh anchor after %1 tries. Do ye want them to continue trying?</translation>
     </message>
     <message>
         <source>Client identification changed</source>
-        <translation type="vanished">Cwient identification changed</translation>
+        <translation type="vanished">Colors changed</translation>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="vanished">In owdew to p-p-pway Minyecwaft, you must have at weast onye Micwosoft ow Mojang account logged in. Mojang accounts can onwy be used offwinye. Wouwd you w-w-wike to open the account manyagew to add an account nyow?</translation>
+        <translation type="vanished">In order to sail Minecraft, ye must&apos;ve at least a Microsoft or Mojang captain logged. Mojang captains can only be fer lonely seas. Would ye like to open th&apos; captain roster and enlist a new cap&apos;n now?</translation>
     </message>
 </context>
 <context>
@@ -6811,8 +6727,8 @@ Do you want to pway the demo??</translation>
         <location filename="src_stable/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Stawpped watching the game log because the log wength suwpassed %1 winyes.
-You may have to fix youw mods because the game is stiww logging to fiwes and wikewy wasting hawddwive space a-at an awawming wate!</translation>
+        <translation>Stopped carin&apos; &apos;bout th&apos; log because the log surpassed %1 entries.
+Ye may hav&apos; t&apos; fix yer modifications because the ship still be loggin&apos; and likely wasting cargo space at kraken speed!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="237"/>
@@ -6825,7 +6741,7 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
     <name>LauncherLoginStep</name>
     <message>
         <source>Accessing Mojang services.</source>
-        <translation type="vanished">Accessing Mojang sewvices.</translation>
+        <translation type="vanished">Accessin&apos; Mojang serrvices.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
@@ -6839,13 +6755,13 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src_stable/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>F-F-Faiwed to get Minyecwaft access token: %1 OwO</translation>
+        <translation>Failed to plunder Minecraft access doubloon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Faiwed to pawse the Minyecwaft access token wesponse.</translation>
+        <translation>Failed to understand the Minecraft access doubloon response.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
@@ -6858,11 +6774,11 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
     <name>LauncherPage</name>
     <message>
         <source>Features</source>
-        <translation type="vanished">Featuwes</translation>
+        <translation type="vanished">Featur&apos;s</translation>
     </message>
     <message>
         <source>Update Settings</source>
-        <translation type="vanished">U-Update Settings</translation>
+        <translation type="vanished">Update Settins&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
@@ -6950,13 +6866,13 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="229"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation>*blushes* C-Can I check fow updates automaticawwy?</translation>
+        <translation>Automatically look fer upgrades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Folders</source>
-        <translation>Fowdews</translation>
+        <translation>Chests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -6973,7 +6889,7 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="335"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
         <source>Browse</source>
-        <translation type="unfinished">Bwowse</translation>
+        <translation type="unfinished">Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -6989,7 +6905,7 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>I&amp;nstances:</source>
-        <translation>I&amp;nstawnces:</translation>
+        <translation>S&amp;hips:</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
@@ -6999,12 +6915,12 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
     <message>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Mowds:</translation>
+        <translation>&amp;Modifications:</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Icons:</translation>
+        <translation>&amp;Flags:</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
@@ -7015,84 +6931,80 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="377"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>When enyabwed, in addition to the downwoads fowdew, its sub fowdews wiww awso be seawched when wooking fow wesouwces (e.g. w-when wooking fow b-bwocked mods on CuwseFowge).</translation>
+        <translation>When enabled, aside from th&apos; downloads chest, its sub-chests will also be scoured when searchin&apos; fer booty (e.g.: when lookin&apos; fer dead modifications on CurseForge).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
-        <translation type="vanished">Check downwoads fowdew wecuwsivewy</translation>
+        <translation type="vanished">Check downloads chest thoroughly</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation>Usew Intewface</translation>
+        <translation>Sailor&apos;s View</translation>
     </message>
     <message>
         <source>Instance view sorting mode</source>
-        <translation type="vanished">Instance v-view sowting mode</translation>
+        <translation type="vanished">Ship view sortin&apos; mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>&amp;By wast w-waunched</translation>
+        <translation>&amp;By last voyage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>B-By &amp;nyame</translation>
+        <translation>By &amp;name</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="vanished">Theme</translation>
+        <translation type="vanished">Dyes</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="vanished">Mowds</translation>
+        <translation type="vanished">Modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Downloads:</source>
-        <translation>&amp;D-Downwoads:</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation>&amp;Plunders:</translation>
     </message>
     <message>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="vanished">Disabwe uwsing metadata pwovided by mowd pwovidews (wike Modwinth ow Cuwwsefowge) fow mowds.</translation>
+        <translation type="vanished">Disable readin&apos; the engravin&apos;s by th&apos; modification providers (like The Rinth of the Mods or CurseForge) for modifications.</translation>
     </message>
     <message>
         <source>Disable using metadata for mods?</source>
-        <translation type="vanished">Disabwe using m-metadata fow mowds?</translation>
+        <translation type="vanished">Disable readin&apos; engravin&apos;s for modifications?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Wawning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabwing mod metadata may awso disabwe some QoW featuwes, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Avast&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disablin&apos; modification engravin&apos;s may also disable conveniences, such&apos;s modification upgradin&apos;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Toows</translation>
+        <translation type="vanished">Handy Objects</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="158"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>The menyubaw i-is mowe fwendwy f-fow keyboawd-dwiven intewaction.</translation>
+        <translation>The menubar be more friendly for pirates who use a keyboard at the helm.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>&amp;Wepwace toowbaw with menyubaw</translation>
+        <translation>&amp;Replace handy-objectbar with list&apos;o&apos;choicesbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
@@ -7129,12 +7041,12 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>Add</source>
-        <translation type="unfinished">Awd</translation>
+        <translation type="unfinished">Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
         <source>Remove</source>
-        <translation type="unfinished">Wemove</translation>
+        <translation type="unfinished">Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
@@ -7253,7 +7165,7 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="604"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Console</source>
-        <translation>Consowe</translation>
+        <translation>Captain&apos;s Log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="619"/>
@@ -7304,63 +7216,63 @@ You may have to fix youw mods because the game is stiww logging to fiwes and wik
     </message>
     <message>
         <source>Console Settings</source>
-        <translation type="vanished">Consowe Settings</translation>
+        <translation type="vanished">Console Settin&apos;s</translation>
     </message>
     <message>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="vanished">Show consowe whiwe the game is &amp;wunnying?</translation>
+        <translation type="vanished">Show captain&apos;s log while the ship is asail?</translation>
     </message>
     <message>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="vanished">&amp;Automaticawwy cwose consowe when the game quits?</translation>
+        <translation type="vanished">&amp;Automatically stow the captain&apos;s log when the ship docks?</translation>
     </message>
     <message>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="vanished">Show consowe when the game &amp;cwashes?</translation>
+        <translation type="vanished">Show captain&apos;s log when the ship sinks?</translation>
     </message>
     <message>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="vanished">&amp;Histowy wimit</translation>
+        <translation type="vanished">&amp;Records limit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="654"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Stawp logging w-when log o-ovewfwows</translation>
+        <translation>&amp;Stop recordin&apos; when log overflows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="635"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.ui" line="481"/>
         <source> lines</source>
-        <translation> winyes</translation>
+        <translation> lines</translation>
     </message>
     <message>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="vanished">Consowe &amp;font</translation>
+        <translation type="vanished">Console &amp;handwritin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="129"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="93"/>
         <source>Instance Folder</source>
-        <translation>Instance Fowdew</translation>
+        <translation>Ship&apos;s Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="100"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Y-You&apos;we twying to specify wecify an instance fowdew which&apos;s path contains at weast onye &apos;!&apos;. J-Java is knyown to cause pwobwems if that is the case, youw instances (pwobabwy) w-won&apos;t stawt!</translation>
+        <translation>Yer tryin&apos; t&apos; pick a ship chest with a trail containin&apos; at least one &apos;!&apos;. Java&apos;s known to be a scallywag over this, (mayhaps) your ships won&apos;t sail!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="105"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="106"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Do y-you weawwy want to use this path? Sewecting &quot;Nyo&quot; wiww c-cwose this and nyot awtew uw instance path.</translation>
+        <translation>Do ye really want t&apos; use this trail? Pickin&apos; &quot;Nay&quot; will close this and not change the trail to yer ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="112"/>
@@ -7373,16 +7285,16 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>You&apos;we twying to specify wecify an instance fowdew which was gwanted tempowawiwy wempowawiwy v-via Fwatpak.
-This is knyown to cause pwobwems. Aftew a w-westawt the w-w-waunchew might bweak, because it wiww n-nyo wongew have access to that diwectowy wiwectowy.
+        <translation>Ye be tryin&apos; to specify an instance folder which was temporarily stolen from Flatpak.
+This is known to sink ships. After a restart the launcher might break, because ye crew will no longer have access to that directory.
 
-Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
+Granting %1 access to it via Flatseal is ye best course o&apos; action.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="119"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>Do you w-want to pwoceed anyway?</translation>
+        <translation>Do ye want to proceed anyway?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
@@ -7409,19 +7321,19 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Icons Folder</source>
-        <translation>Icons Fowdew</translation>
+        <translation>Flags Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="147"/>
         <source>Mods Folder</source>
-        <translation>Mowds Fowdew</translation>
+        <translation>Modifications Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="189"/>
         <location filename="src_stable/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
         <source>Downloads Folder</source>
-        <translation>Downwoads Fowdew</translation>
+        <translation>Plunders Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="199"/>
@@ -7442,15 +7354,15 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="vanished">[Something/ERROR] A spooky ewwow!</translation>
+        <translation type="vanished">[Something/ERROR] We&apos;ve been hit!</translation>
     </message>
     <message>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="vanished">[Test/INFO] A hawmwess message...</translation>
+        <translation type="vanished">[Test/INFO] Land ho!</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="vanished">[Something/WARN] A nyot so spooky wooky wawnying.</translation>
+        <translation type="vanished">[Something/WARN] Yarr, these be risky waters.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
@@ -7465,7 +7377,7 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <location filename="src_stable/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="76"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Waunchew wibwawy couwd nyot be f-found. Pwease check youw i-instawwation.</translation>
+        <translation>Launcher&apos;s archive be missin&apos;. Kindly check yer plundered model.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
@@ -7477,7 +7389,7 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <location filename="src_stable/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="140"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>The wwappew command &quot;%1&quot; couwdn&apos;t be f-found. &gt;.&lt;</translation>
+        <translation>The wrapper command &quot;%1&quot; be a yellow-bellied coward, &apos;n couldn&apos;t be found.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -7490,7 +7402,7 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="vanished">Couwd nyot waunch Minyecwaft!</translation>
+        <translation type="vanished">Could not set sail!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
@@ -7498,7 +7410,7 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <location filename="src_stable/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="176"/>
         <location filename="src_stable/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
-        <translation>Game cwashed.</translation>
+        <translation>Game sunk.</translation>
     </message>
 </context>
 <context>
@@ -7507,31 +7419,31 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <location filename="src_stable/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Chewcking fow FMW wibwawies...</translation>
+        <translation type="unfinished">Spyin&apos; fer FML pages...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <location filename="src_stable/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Downwoading FMW wibwawies...</translation>
+        <translation type="unfinished">Pilferin&apos; FML libraries...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <location filename="src_stable/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Cowopying FMW wibwawies into the instawnce...</translation>
+        <translation type="unfinished">Stealin FML pages for the ship...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <location filename="src_stable/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Faiwed cweating FMW wibwawy fowdew inside the instawnce.</translation>
+        <translation type="unfinished">Blundered afixin FML book to the ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <location filename="src_stable/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Faiwed cowopying Fowge/FMW library: %1.</translation>
+        <translation type="unfinished">Blundered stealin Forge/FML pages: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7541,11 +7453,11 @@ Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Faiwed to downwoad the fowwowing fiwes:
+        <translation type="unfinished">Failed to plunder the followin&apos; files:
 %1
 
-Weason:%2
-Pwease twy a-again.</translation>
+Reason:%2
+Try again, if ye dare.</translation>
     </message>
 </context>
 <context>
@@ -7555,14 +7467,14 @@ Pwease twy a-again.</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sowt by Nyame</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Sowt by Game Vewsion</translation>
+        <translation>Sort by Ship Model</translation>
     </message>
 </context>
 <context>
@@ -7570,17 +7482,17 @@ Pwease twy a-again.</translation>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="135"/>
         <source>Public Modpack</source>
-        <translation>Pubwic Modpack</translation>
+        <translation>Public Modifications Cargo</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="137"/>
         <source>Third Party Modpack</source>
-        <translation>Thiwd Pawty Wawty Modpack</translation>
+        <translation>Third Party Modifications Cargo</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="139"/>
         <source>Private Modpack</source>
-        <translation>Pwivate Modpack</translation>
+        <translation>Private Modifications Cargo</translation>
     </message>
 </context>
 <context>
@@ -7589,19 +7501,19 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="114"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
-        <translation>Pubwic Packs</translation>
+        <translation>Public Cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="118"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
-        <translation>Thiwd Pawty Packs</translation>
+        <translation>Third Party Cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Faiwed to downwoad some pack wists: %1</translation>
+        <translation>Failed to plunder some cargo lists: %1</translation>
     </message>
 </context>
 <context>
@@ -7610,7 +7522,7 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="68"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation>Downwoading z-zip fow %1</translation>
+        <translation>Stealin&apos; zip for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="129"/>
@@ -7620,34 +7532,34 @@ Pwease twy a-again.</translation>
     </message>
     <message>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation type="vanished">Downwoading z-zip fow %1 (%2%)</translation>
+        <translation type="vanished">Stealin&apos; zip for %1 (%2%)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="98"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Extwacting modpack!</translation>
+        <translation>Unlocking modifications cargo</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
-        <translation type="vanished">Faiwed to open modpack fiwe %1!</translation>
+        <translation type="vanished">Failed to open modifications cargo file %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="123"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Installing modpack</source>
-        <translation>Instawwing modpwack</translation>
+        <translation>Hoisting the sails of ye chosen pack</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="vanished">Faiwed to move unzipped Minyecwaft!</translation>
+        <translation type="vanished">Failed to move unchested Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <location filename="src_stable/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation>OwO Nyo instawwation m-method found!</translation>
+        <translation>No buildin&apos; method found!</translation>
     </message>
 </context>
 <context>
@@ -7656,97 +7568,97 @@ Pwease twy a-again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation>Pubwic</translation>
+        <translation>Public</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
         <source>3rd Party</source>
-        <translation>3wd Pawty</translation>
+        <translation>3rd Party</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
         <source>Private</source>
-        <translation>Pwivate</translation>
+        <translation>Private</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="117"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="117"/>
         <source>Add pack</source>
-        <translation>Add p-pack</translation>
+        <translation>Add cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="124"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="124"/>
         <source>Remove selected pack</source>
-        <translation>Wemove sewected pack</translation>
+        <translation>Remove picked cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="154"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="209"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation>Task abowted</translation>
+        <translation>Task abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>The task has been abowted by the usew.</translation>
+        <translation>The task has been sunk by the captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>FTB private packs</source>
-        <translation>FTB pwivate packs</translation>
+        <translation>FTB private cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="225"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Faiwed to downwoad pack infowmation fow c-code %1.
-Shouwd it be wemoved nyow?</translation>
+        <translation>Failed to steal pack information for code %1.
+Should ye crew toss it overboard?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Add FTB pack</source>
-        <translation>Add F-F-F-FTB pack</translation>
+        <translation>Add FTB cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="350"/>
         <source>Enter pack code:</source>
-        <translation>Entew pack c-c-code:</translation>
+        <translation>Enter cargo code:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Remove pack</source>
-        <translation>W-Wemove pack</translation>
+        <translation>Remove cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="365"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Awe you suwe you want to w-wemove pack %1?</translation>
+        <translation>Are ye sure ye want to throw pack %1 overboard?</translation>
     </message>
 </context>
 <context>
@@ -7756,19 +7668,19 @@ Shouwd it be wemoved nyow?</translation>
         <location filename="src_stable/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Downwoading wequiwed wibwawy f-fiwes...</translation>
+        <translation>Plunderin&apos; required library files...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <location filename="src_stable/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>Wibwawies fow i-i-instance %1</translation>
+        <translation>Archives for ship %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <location filename="src_stable/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>Nyuww jaw is specified in the m-metadata, abowting.</translation>
+        <translation>Void jar is picked in the engravings, sending off the port bow.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -7778,15 +7690,15 @@ Shouwd it be wemoved nyow?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Some awtifacts mawked as &apos;wocaw&apos; awe missing theiw fiwes:
+        <translation>Some artifacts marked as &apos;local&apos; are missing their files:
 %1
 
-You nyeed to eithew add the fiwes, o-ow wemoved the packages that wequiwe t-them.
-You&apos;ww have to cowwect this pwobwem manyuawwy wanyuawwy.</translation>
+Ye need to either add the files, or throw the packages that require them overboard.
+Ye will have to correct this problem on ye own.</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted!</translation>
+        <translation type="vanished">Sent Off The Port Bow</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -7794,8 +7706,8 @@ You&apos;ww have to cowwect this pwobwem manyuawwy wanyuawwy.</translation>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>Game update faiwed: it was impossibwe to fetch the wequiwed wibwawies.
-Weason:
+        <translation>Game update failed: it was impossible to steal the required librarrries.
+Reason:
 %1</translation>
     </message>
 </context>
@@ -7804,12 +7716,12 @@ Weason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Updating index fow mod:
+        <translation type="vanished">Updatin&apos; index for modification:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Invawid metadata OwO</translation>
+        <translation type="vanished">Invalid engravings</translation>
     </message>
 </context>
 <context>
@@ -7825,7 +7737,7 @@ Weason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="71"/>
         <location filename="src_stable/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="66"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Invawid metadata OwO</translation>
+        <translation type="unfinished">Invalid engravings</translation>
     </message>
 </context>
 <context>
@@ -7834,13 +7746,13 @@ Weason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation>K-Keep updating</translation>
+        <translation>Keep upgradin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation>whap wines</translation>
+        <translation>Write to next lines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
@@ -7852,65 +7764,65 @@ Weason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>cwopy da whowe log intwo da cwipboawd</translation>
+        <translation>Record th&apos; entire log &apos;to the captain&apos;s parchment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>&amp;Copy</source>
-        <translation>&amp;C-Cwopy</translation>
+        <translation>&amp;Record</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>Upwoad the log to the paste sewvice configuwed in p-pwefewences</translation>
+        <translation>Upload log to the sharin&apos; serrvice set in preferrrences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload</source>
-        <translation>Upwoad</translation>
+        <translation>Deliver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation>Cweaw the log</translation>
+        <translation>Throw out the log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear</source>
-        <translation>Cweaw</translation>
+        <translation>Throw out</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation type="unfinished">Seawch</translation>
+        <translation type="unfinished">Scour</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Seawch:</translation>
+        <translation type="vanished">Locate:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <source>Find</source>
-        <translation>F-Find</translation>
+        <translation>Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Scwoww aww the way t-to bottom *blushes*</translation>
+        <translation>Go to th&apos; end</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation>B-Bottom</translation>
+        <translation>Th&apos; end</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
@@ -7918,7 +7830,7 @@ Weason:
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.cpp" line="246"/>
         <location filename="src_stable/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>Minecraft L-Log</translation>
+        <translation>Captain&apos;s Log</translation>
     </message>
 </context>
 <context>
@@ -7928,27 +7840,27 @@ Weason:
         <location filename="src_stable/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>Pwocess exited with code %1.</translation>
+        <translation>Voyage ended with code %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
         <location filename="src_stable/launcher/LoggedProcess.cpp" line="101"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>Pwocess cwashed.</translation>
+        <translation>Process sunk.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <location filename="src_stable/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Pwocess cwashed with exitcode %1.</translation>
+        <translation>Process sunk with exitcode %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <location filename="src_stable/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Pwocess was kiwwed by usew :(</translation>
+        <translation>Process was scuttled by captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
@@ -7958,22 +7870,22 @@ Weason:
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation type="vanished">The pwocess faiwed to stawt.</translation>
+        <translation type="vanished">The process failed to weigh anchor.</translation>
     </message>
 </context>
 <context>
     <name>LoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">Add A-Account</translation>
+        <translation type="vanished">Add Captain</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="vanished">Emaiw</translation>
+        <translation type="vanished">Seamail</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="vanished">Passwowd</translation>
+        <translation type="vanished">Secret Phrase</translation>
     </message>
 </context>
 <context>
@@ -7982,7 +7894,7 @@ Weason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <location filename="src_stable/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -8124,7 +8036,7 @@ Weason:
     <message>
         <location filename="src_stable/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="156"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Task abowted</translation>
+        <translation type="unfinished">Task abandoned</translation>
     </message>
 </context>
 <context>
@@ -8133,7 +8045,7 @@ Weason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <location filename="src_stable/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Add Micwosoft Account</translation>
+        <translation>Add Microsoft Captain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -8141,7 +8053,7 @@ Weason:
         <location filename="src_stable/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src_stable/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation type="unfinished">P-Pwease wait...</translation>
+        <translation type="unfinished">Kindly wait...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -8149,7 +8061,7 @@ Weason:
         <location filename="src_stable/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src_stable/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation type="unfinished">Stwatus</translation>
+        <translation type="unfinished">This boat be</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -8183,11 +8095,11 @@ Weason:
     </message>
     <message>
         <source>Open page and copy code</source>
-        <translation type="vanished">Open page and c-cwopy code</translation>
+        <translation type="vanished">Open page and record code</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Pwease open up %1 in a-a bwowsew and put in the code &lt;b&gt;%2&lt;/b&gt; to pwoceed with login.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Kindly navigate to %1 in ye dinghy and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="93"/>
@@ -8220,7 +8132,7 @@ Weason:
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Logging in with Micwosoft account.</translation>
+        <translation>Loggin&apos; with Microsoft captain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
@@ -8230,74 +8142,70 @@ Weason:
     </message>
     <message>
         <source>Got </source>
-        <translation type="vanished">G-Got </translation>
+        <translation type="vanished">Got </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation type="vanished">Micwosoft usew authentication ended with a nyetwowk ewwow.</translation>
+        <translation type="vanished">Microsoft sailor authenticatin&apos; ended with a fire in the crow&apos;s nest.</translation>
     </message>
     <message>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation type="vanished">Micwosoft usew authentication faiwed - usew nyo wongew exists.</translation>
+        <translation type="vanished">Microsoft sailor authenticatin&apos; failed - sailor no longer exists.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Micwosoft usew authentication faiwed.</translation>
+        <translation>Microsoft sailor authenticatin&apos; failed.</translation>
     </message>
     <message>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation type="vanished">Micwosoft usew authentication compweted with an unwecognyized wesuwt.</translation>
+        <translation type="vanished">Microsoft sailor authenticatin&apos; completed with an unrecognized result.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Micwosoft usew a-authentication faiwed - cwient identification has c-changed. OwO</translation>
+        <translation>Microsoft sailor authenticatin&apos; failed - the colors have changed.</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Kill the running instance</source>
-        <translation type="vanished">Kiww the wunnying instance</translation>
-    </message>
-    <message>
         <source>Launch</source>
-        <translation type="vanished">Waunch</translation>
+        <translation type="vanished">Weigh Anchor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="347"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="341"/>
         <source>Launch the selected instance.</source>
-        <translation>W-W-Waunch the sewected instance.</translation>
+        <translation>Set the selected instance asail.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation>Main Toowbaw</translation>
+        <translation>Main Handy-objectbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="292"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Add a nyew instance.</translation>
+        <translation>Build or steal a new ship.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="vanished">&amp;View Instance Fowdew</translation>
+        <translation type="vanished">&amp;Peruse Ship&apos;s Chest</translation>
     </message>
     <message>
         <source>Open the instance folder in a file browser.</source>
-        <translation type="vanished">Open the instance fowdew in a fiwe bwowsew.</translation>
+        <translation type="vanished">Open th&apos; ship&apos;s chest to a catalog.</translation>
     </message>
     <message>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="vanished">View &amp;Centwaw Mods Fowdew</translation>
+        <translation type="vanished">Peruse &amp;Central Modifications Chest</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="531"/>
@@ -8317,7 +8225,7 @@ Weason:
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Open the centwaw mods fowdew in a fiwe bwowsew.</translation>
+        <translation>Open th&apos; central modifications chest to a catalog.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="575"/>
@@ -8342,216 +8250,216 @@ Weason:
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="768"/>
         <source>Java</source>
-        <translation type="unfinished">J-Java</translation>
+        <translation type="unfinished">Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;Accownts</translation>
+        <translation>&amp;Captains</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="396"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;E-Edit...</translation>
+        <translation>&amp;Modify...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="416"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="410"/>
         <source>&amp;Folder</source>
-        <translation>&amp;Fowdew</translation>
+        <translation>&amp;Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="455"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation>E&amp;xpowt...</translation>
+        <translation>D&amp;eliver...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="427"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="421"/>
         <source>Dele&amp;te</source>
-        <translation>Dewe&amp;te</translation>
+        <translation>Send t&amp;o Davy Jones&apos; Locker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="699"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="694"/>
         <source>Folders</source>
-        <translation>Fowdews</translation>
+        <translation>Chests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="697"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Open onye of the fowdews shawed between instances.</translation>
+        <translation>Open one of th&apos; chests shared among ships.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="317"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="319"/>
         <source>Change settings.</source>
-        <translation>Change settings.</translation>
+        <translation>Change settin&apos;s.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="605"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>O-Open the bug twackew to w-wepowt a bug with %1.</translation>
+        <translation>Open the barnacle tracker t&apos; report a barnacle with %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="638"/>
         <source>Open %1 subreddit.</source>
-        <translation>Open %1 subweddit.</translation>
+        <translation>Open %1 subreddit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="649"/>
         <source>View information about %1.</source>
-        <translation>View infowmation about %1.</translation>
+        <translation>View information about %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="710"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="705"/>
         <source>Help</source>
-        <translation>Hewp</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="708"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Get hewp with %1 ow Minyecwaft.</translation>
+        <translation>Get help with %1 or Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="305"/>
         <source>Check for new updates for %1.</source>
-        <translation>C-Check fow nyew updates fow %1.</translation>
+        <translation>Check fer new upgrades for %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>It&apos;s a fwuffy wuffy k-kitty witty :3</translation>
+        <translation>This be a weird-lookin&apos; parrot :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>Instance Toowbaw</translation>
+        <translation>Ship Handy-objectbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="391"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change Icon</source>
-        <translation>Change Icon</translation>
+        <translation>Change Flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="349"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Kiww</translation>
+        <translation>&amp;Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="338"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Waunch</translation>
+        <translation>&amp;Set Sail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="289"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Add Instanc&amp;e...</translation>
+        <translation>Add Shi&amp;p...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="182"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>F&amp;owdews</translation>
+        <translation>C&amp;hests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="314"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="316"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Setti&amp;ngs...</translation>
+        <translation>Setti&amp;n&apos;s...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="660"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>&amp;Cweaw Metadata Cache</translation>
+        <translation>&amp;Throw Out Engravings Stash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="669"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="663"/>
         <source>Clear cached metadata</source>
-        <translation>Cweaw cached metadata</translation>
+        <translation>Throw out stashed engravings</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
-        <translation type="vanished">Wepowt a &amp;Bug...</translation>
+        <translation type="vanished">Report a &amp;Barnacle...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="624"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Matwix Space</translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="619"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discowd Guiwd</translation>
+        <translation>&amp;Tortuga Tavern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="641"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="635"/>
         <source>Sub&amp;reddit</source>
-        <translation>Sub&amp;weddit</translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="646"/>
         <source>&amp;About %1</source>
-        <translation>&amp;Abouwt %1</translation>
+        <translation>&amp;About %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="300"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="302"/>
         <source>&amp;Update...</source>
-        <translation>&amp;UwUpdate...</translation>
+        <translation>&amp;Upgrade...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="254"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation>&amp;Meow OwO</translation>
+        <translation>&amp;Polly want a cracker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="336"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="330"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Manyage Accownts...</translation>
+        <translation>&amp;Manage Captains...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="136"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation>&amp;Fiwe</translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="168"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>&amp;View</translation>
+        <translation>&amp;Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="209"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation>&amp;Hewp</translation>
+        <translation>&amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
@@ -8574,7 +8482,7 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="352"/>
         <source>Kill the running instance.</source>
-        <translation>Kiww the wunnying instance.</translation>
+        <translation>Scuttle the sailin&apos; ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="458"/>
@@ -8610,13 +8518,13 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.ui" line="523"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="517"/>
         <source>Close &amp;Window</source>
-        <translation>Cwose &amp;Window</translation>
+        <translation>Close &amp;Window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="520"/>
         <source>Close the current window</source>
-        <translation>Cwose the cuwwent window OwO</translation>
+        <translation>Close the current window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
@@ -8694,7 +8602,7 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.ui" line="633"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="627"/>
         <source>Open %1 Matrix space.</source>
-        <translation>O-Open %1 Matwix space.</translation>
+        <translation>Open %1 Matrix space.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
@@ -8712,7 +8620,7 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="686"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Instaww a %1 symwink to /usw/wocaw/bin</translation>
+        <translation>Install a %1 symlink to /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
@@ -8778,79 +8686,75 @@ Weason:
     <message>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="vanished">%1 &amp;Hewp</translation>
+        <translation type="vanished">%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="727"/>
         <source>Open the %1 wiki</source>
-        <translation>Open the %1 wiki</translation>
-    </message>
-    <message>
-        <source>%1 &amp;News</source>
-        <translation type="vanished">%1 &amp;Nyews</translation>
+        <translation>Open the %1 encyclopedia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="394"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="388"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Change the sewected instance&apos;s icon.</translation>
+        <translation>Change the picked ship&apos;s flag.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="363"/>
         <source>Rename</source>
-        <translation>Wenyame</translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="366"/>
         <source>Rename the selected instance.</source>
-        <translation>Wenyame the sewected instance.</translation>
+        <translation>Dye the flag ye flyin&apos;.</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
-        <translation type="vanished">Waunch &amp;Offwinye</translation>
+        <translation type="vanished">Set Sail in Lonely Waters</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="361"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="355"/>
         <source>Ctrl+K</source>
-        <translation>Ctww+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="408"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="402"/>
         <source>Ctrl+I</source>
-        <translation>Ctww+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="374"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Change Gwoup...</translation>
+        <translation>&amp;Change Fleet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="380"/>
         <source>Ctrl+G</source>
-        <translation>Ctww+G</translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <source>Ctrl+E</source>
-        <translation type="vanished">Ctww+E</translation>
+        <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="277"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="262"/>
         <source>Backspace</source>
-        <translation>Bwackspace</translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="441"/>
         <source>Ctrl+D</source>
-        <translation>Ctww+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
@@ -8858,78 +8762,78 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="768"/>
         <source>Accounts</source>
-        <translation>Accownts</translation>
+        <translation>Captains</translation>
     </message>
     <message>
         <source>Launch Offline</source>
-        <translation type="vanished">Waunch Offwinye</translation>
+        <translation type="vanished">Sail to Lonely Seas</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
-        <translation type="vanished">Waunch the sewected instance in offwinye mode.</translation>
+        <translation type="vanished">Sail the picked ship to lonely seas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="281"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>&amp;Undo Wast Instance Dewetion</translation>
+        <translation>&amp;Belay Previous Ship Scuttling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="159"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>&amp;E-Edit</translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <source>Launch &amp;Demo</source>
-        <translation type="vanished">Waunch &amp;Demo</translation>
+        <translation type="vanished">Launch &amp;Ye Short Game</translation>
     </message>
     <message>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="vanished">Waunch the sewected instance in demo mode OwO.</translation>
+        <translation type="vanished">Launch the picked ship in ye short gamin&apos; mode.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="399"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Change the instance settings, mods and vewsions.</translation>
+        <translation>Change the ship settin&apos;s, modifications, and models.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="430"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="424"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>Dewete the sewected instance.</translation>
+        <translation>Send the selected instance to Davey Jones&apos;s locker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Change the sewected instance&apos;s gwoup.</translation>
+        <translation>Change the picked ship&apos;s fleet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="683"/>
         <source>Install to &amp;PATH</source>
-        <translation>I-Instaww to &amp;PATH</translation>
+        <translation>Install to &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="273"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation>Wock Toowbaws</translation>
+        <translation>Lock Handy-objectbars</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="594"/>
         <source>Themes</source>
-        <translation>T-Themes</translation>
+        <translation>Dyes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="413"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Open the sewected instance&apos;s woot fowdew in a fiwe bwowsew.</translation>
+        <translation>Open the picked ship&apos;s main chest in a catalog.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
@@ -8941,17 +8845,17 @@ Weason:
         <location filename="src/launcher/ui/MainWindow.ui" line="444"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="438"/>
         <source>Copy the selected instance.</source>
-        <translation>Cwopy teh sewected instance.</translation>
+        <translation>Copy the picked ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="490"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="484"/>
         <source>Create Shortcut</source>
-        <translation>Cweate Showtcut</translation>
+        <translation>Create Shortcut</translation>
     </message>
     <message>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="vanished">Cweates a s-showtcut on youw desktop to waunch the sewected instawnce.</translation>
+        <translation type="vanished">Creates a shortcut at yer home port to sail the picked ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
@@ -8961,69 +8865,69 @@ Weason:
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="454"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>No instance selected</source>
-        <translation>Nyo instance sewected</translation>
+        <translation>No ship picked</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="376"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Total playtime: 0s</source>
-        <translation>Totaw pwaytime: 0s</translation>
+        <translation>Total seatime: 0s</translation>
     </message>
     <message>
         <source>Create instance</source>
-        <translation type="vanished">Cweate instance</translation>
+        <translation type="vanished">Build ship</translation>
     </message>
     <message>
         <source>Delete group &apos;%1&apos;</source>
-        <translation type="vanished">Dewete gwoup &apos;%1&apos;</translation>
+        <translation type="vanished">Scuttle fleet &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="vanished">Ctww+Shift+O</translation>
+        <translation type="vanished">Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Launch Demo</source>
-        <translation type="vanished">Waunch Demo</translation>
+        <translation type="vanished">Launch Ye Short Game</translation>
     </message>
     <message>
         <source>Ctrl+Alt+O</source>
-        <translation type="vanished">Ctww+Awt+O</translation>
+        <translation type="vanished">Ctrl+Alt+O</translation>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="vanished">Pwofiwews</translation>
+        <translation type="vanished">Profilers</translation>
     </message>
     <message>
         <source>%1 Offline</source>
-        <translation type="vanished">%1 Offwinye</translation>
+        <translation type="vanished">%1 Lonely Sea</translation>
     </message>
     <message>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
-        <translation type="vanished">Pwofiwew nyot setup cowwectwy wowwectwy. Go into settings, &quot;Extewnyaw Toows&quot;.</translation>
+        <translation type="vanished">Profiler not prepped right. Go to settin&apos;s, &quot;External Handy Objects&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="495"/>
         <source>No accounts added!</source>
-        <translation>*giggles* Nyo accownts added!</translation>
+        <translation>No captains added!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Ctrl+%1</source>
-        <translation>Ctww+%1</translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="506"/>
         <source>No Default Account</source>
-        <translation>Nyo Defauwt Account</translation>
+        <translation>No Ancient Captain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="515"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="509"/>
         <source>Ctrl+0</source>
-        <translation>Ctww+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="848"/>
@@ -9044,36 +8948,30 @@ Weason:
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1110"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1421"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
-    </message>
-    <message>
-        <source>Couldn&apos;t create folder for update downloads:
-%1</source>
-        <translation type="vanished">C-C-Couwdn&apos;t cweate fowdew fow update d-downwoads:
-%1</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="852"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="858"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="862"/>
         <source>Task aborted</source>
-        <translation>Task abowted</translation>
+        <translation>Task abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="862"/>
         <source>The task has been aborted by the user.</source>
-        <translation>The task has been abowted by the usew.</translation>
+        <translation>The task has been sunk by the captain.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="866"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1009"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1115"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1422"/>
@@ -9085,14 +8983,14 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="vanished">The waunchew cannyot downwoad Minyecwaft ow update instances unwess you have at weast onye account added.
-Pwease add y-youw M-Mojang o-ow Minyecwaft account OwO.</translation>
+        <translation type="vanished">The launcher cannot plunder Minecraft or swab the decks unless ye have at least one account added.
+Add yer Mojang or Minecraft account, if ye dare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1259"/>
         <source>Group name</source>
-        <translation>Gwoup nyame</translation>
+        <translation>Fleet name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
@@ -9100,51 +8998,47 @@ Pwease add y-youw M-Mojang o-ow Minyecwaft account OwO.</translation>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1259"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Enter a new group name.</source>
-        <translation>Entew a nyew gwoup nyame.</translation>
+        <translation>Enter a new fleet name.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1267"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Delete group</source>
-        <translation>Dewete gwoup</translation>
+        <translation>Scuttle fleet</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="vanished">Awe you suwe you want to dewete the gwoup %1?</translation>
+        <translation type="vanished">Are ye sure ye want t&apos; scuttle the fleet %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1454"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1444"/>
         <source>Successfully added %1 to PATH</source>
-        <translation>Successfuwwy added %1 to PATH</translation>
+        <translation>Successfully added %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1445"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 waws suwccessfuwwwy added to ur PAWTH. Youw can now stawt it by wuwnning `%2`.</translation>
+        <translation>%1 was successfully added t&apos; yer PATH. You can now start it by runnin&apos; `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1458"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1448"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>Faiwed to add %1 to PATH</translation>
+        <translation>Failed to add %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>An ewwow o-occuwwed whiwe twying to add %1 to PATH</translation>
+        <translation>A fire on the poop deck happened while tryin&apos; t&apos; add %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1505"/>
         <source>Confirm Deletion</source>
-        <translation>Confiwm Dewetion</translation>
-    </message>
-    <message>
-        <source>CAREFUL!</source>
-        <translation type="vanished">CAWEFUW!</translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -9155,61 +9049,51 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="vanished">You a-awe about to dewete &quot;%1&quot;.
-This may be pewmanyent a-and wiww compwetewy wompwetewy d-dewete the instance.
+        <translation type="vanished">Ye are about to wreck &quot;%1&quot;.
+This may be permanent and will send the instance straight to Davey Jones&apos;s locker.
 
-Awe you suwe?</translation>
-    </message>
-    <message>
-        <source>About to delete: %1
-This is permanent and will completely delete the instance.
-
-Are you sure?</source>
-        <translation type="vanished">About to dewete: %1
-This is pewmanyent and wiww c-compwetewy wompwetewy dewete the instance.
-
-Awe you suwe?</translation>
+Are ye sure?</translation>
     </message>
     <message>
         <source>Create instance shortcut</source>
-        <translation type="vanished">Cweate instance showtcut</translation>
+        <translation type="vanished">Create ship shortcut</translation>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="vanished">Couwdn&apos;t find desktop?! OwO</translation>
+        <translation type="vanished">Home port cannot be found?!</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="vanished">The waunchew is in the fowdew it was extwacted f-fwom, t-thewefowe it cannyot cweate showtcuts.</translation>
+        <translation type="vanished">The launcher be in th&apos; chest it was unlocked from, and so can&apos;t make shortcuts.</translation>
     </message>
     <message>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="vanished">C-Cweated a showtcut to this instance on youw desktop!</translation>
+        <translation type="vanished">Made a shortcut to this ship at your home port!</translation>
     </message>
     <message>
         <source>Failed to create instance shortcut!</source>
-        <translation type="vanished">Faiwed to cweate instawnce showtcut!</translation>
+        <translation type="vanished">Failed to make ship shortcut!</translation>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="vanished">Waunchew is wunnying a-as misconfiguwed AppImage? ($APPIMAGE enviwonment v-vawiabwe is missing)</translation>
+        <translation type="vanished">Launcher is sailing as misconfigured AppImage? ($APPIMAGE environment variable is missing)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="vanished">Faiwed to cweate icon fow showtcut.</translation>
+        <translation type="vanished">Failed t&apos; make flag for shortcut.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="vanished">Desktop E-Entwies (*.desktop)</translation>
+        <translation type="vanished">Home Port Entries (*.desktop)</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="vanished">Nyot suppowted on youw p-pwatfowm!</translation>
+        <translation type="vanished">Not honored on yer vessel!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1718"/>
         <source>Rename Instance</source>
-        <translation>Wenyame Instance</translation>
+        <translation>Rename Ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
@@ -9281,7 +9165,7 @@ URL:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1104"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plunder the modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1142"/>
@@ -9400,79 +9284,75 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1730"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Youw instance fowdew c-contains &apos;!&apos; and this is knyown to cause Java p-pwobwems!</translation>
+        <translation>Your ship&apos;s chest contains &apos;!&apos; and this is known to make Java a scallywag!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>You have nyow two options: &lt;br/&gt; - c-change the instance fowdew in the settings &lt;br/&gt; - move this instawwation of %1 to a diffewent fowdew</translation>
+        <translation>Ye have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>This is a pwobwem: &lt;br/&gt; - The waunchew w-wiww wikewy be deweted without wawnying by the opewating system &lt;br/&gt; - cwose the waunchew nyow and extwact it to a weaw wocation, nyot a tempowawy wempowawy fowdew</translation>
+        <translation>This be an issue:&lt;br/&gt;- Th&apos; launcher mayhaps be sunk without warnin&apos; by the sea spirit&lt;br/&gt;- close the launcher now and plunder it to a real chest, not a ghostly chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1754"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1745"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Youw instance f-fowdew contains &apos;Rar$&apos; - that means you haven&apos;t extwacted the waunchew awchive!</translation>
+        <translation>Your ship&apos;s chest contains &apos;Rar$&apos; - that means ye not plundered the launcher chest!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1751"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Youw instance fowdew is in a tempowawy wempowawy fowdew: &apos;%1&apos;!</translation>
+        <translation>Yer ship&apos;s folder is in a ghostly chest: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1773"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="1765"/>
         <source>Total playtime: %1</source>
-        <translation>Totaw pwaytime: %1</translation>
+        <translation>Total seatime: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation>Nyews Toowbaw</translation>
+        <translation>News Handy-objectbar</translation>
     </message>
     <message>
         <source>More news...</source>
-        <translation type="vanished">Mowe nyews...</translation>
+        <translation type="vanished">More news...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="245"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>OwO Open the devewopment blog to wead mowe nyews about %1.</translation>
+        <translation>Dock to th&apos; shipyards t&apos; read more news about %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="801"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="804"/>
         <source>Loading news...</source>
-        <translation>Woading nyews...</translation>
+        <translation>Loadin&apos; news...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="811"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="814"/>
         <source>No news available.</source>
-        <translation>Nyo nyews avaiwabwe.</translation>
+        <translation>No news available.</translation>
     </message>
     <message>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="vanished">Expowt t-the sewected instance as a zip f-fiwe OwO.</translation>
-    </message>
-    <message>
-        <source>Open %1 Matrix space</source>
-        <translation type="vanished">Open %1 Matwix space</translation>
+        <translation type="vanished">Deliver th&apos; picked ship as a locked chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="622"/>
         <location filename="src_stable/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Discord guild.</source>
-        <translation>Open %1 D-Discowd guiwd.</translation>
+        <translation>Open %1 Tortuga tavern.</translation>
     </message>
 </context>
 <context>
@@ -9482,38 +9362,38 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack Information</source>
         <oldsource>Pack information</oldsource>
-        <translation type="unfinished">Pack infowmation</translation>
+        <translation type="unfinished">Cargo information</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack Name:</source>
         <oldsource>Pack name:</oldsource>
-        <translation type="unfinished">Pack nyame:</translation>
+        <translation type="unfinished">Cargo name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation>C-Cuwwent v-vewsion:</translation>
+        <translation>Current model:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>Pwovidew infowmation:</translation>
+        <translation>Provider information:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>Update to vewsion:</translation>
+        <translation>Upgrade t&apos; model:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <source>Fetching versions...</source>
-        <translation>Fetching vewsions...</translation>
+        <translation>Fetchin&apos; models...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
@@ -9525,19 +9405,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="183"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="183"/>
         <source>Changelog</source>
-        <translation>C-Changelog</translation>
+        <translation>Changes log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="189"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="189"/>
         <source>No changelog available for this version!</source>
-        <translation>Nyo changelog avaiwabwe fow this vewsion!</translation>
+        <translation>No changes log available fer this model!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="204"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.ui" line="204"/>
         <source>Reload page</source>
-        <translation>Wewoad page</translation>
+        <translation>Check page again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="89"/>
@@ -9567,19 +9447,19 @@ Make sure you also trust the URL.
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="105"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Vewsion ID: %4</translation>
+        <translation>Port town: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Cargo ID: %3    |    Model ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="206"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="154"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="285"/>
@@ -9631,39 +9511,39 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>Task aborted</source>
-        <translation>Task abowted</translation>
+        <translation>Task abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="214"/>
         <source>The task has been aborted by the user.</source>
-        <translation>The task has been a-abowted by the usew!</translation>
+        <translation>The task has been sunk by the captain.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="219"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <source>Update pack</source>
-        <translation type="vanished">Update p-pack</translation>
+        <translation type="vanished">Upgrade cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>Failed to search for available versions.</source>
-        <translation>Faiwed to seawch fow a-avaiwabwe vewsions.</translation>
+        <translation>Failed findin&apos; available models.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="241"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Faiwed to w-wequest changelog data fow this modpack.</translation>
+        <translation>Failed to ask changes log info for this modifications cargo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="243"/>
         <source>Cannot update!</source>
-        <translation>Cannyot update!</translation>
+        <translation>Cannot upgrade!</translation>
     </message>
 </context>
 <context>
@@ -9681,7 +9561,7 @@ Are you sure?</source>
         <location filename="src/launcher/meta/Index.cpp" line="74"/>
         <location filename="src_stable/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="147"/>
@@ -9705,11 +9585,11 @@ Are you sure?</source>
     <name>MigrationEligibilityStep</name>
     <message>
         <source>Checking for migration eligibility.</source>
-        <translation type="vanished">Checking if u can migwate.</translation>
+        <translation type="vanished">Checkin&apos; fer migration eligibility.</translation>
     </message>
     <message>
         <source>Got migration flags</source>
-        <translation type="vanished">Got migwation fwags</translation>
+        <translation type="vanished">Got migration stamps</translation>
     </message>
 </context>
 <context>
@@ -9720,7 +9600,7 @@ Are you sure?</source>
         <location filename="src_stable/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src_stable/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Sent Off The Port Bow</translation>
     </message>
 </context>
 <context>
@@ -9745,31 +9625,31 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="311"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Waunch</translation>
+        <translation type="unfinished">&amp;Set Sail</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="313"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Waunch &amp;Offwinye</translation>
+        <translation type="unfinished">Set Sail in Lonely Waters</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctww+Shift+O</translation>
+        <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">Waunch &amp;Demo</translation>
+        <translation type="unfinished">Launch &amp;Ye Short Game</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="318"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctww+Awt+O</translation>
+        <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
@@ -9780,7 +9660,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="324"/>
         <source>Profilers</source>
-        <translation type="unfinished">Pwofiwews</translation>
+        <translation type="unfinished">Profilers</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="352"/>
@@ -9798,31 +9678,31 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="1081"/>
         <source>broken</source>
-        <translation>bwoken</translation>
+        <translation>busted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1110"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
         <source>Minecraft %1</source>
-        <translation>Minecwaft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="1097"/>
         <source>, last played on %1 for %2</source>
-        <translation>, wast pwayed on %1 fow %2</translation>
+        <translation>, last sailed on %1 for %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1122"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="1104"/>
         <source>, total played for %1</source>
-        <translation>, totaw pwayed fow %1</translation>
+        <translation>, total sailed for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1127"/>
         <location filename="src_stable/launcher/minecraft/MinecraftInstance.cpp" line="1109"/>
         <source>, has crashed.</source>
-        <translation>, has cwashed. OwO</translation>
+        <translation>, has sunk.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1186"/>
@@ -9844,128 +9724,128 @@ Are you sure?</source>
     <name>MinecraftLoadAndCheck</name>
     <message>
         <source>Aborted</source>
-        <translation type="vanished">Abowted</translation>
+        <translation type="vanished">Abandoned</translation>
     </message>
 </context>
 <context>
     <name>MinecraftPage</name>
     <message>
         <source>Window Size</source>
-        <translation type="vanished">W-Window Size</translation>
+        <translation type="vanished">Window Size</translation>
     </message>
     <message>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="vanished">Stawt Minyecwaft &amp;maximized?</translation>
+        <translation type="vanished">Set Minecraft asail at full mast?</translation>
     </message>
     <message>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="vanished">Window &amp;h-height:</translation>
+        <translation type="vanished">Window &amp;height:</translation>
     </message>
     <message>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="vanished">Window &amp;w-width:</translation>
+        <translation type="vanished">Window &amp;width:</translation>
     </message>
     <message>
         <source>Native library workarounds</source>
-        <translation type="vanished">N-Nyative wibwawy wowkawounds</translation>
+        <translation type="vanished">Local archive alternate methods</translation>
     </message>
     <message>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="vanished">Use system instawwation of &amp;GWFW</translation>
+        <translation type="vanished">Use system&apos;s model o&apos; &amp;GLFW</translation>
     </message>
     <message>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="vanished">Use system instawwation o-of &amp;OpenYAW</translation>
+        <translation type="vanished">Use system&apos;s model o&apos; OpenAL</translation>
     </message>
     <message>
         <source>Performance</source>
-        <translation type="vanished">Pewfowmance</translation>
+        <translation type="vanished">Performance</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enyabwe Fewaw Intewactive&apos;s GameMode, t-to p-potentiawwy wotentiawwy i-impwove gaming pewfowmance. OwO&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s Gamin&apos;Mode, hopin&apos; t&apos; improve the winds fer the sails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="vanished">Enyabwe Fewaw GameMode</translation>
+        <translation type="vanished">Enable Feral Gamin&apos;Mode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enyabwe MangoHud&apos;s advanced pewfowmance ovewway.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s bett&apos;r performance curtains.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="vanished">Enyabwe MangoHud</translation>
+        <translation type="vanished">Enable MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discwete GPU instead of the p-pwimawy GPU&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the attached GPU instead o&apos; th&apos; main GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="vanished">U-Use discwete GPU</translation>
+        <translation type="vanished">Use attached GPU</translation>
     </message>
     <message>
         <source>Game time</source>
-        <translation type="vanished">G-Game time</translation>
+        <translation type="vanished">Sailin&apos; time</translation>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="vanished">Show time spent &amp;pwaying instances</translation>
+        <translation type="vanished">Show time spent sailin&apos; ships</translation>
     </message>
     <message>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="vanished">Show time spent pwaying acwoss &amp;aww instances</translation>
+        <translation type="vanished">Show time spent sailin&apos; across all ships</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="vanished">&amp;Wecowd time spent pwaying instances</translation>
+        <translation type="vanished">Write down time spent sailin&apos; ships</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The waunchew wiww automaticawwy quit aftew the game exits ow cwashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically depart after the game docks or sinks.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="vanished">&amp;Quit the w-waunchew aftew game window cwoses</translation>
+        <translation type="vanished">&amp;Quit the launcher after the ship anchors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <location filename="src_stable/launcher/ui/pages/global/MinecraftPage.h" line="54"/>
         <source>Minecraft</source>
-        <translation>Minecwaft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="vanished">Miscewwanyeous OwO</translation>
+        <translation type="vanished">Mixture of ye&apos; olde treasure</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The waunchew wiww automaticawwy wutomaticawwy weopen when the game cwashes ow exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher&apos;ll automatically sail again when the ship sinks or drops anchor.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="vanished">&amp;Cwose the waunchew aftew game window opens</translation>
+        <translation type="vanished">Close the launcher after the ship sails</translation>
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="vanished">Fewaw Intewactive&apos;s GameMode couwd nyot be found on youw system.</translation>
+        <translation type="vanished">Feral Interactive&apos;s Gamin&apos;Mode be missin&apos; from yer system.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="vanished">MangoHud couwd nyot be found on youw s-system.</translation>
+        <translation type="vanished">MangoHud be missin&apos; from yer system.</translation>
     </message>
 </context>
 <context>
@@ -9974,13 +9854,13 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="14"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>F-Fetching the Minecraft p-pwofiwe.</translation>
+        <translation>Fetchin&apos; the Minecraft profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>Account has nyo Minecraft pwofiwe.</translation>
+        <translation>Captain has no Minecraft profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
@@ -9988,13 +9868,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Minecraft Java pwofiwe acquisition faiwed: %1</translation>
+        <translation>Minecraft Java profile gettin&apos; failed: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Minecraft Java pwofiwe wesponse couwd nyot be pawsed</translation>
+        <translation>Minecraft Java profile response can&apos;t be understood</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
@@ -10004,34 +9884,34 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="vanished">Minecraft Java pwofiwe acquisition succeeded.</translation>
+        <translation type="vanished">Minecraft Java profile acquisition succeeded.</translation>
     </message>
 </context>
 <context>
     <name>MinecraftProfileStepMojang</name>
     <message>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="vanished">Fetching the M-Minecraft pwofiwe.</translation>
+        <translation type="vanished">Fetchin&apos; the Minecraft profile.</translation>
     </message>
     <message>
         <source>A UUID is required to get the profile.</source>
-        <translation type="vanished">A UUID is wequiwed to get the pwofiwe.</translation>
+        <translation type="vanished">A UUID be required t&apos; get th&apos; profile.</translation>
     </message>
     <message>
         <source>Account has no Minecraft profile.</source>
-        <translation type="vanished">Account has nyo Minecraft pwofiwe.</translation>
+        <translation type="vanished">Captain has no Minecraft profile.</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="vanished">Minecraft Java pwofiwe acquisition faiwed: %1</translation>
+        <translation type="vanished">Minecraft Java profile gettin&apos; failed: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="vanished">Minecraft Java pwofiwe wesponse couwd nyot be pawsed</translation>
+        <translation type="vanished">Minecraft Java profile response can&apos;t be understood</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="vanished">M-Minecraft Java pwofiwe acquisition s-succeeded.</translation>
+        <translation type="vanished">Minecraft Java profile acquisition succeeded.</translation>
     </message>
 </context>
 <context>
@@ -10046,7 +9926,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">The settings hewe awe ovewwides fow gwobaw settings.</translation>
+        <translation type="unfinished">The settins&apos; here are overrides for ship settins&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -10161,7 +10041,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation type="unfinished">Bwowse</translation>
+        <translation type="unfinished">Peruse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
@@ -10173,13 +10053,13 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Show time spent &amp;pwaying instances</translation>
+        <translation type="unfinished">Show time spent sailin&apos; ships</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Wecowd time spent pwaying instances</translation>
+        <translation type="unfinished">Write down time spent sailin&apos; ships</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
@@ -10208,7 +10088,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="387"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="380"/>
         <source>Account:</source>
-        <translation type="unfinished">Account:</translation>
+        <translation type="unfinished">Captain:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="420"/>
@@ -10226,7 +10106,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="449"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Server address:</source>
-        <translation type="unfinished">S-Sewvew addwess:</translation>
+        <translation type="unfinished">Coordinates:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="482"/>
@@ -10244,25 +10124,25 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>Forge</source>
-        <translation type="unfinished">Fowge</translation>
+        <translation type="unfinished">Forrrge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabwic</translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quiwt</translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">WiteWoader</translation>
+        <translation type="unfinished">LiteLoaderrr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
@@ -10313,7 +10193,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="617"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="578"/>
         <source>Java</source>
-        <translation type="unfinished">J-Java</translation>
+        <translation type="unfinished">Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="641"/>
@@ -10349,7 +10229,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="706"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="709"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Use system instawwation of GLFW</translation>
+        <translation type="unfinished">Use system&apos;s model o&apos; GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10361,7 +10241,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="716"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Use system instawwation of OpenAL</translation>
+        <translation type="unfinished">Use system&apos;s model o&apos; OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
@@ -10389,37 +10269,37 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s Gamin&apos;Mode, hopin&apos; t&apos; improve the winds fer the sails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="751"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Enyabwe Fewaw GameMode</translation>
+        <translation type="unfinished">Enable Feral Gamin&apos;Mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="842"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s bett&apos;r performance curtains.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="845"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="761"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Enyabwe MangoHud</translation>
+        <translation type="unfinished">Enable MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="852"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="768"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the attached GPU instead o&apos; th&apos; main GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="855"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="771"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Use attached GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
@@ -10437,7 +10317,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="893"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="809"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Cwustum Cwoomands</translation>
+        <translation type="unfinished">Yer own orders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="903"/>
@@ -10467,13 +10347,13 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="136"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Fewaw Intewactive&apos;s GameMode couwd nyot be found on youw system.</translation>
+        <translation type="unfinished">Feral Interactive&apos;s Gamin&apos;Mode be missin&apos; from yer system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <location filename="src_stable/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="141"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MangoHud be missin&apos; from yer system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="221"/>
@@ -10495,47 +10375,47 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>MinecraftUpdate</name>
     <message>
         <source>Aborted by user.</source>
-        <translation type="vanished">Abowted by usew.</translation>
+        <translation type="vanished">Scuttled by captain.</translation>
     </message>
 </context>
 <context>
     <name>ModDownloadTask</name>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod wownloawd</translation>
+        <translation type="obsolete">Mod raid</translation>
     </message>
 </context>
 <context>
     <name>ModFilterWidget</name>
     <message>
         <source>Minecraft versions</source>
-        <translation type="vanished">Minyecwaft vewsions</translation>
+        <translation type="vanished">Minecraft models</translation>
     </message>
     <message>
         <source>failed to get version index</source>
-        <translation type="vanished">f-faiwed to get vewsion i-i-index</translation>
+        <translation type="vanished">failed t&apos; get model index</translation>
     </message>
     <message>
         <source>Strict match (= %1)</source>
-        <translation type="vanished">S-Stwict match (= %1)</translation>
+        <translation type="vanished">Strict match (= %1)</translation>
     </message>
     <message>
         <source>Major version match (= %1.%2.x)</source>
-        <translation type="vanished">Majow vewsion match (= %1.%2.x)</translation>
+        <translation type="vanished">Major model match (= %1.%2.x)</translation>
     </message>
     <message>
         <source>Major version match (unsupported)</source>
-        <translation type="vanished">Majow vewsion match (unsuppowted)</translation>
+        <translation type="vanished">Major model match (not honored)</translation>
     </message>
     <message>
         <source>Any version</source>
-        <translation type="vanished">Any vewsion</translation>
+        <translation type="vanished">Any model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -10559,19 +10439,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Fowge</translation>
+        <translation type="unfinished">Forrrge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabwic</translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quiwt</translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
@@ -10583,7 +10463,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">WiteWoader</translation>
+        <translation type="unfinished">LiteLoaderrr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
@@ -10685,7 +10565,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <location filename="src_stable/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
@@ -10789,7 +10669,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
         <source>Folder</source>
-        <translation>Fowdew</translation>
+        <translation>Chest</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="435"/>
@@ -10855,34 +10735,34 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="101"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="100"/>
         <source>File</source>
-        <translation>Fiwe</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Unknyown</translation>
+        <translation type="vanished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Version</source>
-        <translation>Vewsion</translation>
+        <translation>Model</translation>
     </message>
     <message>
         <source>Last changed</source>
-        <translation type="vanished">Wast changed</translation>
+        <translation type="vanished">Last changed</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Provider</source>
-        <translation>P-Pwovidew</translation>
+        <translation>Provider</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10894,7 +10774,7 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation type="unfinished">Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10941,25 +10821,25 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="259"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>Is the mod enabled?</source>
-        <translation>I-Is the mod enyabwed? UwU</translation>
+        <translation>Is th&apos; modification enabled?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="261"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The name of the mod.</source>
-        <translation>The nyame of the mod.</translation>
+        <translation>The moniker of th&apos; modification.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="263"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The version of the mod.</source>
-        <translation>The vewsion of the mod.</translation>
+        <translation>The model of the modification.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="265"/>
         <location filename="src_stable/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>The d-date and time this mod was wast changed (ow added).</translation>
+        <translation>The date &apos;n&apos; time this modification had last changed (or be added).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="267"/>
@@ -11078,25 +10958,25 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Whewe the mod was downwoaded fwom.</translation>
+        <translation type="vanished">Where the modification be plundered from.</translation>
     </message>
 </context>
 <context>
     <name>ModFolderPage</name>
     <message>
         <source>Add file</source>
-        <translation type="vanished">A-Add fiwe</translation>
+        <translation type="vanished">Add file</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Add a wocawwy downwoaded f-fiwe</translation>
+        <translation type="vanished">Add a locally plundered file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="82"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>Twy to check ow uwpdate aww sewected mods (aww mods if none awe sewected)</translation>
+        <translation>Try t&apos; check or upgrade all picked modifications (all modifications, if none be picked)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -11110,24 +10990,24 @@ Ignoring them may break the game.</source>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="340"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="441"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <source>Please install a mod loader first!</source>
-        <translation type="vanished">Pwease instaww a mod woadew fiwst! UwU</translation>
+        <translation type="vanished">Kindly install a modification rigger first!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Sent Off The Port Bow</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="283"/>
         <source>Download stopped by user.</source>
-        <translation>Downwoad stawpped by usew.</translation>
+        <translation>Plunderin&apos; ceased by the cap&apos;n.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
@@ -11135,36 +11015,36 @@ Ignoring them may break the game.</source>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="289"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="299"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="260"/>
         <source>The mod updater was aborted!</source>
-        <translation>The mod updatew was a-abowted!</translation>
+        <translation>The modification upgrader was sent off the port bow!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>Aww sewected mods awe up-to-date! :3</translation>
+        <translation>All picked modifications be in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
         <source>Update checker</source>
-        <translation>Update checkew</translation>
+        <translation>Upgrade checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="264"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;%1&apos; is up-to-date! :3</translation>
+        <translation>&apos;%1&apos; is in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
@@ -11271,13 +11151,13 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>Aww mowds awe up-to-date! :3</translation>
+        <translation>All modifications be in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation type="unfinished">Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
@@ -11318,19 +11198,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Downwoad mowds</translation>
+        <translation type="vanished">Plunder modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Downwoad mods fwom onwinye mowd pwatfowms</translation>
+        <translation>Plunder modifications from busy seas&apos; modification docks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation>Mowds</translation>
+        <translation>Modifications</translation>
     </message>
 </context>
 <context>
@@ -11339,13 +11219,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <location filename="src_stable/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>*giggles* Couwdn&apos;t cweate t-the bin fowdew fow Minecwaft.jaw</translation>
+        <translation>Couldn&apos;t make the bin chest for Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <location filename="src_stable/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>Couwdn&apos;t wemove stawe jaw fiwe: %1</translation>
+        <translation>Couldn&apos;t remove stale jar file: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
@@ -11355,133 +11235,111 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src_stable/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>Faiwed t-to cweate t-the custom Minecraft jaw fiwe.</translation>
-    </message>
-</context>
-<context>
-    <name>ModPage</name>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Seawch</translation>
-    </message>
-    <message>
-        <source>Version selected:</source>
-        <translation type="obsolete">Vewsion sewected:</translation>
-    </message>
-    <message>
-        <source>External links:</source>
-        <translation type="obsolete">Extewnyaw winks:</translation>
-    </message>
-</context>
-<context>
-    <name>ModPlatform::ListModel</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Ewwow</translation>
+        <translation>Failed to make th&apos; custom Minecraft jar file.</translation>
     </message>
 </context>
 <context>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Confiwm mowds to update</translation>
+        <translation type="vanished">Confirm modifications t&apos; upgrade</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Ur about to update the f-fowwowing mowds:</translation>
+        <translation type="vanished">Yer about t&apos; upgrade the following modifications:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Onwy mowds with a check wiww b-be updated! &gt;:3</translation>
+        <translation type="vanished">Only modifications with&apos; check&apos;ll be upgraded!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mod nyame: %1&lt;br&gt;Fiwe nyame: %2&lt;br&gt;Weason: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Modification moniker: %1&lt;br&gt;File moniker: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Metadata genyewation faiwed</translation>
+        <translation type="vanished">Engravings creation failed</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Couwd nyot genyewate metadata fow the fowwowing mods:&lt;br&gt;Do you wish to pwoceed without those mods?</translation>
+        <translation type="vanished">Couldn&apos;t make engravings for th&apos; following modifications:&lt;br&gt;Do ye wish t&apos; proceed without them modifications?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Checking fow updates :3</translation>
+        <translation type="vanished">Checkin&apos; fer upgrades</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Ewwow</translation>
+        <translation type="vanished">Fire on the poop deck</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Wawnyings</translation>
+        <translation type="vanished">Bad Omens</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Abowt</translation>
+        <translation type="vanished">Scuttle</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">C-Checking fow updates...</translation>
+        <translation type="vanished">Checkin&apos; fer upgrades...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Mowd nyame: %1</translation>
+        <translation type="vanished">Modification moniker: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Weason: %1</translation>
+        <translation type="vanished">Reason: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Possibwe sowution: Getting the watest vewsion manyuawwy:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="vanished">Possible fix: Plunderin&apos; th&apos; newest model on yer own:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">The m-mod &apos;%1&apos; does nyot h-have a-a metadata yet. We n-nyeed to genyewate it in owdew to twack wewevant infowmation on how to update this mod. To do this, pwease sewect a m-mod pwovidew which we can use to check fow updates fow this mod.</translation>
+        <translation type="vanished">Th&apos; modification &apos;%1&apos; got no engravin&apos;s yet. We need t&apos;make it to track th&apos; right infos on how t&apos; upgrade this modification. Aye to do so, kindly pick a modification provider which we can dock at t&apos; check fer upgrades for this modification.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Couwdn&apos;t find a vawid vewsion on the sewected m-mod pwovidews &gt;w&lt;</translation>
+        <translation type="vanished">Couldn&apos;a find a valid model at the picked modifications provider(s)</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Faiwed to check f-fow updates</translation>
+        <translation type="vanished">Failed to check fer upgrades</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Couwd nyot check ow get the fowwowing mods fow u-updates:&lt;br&gt;Do you w-want to pwoceed without t-those mods?</translation>
+        <translation type="vanished">Couldn&apos;t check&apos;r get th&apos; followin&apos; modifications for upgrades:&lt;br&gt;Do ye wish to proceed without them modifications?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Wooking fow metadata</translation>
+        <translation type="vanished">Searchin&apos; fer engravings</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Genyewating metadata...</translation>
+        <translation type="vanished">Makin&apos; engravings...</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Pwovidew: %1</translation>
+        <translation type="vanished">Provider: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Owd v-vewsion: %1</translation>
+        <translation type="vanished">Old model: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nyot instawwed</translation>
+        <translation type="vanished">Not installed</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Nyew v-vewsion: %1</translation>
+        <translation type="vanished">New model: %1</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">C-Changelog of the watest vewsion</translation>
+        <translation type="vanished">Changes log of th&apos; latest model</translation>
     </message>
 </context>
 <context>
@@ -11489,28 +11347,16 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Couwd nyot undewstand pack m-manyifest:
+        <translation type="obsolete">Arren&apos;t makin&apos; heads of yerr pack manifest
 </translation>
     </message>
     <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">The fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to m-manyuawwy wanyuawwy downwoad them and a-add t-them to the instance.</translation>
-    </message>
-    <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Wownloawdwing mods...</translation>
+        <translation type="vanished">Loadin&apos; up mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod wownloawd</translation>
-    </message>
-    <message>
-        <source>Copying Blocked Mods...</source>
-        <translation type="vanished">Copying Bwocked Mods...</translation>
-    </message>
-    <message>
-        <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="obsolete">Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
+        <translation type="obsolete">Mod raid</translation>
     </message>
 </context>
 <context>
@@ -11521,13 +11367,13 @@ Are you sure you want to do this?</source>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="332"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="329"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>A nyetwowk ewwow occuwwed. Couwd nyot woad mowdpacks.</translation>
+        <translation>A fire on the crow&apos;s nest occurred. Couldn&apos;t load th&apos; modification cargo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="371"/>
@@ -11535,19 +11381,19 @@ Are you sure you want to do this?</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>A-API vewsion too o-o-owd!
-Pwease update %1!</translation>
+        <translation>API model too old!
+Kindly upgrade %1!</translation>
     </message>
 </context>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Pwepawing mods fow Modwinth...</translation>
+        <translation type="vanished">Preppin&apos; modifications for The Rinth of the Mods...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="vanished">Disabwed mods won&apos;t be updated, to pwevent mod dupwication issuwes!</translation>
+        <translation type="vanished">Mods left on the docks won&apos;t have their decks swabbed, to prevent mod duplication issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
@@ -11559,19 +11405,19 @@ Pwease update %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="121"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>Pawsing the API wesponse fwom Modwinth...</translation>
+        <translation>Parsin&apos; the API response from Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nyot instawwed</translation>
+        <translation type="unfinished">Not installed</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
@@ -11587,17 +11433,17 @@ Pwease update %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nyo vawid vewsion found fow this mod. I-It&apos;s pwobabwy w-wobabwy unyavaiwabwe fow the cuwwent game vewsion / m-mod woadew.</translation>
+        <translation type="vanished">No valid model be found for this modification. It probably be unavailable for yer current game model &apos;r modification rigger.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
-        <translation type="vanished">Mod has an empty downwoad URL</translation>
+        <translation type="vanished">Modification has a blank pluderin&apos; URL</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="90"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Waiting fow the API wesponse fwom Modwinth...</translation>
+        <translation>Waitin&apos; for the API response from Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -11606,38 +11452,26 @@ Pwease update %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="74"/>
         <source> (version %1)</source>
-        <translation> (vewsion %1)</translation>
-    </message>
-    <message>
-        <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
-
-NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="obsolete">Onye ow m-mowe of youw instances awe fwom this same modpack%1. Do you want t-to cweate a sepawate i-i-instance, ow u-update the e-existing onye?
-
-NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe updating, as wowwds can be c-cowwupted and some configuwation may b-be wost (due to pack ovewwides).</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Cancew</translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="145"/>
         <source>No index file.</source>
-        <translation>Nyo index fiwe.</translation>
+        <translation>Thar be no file fer indexin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="146"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>We couwdn&apos;t find a suitabwe index fiwe fow the owdew vewsion. T-This may cause some of the fiwes to be dupwicated. Do you want to continyue?</translation>
+        <translation>Nary be a logbook from olden times. Some o&apos; the files may be duplicated. Be ye certain about this?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="191"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="191"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Couwd nyot wenyame t-the o-ovewwides fowdew:
+        <translation>Couldn&apos;t be renamin&apos; of ye overrides chest:
 </translation>
     </message>
     <message>
@@ -11645,7 +11479,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="204"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation>Couwd nyot wenyame the cwient ovewwides fowdew:
+        <translation>Couldn&apos;t be renamin&apos; of yer own overrides chest:
 </translation>
     </message>
     <message>
@@ -11657,22 +11491,22 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Wemoving owd confwicting fiwes...</translation>
+        <translation type="unfinished">Throwing old conflictin&apos; files overboard...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="570"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Faiwed to wemove owd confwicting fiwes.</translation>
+        <translation type="unfinished">Failed to throw old conflictin&apos; files overboard.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod downloawd</translation>
+        <translation type="vanished">Raidin&apos; Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="263"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="269"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>Onye of the fiwes has a p-path that weads to an awbitwawy wocation (%1). This is a s-secuwity wisk and isn&apos;t awwowed.</translation>
+        <translation>One&apos;o&apos; th&apos; files got a trail that leads t&apos; nowhere (%1). This be risky waters and ain&apos;t allowed.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="275"/>
@@ -11692,28 +11526,28 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
         <source>Downloading mods...</source>
-        <translation>Downwoawding mods...</translation>
+        <translation>Loadin&apos; up mods...</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
-        <translation type="vanished">Optionyaw mod detected!</translation>
+        <translation type="vanished">Optional modification noticed!</translation>
     </message>
     <message>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="vanished">Onye ow mowe m-mods f-fwom this modpack awe optionyaw. They wiww b-be downwoaded, but disabwed by defauwt!</translation>
+        <translation type="vanished">One o&apos; more modifications from this modification cargo be optional. They be plundered, but left at the docks by default!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="437"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation>Downwoad URL f-fow %1 is nyot a cowwectwy fowmatted URL</translation>
+        <translation>Plunderin&apos; URL for %1 not be a properly formatted URL</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="409"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="499"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Couwd nyot u-undewstand pack index:
+        <translation>Couldn&apos;t understand cargo index:
 </translation>
     </message>
 </context>
@@ -11723,13 +11557,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>%1 (Current)</source>
-        <translation>%1 (Cuwwent)</translation>
+        <translation>%1 (Currrent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="310"/>
         <source>Fetching changelogs...</source>
-        <translation>Fetching changewogs...</translation>
+        <translation>Fetchin&apos; changes logs...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
@@ -11741,18 +11575,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <location filename="src_stable/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modwinth pack</translation>
-    </message>
-</context>
-<context>
-    <name>ModrinthModPage</name>
-    <message>
-        <source>Sort by Downloads</source>
-        <translation type="obsolete">Sowt by Downwoads</translation>
-    </message>
-    <message>
-        <source>Sort by Last Updated</source>
-        <translation type="obsolete">Sowt by Wast Updated</translation>
+        <translation type="unfinished">Modrrrinth bundle</translation>
     </message>
 </context>
 <context>
@@ -11801,26 +11624,26 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>Sowt by W-W-Wewevance</translation>
+        <translation>Sort by Usefulness</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Total Downloads</source>
-        <translation>Sowt by Totaw Downwoads</translation>
+        <translation>Sort by Journeys Traveled</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="90"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Follows</source>
-        <translation>Sowt by Fowwows</translation>
+        <translation>Sort by Notoriety</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="92"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sowt by Wast Updated</translation>
+        <translation>Sort by Newest Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="166"/>
@@ -11828,13 +11651,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="154"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="219"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="255"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source> by </source>
-        <translation> b-b-by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
@@ -11846,80 +11669,80 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="270"/>
         <source>Donate information: </source>
-        <translation>Donyate infowmation: </translation>
+        <translation>Where to extend ye charity: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
         <source>External links:</source>
-        <translation>Extewnyaw winks:</translation>
+        <translation>Maps to unknown seas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="287"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issuews: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Complaints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Encyclopedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Souwce code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Ship blueprints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="293"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discowd: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Tortuga: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="91"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>Sowt by Nyewest</translation>
+        <translation>Sort by Latest</translation>
     </message>
     <message>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="vanished">Nyote: Modwinth modpacks a-awe stiww in a-a-a-a-awpha phase. Some things may b-be wough o-on the edges, ow nyot wowking at aww! Use it with c-caution.</translation>
+        <translation type="vanished">Entry: The Rinth of the Mods modification cargos still be in alpha stage. Some things be rickety, &apos;r outright broken! Care when sailin&apos; with &apos;em.</translation>
     </message>
     <message>
         <source>Search and filter ...</source>
-        <translation type="vanished">S-Seawch and fiwtew ...</translation>
+        <translation type="vanished">Scour and separate...</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="vanished">Seawch</translation>
+        <translation type="vanished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Fiwtew options</translation>
+        <translation type="unfinished">Separatin&apos; choices</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scour and separate...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
-        <translation>Modwinth</translation>
+        <translation>The Rinth of the Mods</translation>
     </message>
 </context>
 <context>
@@ -11928,20 +11751,20 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <location filename="src_stable/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
-        <translation>Aww attempts have faiwed!</translation>
+        <translation>Yarrr, all tries failed!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <location filename="src_stable/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>Attwempting tyask %1 ouwt of %2!!</translation>
+        <translation>Tryin&apos; task %1 of %2</translation>
     </message>
 </context>
 <context>
     <name>Net::Download</name>
     <message>
         <source>Downloading %1</source>
-        <translation type="vanished">Downwoading %1</translation>
+        <translation type="vanished">Plunderin&apos; %1</translation>
     </message>
 </context>
 <context>
@@ -12051,7 +11874,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <name>Net::Upload</name>
     <message>
         <source>Uploading %1</source>
-        <translation type="vanished">Upwoading %1</translation>
+        <translation type="vanished">Deliverin&apos; %1</translation>
     </message>
 </context>
 <context>
@@ -12060,13 +11883,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <location filename="src_stable/launcher/net/NetJob.cpp" line="128"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>Faiwed t-to abowt aww tasks in the N-NyetJob!</translation>
+        <translation>Failed t&apos; scuttle all tasks in th&apos; NetJob!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <location filename="src_stable/launcher/net/NetJob.cpp" line="154"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Executying %1 task(s) (%2 out of %3 awe done)</translation>
+        <translation>Executin&apos; %1 raid(s) (%2 o&apos; %3 arr&apos; done)</translation>
     </message>
 </context>
 <context>
@@ -12093,7 +11916,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <location filename="src_stable/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
@@ -12132,13 +11955,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <location filename="src_stable/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>Add Empty Componyent</translation>
+        <translation>Add Blank Part</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <location filename="src_stable/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -12156,7 +11979,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <location filename="src_stable/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -12167,7 +11990,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="264"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.cpp" line="192"/>
         <source>New Instance</source>
-        <translation>Nyew Instance</translation>
+        <translation>New Ship</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
@@ -12178,19 +12001,19 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Gwoup:</translation>
+        <translation>&amp;Fleet:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="69"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>&amp;Nyame:</translation>
+        <translation>&amp;Moniker:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="106"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.cpp" line="92"/>
         <source>No group</source>
-        <translation>Nyo gwoup!</translation>
+        <translation>No fleet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
@@ -12211,7 +12034,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="170"/>
@@ -12223,7 +12046,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="176"/>
         <location filename="src_stable/launcher/ui/dialogs/NewInstanceDialog.cpp" line="126"/>
         <source>Help</source>
-        <translation type="unfinished">Hewp</translation>
+        <translation type="unfinished">Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="224"/>
@@ -12248,7 +12071,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/news/NewsChecker.cpp" line="118"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>Faiwed to woad nyews RSS feed:
+        <translation>Failed t&apos; load news&apos; RSS signals:
 %1</translation>
     </message>
 </context>
@@ -12258,13 +12081,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation>Nyews</translation>
+        <translation>News</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <location filename="src_stable/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation>Cwose</translation>
+        <translation>Walk the plank</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -12272,13 +12095,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <location filename="src_stable/launcher/ui/dialogs/NewsDialog.cpp" line="62"/>
         <source>Hide article list</source>
-        <translation>Hide awticwe wist</translation>
+        <translation>Hide article list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <location filename="src_stable/launcher/ui/dialogs/NewsDialog.cpp" line="60"/>
         <source>Show article list</source>
-        <translation>Show awticwe w-wist</translation>
+        <translation>Show article list</translation>
     </message>
 </context>
 <context>
@@ -12289,7 +12112,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/news/NewsEntry.cpp" line="23"/>
         <location filename="src_stable/launcher/news/NewsEntry.cpp" line="51"/>
         <source>Untitled</source>
-        <translation>Untitwed</translation>
+        <translation>Untitled</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
@@ -12297,7 +12120,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src_stable/launcher/news/NewsEntry.cpp" line="52"/>
         <source>No content.</source>
-        <translation>N-Nyo c-content.</translation>
+        <translation>Nay a thing.</translation>
     </message>
 </context>
 <context>
@@ -12306,7 +12129,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <location filename="src_stable/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation>Niwmods</translation>
+        <translation>Nilmodifications</translation>
     </message>
 </context>
 <context>
@@ -12315,7 +12138,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <location filename="src_stable/launcher/ui/pages/instance/NotesPage.h" line="53"/>
         <source>Notes</source>
-        <translation>Nyotes</translation>
+        <translation>Entries</translation>
     </message>
 </context>
 <context>
@@ -12324,37 +12147,37 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <location filename="src_stable/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation>U-Unknown instance type</translation>
+        <translation>Unknown ship clarr-sification</translation>
     </message>
 </context>
 <context>
     <name>OfflineLoginDialog</name>
     <message>
         <source>Add Account</source>
-        <translation type="vanished">Awdd Accownt</translation>
+        <translation type="vanished">Add Captain</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="vanished">Wusewname</translation>
+        <translation type="vanished">Yer Name</translation>
     </message>
     <message>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="vanished">Usewnames wongew than 16 chawactews cannot be uwsed fow lan games ow offwine-mode sewvews.</translation>
+        <translation type="vanished">Usernames longer than 16 paces can&apos;t be used fer LAN ships or lonely-mode islands.</translation>
     </message>
     <message>
         <source>Allow long usernames</source>
-        <translation type="vanished">Awwow wong usewnyames</translation>
+        <translation type="vanished">Allow long usernames</translation>
     </message>
 </context>
 <context>
     <name>OfflineStep</name>
     <message>
         <source>Creating offline account.</source>
-        <translation type="vanished">Cweating offwinye account.</translation>
+        <translation type="vanished">Makin&apos; lonely captain.</translation>
     </message>
     <message>
         <source>Created offline account.</source>
-        <translation type="vanished">Cweated offwinye account.</translation>
+        <translation type="vanished">Made lonely captain.</translation>
     </message>
 </context>
 <context>
@@ -12393,14 +12216,14 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
     <name>OtherLogsPage</name>
     <message>
         <source>Find</source>
-        <translation type="vanished">Fiwnd</translation>
+        <translation type="vanished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
@@ -12412,7 +12235,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Scwoww aww the way t-to bottom *blushes*</translation>
+        <translation type="unfinished">Go to th&apos; end</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
@@ -12448,13 +12271,13 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation type="unfinished">K-Keep updating</translation>
+        <translation type="unfinished">Keep upgradin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation type="unfinished">whap wines</translation>
+        <translation type="unfinished">Write to next lines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
@@ -12466,19 +12289,19 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Cwopy da whowe log intwo da cwipboawd</translation>
+        <translation>Record th&apos; entire log &apos;to the captain&apos;s parchment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Cowopy</translation>
+        <translation>&amp;Record</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Upwoad the log to the paste sewvice configuwed in p-pwefewences</translation>
+        <translation type="unfinished">Upload log to the sharin&apos; serrvice set in preferrrences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
@@ -12506,37 +12329,37 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation type="unfinished">Seawch</translation>
+        <translation type="unfinished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="498"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="487"/>
         <source>Clear the log</source>
-        <translation>C-Cweaw the wog</translation>
+        <translation>Throw out the log</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Dewete</translation>
+        <translation type="vanished">Scuttle</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="vanished">Upwoad the wog to the paste sewvice configuwed in p-pwefewences.</translation>
+        <translation type="vanished">Share captain&apos;s log to the paste serrvice course set in preferrrences.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="vanished">Upwoad</translation>
+        <translation type="vanished">Deliver</translation>
     </message>
     <message>
         <source>Clean</source>
-        <translation type="vanished">C-Cwean</translation>
+        <translation type="vanished">Wipe</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="vanished">Wewoad</translation>
+        <translation type="vanished">Check again</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="vanished">Seawch:</translation>
+        <translation type="vanished">Locate:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
@@ -12546,29 +12369,29 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="399"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="440"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>Unyabwe to open %1 fow weading: %2</translation>
+        <translation>Unable t&apos; open %1 fer readin&apos;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="271"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="269"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>The fiwe (%1) is too big. U may want two open it in a viewew optimized fow wawge fiwes.</translation>
+        <translation>The file (%1) be too large. Ye may want t&apos; open it in a catalog for large hauls.</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
-        <translation type="vanished">T-The fiwe (%1) is nyot weadabwe.</translation>
+        <translation type="vanished">The file (%1) is illegible.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="395"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="384"/>
         <source>Confirm Deletion</source>
-        <translation>Confiwm Dewetion</translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="396"/>
@@ -12577,36 +12400,36 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>u awe abowt two dewete &quot;%1&quot;!!
-dis may be p-pewanent awnd it wiww be gowne fwomm da wogs fowder!
+        <translation>Yer about t&apos; send &quot;%1&quot; to Davey Jones&apos; locker.
+This may be it&apos;s final plank walk and will be burnt from the logs chest.
 
-Awe u suwe??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="421"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Confirm Cleanup</source>
-        <translation>Confiwm Clweanup</translation>
+        <translation>Aye, Cleanup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="423"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="412"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>Awe u suwe u w-want to deweete aww da wog fiwles?</translation>
+        <translation>Are ye sure ye want t&apos; wreck all log files?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="426"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="415"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>Awe u suwe u w-want to deweete aww da wog fiwles?
+        <translation>Are ye sure ye want t&apos; wreck all them files?
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="399"/>
         <source>Unable to delete %1: %2</source>
-        <translation>Unawble two dewete %1: %2!!</translation>
+        <translation>Unable to wreck %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="88"/>
@@ -12632,25 +12455,25 @@ Awe u suwe??</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="453"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="442"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Couwden&apos;t dewete sowm fiwes!!</translation>
+        <translation>Cann&apos;a wreck some files!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="456"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="445"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Couwden&apos;t dewete sowm fiwes!!
+        <translation>Cann&apos;a wreck some files:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="497"/>
         <location filename="src_stable/launcher/ui/pages/instance/OtherLogsPage.cpp" line="486"/>
         <source>Clear</source>
-        <translation type="unfinished">Cweaw</translation>
+        <translation type="unfinished">Throw out</translation>
     </message>
     <message>
         <source>Other logs</source>
-        <translation type="vanished">Othew wogs</translation>
+        <translation type="vanished">Other logs</translation>
     </message>
 </context>
 <context>
@@ -12659,19 +12482,19 @@ Awe u suwe??</translation>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="369"/>
         <location filename="src_stable/launcher/minecraft/PackProfile.cpp" line="364"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Sent Off The Port Bow</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="600"/>
         <location filename="src_stable/launcher/minecraft/PackProfile.cpp" line="588"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="602"/>
         <location filename="src_stable/launcher/minecraft/PackProfile.cpp" line="590"/>
         <source>Version</source>
-        <translation>Vewesion</translation>
+        <translation>Model</translation>
     </message>
 </context>
 <context>
@@ -12692,36 +12515,36 @@ Awe u suwe??</translation>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <location filename="src_stable/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished">Hewp</translation>
+        <translation type="unfinished">Help</translation>
     </message>
 </context>
 <context>
     <name>PasteUpload</name>
     <message>
         <source>Uploading to %1</source>
-        <translation type="vanished">Upwoading two %1!</translation>
+        <translation type="vanished">Deliverin&apos; t&apos; %1</translation>
     </message>
     <message>
         <source>Network error: %1</source>
-        <translation type="vanished">Newwork ewwow: %1!</translation>
+        <translation type="vanished">Fire in the crow&apos;s nest: %1</translation>
     </message>
     <message>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="vanished">Ewwow: %1 wetuwnyed uwnexpyedted s-statyus cowde %2 %3</translation>
+        <translation type="vanished">Fire on the poop deck: %1 returned with an odd omen of %2 %3</translation>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="vanished">Ewwow: %1 wetuwnyed a mawfowmed wesponse bowdyy</translation>
+        <translation type="vanished">Fire on the poop deck: %1 returned a disfigured response</translation>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="vanished">Ewwow: %1 wetuwnyed an ewwow: %2</translation>
+        <translation type="vanished">Fire on the poop deck: %1 returned another fire: %2</translation>
     </message>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="vanished">Ewwow: %1 wetuwnyed an ewwow cowde: %2
-Ewwow message: %3</translation>
+        <translation type="vanished">Fire on the poop deck: %1 returned an omen from another fire: %2
+Fire&apos;s message: %3</translation>
     </message>
 </context>
 <context>
@@ -12730,25 +12553,25 @@ Ewwow message: %3</translation>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <location filename="src_stable/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation>Fowm</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <location filename="src_stable/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>The defauwt p-paste sewvice has changed to mclo.gs, p-pwease choose what you want to do with y-youw settings.</translation>
+        <translation>Th&apos; standard pastin&apos; service has changed to mclo.gs, kindly pick what ye want to do with yer settin&apos;s.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <location filename="src_stable/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation>U-use nyew defauwt sewvice</translation>
+        <translation>Use new standard service</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <location filename="src_stable/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation>Keewp pwevious s-settings</translation>
+        <translation>Keep ye old settin&apos;s</translation>
     </message>
 </context>
 <context>
@@ -12769,14 +12592,14 @@ Ewwow message: %3</translation>
     <message>
         <location filename="src_stable/launcher/launch/steps/PostLaunchCommand.cpp" line="51"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>Wunning Post-Waunch command: %1</translation>
+        <translation>Runnin&apos; Post-Sail order: %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>Post-Waunch command: faiwed wif cowde %1
+        <translation>Post-Sail order failed with omen %1.
 
 </translation>
     </message>
@@ -12785,7 +12608,7 @@ Ewwow message: %3</translation>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>Post-Waunch command wan successfuwwy!
+        <translation>Post-Sail order done successfully.
 
 </translation>
     </message>
@@ -12795,14 +12618,14 @@ Ewwow message: %3</translation>
     <message>
         <location filename="src_stable/launcher/launch/steps/PreLaunchCommand.cpp" line="51"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>Wunning Pwe-Waunch command: %1</translation>
+        <translation>Runnin&apos; Pre-Sail order: %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/launch/steps/PreLaunchCommand.cpp" line="59"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>Pwe-Waunch command faiwed wif cowde %1
+        <translation>Pre-Sail order failed with omen %1.
 
 </translation>
     </message>
@@ -12811,7 +12634,7 @@ Ewwow message: %3</translation>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation>Pwe-Waunch command wan successfuwwy!
+        <translation>Pre-Sail order followed successfully.
 
 </translation>
     </message>
@@ -12822,7 +12645,7 @@ Ewwow message: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="98"/>
         <location filename="src_stable/launcher/updater/PrismExternalUpdater.cpp" line="98"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">C-Checking fow updates...</translation>
+        <translation type="unfinished">Checkin&apos; fer upgrades...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="130"/>
@@ -13329,33 +13152,33 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>Sewect an account!!</translation>
+        <translation>Pick a Captain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>Sewect a pwofile!</translation>
+        <translation>Pick a profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSelectDialog.ui" line="32"/>
         <source>Use as default?</source>
-        <translation>Uwse as defauwt??</translation>
+        <translation>This be standard?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
-        <translation>Uwse as defauwt fow this instawnce onwy?</translation>
+        <translation>This be standard fer this ship only?</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nyame</translation>
+        <translation type="vanished">Moniker</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="vanished">%1 (in uwse!!)</translation>
+        <translation type="vanished">%1 (in use)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="66"/>
@@ -13367,7 +13190,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -13376,7 +13199,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation>Chwoose Minecwaft nyame!</translation>
+        <translation>Pick Minecraft moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
@@ -13384,34 +13207,34 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>You j-just nyeed to take onye mowe step to be a-abwe to pway M-Minyecwaft on this a-account.
+        <translation>Ye just need t&apos; take another swig t&apos; be able to sail Minecraft for this captain.
 
-Choose youw nyame cawefuwwy wawefuwwy:</translation>
+Choose yer moniker wisely:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="125"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>Name is too showt - muwst be between 3 and 16 chawactews wong.</translation>
+        <translation>Moniker too short - must be between 3 to 16 paces.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation>Minecraft pwofiwle with nyame %1 awweady exists!</translation>
+        <translation>Minecraft profile with moniker %1 already be sailin&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="192"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="186"/>
         <source>The name %1 is not allowed.</source>
-        <translation>The nyame %1 is nyot awwowed!</translation>
+        <translation>The moniker %1 ain&apos;t permitted.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="181"/>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="188"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>Unhandwed pwofiwle nyame styatus: %1</translation>
+        <translation>Unhandled profile moniker status: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
@@ -13423,13 +13246,13 @@ Choose youw nyame cawefuwwy wawefuwwy:</translation>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="76"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="197"/>
         <location filename="src_stable/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="191"/>
         <source>Failed to check name availability.</source>
-        <translation>Faiwed two check nyame avaiwibiwity!</translation>
+        <translation>Failed checkin&apos; moniker availability.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="276"/>
@@ -13446,7 +13269,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>The server returned the following error:</source>
-        <translation type="vanished">The sevew wetuwnyed the fowwowing ewwow:</translation>
+        <translation type="vanished">Th&apos; island be returnin&apos; the followin&apos; issue:</translation>
     </message>
 </context>
 <context>
@@ -13455,13 +13278,13 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <location filename="src_stable/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>P-Pwease wait...</translation>
+        <translation>Kindly wait...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <location filename="src_stable/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>Gwobaw Tyask Styatus...</translation>
+        <translation>Global Task Status...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
@@ -13471,18 +13294,18 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Task Status...</source>
-        <translation type="vanished">Tyask Styatus...</translation>
+        <translation type="vanished">Task Status...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <location filename="src_stable/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation>Skiwp</translation>
+        <translation>Belay</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -13500,23 +13323,23 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>This onwy appwies to the wauwnchew. Minecwaft does not accept pwoxy settings.</translation>
+        <translation>This only applies to the launcher. Minecraft forbids flyin&apos; a false flag.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
         <source>Type</source>
-        <translation>Twype</translation>
+        <translation>Clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>Uses youw s-system&apos;s defauwt pwoxy woxy settings.</translation>
+        <translation>Utilizes yarr system&apos;s default false flag settin&apos;s.</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="vanished">&amp;Defauwt</translation>
+        <translation type="vanished">&amp;Standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
@@ -13549,88 +13372,72 @@ HTTP Status: %2</source>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>&amp;Addwess awnd Powt</translation>
+        <translation>&amp;Address and Port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
         <source>Authentication</source>
-        <translation>Awwthentication</translation>
+        <translation>Flag Design</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>&amp;Uwsewname:</translation>
+        <translation>Captain Name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>&amp;Passwowd:</translation>
+        <translation>Secret Phrase:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Nyote: P-Pwoxy usewnyame and passwowd awe stowed in p-pwain text inside the waunchew&apos;s configuwation fiwe!</translation>
+        <translation>Note: False flag captain name and secret phrase are stored in plain text inside the ships&apos; configuration file!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <location filename="src_stable/launcher/ui/pages/global/ProxyPage.h" line="56"/>
         <source>Proxy</source>
-        <translation>Pwoxy</translation>
+        <translation>False Flag</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
-
-Roll back to previous version?</source>
-        <translation type="vanished">The nyew vewsion didn&apos;t stawt ow is too owd and d-doesn&apos;t wespond to stawtup checks.
-
-Woww back to pwevious v-vewsion?</translation>
-    </message>
-    <message>
-        <source>The rollback failed too.
-You will have to repair %1 manually.
-Please let us know why and how this happened.</source>
-        <translation type="vanished">The wowwback faiwed too.
-You wiww have to wepaiw %1 manyuawwy wanyuawwy.
-Pwease wet us knyow why and how this happenyed.</translation>
-    </message>
-    <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="145"/>
         <location filename="src_stable/launcher/meta/BaseEntity.cpp" line="160"/>
         <source>Download of meta file %1</source>
-        <translation>Downwoad of meta fiwe %1</translation>
+        <translation>Plunder of engravin&apos; file %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/meta/JsonFormat.cpp" line="133"/>
         <location filename="src_stable/launcher/meta/JsonFormat.cpp" line="145"/>
         <location filename="src_stable/launcher/meta/JsonFormat.cpp" line="157"/>
         <source>Unknown format version!</source>
-        <translation>Unknown fowmat vewsion!!</translation>
+        <translation>Unknown format model!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
-        <translation>Pawth is empty!!</translation>
+        <translation>Trail&apos;s blank</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src_stable/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src_stable/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
-        <translation>Pawth does nyot exist!</translation>
+        <translation>Trail be non-existent</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation>Pawth does nyot seem two be an MCEdit pawth!!</translation>
+        <translation>Trail don&apos;t appear to be an MCEdit trail</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
@@ -13638,118 +13445,118 @@ Pwease wet us knyow why and how this happenyed.</translation>
         <location filename="src_stable/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src_stable/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
-        <translation>Ewmpty pawth!</translation>
+        <translation>Blank trail</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
         <location filename="src_stable/launcher/tools/JProfiler.cpp" line="95"/>
         <source>Invalid JProfiler install</source>
-        <translation>Invawid JProfiler instaww!</translation>
+        <translation>Invalid JProfiler install</translation>
     </message>
     <message>
         <source>Invalid path to JVisualVM</source>
-        <translation type="vanished">Invawid pawth two JVisualVM!</translation>
+        <translation type="vanished">Invalid trail to JVisualVM</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/minecraft/ProfileUtils.cpp" line="78"/>
         <source>Invalid order file version, expected %1</source>
-        <translation>Invawid owder fiwe vewsion, eyxpected %1</translation>
+        <translation>Invalid order file model, expected %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="75"/>
         <location filename="src_stable/launcher/minecraft/ProfileUtils.cpp" line="115"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>Unabwe two openda vewsion fiwe %1: %2!</translation>
+        <translation>Unable t&apos; open th&apos; model file %1: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="93"/>
         <location filename="src_stable/launcher/minecraft/ProfileUtils.cpp" line="133"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>Unabwe two pwocess da vewsion fiwe %1: %2 at w-wine %3 cowwum %4!</translation>
+        <translation>Unable t&apos; process th&apos; model file %1: %2 at line %3 column %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="120"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>The compoewnent&apos;s &apos;uid&apos; contyainsy i-iwwegal cawactews! This can c-cauwse secewity issues!!!</translation>
+        <translation>The part&apos;s &apos;uid&apos; be holdin&apos; stowaways! This can be risky waters.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="203"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>Vewsion fiwe has both &apos;+wibwawies&apos; and &apos;wibwawies&apos;. This is no wongew suwppowted.</translation>
+        <translation>Model file be havin&apos; both &apos;+libraries&apos; and &apos;libraries&apos;. This ain&apos;t honored anymore.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="248"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>UWW fow the main jaw couwd nyot be detewminyed - Mojang wemoved the sewvew t-that we used as fawwback.</translation>
+        <translation>URL for the main jar can&apos;t be determined - Mojang cannoned the island that we used as fallback.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="282"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Vewsion fiwe contyains u-unsuppowted ewement &apos;tweakers&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="285"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Vewsion fiwe contyains u-unsuppowted ewement &apos;wibwawies&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="288"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="274"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Vewsion fiwe contyains u-unsuppowted ewement &apos;-tweakers&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="291"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="277"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Vewsion fiwe contyains u-unsuppowted ewement &apos;-minecwaftAwguments&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
         <location filename="src_stable/launcher/minecraft/OneSixVersionFormat.cpp" line="280"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Vewsion fiwe contyains u-unsuppowted ewement &apos;+minecwaftAwguments&apos;</translation>
+        <translation>Model file contains unhonored thing &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="301"/>
         <location filename="src_stable/launcher/minecraft/AssetsUtils.cpp" line="313"/>
         <source>Assets for %1</source>
-        <translation>Assets fow %1</translation>
+        <translation>Booty for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="276"/>
         <location filename="src_stable/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
-        <translation>Patch is nyot woaded yet!</translation>
+        <translation>Planks fer fixin&apos; not loaded yet.</translation>
     </message>
     <message>
         <source>No profile (%1)</source>
-        <translation type="vanished">Nyo pwofile (%1)!!</translation>
+        <translation type="vanished">No profile (%1)</translation>
     </message>
     <message>
         <source>&lt;Offline&gt;</source>
-        <translation type="vanished">&lt;Offfwine&gt;</translation>
+        <translation type="vanished">&lt;In Lonely Seas&gt;</translation>
     </message>
     <message>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation type="vanished">pwoccessAwguments is set two unkown valwue &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments is set to unknown value &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="170"/>
         <location filename="src_stable/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>The &apos;minimumLauncherVersion&apos; vawue of this vewsion (%1) is highew than suppowted by %3 (%2). It m-might nyot wowk pwopewwy wopewwy!</translation>
+        <translation>The &apos;minimumLauncherVersion&apos; value of this model (%1) be higher than supported by %3 (%2). It might not sail right!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="297"/>
         <location filename="src_stable/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>Wibwawy %1 nyame is bwoken awnd cannot be pwocessed!!</translation>
+        <translation>Archive %1 moniker is broken and cannot be processed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="192"/>
@@ -13766,7 +13573,7 @@ Pwease wet us knyow why and how this happenyed.</translation>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <location filename="src_stable/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>Invawid compownent fiwe vewsion, expyected %1</translation>
+        <translation>Invalid part file model, expected %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="221"/>
@@ -13778,27 +13585,27 @@ Pwease wet us knyow why and how this happenyed.</translation>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="368"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="374"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation>The s-specifiwed fiwe either doewsen&apos;t exyist ow is nyot a pwopew execewtable!</translation>
+        <translation>Given file either be non-existent or be not a proper executable.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="372"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="378"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>The s-specifiwed Jawa binawy didn&apos;t stawt pwopewwy!&lt;br /&gt;</translation>
+        <translation>Given Java binary didn&apos;t sail right.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="388"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>The s-specifiwed Jawa binawy wetuwnyed uwnexpyected wesuwlts:&lt;br /&gt;</translation>
+        <translation>Given Java binary returned odd shapes:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="398"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Jawa tewst susseeded!!&lt;br /&gt;Pwatfowm wepowted: %1&lt;br /&gt;Jawa vewsion wepowted: %2&lt;br /&gt;</translation>
+        <translation>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java model reported: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -13810,7 +13617,7 @@ Pwease wet us knyow why and how this happenyed.</translation>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test failure</source>
-        <translation>Jawa tewst faiwure!!</translation>
+        <translation>Java test failure</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -13818,40 +13625,40 @@ Pwease wet us knyow why and how this happenyed.</translation>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src_stable/launcher/ui/widgets/JavaWizardWidget.cpp" line="407"/>
         <source>Java test success</source>
-        <translation>Jawa tewst sussess!!</translation>
+        <translation>Java test success</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
         <source>Minecraft Server</source>
-        <translation>Minecwaft Sewew</translation>
+        <translation>Minecraft Island</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="vanished">Websyite</translation>
+        <translation type="vanished">Internet Seaport</translation>
     </message>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="vanished">%1 Devewopers</translation>
+        <translation type="vanished">%1 Shipwrights</translation>
     </message>
     <message>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="vanished">With thanks two</translation>
+        <translation type="vanished">With cheers to</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <location filename="src_stable/launcher/ui/MainWindow.cpp" line="141"/>
         <source>%1 (in use)</source>
-        <translation>%1 (in uwse)</translation>
+        <translation>%1 (in use)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
         <location filename="src_stable/launcher/ui/GuiUtil.cpp" line="98"/>
         <source>Confirm Upload</source>
-        <translation>Confiwm Upwoad</translation>
+        <translation>Aye, Upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="109"/>
@@ -13860,10 +13667,10 @@ Pwease wet us knyow why and how this happenyed.</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>U awe about two u-upwoad &quot;%1&quot; two %2.
-U shouwd d-doubwe-chyeck fow pewsonaw infowmation!
+        <translation>Yer about t&apos; deliver &quot;%1&quot; to %2.
+Ye should check it twice fer personal details.
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="122"/>
@@ -13892,25 +13699,25 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="vanished">Upwoad faiwed</translation>
+        <translation type="vanished">Delivery failed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="163"/>
         <location filename="src_stable/launcher/ui/GuiUtil.cpp" line="158"/>
         <source>Upload finished</source>
-        <translation>Upwoad finished</translation>
+        <translation>Delivery finished</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="164"/>
         <location filename="src_stable/launcher/ui/GuiUtil.cpp" line="159"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>The &lt;a href=&quot;%1&quot;&gt;wink to the uwpwoaded wog&lt;/a&gt; has been pwaced in uw cwipboawd.</translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;ocean trail to the delivered log&lt;/a&gt; has been placed in yer captain&apos;s parchment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <location filename="src_stable/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation>Bwight</translation>
+        <translation>Bright</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
@@ -13934,7 +13741,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <location filename="src_stable/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>System</source>
-        <translation>Systewm</translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
@@ -13970,7 +13777,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <location filename="src_stable/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation>Dawk</translation>
+        <translation>Dark</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
@@ -14032,9 +13839,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>You twied t-to manyuawwy wanyuawwy set a JVM memowy w-wemowy option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; ow &quot;-Xms&quot;).
-Thewe awe dedicated boxes fow these in the settings (Java tab, in the Memowy Wemowy gwoup at the t-top).
-This message wiww be dispwayed untiw you wemove t-them fwom the JVM awguments.</translation>
+        <translation>Ye tried to set a JVM thinkin&apos; amount on yer own (usin&apos; &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
+Tharr be dedicated edit boxes for &apos;em in the settin&apos;s (Java tab, in the Amount o&apos; Thinkin&apos; group at the top).
+This writin&apos; be displayed &apos;til ye scrub &apos;em off the JVM arguments.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
@@ -14042,34 +13849,34 @@ This message wiww be dispwayed untiw you wemove t-them fwom the JVM awguments.</
         <location filename="src_stable/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation>JVM awguments wawning</translation>
+        <translation>Bad omen for JVM arguments</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>You twied to pass wequiwed Java vewsion awgument to the JVM (using &quot;-version:xxx&quot;). T-This is nyot safe and wiww nyot be awwowed.
-This message wiww be dispwayed untiw you wemove this f-fwom the JVM awguments.</translation>
+        <translation>Ye tried to pass required Java model argument t&apos; th&apos; JVM (usin&apos; &quot;-version:xxx&quot;). This be risky and not permitted.
+This writin&apos; be displayed &apos;til you scrub it off th&apos; JVM arguments.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Jawa test susseeded!&lt;br /&gt;Pwatfowm wepowted: %1&lt;br /&gt;Jawa vewsion wepowted: %2&lt;br /&gt;Jawa vendow wepowted: %3&lt;br /&gt;</translation>
+        <translation>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java model reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;Wawnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation>&lt;br /&gt;Bad omens:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>The specifyied Jawa binawy d-didn&apos;t wowk with the awguments u pwovided:&lt;br /&gt;</translation>
+        <translation>The picked Java binary don&apos;t work with yer given arguments:&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
@@ -14080,24 +13887,24 @@ This message wiww be dispwayed untiw you wemove this f-fwom the JVM awguments.</
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="vanished">The specified Java binyawy winyawy didn&apos;t wowk.&lt;br /&gt;You shouwd use the auto-detect featuwe, ow set the path to the Java executabwe.&lt;br /&gt;</translation>
+        <translation type="vanished">The picked Java binary don&apos;t work.&lt;br /&gt;Ye should use th&apos; machine&apos;s automatic findin&apos;, or set the trail to yer Java executable.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <location filename="src_stable/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Java checkew wibwawy couwd nyot be found. Pwease check youw instawwation!</translation>
+        <translation>Java checker archive can&apos;t be found. Kindly check yer installation.</translation>
     </message>
     <message>
         <source>No author(s)</source>
-        <translation type="vanished">Nyo auwwthor(s)</translation>
+        <translation type="vanished">No maker(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="17"/>
         <location filename="src_stable/launcher/InstanceTask.cpp" line="13"/>
         <source>Change instance name</source>
-        <translation>Change instyance nyame</translation>
+        <translation>Change ship moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="18"/>
@@ -14106,16 +13913,16 @@ This message wiww be dispwayed untiw you wemove this f-fwom the JVM awguments.</
 
 Old name: %1
 New name: %2</source>
-        <translation>The i-instance&apos;s nyame seems to incwude the owd vewsion. W-Wouwd you wike to u-update it?
+        <translation>The ship&apos;s moniker seems t&apos; include the old model. Would ye like to upgrade it?
 
-Owd nyame: %1
-Nyew n-nyame: %2</translation>
+Old moniker: %1
+New moniker: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <location filename="src_stable/launcher/InstanceTask.cpp" line="32"/>
         <source>Similar modpack was found!</source>
-        <translation>Simiwar modpwack waws fouwnd!</translation>
+        <translation>Similar modification cargo was found!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
@@ -14123,21 +13930,21 @@ Nyew n-nyame: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Onye ow m-mowe of uw instances awe fwom this same modpack%1. Do you want t-to cweate a sepawate i-i-instance, ow u-update the e-existing onye?
+        <translation>One or more of yer ships are from the same modification cargo%1. Do ye want t&apos; make a separate ship, or upgrade yer current one?
 
-NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe updating, as wowwds can be c-cowwupted and some configuwation may b-be wost (becuwse of pack ovewwides).</translation>
+ENTRY: Ensure ye made a stash of yer important ship data before upgradin&apos;, as seas can be cursed and some configurations may go overboard (due to cargo mutinies).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="45"/>
         <location filename="src_stable/launcher/InstanceTask.cpp" line="39"/>
         <source>Update existing instance</source>
-        <translation>Updayte existing instawnce</translation>
+        <translation>Upgrade existin&apos; ship</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="46"/>
         <location filename="src_stable/launcher/InstanceTask.cpp" line="40"/>
         <source>Create new instance</source>
-        <translation>Cweate nyew instawnce</translation>
+        <translation>Make new ship</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="104"/>
@@ -14154,31 +13961,31 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Cancew</translation>
+        <translation type="vanished">Nay</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>
-        <translation type="vanished">Simpwl (Cowowed Icowns)</translation>
+        <translation type="vanished">Simple (Colored Flags)</translation>
     </message>
     <message>
         <source>Simple (Light Icons)</source>
-        <translation type="vanished">Simpwl (Wight Icowns)</translation>
+        <translation type="vanished">Simple (Light Flags)</translation>
     </message>
     <message>
         <source>Simple (Dark Icons)</source>
-        <translation type="vanished">Simpwl (Dawk Icowns)</translation>
+        <translation type="vanished">Simple (Dark Flags)</translation>
     </message>
     <message>
         <source>Simple (Blue Icons)</source>
-        <translation type="vanished">Simpwl (Bwue Icowns)</translation>
+        <translation type="vanished">Simple (Blue Flags)</translation>
     </message>
     <message>
         <source>Breeze Light</source>
-        <translation type="vanished">Bweeze Wight</translation>
+        <translation type="vanished">Breeze Light</translation>
     </message>
     <message>
         <source>Breeze Dark</source>
-        <translation type="vanished">Bweeze Dawk</translation>
+        <translation type="vanished">Breeze Dark</translation>
     </message>
     <message>
         <source>OSX</source>
@@ -14190,43 +13997,43 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Flat</source>
-        <translation type="vanished">Fwat</translation>
+        <translation type="vanished">Flat</translation>
     </message>
     <message>
         <source>Flat (White)</source>
-        <translation type="vanished">Fwat (White)</translation>
+        <translation type="vanished">Flat (White)</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="vanished">Wegacy</translation>
+        <translation type="vanished">Ancient</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="vanished">Custyom</translation>
+        <translation type="vanished">Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="319"/>
         <location filename="src_stable/launcher/ui/themes/ThemeManager.cpp" line="309"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation>Backgwound Cat (fwom MuwtiMC)</translation>
+        <translation>Strange Parrot (from MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <location filename="src_stable/launcher/ui/themes/ThemeManager.cpp" line="310"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation>Wowy ID 11 (dwawn by Ashtaka)</translation>
+        <translation>Rory ID 11 (scribbled by Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <location filename="src_stable/launcher/ui/themes/ThemeManager.cpp" line="311"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation>Wowy ID 11 (fwat edition, dwawn by Ashtaka)</translation>
+        <translation>Rory ID 11 (flat model, scribbled by Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <location filename="src_stable/launcher/ui/themes/ThemeManager.cpp" line="312"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation>Teawie (dwawn by SympathyTea)</translation>
+        <translation>Teawie (scribbled by SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
@@ -14234,7 +14041,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="25"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>wesouwce pack</translation>
+        <translation>booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
@@ -14242,7 +14049,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="26"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>textyure pack</translation>
+        <translation>decor cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
@@ -14250,7 +14057,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="27"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>dyata pack</translation>
+        <translation>mechanical cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
@@ -14258,13 +14065,13 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="28"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>shayder pack</translation>
+        <translation>looking glass</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="29"/>
         <source>world save</source>
-        <translation>wowld syave</translation>
+        <translation>remembered island</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
@@ -14272,7 +14079,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/ResourceType.cpp" line="30"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>mowd</translation>
+        <translation>modification</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
@@ -14284,13 +14091,13 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="165"/>
         <source>Sort by Featured</source>
-        <translation>Sowt by Featuwed</translation>
+        <translation>Sort by Captain&apos;s Favviorit&apos; Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="166"/>
         <source>Sort by Popularity</source>
-        <translation>Sowt by Wopuwawity</translation>
+        <translation>Sort by Pirates lookin&apos; for this booty</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
@@ -14298,19 +14105,19 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="167"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="123"/>
         <source>Sort by Last Updated</source>
-        <translation>Sowt by Wast Updated</translation>
+        <translation>Sort by Newest Model</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="168"/>
         <source>Sort by Name</source>
-        <translation>Sowt by Nyame</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="169"/>
         <source>Sort by Author</source>
-        <translation>Sowt by Authow</translation>
+        <translation>Sort by Maker</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="134"/>
@@ -14318,37 +14125,37 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="170"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Downloads</source>
-        <translation>Sowt by Downwoads</translation>
+        <translation>Sort by Plunders</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="135"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="171"/>
         <source>Sort by Category</source>
-        <translation>Sowt by Categowy</translation>
+        <translation>Sort by Category</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <location filename="src_stable/launcher/modplatform/flame/FlameAPI.cpp" line="172"/>
         <source>Sort by Game Version</source>
-        <translation>Sowt by Game Vewsion</translation>
+        <translation>Sort by Ship Model</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="270"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Relevance</source>
-        <translation>Sowt by Wewevance</translation>
+        <translation>Sort by Usefulness</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="272"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Follows</source>
-        <translation>Sowy by Fowwows</translation>
+        <translation>Sort by Notoriety</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="273"/>
         <location filename="src_stable/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="122"/>
         <source>Sort by Newest</source>
-        <translation>Sowt by Newest</translation>
+        <translation>Sort by Latest</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
@@ -14479,63 +14286,63 @@ Do you wish to proceed?</source>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Unchwecked</translation>
+        <translation type="unfinished">Unscrutinized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="278"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="290"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offwine</translation>
+        <translation type="unfinished">On land</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="280"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Weady</translation>
+        <translation type="unfinished">Ready to sail</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="282"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Wowking</translation>
+        <translation type="unfinished">Sailing away</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="284"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="296"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ewwowed</translation>
+        <translation type="unfinished">Abandoned ship</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expwired</translation>
+        <translation type="unfinished">Ship marrooned</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Disabwed</translation>
+        <translation type="unfinished">Ran aground</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="302"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Wone</translation>
+        <translation type="unfinished">Sailed Away</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <location filename="src_stable/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="628"/>
@@ -14582,7 +14389,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation type="unfinished">Unwecognized</translation>
+        <translation type="unfinished">Unrecognized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="33"/>
@@ -14600,7 +14407,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="114"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -14638,13 +14445,13 @@ Do you wish to proceed?</source>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="234"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="243"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Cweate Showtcut</translation>
+        <translation type="unfinished">Create Shortcut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">The waunchew is in the fowdew it was extwacted f-fwom, t-thewefowe it cannyot cweate showtcuts.</translation>
+        <translation type="unfinished">The launcher be in th&apos; chest it was unlocked from, and so can&apos;t make shortcuts.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
@@ -14662,7 +14469,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Waunchew is wunnying a-as misconfiguwed AppImage? ($APPIMAGE enviwonment v-vawiabwe is missing)</translation>
+        <translation type="unfinished">Launcher is sailing as misconfigured AppImage? ($APPIMAGE environment variable is missing)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
@@ -14678,13 +14485,13 @@ Do you wish to proceed?</source>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Faiwed to cweate icon fow showtcut.</translation>
+        <translation type="unfinished">Failed t&apos; make flag for shortcut.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Nyot suppowted on youw p-pwatfowm!</translation>
+        <translation type="unfinished">Not honored on yer vessel!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
@@ -14696,7 +14503,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <location filename="src_stable/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Couwdn&apos;t find desktop?! OwO</translation>
+        <translation type="unfinished">Home port cannot be found?!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
@@ -14760,7 +14567,7 @@ Do you wish to proceed?</source>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="167"/>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Ewwow: %1 wetuwnyed a mawfowmed wesponse bowdyy</translation>
+        <translation type="unfinished">Fire on the poop deck: %1 returned a disfigured response</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
@@ -14772,7 +14579,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Ewwow: %1 wetuwnyed an ewwow: %2</translation>
+        <translation type="unfinished">Fire on the poop deck: %1 returned another fire: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="188"/>
@@ -14785,8 +14592,8 @@ Do you wish to proceed?</source>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="191"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Ewwow: %1 wetuwnyed an ewwow cowde: %2
-Ewwow message: %3</translation>
+        <translation type="unfinished">Fire on the poop deck: %1 returned an omen from another fire: %2
+Fire&apos;s message: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
@@ -14803,7 +14610,7 @@ Ewwow message: %3</translation>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <location filename="src_stable/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 Devewopers</translation>
+        <translation type="unfinished">%1 Shipwrights</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
@@ -14839,35 +14646,35 @@ Ewwow message: %3</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mowds</translation>
+        <translation type="unfinished">modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">wesouwce packs</translation>
+        <translation type="unfinished">booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="38"/>
         <source>resource</source>
-        <translation type="unfinished">wesouwce</translation>
+        <translation type="unfinished">booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation type="unfinished">wesouwces</translation>
+        <translation type="unfinished">booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">shaydew packs</translation>
+        <translation type="unfinished">looking glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">textuwe packs</translation>
+        <translation type="unfinished">decor</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
@@ -14888,12 +14695,12 @@ Ewwow message: %3</translation>
     <message>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="111"/>
         <source>Network error: %1</source>
-        <translation type="unfinished">Newwork ewwow: %1!</translation>
+        <translation type="unfinished">Fire in the crow&apos;s nest: %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/net/PasteUpload.cpp" line="116"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished">Ewwow: %1 wetuwnyed uwnexpyedted s-statyus cowde %2 %3</translation>
+        <translation type="unfinished">Fire on the poop deck: %1 returned with an odd omen of %2 %3</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/GuiUtil.cpp" line="144"/>
@@ -14903,7 +14710,7 @@ Ewwow message: %3</translation>
     <message>
         <location filename="src_stable/launcher/ui/GuiUtil.cpp" line="145"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The task has been sunk by the captain.</translation>
     </message>
 </context>
 <context>
@@ -14917,7 +14724,7 @@ Ewwow message: %3</translation>
     <message>
         <location filename="src_stable/launcher/minecraft/mod/Resource.cpp" line="98"/>
         <source>Unknown</source>
-        <translation type="unfinished">Unknyown</translation>
+        <translation type="unfinished">Unknown</translation>
     </message>
 </context>
 <context>
@@ -14941,7 +14748,7 @@ Ewwow message: %3</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/DataPackPage.h" line="39"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">dyata pack</translation>
+        <translation type="unfinished">mechanical cargo</translation>
     </message>
 </context>
 <context>
@@ -14950,7 +14757,7 @@ Ewwow message: %3</translation>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="110"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>mowds</translation>
+        <translation>modifications</translation>
     </message>
 </context>
 <context>
@@ -14959,21 +14766,21 @@ Ewwow message: %3</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>mowds</translation>
+        <translation>modifications</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>mowd</translation>
+        <translation>modification</translation>
     </message>
     <message>
         <source>No valid version found!</source>
-        <translation type="vanished">Nyo vawid vewsion fouwnd!!</translation>
+        <translation type="vanished">No valid model found!</translation>
     </message>
     <message>
         <source>Cannot select invalid version :(</source>
-        <translation type="vanished">Cannot sewct invawid vewsion (╥﹏╥)</translation>
+        <translation type="vanished">Cannot pick invalid model :(</translation>
     </message>
 </context>
 <context>
@@ -14982,13 +14789,13 @@ Ewwow message: %3</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="86"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="76"/>
         <source>Review and confirm</source>
-        <translation>Weview awnd confiwm</translation>
+        <translation>Inspect and confirm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="87"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="77"/>
         <source>Ctrl+Return</source>
-        <translation>Ctwl+Wetuwn</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="115"/>
@@ -15007,25 +14814,25 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>O-Opewns a nyew popup two weview ur sewection %1 awnd c-comfiwm ur sewection. Showtcut: Ctwl+Wetuwn</translation>
+        <translation>Open a new winder to review ye chosen %1 and confirm ye selection. Shortcut: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <source>Confirm %1 to download</source>
-        <translation>Confiwm %1 two downwoad</translation>
+        <translation>Confirm %1 to plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="175"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="184"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Warnings</source>
-        <translation type="unfinished">Wawnyings</translation>
+        <translation type="unfinished">Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="191"/>
@@ -15037,27 +14844,27 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="349"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="444"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Change %1 vewsion</translation>
+        <translation type="unfinished">Change %1 model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="376"/>
         <source>mods</source>
-        <translation type="unfinished">mowds</translation>
+        <translation type="unfinished">modifications</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
         <source>resource packs</source>
-        <translation type="unfinished">wesouwce packs</translation>
+        <translation type="unfinished">booty cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
         <source>texture packs</source>
-        <translation type="unfinished">textuwe packs</translation>
+        <translation type="unfinished">decor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
         <source>shader packs</source>
-        <translation type="unfinished">shaydew packs</translation>
+        <translation type="unfinished">looking glasses</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
@@ -15069,18 +14876,18 @@ Are you sure you want to close this dialog?</source>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>wesouwces</translation>
+        <translation>booty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="62"/>
         <source>Download %1</source>
-        <translation>Downwoad %1</translation>
+        <translation>Plunder %1</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="178"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -15095,7 +14902,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="277"/>
@@ -15119,15 +14926,15 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourceModel.cpp" line="440"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>A newwowk ewwow occuwwed. Couwd nyot woad mowds!</translation>
+        <translation>A fire on the crow&apos;s nest occurred. Could not load modifications.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="494"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>API vewsion twoo owd!!
-P-Pweease updayte %1!!!</translation>
+        <translation>API model too old!
+Kindly upgrade %1!</translation>
     </message>
 </context>
 <context>
@@ -15136,7 +14943,7 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="131"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>wesouwce packs</translation>
+        <translation>booty cargo</translation>
     </message>
 </context>
 <context>
@@ -15145,13 +14952,13 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePackPage.h" line="36"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>wesouwce packs</translation>
+        <translation>booty cargo</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePackPage.h" line="38"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>wesouwce pack</translation>
+        <translation>booty cargo</translation>
     </message>
 </context>
 <context>
@@ -15161,7 +14968,7 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="114"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>Seawch fow %1...</translation>
+        <translation>Find %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="146"/>
@@ -15169,13 +14976,13 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="115"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Select %1 for download</source>
-        <translation>Sewect %1 fow downwoad</translation>
+        <translation>Pick %1 for plunderin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source> by </source>
-        <translation> b-b-by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
@@ -15187,37 +14994,37 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Donate information: </source>
-        <translation>Donate infowmation: </translation>
+        <translation>Where to extend ye charity: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="256"/>
         <source>External links:</source>
-        <translation>Extewnyaw winks:</translation>
+        <translation>Maps to unknown seas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issuews: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Complaints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="285"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Encyclopedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="266"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Souwce code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Ship blueprints: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="269"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discowd: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Tortuga: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="320"/>
@@ -15229,13 +15036,13 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="324"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="295"/>
         <source>Deselect %1 for download</source>
-        <translation>Desewect %1 fow downwoad</translation>
+        <translation>Un-pick %1 for plunderin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="424"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="332"/>
         <source>No valid version found.</source>
-        <translation>Nyo vawid vewsion fouwnd.</translation>
+        <translation>No valid model found.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="570"/>
@@ -15260,7 +15067,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="697"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="574"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctwl+Wetuwn</translation>
+        <translation type="unfinished">Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="703"/>
@@ -15281,7 +15088,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="425"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="333"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Cannot sewect invawid vewsion (╥﹏╥)</translation>
+        <translation>Cannot pick invalid model :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="69"/>
@@ -15300,19 +15107,19 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="452"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.cpp" line="358"/>
         <source>Loading versions...</source>
-        <translation>Woading vewsions...</translation>
+        <translation>Loadin&apos; models...</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation>wesouwces</translation>
+        <translation>booty</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.h" line="48"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation>wesouwce</translation>
+        <translation>booty</translation>
     </message>
 </context>
 <context>
@@ -15321,7 +15128,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="171"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>shaydew packs</translation>
+        <translation>looking glasses</translation>
     </message>
 </context>
 <context>
@@ -15330,13 +15137,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src_stable/launcher/ui/pages/modplatform/ShaderPackPage.h" line="36"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>shaydew packs</translation>
+        <translation>looking glasses</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/ShaderPackPage.h" line="38"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>shaydew pack</translation>
+        <translation>looking glass</translation>
     </message>
 </context>
 <context>
@@ -15345,7 +15152,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src_stable/launcher/ui/dialogs/ResourceDownloadDialog.h" line="151"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>textuwe packs</translation>
+        <translation>decor</translation>
     </message>
 </context>
 <context>
@@ -15354,13 +15161,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src_stable/launcher/ui/pages/modplatform/TexturePackPage.h" line="38"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>textuwe packs</translation>
+        <translation>decor</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/modplatform/TexturePackPage.h" line="40"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>textuwe pack</translation>
+        <translation>decorum</translation>
     </message>
 </context>
 <context>
@@ -15369,14 +15176,14 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="69"/>
         <location filename="src_stable/launcher/ResourceDownloadTask.cpp" line="74"/>
         <source>Resource download</source>
-        <translation>Wesouwce downwoad</translation>
+        <translation>Booty plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="70"/>
         <location filename="src_stable/launcher/ResourceDownloadTask.cpp" line="75"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Downwoading wesouwce:
+        <translation>Plunderin&apos; booty:
 %1</translation>
     </message>
     <message>
@@ -15392,7 +15199,7 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.h" line="245"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -15409,13 +15216,13 @@ The author likely blocked third-party launchers.</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.h" line="245"/>
         <source>Provider</source>
-        <translation type="unfinished">P-Pwovidew</translation>
+        <translation type="unfinished">Provider</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.h" line="245"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation type="unfinished">Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -15424,7 +15231,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Last modified</source>
-        <translation type="vanished">Wast Modified</translation>
+        <translation type="vanished">Last modified</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="269"/>
@@ -15457,13 +15264,13 @@ This resource is hard linked elsewhere. Editing it will also change the original
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.cpp" line="612"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Is the wesouwce enabled??</translation>
+        <translation>Is the booty sailin&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.cpp" line="614"/>
         <source>The name of the resource.</source>
-        <translation>The nyame of the wesouwce.</translation>
+        <translation>Th&apos; moniker of the booty.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
@@ -15474,7 +15281,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourceFolderModel.cpp" line="616"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation>The dayte and t-time of the wesouwce waws wass wast changed (aw added).</translation>
+        <translation>The date and time this booty was last changed (or brought on).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="666"/>
@@ -15533,7 +15340,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackFolderModel</name>
     <message>
         <source>Unrecognized</source>
-        <translation type="vanished">Unwecognized</translation>
+        <translation type="vanished">Unrecognized</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="86"/>
@@ -15542,19 +15349,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>The wesouwwce pack fowmat ID, as weww as the Minecwaft vewsions it was designed fow.</translation>
+        <translation>The booty cargo format ID, and th&apos; Minecraft models it be made for.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Pack Format</source>
-        <translation>Pack Fowmat</translation>
+        <translation>Cargo Format</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -15571,13 +15378,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Provider</source>
-        <translation type="unfinished">P-Pwovidew</translation>
+        <translation type="unfinished">Provider</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation type="unfinished">Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -15609,17 +15416,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last changed</source>
-        <translation type="vanished">Wast changed</translation>
+        <translation type="vanished">Last changed</translation>
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Is the wesouwce pack enabwed?? (Onwy vawid fow ZIPs)</translation>
+        <translation type="vanished">Do the booty cargo be enabled? (Only valid fer ZIP locked chests)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="177"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="146"/>
         <source>The name of the resource pack.</source>
-        <translation>The nyame of the wesouwce pack.</translation>
+        <translation>The moniker of th&apos; booty cargo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="179"/>
@@ -15630,7 +15437,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="184"/>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>The date awnd time this wesouwce pack waws wast changed (aw added).</translation>
+        <translation>The date and time this booty cargo was last changed (or brought on).</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
@@ -15647,15 +15454,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Resource packs</source>
-        <translation type="vanished">Wesouwce packs</translation>
+        <translation type="vanished">Booty cargo</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Downwoad packs</translation>
+        <translation type="vanished">Plunder cargo</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Downwoad wesouwce pack fwom o-onwine pwatfowms</translation>
+        <translation type="vanished">Pluder booty cargo from islands in the open oceans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -15691,7 +15498,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="189"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="246"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
@@ -15719,7 +15526,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :3</translation>
+        <translation type="unfinished">&apos;%1&apos; is in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
@@ -15737,13 +15544,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="182"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checkew</translation>
+        <translation type="unfinished">Upgrade checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation type="unfinished">Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
@@ -15757,13 +15564,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="193"/>
         <source>Download stopped by user.</source>
-        <translation>D-Downwoad stopped by usew.</translation>
+        <translation>Plunderin&apos; ceased by the cap&apos;n.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
@@ -15776,13 +15583,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="110"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
         <location filename="src_stable/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -15795,19 +15602,19 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Search</source>
-        <translation type="vanished">Seawch</translation>
+        <translation type="vanished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.ui" line="72"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
-        <translation>Fiwtew options</translation>
+        <translation>Separatin&apos; choices</translation>
     </message>
 </context>
 <context>
@@ -15834,13 +15641,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="95"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Mod nyame: %1&lt;br&gt;Fiwe nyame: %2&lt;br&gt;Weason: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished">Modification moniker: %1&lt;br&gt;File moniker: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="98"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Metadata genyewation faiwed</translation>
+        <translation type="unfinished">Engravings creation failed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="99"/>
@@ -15852,7 +15659,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="112"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Checking fow updates :3</translation>
+        <translation type="unfinished">Checkin&apos; fer upgrades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="133"/>
@@ -15866,7 +15673,7 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="378"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="436"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="138"/>
@@ -15874,38 +15681,38 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="219"/>
         <source>Warnings</source>
-        <translation type="unfinished">Wawnyings</translation>
+        <translation type="unfinished">Bad Omens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="145"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">C-Checking fow updates...</translation>
+        <translation type="unfinished">Checkin&apos; fer upgrades...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="191"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Mowd nyame: %1</translation>
+        <translation type="unfinished">Modification moniker: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="193"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Weason: %1</translation>
+        <translation type="unfinished">Reason: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="197"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Possibwe sowution: Getting the watest vewsion manyuawwy:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation type="unfinished">Possible fix: Plunderin&apos; th&apos; newest model on yer own:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="203"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Faiwed to check f-fow updates</translation>
+        <translation type="unfinished">Failed to check fer upgrades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
@@ -15928,13 +15735,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="267"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="246"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nyot instawwed</translation>
+        <translation type="unfinished">Not installed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="304"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="283"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Wooking fow metadata</translation>
+        <translation type="unfinished">Searchin&apos; fer engravings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="350"/>
@@ -15946,13 +15753,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="392"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Genyewating metadata...</translation>
+        <translation type="unfinished">Makin&apos; engravings...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Couwdn&apos;t find a vawid vewsion on the sewected m-mod pwovidews &gt;w&lt;</translation>
+        <translation type="unfinished">Couldn&apos;a find a valid model at the picked modifications provider(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
@@ -15964,19 +15771,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="464"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Pwovidew: %1</translation>
+        <translation type="unfinished">Provider: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="468"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Owd v-vewsion: %1</translation>
+        <translation type="unfinished">Old model: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="482"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="472"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Nyew v-vewsion: %1</translation>
+        <translation type="unfinished">New model: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
@@ -16000,14 +15807,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="509"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="499"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">C-Changelog of the watest vewsion</translation>
+        <translation type="unfinished">Changes log of th&apos; latest model</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="224"/>
         <location filename="src_stable/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="391"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
 </context>
 <context>
@@ -16016,7 +15823,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation>Bayck</translation>
+        <translation>Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="46"/>
@@ -16028,7 +15835,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="86"/>
@@ -16040,13 +15847,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Filename: %1</source>
-        <translation>Fiwename: %1</translation>
+        <translation>Filename: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="94"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Pwovidew: %1</translation>
+        <translation type="unfinished">Provider: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="100"/>
@@ -16068,29 +15875,29 @@ Are you sure?</source>
     </message>
     <message>
         <source>This download will be placed in: %1</source>
-        <translation type="vanished">This downwoad wiww be p-pwaced in: %1</translation>
+        <translation type="vanished">This plunder&apos;ll be stowed in: %1</translation>
     </message>
     <message>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="vanished">This file wiww be downwoaded to a fowdew wocation diffewent fwom the defauwt, p-possibwy becauwse its woader wequiwes it.</translation>
+        <translation type="vanished">This file&apos;ll be plundered t&apos; a chest different from th&apos; standard, possibly due t&apos; its rigger requirin&apos; it.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="140"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Confirm %1 selection</source>
-        <translation>Confiwm %1 sewection</translation>
+        <translation>Confirm %1 choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="120"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>Ur abouwt two downwoad the fowwowing %1:</translation>
+        <translation>Yer about t&apos; plunder the followin&apos; %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="143"/>
         <location filename="src_stable/launcher/ui/dialogs/ReviewMessageBox.cpp" line="121"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Onwy %1 with a check wiww be downwoaded!!</translation>
+        <translation>Only %1 with a check&apos;ll be plundered!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
@@ -16110,53 +15917,53 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="50"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="50"/>
         <source>Actions</source>
-        <translation>Awctions</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="70"/>
         <source>Upload</source>
-        <translation>Upwoad</translation>
+        <translation>Deliver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="75"/>
         <source>Delete</source>
-        <translation>Dewete</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <source>Rename</source>
-        <translation>Wenyame</translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
         <source>View Folder</source>
-        <translation>View Fowdew</translation>
+        <translation>Peruse Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="337"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="338"/>
         <source>Context menu</source>
-        <translation>Cwontext menu</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="vanished">U awe about two upwoad %1 screenshots!
+        <translation type="vanished">Yer about t&apos; deliver %1 screen images.
 
-Awe u suwe??</translation>
+Savvy?</translation>
     </message>
     <message>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="vanished">U awe about two upwoad the sewected screenshot!
+        <translation type="vanished">Yer about t&apos; deliver the picked screen image.
 
-Awe u suwe??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
@@ -16166,13 +15973,13 @@ Awe u suwe??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="479"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Faiwed two upwoad scweenshots!</translation>
+        <translation>Failed to deliver screen images!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="490"/>
         <source>Unknown error</source>
-        <translation>Unknown ewwow</translation>
+        <translation>Unknown fire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
@@ -16180,7 +15987,7 @@ Awe u suwe??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="454"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="497"/>
         <source>Upload finished</source>
-        <translation>Upwoad finished</translation>
+        <translation>Delivery finished</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
@@ -16204,13 +16011,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>The &lt;a href=&quot;%1&quot;&gt;wink to the upwoaded sweenshot&lt;/a&gt; has byeen pwaced in ur cwipboard!</translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;ocean trail  to the delivered screen image&lt;/a&gt; has been recorded to your captain&apos;s parchment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="498"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>The &lt;a href=&quot;%1&quot;&gt;wink to the upwoaded awbum&lt;/a&gt; has byeen pwaced in ur cwipboard!</translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;ocean trail  to th&apos; uploaded image collection&lt;/a&gt; has been recorded to your captain&apos;s parchment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="536"/>
@@ -16219,10 +16026,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>U awe abouwt two deweete %1 scweenshots.
-This may be p-permanent awnd they wiww be gone fwon the fowdew!
+        <translation>Yer about to wreck %1 screen images.
+This may be permanent and they will be sent to Davey Jones&apos;s locker.
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="542"/>
@@ -16231,22 +16038,22 @@ Awe u sure??</translation>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>U awe abouwt two deweete the sewected scweenshot.
-This may be p-permanent awnd they wiww be gone fwon the fowdew!
+        <translation>Yer about to wreck the picked screen image.
+This may be permanent and it will be sent to Davey Jones&apos;s locker.
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="548"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="558"/>
         <source>Confirm Deletion</source>
-        <translation>Confiwm Dewetion</translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="65"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation>Scweenshots</translation>
+        <translation>Screen images</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
@@ -16254,7 +16061,7 @@ Awe u sure??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="90"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="93"/>
         <source>Copy Image</source>
-        <translation>Cowopy I-Image</translation>
+        <translation>Replicate Image</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
@@ -16262,12 +16069,12 @@ Awe u sure??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="98"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.ui" line="101"/>
         <source>Copy File(s)</source>
-        <translation>Cowopy Fiwe(s)</translation>
+        <translation>Replicate File(s)</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation type="unfinished">Scuttle</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
@@ -16279,7 +16086,7 @@ Awe u sure??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <location filename="src_stable/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="482"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The task has been sunk by the captain.</translation>
     </message>
 </context>
 <context>
@@ -16294,7 +16101,7 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="19"/>
         <location filename="src_stable/launcher/ui/dialogs/ScrollMessageBox.cpp" line="19"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
@@ -16362,20 +16169,20 @@ Currently installed version: %1</source>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <location filename="src_stable/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
 </context>
 <context>
     <name>SequentialTask</name>
     <message>
         <source>One of the tasks failed!</source>
-        <translation type="vanished">One of the tasks faiwed!!</translation>
+        <translation type="vanished">Arrgh, a task failed!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <location filename="src_stable/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>Executing task %1 ouwt of %2</translation>
+        <translation>Executin&apos; task %1 of %2</translation>
     </message>
 </context>
 <context>
@@ -16384,13 +16191,13 @@ Currently installed version: %1</source>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="298"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.cpp" line="285"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="300"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.cpp" line="287"/>
         <source>Address</source>
-        <translation>Addwess</translation>
+        <translation>Coordinates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="302"/>
@@ -16400,7 +16207,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Latency</source>
-        <translation type="vanished">Watency</translation>
+        <translation type="vanished">Delay</translation>
     </message>
 </context>
 <context>
@@ -16409,61 +16216,61 @@ Currently installed version: %1</source>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="75"/>
         <source>&amp;Name</source>
-        <translation>&amp;Nyame</translation>
+        <translation>&amp;Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="88"/>
         <source>Address</source>
-        <translation>Addwess</translation>
+        <translation>Coordinates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="101"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="101"/>
         <source>Reso&amp;urces</source>
-        <translation>Weso&amp;uwces</translation>
+        <translation>Car&amp;go</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <source>Ask to download</source>
-        <translation>Ask two downwoad</translation>
+        <translation>Ask to plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <source>Always download</source>
-        <translation>Awways downwoad</translation>
+        <translation>Always plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <source>Never download</source>
-        <translation>Nevew downwoad</translation>
+        <translation>Never plunder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
         <source>Actions</source>
-        <translation>Awctions</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
         <source>Add</source>
-        <translation>Awd</translation>
+        <translation>Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Remove</source>
-        <translation>Wemove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation>Move up</translation>
+        <translation>Move Up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
@@ -16481,19 +16288,19 @@ Currently installed version: %1</source>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation type="unfinished">Wefwesh</translation>
+        <translation type="unfinished">Ruh-fresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="63"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.h" line="65"/>
         <source>Servers</source>
-        <translation>Sewvews</translation>
+        <translation>Islands in the Ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="624"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.cpp" line="598"/>
         <source>Context menu</source>
-        <translation>Cwontext menu</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="748"/>
@@ -16506,7 +16313,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="754"/>
         <location filename="src_stable/launcher/ui/pages/instance/ServersPage.cpp" line="729"/>
         <source>Confirm Removal</source>
-        <translation>Confiwm Wemovaw</translation>
+        <translation>Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="743"/>
@@ -16515,10 +16322,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>U awe abouwt two wemove &quot;%1&quot;.
-This is p-permanent awnd the sewvew wiww be gone fwon ur wist f-fowevew (A WONG TIME)!
+        <translation>Yer about to remove &quot;%1&quot;.
+This be permanent and the island will be forgotten from yer maps forever (A LONG TIME).
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
 </context>
 <context>
@@ -16527,7 +16334,7 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <location filename="src_stable/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>&amp;Next&gt;</translation>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
@@ -16539,19 +16346,19 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <location filename="src_stable/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>&amp;Finish</translation>
+        <translation>&amp;Aye, done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <location filename="src_stable/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Wefwesh</translation>
+        <translation>&amp;Check Again</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <location filename="src_stable/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation>%1 Qwuik Setup</translation>
+        <translation>%1 Hasty Preparation</translation>
     </message>
 </context>
 <context>
@@ -16573,15 +16380,15 @@ Awe u sure??</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Shader packs</source>
-        <translation type="vanished">Shaydew packs</translation>
+        <translation type="vanished">Looking glasses</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Downwoad shaydews</translation>
+        <translation type="vanished">Plunder looking glasses</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Downwoad shaydews fwom onwine pwatfowms</translation>
+        <translation type="vanished">Plunder looking glasses from islands in the open ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="51"/>
@@ -16617,7 +16424,7 @@ Awe u sure??</translation>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="186"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="125"/>
@@ -16645,7 +16452,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="156"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :3</translation>
+        <translation type="unfinished">&apos;%1&apos; is in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="159"/>
@@ -16663,13 +16470,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="179"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checkew</translation>
+        <translation type="unfinished">Upgrade checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation type="unfinished">Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
@@ -16683,13 +16490,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="101"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="190"/>
         <source>Download stopped by user.</source>
-        <translation>Downwoad stopped by usew.</translation>
+        <translation>Plunderin&apos; ceased by the cap&apos;n.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
@@ -16702,13 +16509,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="107"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="196"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src_stable/launcher/ui/pages/instance/ShaderPackPage.cpp" line="206"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -16722,7 +16529,7 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/minecraft/skins/SkinDelete.cpp" line="49"/>
         <source>Deleting skin</source>
-        <translation>Deweting skin</translation>
+        <translation>Scuttling trousers</translation>
     </message>
 </context>
 <context>
@@ -16774,7 +16581,7 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Skin upwoad</translation>
+        <translation type="unfinished">Trouser Delivery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
@@ -16798,7 +16605,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation type="unfinished">Caype</translation>
+        <translation type="unfinished">Tricorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
@@ -16810,7 +16617,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="110"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Open fowdew</translation>
+        <translation type="unfinished">Open ye Chest o&apos; Flags</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
@@ -16840,7 +16647,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="185"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Dewete Skwin</translation>
+        <translation type="unfinished">&amp;Scuttle Trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="188"/>
@@ -16882,13 +16689,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="96"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="113"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="159"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="174"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Sewect Skins Textuwe</translation>
+        <translation type="unfinished">Pick Trousers Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="165"/>
@@ -16900,7 +16707,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="194"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="208"/>
         <source>No Cape</source>
-        <translation type="unfinished">Nyo Caype</translation>
+        <translation type="unfinished">No Tricorne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="201"/>
@@ -16918,13 +16725,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Skin fiwe does nyot exist!</translation>
+        <translation type="unfinished">Trouser file&apos;s non-existent!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="321"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Faiwed two upwoad skin!</translation>
+        <translation type="unfinished">Failed to deliver trousers!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="318"/>
@@ -16936,19 +16743,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skin Dewete</translation>
+        <translation type="unfinished">Scuttle Trousers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="336"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Faiwed to dewete cuwwent skin!</translation>
+        <translation type="unfinished">Failed to scuttle current trousers!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
@@ -16966,7 +16773,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="381"/>
         <location filename="src_stable/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="393"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confiwm Dewetion</translation>
+        <translation type="unfinished">Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="382"/>
@@ -17073,66 +16880,66 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/minecraft/skins/SkinUpload.cpp" line="66"/>
         <source>Uploading skin</source>
-        <translation>Upwoading skin</translation>
+        <translation>Deliverin&apos; trousers</translation>
     </message>
 </context>
 <context>
     <name>SkinUploadDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="vanished">Skin upwoad</translation>
+        <translation type="vanished">Trouser Delivery</translation>
     </message>
     <message>
         <source>Skin File</source>
-        <translation type="vanished">Skin Fiwe</translation>
+        <translation type="vanished">Trousers File</translation>
     </message>
     <message>
         <source>Leave empty to keep current skin</source>
-        <translation type="vanished">Weave empty two keep cuwwent skin</translation>
+        <translation type="vanished">Leave blank t&apos; keep current trousers</translation>
     </message>
     <message>
         <source>Player Model</source>
-        <translation type="vanished">Pwayer Modew</translation>
+        <translation type="vanished">Sailor Shape</translation>
     </message>
     <message>
         <source>Steve Model</source>
-        <translation type="vanished">Steve Modew</translation>
+        <translation type="vanished">Steve Shape</translation>
     </message>
     <message>
         <source>Alex Model</source>
-        <translation type="vanished">Awex Modew</translation>
+        <translation type="vanished">Alex Shape</translation>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="vanished">Caype</translation>
+        <translation type="vanished">Tricorne</translation>
     </message>
     <message>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="vanished">Uysing wemote UWWs fow setting skins is nyon impwemented yet.</translation>
+        <translation type="vanished">Usin&apos; foreign URLs fer puttin&apos; on trousers ain&apos;t added yet.</translation>
     </message>
     <message>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="vanished">U cannot uwse an invawid UWW fow upwoading skins.</translation>
+        <translation type="vanished">Ye can&apos;t use an invalid URL for deliverin&apos; trousers.</translation>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="vanished">Skin fiwe does nyot exist!</translation>
+        <translation type="vanished">Trouser file&apos;s non-existent!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="vanished">Faiwed two upwoad skin!</translation>
+        <translation type="vanished">Failed to deliver trousers!</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="vanished">Sussess</translation>
+        <translation type="vanished">Success</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="vanished">Sewect Skins Textuwe</translation>
+        <translation type="vanished">Pick Trousers Fabric</translation>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="vanished">Nyo Caype</translation>
+        <translation type="vanished">No Tricorne</translation>
     </message>
 </context>
 <context>
@@ -17141,7 +16948,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <location filename="src_stable/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -17171,7 +16978,7 @@ Are you sure?</source>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <location filename="src_stable/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Task abowted!</translation>
+        <translation type="unfinished">Sailor thrown off the bow.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="41"/>
@@ -17179,7 +16986,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Instawnce updayte faiwed becauwse: %1
+        <translation type="unfinished">Ship upgrade failed because: %1
 
 </translation>
     </message>
@@ -17191,20 +16998,20 @@ Are you sure?</source>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Downwoading modpwack:
+        <translation>Plunderin&apos; modpack:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="48"/>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>Modpwack downwoad</translation>
+        <translation>Plunder the modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="63"/>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>Extwacting modpwack</translation>
+        <translation>Looting modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
@@ -17213,24 +17020,24 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="vanished">Unyabwe two open suppwied modpack zip fiwe.</translation>
+        <translation type="vanished">Unable to open th&apos; locked modpack chest.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="95"/>
         <source>Failed to extract modpack</source>
-        <translation>Faiwed two extwact modpack</translation>
+        <translation>Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="110"/>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="116"/>
         <source>Could not fix permissions for %1</source>
-        <translation>C-Couwd nyot fix pewmissions fow %1</translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <location filename="src_stable/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="131"/>
         <source>Instance import has been aborted.</source>
-        <translation>Instawnce impowt has been abowted.</translation>
+        <translation>Ship import has been abandoned.</translation>
     </message>
 </context>
 <context>
@@ -17241,7 +17048,7 @@ Are you sure?</source>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Wesowving modpwack fiwes</translation>
+        <translation>Consolidatin&apos; modification cargo contents</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="84"/>
@@ -17249,21 +17056,21 @@ Are you sure?</source>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="87"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation>Downwoading modpwack</translation>
+        <translation>Plunderin&apos; modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="95"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Couwd nyot undewstand pack m-manyifest:
+        <translation>Ye couldn&apos;t recognize pack manifest:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="132"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation>Extwacting modwack</translation>
+        <translation>Looting modifications cargo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
@@ -17273,19 +17080,19 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
-        <translation>Faiwed two extwact modpwack</translation>
+        <translation>Failed to open ye locked chest</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
-        <translation>C-Couwd nyot fix pewmissions fow %1</translation>
+        <translation>Could not fix permissions fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <location filename="src_stable/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation>Instawnce impowt has been abowted.</translation>
+        <translation>Ship import has been abandoned.</translation>
     </message>
 </context>
 <context>
@@ -17293,17 +17100,17 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Unable two open &quot;bin/modpwack.jaw&quot; fiwe!</translation>
+        <translation>Unable to open &quot;bin/modpack.jar&quot; file!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>Unable two open &quot;fmwvewsion.pwopewties&quot;!</translation>
+        <translation>Unable to open &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>Unable two open &quot;vewsion.json&quot;!</translation>
+        <translation>Unable to open &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
@@ -17327,7 +17134,7 @@ Are you sure?</source>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>Couwd nyot find &quot;vewsion.json&quot; insyide &quot;bin/modpwack.jaw&quot;, but Minecwaft vewsion is unknown</translation>
+        <translation>Couldn&apos;t find &quot;version.json&quot; in &quot;bin/modpack.jar&quot;, but Minecraft model is strange</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
@@ -17337,32 +17144,32 @@ Are you sure?</source>
     <message>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>Unable two open &quot;fowgevewsion.pwoperties&quot;</translation>
+        <translation>Unable to open &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>Invawid &quot;fowgevewsion.pwopewties&quot;!!</translation>
+        <translation>Invalid &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation type="vanished">Unable two find a &quot;vewsion.json&quot;!!</translation>
+        <translation type="vanished">Unable to find a &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="139"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>Couwd nyot undewstand &quot;vewsion.json&quot;:
-inhewitsFwom is missing!</translation>
+        <translation>Could not understand &quot;version.json&quot;:
+inheritsFrom is missing</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="135"/>
         <location filename="src_stable/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="195"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>Couwd nyot undewstand &quot;vewsion.json&quot;:
+        <translation>Could not understand &quot;version.json&quot;:
 </translation>
     </message>
 </context>
@@ -17372,18 +17179,18 @@ inhewitsFwom is missing!</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="69"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Model picked:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Seawch a-and fiwtew...</translation>
+        <translation>Scour and separate...</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="vanished">Seawch</translation>
+        <translation type="vanished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="206"/>
@@ -17391,13 +17198,13 @@ inhewitsFwom is missing!</translation>
         <location filename="src_stable/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="274"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation type="unfinished">Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="225"/>
         <location filename="src_stable/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="239"/>
         <source> by </source>
-        <translation> b-b-by </translation>
+        <translation> by </translation>
     </message>
 </context>
 <context>
@@ -17406,7 +17213,7 @@ inhewitsFwom is missing!</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <location filename="src_stable/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
@@ -17423,13 +17230,13 @@ inhewitsFwom is missing!</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <location filename="src_stable/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Provider</source>
-        <translation type="unfinished">P-Pwovidew</translation>
+        <translation type="unfinished">Provider</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <location filename="src_stable/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation type="unfinished">Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
@@ -17493,15 +17300,15 @@ inhewitsFwom is missing!</translation>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <source>Texture packs</source>
-        <translation>Textuwe pawcks</translation>
+        <translation>Decor</translation>
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Downwoad pawcks</translation>
+        <translation type="vanished">Plunder cargo</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Downwoad textuwe paycks fwom onwine pwatfowms</translation>
+        <translation type="vanished">Plunder decor from islands in the open ocean</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="48"/>
@@ -17543,7 +17350,7 @@ inhewitsFwom is missing!</translation>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="194"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
@@ -17571,7 +17378,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="179"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :3</translation>
+        <translation type="unfinished">&apos;%1&apos; is in tip-top shape! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
@@ -17589,13 +17396,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="187"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checkew</translation>
+        <translation type="unfinished">Upgrade checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="206"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="229"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation type="unfinished">Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
@@ -17609,13 +17416,13 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Aborted</source>
-        <translation>Abowted</translation>
+        <translation>Abandoned</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="109"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
         <source>Download stopped by user.</source>
-        <translation>Downwoad stopped by uwser.</translation>
+        <translation>Plunderin&apos; ceased by the cap&apos;n.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="175"/>
@@ -17628,55 +17435,55 @@ Are you sure?</source>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="115"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="204"/>
         <source>Warnings</source>
-        <translation>Wawnyings</translation>
+        <translation>Bad Omens</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="130"/>
         <location filename="src_stable/launcher/ui/pages/instance/TexturePackPage.cpp" line="214"/>
         <source>Abort</source>
-        <translation>Abowt</translation>
+        <translation>Scuttle</translation>
     </message>
 </context>
 <context>
     <name>ThemeCustomizationWidget</name>
     <message>
         <source>&amp;Icons</source>
-        <translation type="vanished">&amp;Icons</translation>
+        <translation type="vanished">&amp;Flags</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation type="vanished">&amp;Cowows</translation>
+        <translation type="vanished">&amp;Colors</translation>
     </message>
     <message>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">The c-cat appeaws in the backgwound awnd is nyot shown by d-defauwt! It is onwy made visibwe when p-pwessing the Cat button in the Toowbaw.</translation>
+        <translation type="vanished">The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar.</translation>
     </message>
     <message>
         <source>C&amp;at</source>
-        <translation type="vanished">C&amp;at</translation>
+        <translation type="vanished">S&amp;trange Parrot</translation>
     </message>
 </context>
 <context>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="vanished">WizawdPawge</translation>
+        <translation type="vanished">WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="vanished">Sewect the Theme you want two uwse</translation>
+        <translation type="vanished">Pick the Dyes you wish to use</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="vanished">Hint: The c-cat appeaws in the backgwound awnd is nyot shown by d-defauwt! It is onwy made visibwe when p-pwessing the Cat button in the Toowbaw.</translation>
+        <translation type="vanished">Hint: The strange parrot be under th&apos; deck and ain&apos;t seen standardly. It only be seen when pressin&apos; the &quot;Strange Parrot&quot; button in th&apos; Handy-objectbar.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="vanished"> Pweview:</translation>
+        <translation type="vanished"> Preview:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="vanished">The c-cat appeaws in the backgwound awnd does nyot sewve a puwpose, it is puwwey visual.</translation>
+        <translation type="vanished">The strange parrot appears under the deck and serves no function, it purely be a companion.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -17701,33 +17508,33 @@ Are you sure?</source>
 %3 fuzzy
 %4 total</source>
         <translation>%1:
-%2 transwated
+%2 translated
 %3 fuzzy
-%4 totaw</translation>
+%4 total</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <location filename="src_stable/launcher/translations/TranslationsModel.cpp" line="398"/>
         <source>Language</source>
-        <translation>Wanguage</translation>
+        <translation>Tongue</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
         <location filename="src_stable/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>Completeness</source>
-        <translation>Compweteness</translation>
+        <translation>Completeness</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <location filename="src_stable/launcher/translations/TranslationsModel.cpp" line="407"/>
         <source>The native language name.</source>
-        <translation>The native wanguage nyame.</translation>
+        <translation>The land-lubbers&apos;s way of sayin&apos; it.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
         <location filename="src_stable/launcher/translations/TranslationsModel.cpp" line="410"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>Compweteness is the pewcentage of fuwwwy twanswated stwings, not couwnting auwtomaticawwy guwessed ones.</translation>
+        <translation>Completeness be the ratio o&apos; fully translated strings, automatically guessed ones not be counted.</translation>
     </message>
 </context>
 <context>
@@ -17761,13 +17568,13 @@ Are you sure?</source>
     <name>Update</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="vanished">Task abowted!</translation>
+        <translation type="vanished">Sailor thrown off the bow.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="vanished">Instawnce updayte faiwed becauwse: %1
+        <translation type="vanished">Ship upgrade failed because: %1
 
 </translation>
     </message>
@@ -17828,8 +17635,29 @@ Are you sure?</source>
 <context>
     <name>UpdateDialog</name>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Cwose</translation>
+        <source>Launcher Update</source>
+        <oldsource>PolyMC Update</oldsource>
+        <translation type="vanished">Sail Patches Needed</translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation type="vanished">Patch &apos;er Up</translation>
+    </message>
+    <message>
+        <source>Don&apos;t update yet</source>
+        <translation type="vanished">Stay Sailin&apos;</translation>
+    </message>
+    <message>
+        <source>No %1 updates found. You are running the latest version.</source>
+        <translation type="vanished">No %1 updates found. You&apos;re sailin&apos; on the latest revision.</translation>
+    </message>
+    <message>
+        <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
+        <translation type="vanished">&lt;center&gt;&lt;h1&gt;Loadin changelog...&lt;/h1&gt;&lt;/center&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Messenger failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -17838,89 +17666,89 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <location filename="src_stable/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation>Cweating instawnce fwom vewsion %1</translation>
+        <translation>Creatin&apos; instance from version %1</translation>
     </message>
 </context>
 <context>
     <name>VanillaPage</name>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Fiwtew</translation>
+        <translation type="vanished">Sifter</translation>
     </message>
     <message>
         <source>Releases</source>
-        <translation type="vanished">Weweases</translation>
+        <translation type="vanished">Rrreleases</translation>
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="vanished">Snyapshots</translation>
+        <translation type="vanished">Spyin&apos; on the future</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
-        <translation type="vanished">Owd Snyapshots</translation>
+        <translation type="vanished">Old Spyin&apos;</translation>
     </message>
     <message>
         <source>Betas</source>
-        <translation type="vanished">Byetas</translation>
+        <translation type="vanished">Unreleased Sails</translation>
     </message>
     <message>
         <source>Alphas</source>
-        <translation type="vanished">Awphas</translation>
+        <translation type="vanished">New Mates</translation>
     </message>
     <message>
         <source>Experiments</source>
-        <translation type="vanished">Expewiments</translation>
+        <translation type="vanished">Novelties</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="vanished">Wefwesh</translation>
+        <translation type="vanished">Ruh-fresh</translation>
     </message>
     <message>
         <source>Mod Loader</source>
-        <translation type="vanished">Mowd Woader</translation>
+        <translation type="vanished">Mod Loadurr</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="vanished">None</translation>
+        <translation type="vanished">Nothin&apos;</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="vanished">Fowge</translation>
+        <translation type="vanished">Forrrge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="vanished">Fabwic</translation>
+        <translation type="vanished">Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="vanished">Quiwt</translation>
+        <translation type="vanished">Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="vanished">WiteWoader</translation>
+        <translation type="vanished">LiteLoaderrr</translation>
     </message>
     <message>
         <source>Vanilla</source>
-        <translation type="vanished">Vaniwwa</translation>
+        <translation type="vanished">Vanilla</translation>
     </message>
     <message>
         <source>No Minecraft version is selected.</source>
-        <translation type="vanished">Nyo Minecwaft vewsion is sewected.</translation>
+        <translation type="vanished">No Minecraft model be selected.</translation>
     </message>
     <message>
         <source>No mod loader is selected.</source>
-        <translation type="vanished">Nyo mowd woader is sewected.</translation>
+        <translation type="vanished">No modification rigger be selected.</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="vanished">N-Nyo vewsions awe cuwwentwy wuwwentwy avaiwabwe fow Minyecwaft %1!</translation>
+        <translation type="vanished">No model be present right now for Minecraft %1</translation>
     </message>
 </context>
 <context>
     <name>VerifyJavaInstall</name>
     <message>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="vanished">Jawa major vewsion is i-incyompatibwe! Things might bweak!</translation>
+        <translation type="vanished">Java major model be incompatible. Things may break.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="58"/>
@@ -17942,20 +17770,20 @@ The instance may not start due to this.</source>
         <location filename="src_stable/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>This instance is nyot compatibwe with Java vewsion %1.
-Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</translation>
+        <translation>This ship be not compatible with Java model %1.
+Kindly switch to one o&apos; th&apos; followin&apos; Java models for this ship:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <location filename="src_stable/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation>Jawa vewsion %1</translation>
+        <translation>Java model %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <location filename="src_stable/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Go to instance Java settings to change y-youw Java vewsion ow disabwe the Java compatibiwity wompatibiwity check if you knyow what you&apos;we doing.</translation>
+        <translation>Go to ship&apos;s Java settin&apos;s t&apos; change your Java model or disable the Java compatibility check if ye know what yer doin&apos;.</translation>
     </message>
 </context>
 <context>
@@ -17964,28 +17792,28 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <location filename="src_stable/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation>Nyo vewsions awe cuwwentwy avaiwabwe!</translation>
+        <translation>No models available right now.</translation>
     </message>
 </context>
 <context>
     <name>VersionPage</name>
     <message>
         <source>Filter:</source>
-        <translation type="vanished">Fiwtew:</translation>
+        <translation type="vanished">Sift through:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="80"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="68"/>
         <source>Actions</source>
-        <translation>Awctions</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <source>Change version</source>
-        <translation type="vanished">Change vewsion</translation>
+        <translation type="vanished">Change model</translation>
     </message>
     <message>
         <source>Change version of the selected package.</source>
-        <translation type="vanished">Change vewsion of sewected package.</translation>
+        <translation type="vanished">Change model of the picked package.</translation>
     </message>
     <message>
         <source>Move up</source>
@@ -17993,7 +17821,7 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
     </message>
     <message>
         <source>Make the selected package apply sooner.</source>
-        <translation type="vanished">Make the sewected packyage appwy sooner.</translation>
+        <translation type="vanished">Have th&apos; picked package apply faster.</translation>
     </message>
     <message>
         <source>Move down</source>
@@ -18001,17 +17829,17 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
     </message>
     <message>
         <source>Make the selected package apply later.</source>
-        <translation type="vanished">Make the sewected packyage appwy water.</translation>
+        <translation type="vanished">Have th&apos; picked package apply slower.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
         <source>Remove</source>
-        <translation>Wemove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>Remove selected package from the instance.</source>
-        <translation type="vanished">Wemove sewected package fwom the instawnce.</translation>
+        <translation type="vanished">Remove selected package from th&apos; ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
@@ -18021,85 +17849,85 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
     </message>
     <message>
         <source>Customize selected package.</source>
-        <translation type="vanished">Customize sewected packyage.</translation>
+        <translation type="vanished">Customize picked package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Edit</source>
-        <translation>E-Edit</translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <source>Edit selected package.</source>
-        <translation type="vanished">Edit sewected packyage.</translation>
+        <translation type="vanished">Edit picked package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Revert</source>
-        <translation>Wevewt</translation>
+        <translation>Return to previous form</translation>
     </message>
     <message>
         <source>Revert the selected package to default.</source>
-        <translation type="vanished">Wevewt the sewected packyage two defauwt.</translation>
+        <translation type="vanished">Return the picked package to standard.</translation>
     </message>
     <message>
         <source>Install Forge</source>
-        <translation type="vanished">Instaww Fowge</translation>
+        <translation type="vanished">Install Forge</translation>
     </message>
     <message>
         <source>Install the Minecraft Forge package.</source>
-        <translation type="vanished">Instaww the Minecwaft Fowge package.</translation>
+        <translation type="vanished">Install the Minecraft Forge package.</translation>
     </message>
     <message>
         <source>Install Fabric</source>
-        <translation type="vanished">Instaww Fabwic</translation>
+        <translation type="vanished">Install Fabric</translation>
     </message>
     <message>
         <source>Install the Fabric Loader package.</source>
-        <translation type="vanished">Instaww the Fabwic Woader packyage.</translation>
+        <translation type="vanished">Install the Fabric Loader package.</translation>
     </message>
     <message>
         <source>Install Quilt</source>
-        <translation type="vanished">Instaww Quiwt</translation>
+        <translation type="vanished">Install Quilt</translation>
     </message>
     <message>
         <source>Install the Quilt Loader package.</source>
-        <translation type="vanished">Instaww the Quiwt Woader packyage.</translation>
+        <translation type="vanished">Install the Quilt Rigger package.</translation>
     </message>
     <message>
         <source>Install LiteLoader</source>
-        <translation type="vanished">Instaww WiteWoader</translation>
+        <translation type="vanished">Install LiteLoader</translation>
     </message>
     <message>
         <source>Install the LiteLoader package.</source>
-        <translation type="vanished">Instaww the WiteWoader packyage.</translation>
+        <translation type="vanished">Install the LiteLoader package.</translation>
     </message>
     <message>
         <source>Install mods</source>
-        <translation type="vanished">Instaww mowds</translation>
+        <translation type="vanished">Install modifications</translation>
     </message>
     <message>
         <source>Install normal mods.</source>
-        <translation type="vanished">Install nowmaw mowds.</translation>
+        <translation type="vanished">Install plain modifications.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
         <source>Add to Minecraft.jar</source>
-        <translation>Add two Minecwaft.jaw</translation>
+        <translation>Add to Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="175"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Add a mowd into the Minecwaft jaw fiwe.</translation>
+        <translation>Stow a modification into th&apos; Minecraft jar file.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
         <source>Replace Minecraft.jar</source>
-        <translation>Wepwace Minecwaft.jaw</translation>
+        <translation>Replace Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
@@ -18111,37 +17939,37 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Add Java agents.</source>
-        <translation>Add Jawa agents.</translation>
+        <translation>Add Java agents.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Add Empty</source>
-        <translation>Add Empty</translation>
+        <translation>Add Blank</translation>
     </message>
     <message>
         <source>Add an empty custom package.</source>
-        <translation type="vanished">Add an empty custom packyage.</translation>
+        <translation type="vanished">Add a blank custom package.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Reload</source>
-        <translation>Wewoad</translation>
+        <translation>Check again</translation>
     </message>
     <message>
         <source>Reload all packages.</source>
-        <translation type="vanished">Wewoad aww packyages.</translation>
+        <translation type="vanished">Check again all packages.</translation>
     </message>
     <message>
         <source>Download All</source>
-        <translation type="vanished">Downwoad Aww</translation>
+        <translation type="vanished">Plunder All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished">Seawch</translation>
+        <translation type="unfinished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
@@ -18159,7 +17987,7 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="116"/>
         <source>Move Up</source>
-        <translation type="unfinished">Move up</translation>
+        <translation type="unfinished">Move Up</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -18237,73 +18065,73 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>Downwoad the fiwes needed two waunch the instawnce now.</translation>
+        <translation>Plunder th&apos; files required t&apos; sail the ship now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Open .minecraft</source>
-        <translation>Open .minecwaft</translation>
+        <translation>Open .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Open the instawnce&apos;s .minecwaft fowdew.</translation>
+        <translation>Open the ship&apos;s .minecraft chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Open libraries</source>
-        <translation>Open Wibwawies</translation>
+        <translation>Open archives</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Open the instawnces&apos;s wocal wibwawies fowdew.</translation>
+        <translation>Open the ship&apos;s local archives chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Import Components</source>
-        <translation>Impowt Components</translation>
+        <translation>Import Parts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.ui" line="236"/>
         <source>Import existing component JSON files.</source>
-        <translation>Impowt existing component JSON fiwes.</translation>
+        <translation>Import existing JSON part files.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="189"/>
         <source>Context menu</source>
-        <translation>Cwontext menu</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="193"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="205"/>
         <source>%1 possibly has issues.</source>
-        <translation>%1 possibwy has issuews.</translation>
+        <translation>%1 may have issues.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="196"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <source>%1 has issues!</source>
-        <translation>%1 has issuews!!</translation>
+        <translation>%1 has issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Error: </source>
-        <translation>Ewwow: </translation>
+        <translation>Fire on the poop deck: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="210"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="222"/>
         <source>Warning: </source>
-        <translation>Wawnying: </translation>
+        <translation>Bad omen: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="241"/>
@@ -18317,7 +18145,7 @@ Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</trans
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
@@ -18353,13 +18181,13 @@ Please add a Microsoft account.</source>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Couwdn&apos;t woad the instawnce pwofile.</translation>
+        <translation>Couldn&apos;t load the ship manifest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
         <source>Confirm Removal</source>
-        <translation>Confiwm Wemovaw</translation>
+        <translation>Aye, remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
@@ -18368,152 +18196,152 @@ Please add a Microsoft account.</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>U awe abouwt two wemove &quot;%1&quot;.
-This may be p-permanent awnd wiww c-compwetewy wemove the custyom component!
+        <translation>Yer about to remove &quot;%1&quot;.
+This is permanent and will send the custom part to Davy Jones&apos; locker.
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
         <source>Couldn&apos;t remove file</source>
-        <translation>Couwdn&apos;t wemove fiwe</translation>
+        <translation>Can&apos;t scuttle file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation>Sewect jaw mowds</translation>
+        <translation>Select jar modifications</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation type="vanished">Minecraft.jar mowds (*.zip *.jar)</translation>
+        <translation type="vanished">Minecraft.jar modifications (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Select jar</source>
-        <translation>Sewect jaw</translation>
+        <translation>Pick jar</translation>
     </message>
     <message>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation type="vanished">Minecraft.jar wepwacement (*.jar)</translation>
+        <translation type="vanished">Minecraft.jar replacement (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Select components</source>
-        <translation>Sewect components</translation>
+        <translation>Select parts</translation>
     </message>
     <message>
         <source>Components (*.json)</source>
-        <translation type="vanished">Components (*.json)</translation>
+        <translation type="vanished">Parts (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Failed to import components</source>
-        <translation>Faiwed two impowt components</translation>
+        <translation>Failed to import parts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>some components couwd nyot be impowted! Chewk wogs fow detaiws</translation>
+        <translation>Some parts couldn&apos;t be imported. Check th&apos; logs for more detail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Select agents</source>
-        <translation>Sewect agents</translation>
+        <translation>Pick agents</translation>
     </message>
     <message>
         <source>Java agents (*.jar)</source>
-        <translation type="vanished">Jawa agents (*.jar)</translation>
+        <translation type="vanished">Java agents (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="367"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation>Change %1 vewsion</translation>
+        <translation>Change %1 model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="369"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation>Nyo intewmediawy mapping vewsions awe cuwwentwy avaiwabwe!</translation>
+        <translation>No middle-man mappin&apos; models are available right now.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>Couwdn&apos;t woad ow downwoad the intewmediawy mappings vewsion wists!!</translation>
+        <translation>Couldn&apos;t load or plunder the middle-map mappin&apos;s model lists!</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="vanished">Cannyot downwoad Minyecwaft ow update instances unwess you have at weast onye account added.
-Pwease add youw Mojang ow Minyecwaft account.</translation>
+        <translation type="vanished">Cannot plunder Minecraft or upgrade ships unless ye &apos;t least have a cap&apos;n added.
+Kindly add yer Mojang or Minecraft captain.</translation>
     </message>
     <message>
         <source>Select Forge version</source>
-        <translation type="vanished">Sewect Fowge vewsion</translation>
+        <translation type="vanished">Pick Forge model</translation>
     </message>
     <message>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation type="vanished">Nyo Fowge vewsions awe cuwwently avaiwabwe fow Minecraft! </translation>
+        <translation type="vanished">No Forge models be available right now for Minecraft </translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation type="vanished">Couwdn&apos;t woad or downwoad the Fowge vewsion wists!!</translation>
+        <translation type="vanished">Couldn&apos;t load or plunder the Forge model lists!</translation>
     </message>
     <message>
         <source>Select Fabric Loader version</source>
-        <translation type="vanished">Sewect Fabwic Woader vewsion</translation>
+        <translation type="vanished">Pick Fabric Rigger model</translation>
     </message>
     <message>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation type="vanished">Nyo Fabwic Woader versions awe cuwwently avaiwabwe!</translation>
+        <translation type="vanished">No Fabric Rigger models are available right now.</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation type="vanished">Coudn&apos;t woad ow downwoad the Fabwic Woader vewsion wists!!</translation>
+        <translation type="vanished">Couldn&apos;t load or plunder th&apos; Fabric Rigger model lists!</translation>
     </message>
     <message>
         <source>Select Quilt Loader version</source>
-        <translation type="vanished">Sewect Quiwt Woader vewsion</translation>
+        <translation type="vanished">Pick Quilt Rigger model</translation>
     </message>
     <message>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="vanished">Nyo Quiwt Woader versions awe cuwwently avaiwabwe!</translation>
+        <translation type="vanished">No Quilt Rigger models are available right now.</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="vanished">Couwdn&apos;t woad ow downwoad the Quilt woader vewsion wists!</translation>
+        <translation type="vanished">Couldn&apos;t load or plunder th&apos; Quilt Rigger model lists!</translation>
     </message>
     <message>
         <source>Select LiteLoader version</source>
-        <translation type="vanished">Sewect WiteWoader vewsion</translation>
+        <translation type="vanished">Pick LiteLoader model</translation>
     </message>
     <message>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation type="vanished">Nyo WiteWoader versions awe cuwwently avaiwabwe! </translation>
+        <translation type="vanished">No LiteLoader models are available right now for Minecraft </translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation type="vanished">Couwdn&apos;t woad ow downwoad the WiteWoader vewsion wists!</translation>
+        <translation type="vanished">Couldn&apos;t load or plunder the LiteLoader model lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
         <source>Error updating instance</source>
-        <translation>Ewwow updating instawnce</translation>
+        <translation>Ship upgradin&apos; became a fire on the poopdeck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="544"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
         <source>Confirm Reversion</source>
-        <translation>Confiwm Wevewsion</translation>
+        <translation>Confirm Remodelling</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="545"/>
@@ -18522,16 +18350,16 @@ Pwease add youw Mojang ow Minyecwaft account.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>Y awe abouwt two wevewt &quot;%1&quot;.
-This is p-permanent awnd wiww compwetewy wevewt ur custyomizations!
+        <translation>Yer about t&apos; revert &quot;%1&quot;.
+This be permanent and&apos;ll wholly revert yer customizations.
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <location filename="src_stable/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <source>Version</source>
-        <translation>Vewsion</translation>
+        <translation>Model</translation>
     </message>
 </context>
 <context>
@@ -18540,37 +18368,37 @@ Awe u sure??</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation>Vewsion</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="112"/>
         <source>Minecraft</source>
-        <translation>Minecwaft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation>Bwanch</translation>
+        <translation>Branch</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation>Twype</translation>
+        <translation>Clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation>Awkitectuwe</translation>
+        <translation>Architecture</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation>Pawth</translation>
+        <translation>Trail</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
@@ -18588,43 +18416,43 @@ Awe u sure??</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>Weweased</translation>
+        <translation>Released</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation>The nyame of the vewsion.</translation>
+        <translation>Th&apos; moniker of the model.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation>Minecwaft vewsion</translation>
+        <translation>Minecraft model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation>The vewsion&apos;s bwanch</translation>
+        <translation>Th&apos; model&apos;s schism</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation>The vewsion&apos;s type</translation>
+        <translation>Th&apos; model&apos;s clarr-sification</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation>CPU Awkitectuwe</translation>
+        <translation>CPU Architecture</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation>Fiwesystem pawth two this vewsion</translation>
+        <translation>Filesystem trail to this model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
@@ -18642,25 +18470,25 @@ Awe u sure??</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation>Wewease dayte of this vewsion</translation>
+        <translation>Release date of this model</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation>%1 (instawwed)</translation>
+        <translation>%1 (installed)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="194"/>
         <source>Recommended</source>
-        <translation>Wecommended</translation>
+        <translation>Captain&apos;s Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="198"/>
         <location filename="src_stable/launcher/VersionProxyModel.cpp" line="198"/>
         <source>Latest</source>
-        <translation>Watest</translation>
+        <translation>Latest</translation>
     </message>
 </context>
 <context>
@@ -18669,7 +18497,7 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <location filename="src_stable/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">Oki</translation>
+        <translation type="unfinished">Aye aye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
@@ -18681,19 +18509,19 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <location filename="src_stable/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>Choose Version</source>
-        <translation>Choose Vewsion</translation>
+        <translation>Pick Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <location filename="src_stable/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation>Wewoads the vewsion wist.</translation>
+        <translation>Check th&apos; model list again.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <location filename="src_stable/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Wefwesh</translation>
+        <translation>&amp;Check Again</translation>
     </message>
 </context>
 <context>
@@ -18702,20 +18530,20 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <location filename="src_stable/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Seawch</translation>
+        <translation type="unfinished">Scour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <location filename="src_stable/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
-        <translation>Ewwow</translation>
+        <translation>Fire on the poop deck</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <location filename="src_stable/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation>Wist update faiwed:
+        <translation>List upgrade failed:
 %1</translation>
     </message>
 </context>
@@ -18739,7 +18567,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src_stable/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation>Customize toowbaw actions</translation>
+        <translation>Customize Handy-objectbar actions</translation>
     </message>
 </context>
 <context>
@@ -18759,50 +18587,50 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Name</source>
-        <translation>Nyame</translation>
+        <translation>Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>Game Mode</source>
-        <translation>Game Mowde</translation>
+        <translation>Gamin&apos; Mode</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Last Played</source>
-        <translation>Wast Pwayed</translation>
+        <translation>Last Sailed</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="270"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation>Size</translation>
+        <translation>Weight</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="281"/>
         <source>The name of the world.</source>
-        <translation>The nyame of the wowwd.</translation>
+        <translation>The moniker of th&apos; islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="283"/>
         <source>Game mode of the world.</source>
-        <translation>Game mode of the wowwd.</translation>
+        <translation>Gamin&apos; Mode of the islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="275"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="285"/>
         <source>Date and time the world was last played.</source>
-        <translation>Dayte awnd tyime the wowwd waws wast pwayed.</translation>
+        <translation>Date and time the islands were sailed to.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="277"/>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="287"/>
         <source>Size of the world on disk.</source>
-        <translation>Size of the wowwd on disk.</translation>
+        <translation>Weight of the islands on disk.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/minecraft/WorldList.cpp" line="203"/>
@@ -18844,13 +18672,13 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="71"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="68"/>
         <source>Actions</source>
-        <translation>Awctions</translation>
+        <translation>Things to be done</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="104"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="101"/>
         <source>Add</source>
-        <translation>Awd</translation>
+        <translation>Stow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="109"/>
@@ -18862,24 +18690,24 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="114"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="111"/>
         <source>Rename</source>
-        <translation>Wenyame</translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="119"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="116"/>
         <source>Copy</source>
-        <translation>Cowopy</translation>
+        <translation>Replicate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="124"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="121"/>
         <source>Delete</source>
-        <translation>Dewete</translation>
+        <translation>Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">Toows</translation>
+        <translation type="unfinished">Handy Objects</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
@@ -18907,124 +18735,114 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="129"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="131"/>
         <source>Copy Seed</source>
-        <translation>Cowopy Seed</translation>
+        <translation>Replicate Seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="134"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="136"/>
         <source>Refresh</source>
-        <translation>Wefwesh</translation>
+        <translation>Ruh-fresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="139"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="141"/>
         <source>View Folder</source>
-        <translation>View Fowdew</translation>
+        <translation>Peruse Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="144"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Reset Icon</source>
-        <translation>Weset Icon</translation>
+        <translation>Reset Flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="147"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.ui" line="149"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>Wemove wowwd icon two make the game we-genewate it next time u woad it.</translation>
+        <translation>Remove flag for this sea t&apos; let th&apos; crew re-make &apos;t on th&apos; next voyage.</translation>
     </message>
     <message>
         <source>Datapacks</source>
-        <translation type="vanished">Datapawcks</translation>
+        <translation type="vanished">Mechanical Cargo</translation>
     </message>
     <message>
         <source>Manage datapacks inside the world.</source>
-        <translation type="vanished">Manage datapawcks inside the wowwd.</translation>
+        <translation type="vanished">Manage mechanical cargo in th&apos; islands.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="56"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.h" line="58"/>
         <source>Worlds</source>
-        <translation>Wowwds</translation>
+        <translation>Islands</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
-        <translation>Cwontext menu</translation>
-    </message>
-    <message>
-        <source>This will remove the selected world permenantly.
-The world will be gone forever (A LONG TIME).
-
-Do you want to continue?</source>
-        <translation type="vanished">This wiww wemove the sewected wowwd pewmenyantwy wewmenyantwy.
-The wowwd wiww be gonye fowevew (A WONG TIME).
-
-Do you w-want to continyue?</translation>
+        <translation>Shipside list</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
-        <translation type="vanished">Open Wowwd Datapawcks Fowdew</translation>
+        <translation type="vanished">Open Island Mechanical Cargo Chest</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="316"/>
         <source>Open World in MCEdit</source>
-        <translation>Open Wowwd in MCEdit</translation>
+        <translation>Open Islands in MCEdit</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="336"/>
         <source>No MCEdit found or set up!</source>
-        <translation>Nyo MCEdit found ow set up!</translation>
+        <translation>No MCEdit found or prepped!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="337"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>You do nyot have M-MCEdit set up ow i-it was moved.
-You can set it up i-in the gwobaw s-s-settings.</translation>
+        <translation>Ye don&apos;t have MCEdit prepped or it be misplaced.
+Ye can prep it in th&apos; global settin&apos;s.</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="343"/>
         <source>MCEdit failed to start!</source>
-        <translation>MCEdit faiwed two stawt!!</translation>
+        <translation>MCEdit failed to sail!</translation>
     </message>
     <message>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="344"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation>MCEdit faiwed two stawt!!
-It may be nessessawwy two weinstaww it.</translation>
+        <translation>MCEdit failed to sail.
+May be required t&apos; rebuild it.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="448"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Select a Minecraft world zip</source>
-        <translation>Sewect a Minecwaft wowwd zip</translation>
+        <translation>Pick a Minecraft islands zip chest</translation>
     </message>
     <message>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="vanished">Minecwaft Wowwd Zip Fiwe (*.zip)</translation>
+        <translation type="vanished">Minecraft Islands Zip Chest (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="490"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="429"/>
         <source>Copy World</source>
-        <translation>Cowopy Wowwd</translation>
+        <translation>Replicate Islands</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="475"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>Changing a wowwd whiwe Minecwaft is wuwnning is potentiawwy unsafe!!
-Do you wish two pwoseed??</translation>
+        <translation>Changin&apos; islands while Minecraft be sailin&apos; be risky.
+Savvy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="248"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="194"/>
         <source>Confirm Deletion</source>
-        <translation>Confiwm Dewetion</translation>
+        <translation>Confirm Scuttle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="236"/>
@@ -19033,10 +18851,10 @@ Do you wish two pwoseed??</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>U awe abouwt two dewete &quot;%1&quot;.
-The wowwd may be gone fowevew (A WONG TIME)!!
+        <translation>Yer about to scuttle &quot;%1&quot;.
+The islands may be gone forever (A LONG TIME).
 
-Awe u sure??</translation>
+Savvy?</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="242"/>
@@ -19109,25 +18927,25 @@ Error: %1</source>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>World name</source>
-        <translation>Wowwd nyame</translation>
+        <translation>Islands&apos; moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="498"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Enter a new name for the copy.</source>
-        <translation>Entew a nyew nyame fow the cowopy.</translation>
+        <translation>Enter a new moniker for th&apos; replicated.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="524"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="450"/>
         <source>Rename World</source>
-        <translation>Wename Wowwd</translation>
+        <translation>Change Islands&apos; Moniker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="532"/>
         <location filename="src_stable/launcher/ui/pages/instance/WorldListPage.cpp" line="457"/>
         <source>Enter a new world name.</source>
-        <translation>Entew a nyew wowwd nyame.</translation>
+        <translation>Enter a new moniker for the islands.</translation>
     </message>
 </context>
 <context>
@@ -19136,56 +18954,56 @@ Error: %1</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation>Gettying auwthowization two access %1 sewvices.</translation>
+        <translation>Gettin&apos; permissions t&apos; use %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Unknown STS error for %1 services: %2</source>
         <oldsource>Failed to get authorization for %1 services. Error %2.</oldsource>
-        <translation type="unfinished">Faiwed two get auwthowization fow %1 sewvices. Ewwow %2.</translation>
+        <translation type="unfinished">Navy caught wind of us usin&apos; a stolen flag for %1 services. Error %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation>Unknown STS ewwow fow %1 sewvices: %2</translation>
+        <translation>Unknown STS issue fer %1 services: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="72"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>Faiwed two get auwthowization fow %1 sewvices: %2</translation>
+        <translation>Ship crashed gettin&apos; authorization for %1 services: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="80"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation>Couwd nyot pawse auwthowization wesponse fow access to %1 sewvices.</translation>
+        <translation>Couldn&apos;t get a hold of authorization response for gettin&apos; clearance for %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>Sewvew has changed %1 auwthowization uwsew hash in the wepwy. Something is wwong!!</translation>
+        <translation>Ocean island has changed %1 sailor&apos;s permission hash in th&apos; reply. Somethin&apos; be amiss.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
         <source>Got authorization to access %1</source>
-        <translation>Got auwthowization two access %1</translation>
+        <translation>Got permission t&apos; access %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>Cannot pawse %1 auwthowization ewwow wesponse as JSON: %2</translation>
+        <translation>Can&apos;t understand %1 permission issue reply as JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation>XEww ewement is missing fwom %1 auwthowization ewwow wesponse.</translation>
+        <translation>XErr thing is missin&apos; from %1 permission issue reply.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
@@ -19210,11 +19028,11 @@ Error: %1</source>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
         <oldsource>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</oldsource>
-        <translation type="unfinished">This Micwosoft account doesnt nyot have an Xbox Wive pwofile Buy the Game on %1 fiwst!</translation>
+        <translation type="unfinished">This Microsoft captain ain&apos;t have an XBox Live profile. Trade fer the ship on %1 first.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="vanished">Xbox Live is nyot avaiwabwe in ur countwy. Uve been bwocked.</translation>
+        <translation type="vanished">XBox Live ain&apos;t available in yer waters. Ye&apos;ve been marooned.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="129"/>
@@ -19222,9 +19040,9 @@ Error: %1</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>This Micwosoft account is undewaged a-and is n-nyot winked to a famiwy w-wamiwy.
+        <translation>This Microsoft captain be too young &apos;n&apos; apparently orphaned.
 
-Pwease set up youw account accowding to %1.</translation>
+Please prep yer captain accordin&apos; to %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
@@ -19250,7 +19068,7 @@ Pwease set up youw account accowding to %1.</translation>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>XSTS auwthentication ended with unwecognized ewwow(s):
+        <translation>XSTS authenticatin&apos; done w&apos;th unrecognized issue(s):
 
 %1</translation>
     </message>
@@ -19259,15 +19077,15 @@ Pwease set up youw account accowding to %1.</translation>
     <name>XboxProfileStep</name>
     <message>
         <source>Fetching Xbox profile.</source>
-        <translation type="vanished">Fetching Xbox pwofiwe.</translation>
+        <translation type="vanished">Fetchin&apos; Xbox profile.</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="vanished">Faiwed two wetwieve the Xbox pwofiwe: %1</translation>
+        <translation type="vanished">Failed to retrieve th&apos; Xbox profile: %1</translation>
     </message>
     <message>
         <source>Got Xbox profile</source>
-        <translation type="vanished">Got Xbox pwofiwe</translation>
+        <translation type="vanished">Got Xbox profile</translation>
     </message>
 </context>
 <context>
@@ -19276,7 +19094,7 @@ Pwease set up youw account accowding to %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Wogging in as an Xbox uwsew.</translation>
+        <translation>Loggin&apos; in as an Xbox sailor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
@@ -19294,91 +19112,91 @@ Pwease set up youw account accowding to %1.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
-        <translation type="vanished">Xbox usew auwthentication faiwed: %1</translation>
+        <translation type="vanished">XBox sailor authenticatin&apos; failed: %1</translation>
     </message>
     <message>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="vanished">Xbox usew auwthentication wesponse couwd nyot be undewstood.</translation>
+        <translation type="vanished">XBox sailor authenticatin&apos; reply can&apos;t be understood.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <location filename="src_stable/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation>Got Xbox uwsew token</translation>
+        <translation>Got Xbox sailor doubloon</translation>
     </message>
 </context>
 <context>
     <name>Yggdrasil</name>
     <message>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation type="vanished">Auwthentication sewvew didn&apos;t send a cwient token.</translation>
+        <translation type="vanished">Authenticatin&apos; islands didn&apos;t send a sailor doubloon.</translation>
     </message>
     <message>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation type="vanished">Auwthentication sewvew attempted two change the cwient token. This isn&apos;t suppowted!</translation>
+        <translation type="vanished">Authenticatin&apos; islands attempted t&apos; change th&apos; sailor doubloon. This not be honored.</translation>
     </message>
     <message>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation type="vanished">Auwthentication sewvew didn&apos;t send an access token.</translation>
+        <translation type="vanished">Authenticatin&apos; islands didn&apos;t send an access doubloon.</translation>
     </message>
     <message>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="vanished">Auwthentication sewvew didn&apos;t send a sewected pwofile.</translation>
+        <translation type="vanished">Authenticatin&apos; islands didn&apos;t send a picked profile.</translation>
     </message>
     <message>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="vanished">Auwthentication sewvew didn&apos;t send a UUID in sewected pwofiwe.</translation>
+        <translation type="vanished">Authenticatin&apos; islands didn&apos;t send a UUID in picked profile.</translation>
     </message>
     <message>
         <source>Authentication operation timed out.</source>
-        <translation type="vanished">Auwthentication opewation timed out.</translation>
+        <translation type="vanished">Authenticatin&apos; plan &apos;er out of time.</translation>
     </message>
     <message>
         <source>Authentication operation cancelled.</source>
-        <translation type="vanished">Auwthentication opewation cancewwed.</translation>
+        <translation type="vanished">Authenticatin&apos; plan cancelled.</translation>
     </message>
     <message>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="vanished">&lt;b&gt;SSW H-Handshake faiwed.&lt;/b&gt;&lt;br/&gt;Thewe might be a-a few causes fow it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and nyeed to u-update youw woot cewtificates, pwease instaww a-any outstanding u-updates.&lt;/li&gt;&lt;li&gt;Some device on youw nyetwowk is intewfewing with SSW twaffic. In that case, you have biggew wowwies than Minyecwaft nyot stawting.&lt;/li&gt;&lt;li&gt;Possibwy Wossibwy something ewse. Check the log fiwe fow d-detaiws&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation type="vanished">&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There may be few reasons for &apos;t:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Ye use Windows and need t&apos; upgrade yer root certifications, kindly build any missin&apos; upgrades.&lt;/li&gt;&lt;li&gt;Some machine on yer locale be interferin&apos; with SSL communicatin&apos;. If that be the case ye have bigger monsters lurkin&apos; about, worries worse than Minecraft not sailin&apos;.&lt;/li&gt;&lt;li&gt;Mayhaps somethin&apos; else. Check ye log file for more infos.&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="vanished">The Mojang account nyo wongew exists. It m-may have been migwated to a Micwosoft account.</translation>
+        <translation type="vanished">The Mojang captain no longer exists. May&apos;ve been migrated to be a Microsoft captain.</translation>
     </message>
     <message>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation type="vanished">Auwthentication opewation faiwed due two a netwowk ewwow: %1 (%2)</translation>
+        <translation type="vanished">Authenticatin&apos; plan failed due to a fire in the crow&apos;s nest: %1 (%2)</translation>
     </message>
     <message>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="vanished">Faiwed t-t-to pawse authentication s-sewvew wesponse JSON wesponse: %1 at offset %2.</translation>
+        <translation type="vanished">Failed to understand authenticatin&apos; islands&apos; reply JSON reply: %1 at %2 off.</translation>
     </message>
     <message>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="vanished">A-An unknyown ewwow occuwwed when twying to communyicate with the authentication sewvew: %1</translation>
+        <translation type="vanished">An unknown fire burnt when tryin&apos; t&apos; communicate with th&apos; authenticatin&apos; islands: %1</translation>
     </message>
     <message>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="vanished">An unknyown Yggdwasiw ewwow occuwwed.</translation>
+        <translation type="vanished">An unknown Yggdrasil fire burnt.</translation>
     </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
     <message>
         <source>Logging in with Mojang account.</source>
-        <translation type="vanished">Wogging in with Mojang account.</translation>
+        <translation type="vanished">Loggin&apos; in with Mojang captain.</translation>
     </message>
     <message>
         <source>Logged in with Mojang</source>
-        <translation type="vanished">Logged in with Mojang OwO</translation>
+        <translation type="vanished">On board with Mojang</translation>
     </message>
     <message>
         <source>Mojang user authentication failed.</source>
-        <translation type="vanished">Mojang usew authentication faiwed.</translation>
+        <translation type="vanished">Shiver me timbers! Mojang doesn&apos;t recognize us.</translation>
     </message>
     <message>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="vanished">Mojang usew authentication ended with a n-nyetwowk ewwow.</translation>
+        <translation type="vanished">Mojang sailor authenticatin&apos; ended with a fire in the crow&apos;s nest.</translation>
     </message>
 </context>
 </TS>
