@@ -210,6 +210,14 @@
       "fuzzy": 3,
       "untranslated": 24
     },
+    "es_AR": {
+      "file": "2243935c89d11d46310425bb52d18e03077f16ef.class",
+      "sha1": "2243935c89d11d46310425bb52d18e03077f16ef",
+      "size": 33,
+      "translated": 0,
+      "fuzzy": 0,
+      "untranslated": 2566
+    },
     "es_UY": {
       "file": "575a50ccb605590e7fddf670e455ea8ab651bc91.class",
       "sha1": "575a50ccb605590e7fddf670e455ea8ab651bc91",
