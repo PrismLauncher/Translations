@@ -6568,7 +6568,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
         <source>Use system regional standards</source>
-        <translation>Używaj standardów reginalnych systemu</translation>
+        <translation>Używaj standardów regionalnych systemu</translation>
     </message>
     <message>
         <source>Use system locales</source>
