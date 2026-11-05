@@ -262,8 +262,8 @@
       "file": "45d53865c800b88a600f5efd78540ca0c9c8860b.class",
       "sha1": "45d53865c800b88a600f5efd78540ca0c9c8860b",
       "size": 404109,
-      "translated": 2535,
-      "fuzzy": 4,
+      "translated": 2536,
+      "fuzzy": 3,
       "untranslated": 27
     },
     "fr_CA": {
@@ -563,9 +563,9 @@
       "untranslated": 1587
     },
     "pl": {
-      "file": "949dc025735fd2c0afe92cb6cb50412ea211bc0c.class",
-      "sha1": "949dc025735fd2c0afe92cb6cb50412ea211bc0c",
-      "size": 375367,
+      "file": "ebef72707ebe8f5fc721031b2401ccba7ce3eaae.class",
+      "sha1": "ebef72707ebe8f5fc721031b2401ccba7ce3eaae",
+      "size": 375369,
       "translated": 2504,
       "fuzzy": 14,
       "untranslated": 48
