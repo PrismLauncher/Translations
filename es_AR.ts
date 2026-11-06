@@ -2367,7 +2367,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuración</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2983,12 +2983,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="143"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="144"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por versión del juego</translation>
     </message>
 </context>
 <context>
@@ -3348,7 +3348,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por popularidad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
@@ -3360,7 +3360,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
@@ -3435,7 +3435,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por nombre</translation>
     </message>
 </context>
 <context>
@@ -3982,7 +3982,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuración</translation>
     </message>
 </context>
 <context>
@@ -4165,7 +4165,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="303"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="305"/>
@@ -5500,13 +5500,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por versión del juego</translation>
     </message>
 </context>
 <context>
@@ -7023,7 +7023,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Actualización fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
@@ -9124,7 +9124,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede mostrar este registro porque supera el límite de %1 líneas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="184"/>
@@ -10384,7 +10384,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por popularidad</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
@@ -10395,7 +10395,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
@@ -10416,7 +10416,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por versión del juego</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="270"/>
