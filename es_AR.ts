@@ -649,17 +649,17 @@ Si recién empezás, podés hacer clic en el botón &quot;Agregar Microsoft&quot
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
         <source>[WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[ADVERTENCIA] Un aviso no tan espeluznante.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[DEBUG] Un mensaje de depuración secreto...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[FATAL] ¡Un error fatal y aterrador!</translation>
     </message>
 </context>
 <context>
@@ -667,12 +667,12 @@ Si recién empezás, podés hacer clic en el botón &quot;Agregar Microsoft&quot
     <message>
         <location filename="src/launcher/Application.cpp" line="695"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede mostrar este registro porque supera el límite de %1 líneas.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="922"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1095"/>
@@ -688,12 +688,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instalación tiene un archivo de bloqueo de actualización en: %1
+
+Fecha y hora: %2
+Actualizando de la versión %3 a la %4
+Ruta de destino de la instalación: %5
+Ruta de datos: %6
+Esto probablemente significa que un intento de actualización falló. Por favor, asegurate de que la instalación funcione correctamente antes de continuar.
+Consultá el registro del actualizador de Prism Launcher en:
+%7
+para obtener más detalles sobre el último intento de actualización.
+
+Para eliminar este archivo de bloqueo y continuar, seleccioná &quot;Ignorar&quot; a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización en curso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1140"/>
@@ -703,12 +714,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falló un intento de actualización
+
+Por favor, asegurate de que la instalación funcione correctamente antes de continuar.
+Consultá el registro del actualizador de Prism Launcher en: 
+%1
+para obtener más detalles sobre el último intento de actualización.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1148"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1176"/>
@@ -724,12 +740,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualización completada
+
+Ahora estás ejecutando %1.
+Consultá el registro del actualizador de Prism Launcher en: 
+%2
+para obtener más detalles.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1184"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización completada</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1220"/>
@@ -738,32 +759,36 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tu directorio /tmp está montado actualmente con la opción &apos;noexec&apos; activada.
+Algunas versiones de Minecraft podrían no iniciarse.
+
+Podés resolver este problema volviendo a montar /tmp con la opción &apos;exec&apos; o configurando el argumento de la JVM java.io.tmpdir para que apunte a un directorio con permisos de escritura en un sistema de archivos donde esté activada la opción &apos;exec&apos; (por ejemplo, /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1226"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del sistema incompatible</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2002"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontraron datos antiguos de %1, pero ya existen datos para %2. Lamentablemente, vas a tener que migrarlos por tu cuenta. ¿Querés que te recordemos la próxima vez que inicies %2 que tenés una migración de datos pendiente?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2006"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que ya usaste %1. ¿Querés migrar tus datos a la nueva ubicación de %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2012"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que ya usaste %1 en %2. ¿Querés migrar tus datos a la nueva ubicación de %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2058"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La migración falló! Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -771,40 +796,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando el índice de recursos...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de recursos para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo leer el índice de recursos!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Obteniendo los archivos de recursos desde %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar el índice de recursos:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar los recursos:
+%1</translation>
     </message>
 </context>
 <context>
@@ -813,19 +840,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por popularidad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por versión del juego</translation>
     </message>
 </context>
 <context>
@@ -833,27 +860,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioná mods para instalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar recomendados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar código compartido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar todo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
