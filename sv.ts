@@ -17907,7 +17907,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="376"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -17918,22 +17918,22 @@ Are you sure?</source>
 %4 totalt</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
         <source>Completeness</source>
         <translation>Fullständighet</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>The native language name.</source>
         <translation>Språkets lokala namn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="404"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Fullständighet är antalet procent av fullt översätta meningar, de som har maskinöversatts automatiskt räknas inte.</translation>
     </message>

@@ -13404,7 +13404,7 @@ Are you sure?</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="376"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -13415,22 +13415,22 @@ Are you sure?</source>
 ທັງໝົດ %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
         <source>Language</source>
         <translation>ພາສາ</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
         <source>Completeness</source>
         <translation>ຄວາມສົມບູນ</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>The native language name.</source>
         <translation>ຊື່ພາສາທ້ອງຖິ່ນ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="404"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>ຄວາມສົມບູນແມ່ນເປີເຊັນຂອງຂໍ້ຄວາມທີ່ແປຄົບຖ້ວນແລ້ວ, ບໍ່ລວມເຖິງຂໍ້ຄວາມທີ່ຖືກເດົາໂດຍອັດຕະໂນມັດ.</translation>
     </message>

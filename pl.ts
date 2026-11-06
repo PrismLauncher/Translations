@@ -18234,7 +18234,7 @@ Czy chcesz kontynuować?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="376"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -18245,22 +18245,22 @@ Czy chcesz kontynuować?</translation>
 łącznie: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
         <source>Language</source>
         <translation>Język</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
         <source>Completeness</source>
         <translation>Stan ukończenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>The native language name.</source>
         <translation>Natywna nazwa języka.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="404"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Stan ukończenia jest procentem w pełni przetłumaczonych wyrażeń, nie wliczając tych automatycznie uzupełnionych.</translation>
     </message>

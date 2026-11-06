@@ -17751,7 +17751,7 @@ Bent u zeker?</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="378"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="376"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -17762,22 +17762,22 @@ Bent u zeker?</translation>
 %4 totaal</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
         <source>Language</source>
         <translation>Taal</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="397"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
         <source>Completeness</source>
         <translation>Volledigheid</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>The native language name.</source>
         <translation>De naam van de moedertaal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="406"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="404"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Volledigheid is het percentage aan volledig vertaalde tekenreeksen, waarbij de automatisch ingevulde reeksen niet zijn inbegrepen.</translation>
     </message>
