@@ -6495,7 +6495,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen internetttilkobling</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
@@ -6517,17 +6517,17 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="256"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg spillernavn for offline-modus</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen konto har blitt valgt for å starte</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. Vil du reautentisere denne kontoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="497"/>
@@ -6759,17 +6759,17 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     </message>
     <message>
         <source>&amp;Auto Java Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Automatisk Java-nedlasting:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe hvor Prism Launcher automatisk laster ned Java-versjoner. IKKE sett dette til systemets Java-installasjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation type="unfinished"></translation>
+        <translation>Etter totalt &amp;spilletid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
@@ -6794,17 +6794,17 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;mal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
@@ -6829,7 +6829,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn og vis inkompatible modifikasjoner (eksperimentelt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
@@ -6846,17 +6846,17 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle (stabile, Beta, Alfa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="554"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Bare stabile versjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Stabile og betaversjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="585"/>
@@ -7009,7 +7009,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;ikoner:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -7145,7 +7145,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplisert mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
@@ -7155,7 +7155,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne mappen har allerede blitt lagt til.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
@@ -7180,7 +7180,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansmalmappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -7242,7 +7242,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke starte Minecraft: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7262,27 +7262,27 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Leter etter FML-bibliotek …</translation>
+        <translation>Leter etter FML-bibliotek …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Laster ned FML-bibliotek …</translation>
+        <translation>Laster ned FML-bibliotek …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopierer FML-bibliotek til instansen …</translation>
+        <translation>Kopierer FML-bibliotek til instansen …</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Klarte ikke opprette FML-bibliotekmappe i instansen.</translation>
+        <translation>Klarte ikke opprette FML-bibliotekmappe i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Klarte ikke kopiere Forge/FML-bibliotek: %1.</translation>
+        <translation>Klarte ikke kopiere Forge/FML-bibliotek: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7291,11 +7291,11 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Klarte ikke laste ned følgende filer:
+        <translation>Kunne ikke laste ned følgende filer:
 %1
 
 Årsak:%2
-Prøv på nytt.</translation>
+Prøv igjen.</translation>
     </message>
 </context>
 <context>
@@ -7768,22 +7768,22 @@ Grunn:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke åpne utdatafil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke legge til %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lese og komprimere %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lukke utdatafile: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -7824,7 +7824,7 @@ Grunn:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke pakke ut filen %1 til %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -7882,7 +7882,7 @@ Grunn:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="271"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikk MSA-pollett</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7957,7 +7957,7 @@ Grunn:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikk MSA-pollett</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
@@ -8238,7 +8238,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="328"/>
         <source>Manage &amp;Skins...</source>
-        <translation type="unfinished"></translation>
+        <translation>Håndter &amp;skins...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
@@ -8320,7 +8320,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
         <source>%1 &amp;Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
@@ -8447,7 +8447,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
@@ -8467,12 +8467,12 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne mappen med mods i en filleser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;ikoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
@@ -8502,7 +8502,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kattepakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
@@ -8512,12 +8512,12 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;maler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne malmappen i en filleser.</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -8797,7 +8797,7 @@ Er du sikker?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen instans valg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="946"/>
@@ -8824,7 +8824,7 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1083"/>
         <source>Install modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer modpakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
