@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Paste Service &amp;Type</translation>
+        <translation>Pastebin 服务类型 (&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -311,7 +311,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">已阻止对 %1 进行路径遍历的行为</translation>
+        <translation>已阻止对 %1 进行路径遍历的行为</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
