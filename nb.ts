@@ -13362,7 +13362,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ukjent</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
@@ -14551,7 +14551,7 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bytt modversjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
