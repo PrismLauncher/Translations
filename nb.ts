@@ -299,7 +299,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkert fra å følge sti i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -3672,7 +3672,7 @@ Prøv på nytt.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="387"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkert fra å følge sti i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
@@ -4675,7 +4675,9 @@ Prøv på nytt.</translation>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 er kjent for å komme i konflikt med %2, som er aktivert i denne instansen. Å ha begge aktivert vil antagelig føre til at instansen ikke funker.
+
+Hva vil du gjøre med %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
@@ -5221,7 +5223,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1000"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke kopiere instansmal. Instansen har fortsatt blitt laget, men den har bare delvis fullstendige eller ingen malfiler.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1021"/>
@@ -5941,17 +5943,17 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg en av de funnede Java %1-installasjonene.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
@@ -6177,7 +6179,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk systemets regionsinnstillinger</translation>
     </message>
     <message>
         <source>Use system locales</source>
@@ -6202,26 +6204,30 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjører %1-kommandoen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-kommandoen er tom, hopper over.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1-kommandoen mislyktes med feilkode %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1-kommandoen kjørte uten problem.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6392,7 +6398,7 @@ Vil du prøve demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver profileringsverktøyet ved neste oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
@@ -6438,45 +6444,48 @@ Vil du prøve demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>En feil oppsto under oppfriskning av «%1»</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» har gått ut på og må autentiseres på nytt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogrammets klientinformasjon har endret seg</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» finnes ikke lenger på serverene</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne kontoen eier ikke Minecraft.
+Du må først kjøpe spillet for å spille den fullstendige versjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen konto ble valgt for oppstart.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Har du lyst til å spille demoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg spillernavn til demomodus</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
@@ -6564,7 +6573,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter tilgangspollett for Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
@@ -6580,7 +6589,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>FIkk tilgangspollett til Minecraft</translation>
     </message>
 </context>
 <context>
@@ -6824,7 +6833,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Her vises modifikasjoner som ikke er merket som kompatible med den aktuelle Minecraft-versjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
@@ -6861,7 +6870,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="585"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanslaging</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="591"/>
@@ -6871,7 +6880,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="594"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned spillfiler under laging av instansen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="619"/>
@@ -7019,7 +7028,7 @@ Det kan hende at du må fikse modsene dine, siden spillet logger fortsatt til fi
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligere instansmapper</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="476"/>
@@ -7139,7 +7148,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterlig instansmappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
@@ -7150,7 +7159,7 @@ Det anbefales å gi %1 tilgang til mappen via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne her er allerede hovedinstansmappen din.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
@@ -8452,7 +8461,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogrammets &amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
@@ -8477,7 +8486,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogrammets &amp;logger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
@@ -8814,12 +8823,12 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1065"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig importeringslenke: mangler «url»-parameteret.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig importeringslenke: URL-en må være http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1083"/>
@@ -8833,7 +8842,11 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 
 URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du laste ned og importere en modpack fra:
+%1
+
+URL:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1102"/>
@@ -9241,7 +9254,7 @@ Den kan bare oppdateres med en fil i %1-formatet
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="89"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="95"/>
@@ -9299,7 +9312,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="473"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft oppdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="466"/>
@@ -9388,7 +9401,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="328"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Start &amp;som</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="342"/>
@@ -9413,17 +9426,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1186"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Før innlasting</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1207"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Før oppstart</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1263"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Etter oppstart</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -9665,7 +9678,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikk Minecraft-profil</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9734,12 +9747,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Vis spilltid for instanser</translation>
+        <translation>Vis &amp;spilletid for instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Registrer spilletid brukt på instanser</translation>
+        <translation>&amp;Registrer spilletid brukt på instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
@@ -9779,7 +9792,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="641"/>
         <source>Tweaks</source>
-        <translation type="unfinished">Tilpassninger</translation>
+        <translation>Tilpassninger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="662"/>
@@ -9789,7 +9802,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerer bruk av gamle nettjenester som ikke lenger er i drift.&lt;/p&gt;&lt;p&gt;Gjeldende rettelser inkluderer: skin- og nettmodusstøtte.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
@@ -9939,42 +9952,42 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="536"/>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="543"/>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="550"/>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="557"/>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Alltid bruk siste versjon av Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation type="unfinished">Utgivelse</translation>
+        <translation>Utgave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -9989,12 +10002,12 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk systeminstallasjonen av SDL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sti til SDL-bibliotek:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
@@ -10004,7 +10017,7 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode, for potensielt å forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode, for potensielt å forbedre spillytelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
@@ -10034,7 +10047,7 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL på toppen av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis ingen passende Vulkan-driver blir funnet, vil programvaregjengivelse bli brukt.</translation>
+        <translation>Bruk Zink, en Mesa OpenGL-driver som implementerer OpenGL over av Vulkan. Ytelsen kan variere avhengig av situasjonen. Merk: Hvis ingen passende Vulkan-driver blir funnet, vil programvaregjengivelse bli brukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="865"/>
@@ -10256,42 +10269,42 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanserte filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>KI-innhold</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>KI-innhold (kode)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>KI-innhold (ressurser)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>KI-innhold (tekst)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>KI-innhold (funksjonalitet)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Reklame</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Innhold som kan utløse epilepsianfall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
@@ -10301,37 +10314,37 @@ Det er mest sannsynlig at du må endre banen – se modens nettsted for mer info
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (kan skrus på)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (kan skrus av)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetri (alltid aktiv)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Avledet verk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Betalt funkasjonalitet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -10433,17 +10446,17 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Requires</source>
-        <translation type="unfinished"></translation>
+        <translation>Krever</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreves av</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>File Name</source>
-        <translation type="unfinished">Filnavn</translation>
+        <translation>Filnavn</translation>
     </message>
     <message>
         <source>Update</source>
@@ -10502,17 +10515,17 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="279"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>For hver modifikasjon, antallet andre modifikasjoner som trenger den.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="281"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation type="unfinished"></translation>
+        <translation>For hver modifikasjon, antallet andre modifikasjoner som trenger den.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="283"/>
         <source>The file name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikasjonens filnavn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="498"/>
@@ -10529,29 +10542,33 @@ Advarsel: Denne ressursen er hardlenket fra et annet sted. Å redigere den vil o
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="505"/>
         <source>%n mod(s) will be enabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n modifikasjon vil aktiveres
+</numerusform>
+            <numerusform>%n modifikasjoner vil aktiveres
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="506"/>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Følgende modifikasjoner vil aktiveres:</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
         <source>%n mod(s) will be disabled
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n modifikasjon vil deaktiveres
+</numerusform>
+            <numerusform>%n modifikasjoner vil deaktiveres
+</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="516"/>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>Følgende modifikasjoner vil deaktiveres:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="521"/>
@@ -10571,24 +10588,27 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft aktivering</translation>
     </message>
     <message numerus="yes">
         <source>The enabled mod(s) require %n mod(s).
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Den aktiverte modifikasjonen trenger %n annen modifikasjon.
+</numerusform>
+            <numerusform>De aktiverte modifikasjonene trenger %n andre modifikasjoner.
+</numerusform>
         </translation>
     </message>
     <message>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du aktivere de også?
+Å ikke aktivere dem kan gjøre at spillet ikke kjører.</translation>
     </message>
     <message>
         <source>Only Enable Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver kun valgte</translation>
     </message>
     <message>
         <source>Enable Required</source>
