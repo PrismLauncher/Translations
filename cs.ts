@@ -2472,10 +2472,13 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chystáte se odstranit metadata u %1 datového balíčku.
+Jste si jisti?</numerusform>
+            <numerusform>Chystáte se odstranit metadata u %n datových balíčků.
+Jste si jisti?</numerusform>
+            <numerusform>Chystáte se odstranit metadata u %n datových balíčků.
+Jste si jisti?</numerusform>
         </translation>
     </message>
     <message>
@@ -3409,10 +3412,19 @@ Jste si jisti?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chystáte se odstranit %n položku.
+Tato akce může být trvalá a tato položka ze složky zmizí.
+
+Jste si jisti?</numerusform>
+            <numerusform>Chystáte se odstranit %n položky.
+Tato akce může být trvalá a tyto položky ze složky zmizí.
+
+Jste si jisti?</numerusform>
+            <numerusform>Chystáte se odstranit %n položek.
+Tato akce může být trvalá a tyto položky ze složky zmizí.
+
+Jste si jisti?</numerusform>
         </translation>
     </message>
     <message>
@@ -9658,12 +9670,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit &amp;ikonu skupiny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat &amp;ikonu skupiny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
@@ -9937,7 +9949,7 @@ Opravdu?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat z URL</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10059,17 +10071,17 @@ Ujistěte se také, že důvěřujete adrese URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat z URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte URL pro stažení souboru modpacku:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná adresa URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
