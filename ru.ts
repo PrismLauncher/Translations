@@ -2497,10 +2497,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить метаданные %n набора данных.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов данных.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов данных.
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -2538,9 +2541,9 @@ Are you sure?</source>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Обновление наборов данных при работе игры может привести к созданию дубликатов набора данных и аварийным завершениям работы игры.
-Старые файлы не могут быть удалены, поскольку они используются.
-Продолжить?</translation>
+        <translation>Обновление наборов данных во время игры может привести к дублированию наборов данных и аварийному завершению игры.
+Старые файлы могут не удалиться, так как они используются.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
@@ -2574,8 +2577,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>Удаление метаданных для %1 наборов данных.
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить метаданные наборов данных в количестве %1 шт.
+Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -3423,10 +3426,10 @@ This instance cannot be launched because some libraries are missing or have not 
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Удаление элементов в количестве %1 шт.
-Данное действие может оказаться необратимым и приведёт к удалению элементов из папки.
+        <translation>Вы собираетесь удалить элементы в количестве %1 шт.
+Это действие может быть необратимым, и они исчезнут из папки.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
@@ -3434,10 +3437,19 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n элемент.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n элемента.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n элементов.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -3465,8 +3477,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="297"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Удаление этого ресурса во время работы игры может привести к её сбою.
-Продолжить?</translation>
+        <translation>Удаление этого ресурса во время работы игры может привести к её аварийному завершению.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="390"/>
@@ -7676,7 +7688,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="119"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>Продолжить?</translation>
+        <translation>Вы всё равно хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
@@ -9753,12 +9765,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить &amp;значок группы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить значок &amp;группы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
@@ -10048,7 +10060,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить из URL-адреса</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10170,22 +10182,22 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить из URL-адреса</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите URL-адрес для скачивания файла сборки модов:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый URL-адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите корректный URL-адрес HTTP(S).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -11895,9 +11907,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>Обновление модов при работе игры может привести к дублированию модов и аварийному завершению игры.
-Старые файлы могут не удалиться, если они используются в игре.
-Обновить моды сейчас?</translation>
+        <translation>Обновление модов во время игры может привести к дублированию модов и аварийному завершению игры.
+Старые файлы могут не удалиться, так как они используются.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>The mod updater was aborted!</source>
@@ -11922,8 +11934,8 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>Удаление метаданных %1 модов.
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить метаданные %1 модов.
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
@@ -11935,7 +11947,7 @@ Are you sure?</source>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Изменение версии модов во время игры может привести к дублированию модов и сбоям игре.
+        <translation>Изменение версии модов во время игры может привести к дублированию модов и аварийному завершению игры.
 Старые файлы могут не удалиться, так как они используются.
 Вы уверены, что хотите продолжить?</translation>
     </message>
@@ -11999,8 +12011,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Удаление модов при работающей игре может привести к её аварийному завершению.
-Продолжить?</translation>
+        <translation>Удаление модов во время игры может привести к её аварийному завершению.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
@@ -14643,10 +14655,10 @@ HTTP Status: %2</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Отправка «%1» в %2.
-Необходимо убедиться в отсутствии личной информации.
+        <translation>Вы собираетесь загрузить &quot;%1&quot; в %2.
+Вам следует перепроверить наличие личной информации.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="122"/>
@@ -15865,10 +15877,13 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы выбрали %n ресурс.
+Вы уверены, что хотите закрыть это окно?</numerusform>
+            <numerusform>Вы выбрали %n ресурса.
+Вы уверены, что хотите закрыть это окно?</numerusform>
+            <numerusform>Вы выбрали %n ресурсов.
+Вы уверены, что хотите закрыть это окно?</numerusform>
         </translation>
     </message>
     <message>
@@ -16252,8 +16267,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Включение/выключение этого ресурса при работающей игре может привести к её аварийному завершению.
-Продолжить?</translation>
+        <translation>Включение/выключение этого ресурса во время игры может привести к её аварийному завершению.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
@@ -16495,10 +16510,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить метаданные %n набора ресурсов.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов ресурсов.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов ресурсов.
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -16535,9 +16553,9 @@ Are you sure?</source>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Обновление наборов ресурсов во время работы игры может вызвать дублирование наборов и аварийные завершения игры.
-Старые файлы могут не быть удалены, так как они используются.
-Продолжить?</translation>
+        <translation>Обновление наборов ресурсов во время игры может привести к дублированию наборов и аварийному завершению игры.
+Старые файлы могут не удалиться, так как они используются.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>The resource pack updater was aborted!</source>
@@ -16571,8 +16589,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Удаление метаданных для %1 наборов ресурсов.
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить метаданные наборов ресурсов в количестве %1 шт.
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -16930,10 +16948,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Отправка %1 снимка(-ов) экрана в %2.
-Необходимо убедиться в отсутствии на них личной информации.
+        <translation>Вы собираетесь загрузить снимки экрана в количестве %1 шт. в %2.
+Вам следует перепроверить наличие личной информации.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="410"/>
@@ -16941,10 +16959,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Отправка выбранного снимка экрана в %1.
-Необходимо убедиться в отсутствии на нём личной информации.
+        <translation>Вы собираетесь загрузить снимок экрана в %1.
+Вам следует перепроверить наличие личной информации.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="438"/>
@@ -16964,10 +16982,19 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n снимок экрана.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n снимка экрана.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n снимков экрана.
+Это действие может быть необратимым, и они исчезнут из папки.
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -17003,10 +17030,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Удаление %1 снимка(-ов) экрана.
-Данное действие может оказаться необратимым и приведёт к удалению снимков из папки.
+        <translation>Вы собираетесь удалить снимки экрана в количестве %1 шт.
+Это действие может быть необратимым, и они исчезнут из папки.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="543"/>
@@ -17014,10 +17041,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Удаление выбранного снимка экрана.
-Данное действие может оказаться необратимым и приведёт к удалению снимка из папки.
+        <translation>Вы собираетесь удалить выбранный снимок экрана.
+Это действие может быть необратимым, и он исчезнет из папки.
 
-Продолжить?</translation>
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="549"/>
@@ -17227,10 +17254,19 @@ Currently installed version: %1</source>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n выбранный сервер.
+Это действие необратимо, и сервера исчезнут из вашего списка навсегда (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n выбранных сервера.
+Это действие необратимо, и сервера исчезнут из вашего списка навсегда (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n выбранных серверов.
+Это действие необратимо, и сервера исчезнут из вашего списка навсегда (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -17346,10 +17382,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить метаданные %n набора шейдеров.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов шейдеров.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов шейдеров.
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -17386,9 +17425,9 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Обновление наборов шейдеров во время работы игры может вызвать дублирование наборов и аварийные завершения игры.
-Старые файлы могут не быть удалены, так как они используются.
-Продолжить?</translation>
+        <translation>Обновление наборов шейдеров во время игры может привести к дублированию наборов и аварийному завершению игры.
+Старые файлы могут не удалиться, так как они используются.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>The shader pack updater was aborted!</source>
@@ -17422,8 +17461,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>Удаление метаданных для %1 наборов шейдеров.
-Продолжить?</translation>
+        <translation>Вы собираетесь удалить метаданные наборов шейдеров в количестве %1 шт.
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -18087,7 +18126,7 @@ inheritsFrom отсутствует</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
         <source>The version of the texture pack.</source>
-        <translation>Версия набора ресурсов.</translation>
+        <translation>Версия набора текстур.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
@@ -18237,10 +18276,13 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить метаданные %n набора текстур.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов текстур.
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить метаданные %n наборов текстур.
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -18277,9 +18319,9 @@ Are you sure?</source>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Обновление наборов текстур во время работы игры может вызвать дублирование наборов и аварийные завершения игры.
-Старые файлы могут быть не удалены, поскольку они используются.
-Продолжить?</translation>
+        <translation>Обновление наборов текстур во время игры может привести к дублированию наборов и аварийному завершению игры.
+Старые файлы могут не удалиться, так как они используются.
+Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
         <source>The texture pack updater was aborted!</source>
