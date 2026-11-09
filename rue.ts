@@ -904,7 +904,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найшла ся сумісна верзія Java. Хоснує ся мовчана.</translation>
     </message>
 </context>
 <context>
