@@ -2200,10 +2200,13 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste sonraí a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste sonraí a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste sonraí a bhaint.
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -2961,10 +2964,19 @@ An bhfuil tú cinnte?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -8051,12 +8063,12 @@ Cúis:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Athraigh &amp;deilbhín an ghrúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Deilbhín scrios &amp;grúpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
@@ -8466,7 +8478,7 @@ An bhfuil tú cinnte?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonraigh ó URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="196"/>
@@ -8580,22 +8592,22 @@ Déan cinnte go bhfuil muinín agat as an URL freisin.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuashonraigh ó URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach URL íoslódála an chomhaid modpack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL neamhbhailí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuir isteach URL HTTP(S) bailí, le do thoil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -13394,10 +13406,13 @@ An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá %n acmhainn roghnaithe agat.
+An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</numerusform>
+            <numerusform>Tá %n acmhainn roghnaithe agat.
+An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</numerusform>
+            <numerusform>Tá %n acmhainn roghnaithe agat.
+An bhfuil tú cinnte gur mian leat an dialóg seo a dhúnadh?</numerusform>
         </translation>
     </message>
     <message>
@@ -14000,10 +14015,13 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste acmhainní a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste acmhainní a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste acmhainní a bhaint.
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -14424,10 +14442,19 @@ An bhfuil tú cinnte?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí %n ghabháil scáileáin a scriosadh.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n ghabháil scáileáin a scriosadh.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n ghabháil scáileáin a scriosadh.
+D’fhéadfadh sé seo a bheith buan, agus imeoidh siad ón bhfillteán.
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -14688,10 +14715,19 @@ Leagan suiteáilte faoi láthair: %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí na %n freastalaí atá roghnaithe a bhaint.
+Tá sé seo buan, agus imeoidh na freastalaithe ó do liosta go deo (TRÉIMHSE AN-FHADA).
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na %n freastalaí atá roghnaithe a bhaint.
+Tá sé seo buan, agus imeoidh na freastalaithe ó do liosta go deo (TRÉIMHSE AN-FHADA).
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na %n freastalaí atá roghnaithe a bhaint.
+Tá sé seo buan, agus imeoidh na freastalaithe ó do liosta go deo (TRÉIMHSE AN-FHADA).
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -14798,10 +14834,13 @@ An bhfuil tú cinnte?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste scáthaithe a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste scáthaithe a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste scáthaithe a bhaint.
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -15556,10 +15595,13 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste uigeachta a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste uigeachta a bhaint.
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí na meiteashonraí do %n pacáiste uigeachta a bhaint.
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
