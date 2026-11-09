@@ -2492,8 +2492,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个数据包的元数据。
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -3427,8 +3428,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个项目。
+这可能是永久性的，它们将从文件夹中消失。
+
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -9694,12 +9698,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>更改群组图标 (&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>删除群组图标 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
@@ -9987,7 +9991,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>从 URL 更新</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10109,22 +10113,22 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>从 URL 更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入整合包文件的下载 URL：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入有效的 HTTP(S) URL。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -15727,8 +15731,9 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你已经选中了%1项资源。
+确定要关闭这个对话框吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -16355,8 +16360,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个资源包的元数据。
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -16822,8 +16828,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 张截图。
+这可能将其从文件夹中永久删除。
+
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -17079,8 +17088,11 @@ Currently installed version: %1</source>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个选中的服务器。
+这些服务器将从你的服务器列表永久删除（真的很久）。
+
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -17195,8 +17207,9 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个光影包的元数据。
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -18084,8 +18097,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %1 个纹理包的元数据。
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
