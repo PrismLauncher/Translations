@@ -2204,7 +2204,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sobrescribir la configuración &amp;global</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -4068,7 +4068,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
@@ -6123,7 +6123,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="710"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
@@ -8871,7 +8871,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="106"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sin grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
@@ -8886,7 +8886,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En Windows, puede que se necesiten permisos de administrador para crear enlaces simbólicos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
@@ -8901,7 +8901,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="176"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="224"/>
@@ -9235,7 +9235,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayuda</translation>
     </message>
 </context>
 <context>
@@ -10118,7 +10118,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="142"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (en uso)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="108"/>
