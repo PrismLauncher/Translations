@@ -10144,7 +10144,7 @@ Certifique-se também de confiar no URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL inválida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
