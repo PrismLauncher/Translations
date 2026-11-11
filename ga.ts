@@ -742,32 +742,32 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
         <translation>Réamhamharc</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="280"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[EARRÁID] OOoooOOOoooo! Earráid taibhsiúil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="282"/>
         <source>[ERROR] A spooky error!</source>
         <translation>[EARRÁID] Earráid taibhsiúil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="284"/>
         <source>[INFO] A harmless message...</source>
         <translation>[EOLAS] Teachtaireacht gan dochar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="285"/>
         <source>[WARN] A not so spooky warning.</source>
         <translation>[RABHADH] Ní rabhadh ró-scanrúil é seo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="286"/>
         <source>[DEBUG] A secret debugging message...</source>
         <translation>[DÍFHABHTÚ] Teachtaireacht dífhabhtúcháin faoi rún...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="287"/>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[MARFACH] Earráid mharfach scanrúil!</translation>
     </message>
@@ -2787,163 +2787,163 @@ Ní féidir an sampla seo a sheoladh mar gheall ar easpa leabharlann nó nár í
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>Actions</source>
         <translation>Gníomhartha</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="134"/>
         <source>&amp;Remove</source>
         <translation>&amp;Bain</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="145"/>
         <source>&amp;Enable</source>
         <translation>Cumasaigh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="156"/>
         <source>&amp;Disable</source>
         <translation>&amp;Díchumasaigh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="148"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
         <translation>Cumasaigh na míreanna roghnaithe go léir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="90"/>
         <source>Search</source>
         <translation>Cuardaigh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>&amp;Add File</source>
         <translation>Cuir Comh&amp;ad Leis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="126"/>
         <source>Add a locally downloaded file.</source>
         <translation>Cuir comhad a íoslódáileadh go háitiúil leis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="137"/>
         <source>Remove all selected items.</source>
         <translation>Bain na míreanna roghnaithe go léir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
         <source>Disable all selected items.</source>
         <translation>Díchumasaigh na míreanna roghnaithe go léir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="164"/>
         <source>View &amp;Configs</source>
         <translation>Féach &amp;Cumraíochtaí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="167"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>Oscail an fillteán &apos;config&apos; i mbainisteoir comhad an chórais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="172"/>
         <source>View &amp;Folder</source>
         <translation>Amharc ar &amp;Fhillteán</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="175"/>
         <source>Open the folder in the system file manager.</source>
         <translation>Oscail an fillteán i mbainisteoir comhad an chórais.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="183"/>
         <source>&amp;Download</source>
         <translation>Íosló&amp;dáil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="186"/>
         <source>Download resources from online mod platforms.</source>
         <translation>Íoslódáil acmhainní ó ardáin mod ar líne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
         <translation>Déan iarracht na hacmhainní roghnaithe go léir a sheiceáil nó a nuashonrú (na hacmhainní go léir mura bhfuil aon cheann roghnaithe).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="202"/>
         <source>Reset Update Metadata</source>
         <translation>Athshocraigh Meiteashonraí Nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="210"/>
         <source>Verify Dependencies</source>
         <translation>Fíoraigh Spleáchais</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="221"/>
         <source>Export List</source>
         <translation>Liosta Easpórtála</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="224"/>
         <source>Export resource&apos;s metadata to text.</source>
         <translation>Easpórtáil meiteashonraí na hacmhainne go téacs.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="232"/>
         <source>Change Version</source>
         <translation>Athraigh Leagan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="235"/>
         <source>Change a resource&apos;s version.</source>
         <translation>Athraigh leagan acmhainne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="246"/>
         <source>View Homepage</source>
         <translation>Féach ar an Leathanach Baile</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>View the homepages of all selected items.</source>
         <translation>Féach ar leathanaigh bhaile na míreanna roghnaithe go léir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="254"/>
         <source>Lock Updates</source>
         <translation>Nuashonruithe Glasála</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="257"/>
         <source>Lock the resource to prevent it from being updated</source>
         <translation>Glasáil an acmhainn chun cosc a chur ar í a nuashonrú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="262"/>
         <source>Unlock Updates</source>
         <translation>Díghlasáil Nuashonruithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="265"/>
         <source>Unlock the resource to allow it to be updated</source>
         <translation>Díghlasáil an acmhainn chun ligean di a bheith nuashonraithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="181"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="194"/>
         <source>Check for &amp;Updates</source>
         <translation>Seiceáil ar N&amp;uashonruithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
         <source>Context menu</source>
         <translation>Roghchlár comhthéacs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Roghnaigh %1</translation>
@@ -2959,7 +2959,7 @@ D’fhéadfadh sé seo a bheith buan agus imeoidh siad as an bhfillteán.
 An bhfuil tú cinnte?</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="266"/>
         <source>You are about to remove %n items.
 This may be permanent and they will be gone from the folder.
 
@@ -2980,7 +2980,7 @@ An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2991,38 +2991,63 @@ D’fhéadfadh sé seo a bheith buan agus imeoidh sé ón bhfillteán tuismitheo
 An bhfuil tú cinnte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>Deimhnigh Baint</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm Delete</source>
         <translation>Deimhnigh Scrios</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Má bhaineann tú an acmhainn seo agus an cluiche ar siúl, d’fhéadfadh sé go dtitfeadh an cluiche.
 An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="390"/>
-        <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation> (%1 suiteáilte, %2 cumasaithe, %3 roghnaithe)</translation>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
+        <source>%n items selected</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
+        <source>%n search results</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
+        <source>%1 installed and enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
+        <source>%1 installed, %2 enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (%1 installed, %2 enabled, %3 selected)</source>
+        <translation type="vanished"> (%1 suiteáilte, %2 cumasaithe, %3 roghnaithe)</translation>
+    </message>
+    <message>
         <source> (%1 installed, %2 enabled)</source>
-        <translation> (%1 suiteáilte, %2 cumasaithe)</translation>
+        <translation type="vanished"> (%1 suiteáilte, %2 cumasaithe)</translation>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 suiteáilte, %2 roghnaithe)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="398"/>
         <source> (%1 installed)</source>
         <translation> (%1 suiteáilte)</translation>
     </message>
@@ -7913,7 +7938,7 @@ Cúis:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Cuntais</translation>
     </message>
@@ -7980,8 +8005,8 @@ Cúis:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1754"/>
         <source>No instance selected</source>
         <translation>Níor roghnaíodh aon chás</translation>
     </message>
@@ -7991,13 +8016,13 @@ Cúis:
         <translation>Am súgartha iomlán: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Cruthaigh ásc</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>Scrios grúpa</translation>
@@ -8008,7 +8033,7 @@ Cúis:
         <translation>Níor cuireadh aon chuntais leis!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -8023,21 +8048,21 @@ Cúis:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1118"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="855"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="952"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="993"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1017"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1464"/>
         <source>Error</source>
         <translation>Earráid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="859"/>
         <source>Warnings</source>
         <translation>Rabhaidh</translation>
     </message>
@@ -8055,23 +8080,23 @@ Cúis:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1763"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
         <source>No Instance Selected</source>
         <translation>Níl aon chás roghnaithe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
         <translation>Athraigh &amp;deilbhín an ghrúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
         <translation>Deilbhín scrios &amp;grúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
@@ -8080,27 +8105,27 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 Ní thacaíonn Prism Launcher faoi láthair ach le naisc modpack ar nós modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Tá an modpack, an mod, nó an acmhainn %1 blocáilte do thríú páirtithe! Íoslódáil de láimh é le do thoil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Nasc allmhairithe neamhbhailí: paraiméadar &apos;url&apos; ar iarraidh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Nasc allmhairithe neamhbhailí: ní mór don URL a bheith http(anna).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1090"/>
         <source>Install modpack</source>
         <translation>Suiteáil modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1094"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -8113,59 +8138,59 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1109"/>
         <source>Modpack download</source>
         <translation>Íoslódáil Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1149"/>
         <source>No instance!</source>
         <translation>Gan aon shampla!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Níl aon sampla ar fáil chun an acmhainn a chur leis. 
 Cruthaigh sampla nua sula ndéanann tú iarracht an acmhainn seo a shuiteáil arís.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Group name</source>
         <translation>Ainm an ghrúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>Enter a new group name.</source>
         <translation>Cuir isteach ainm nua don ghrúpa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
         <source>Delete group</source>
         <translation>Scrios grúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Failed to undo trashing instance</source>
         <translation>Theip ar an gcás a chur sa bhruscar a chealú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1334"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Níorbh fhéidir roinnt samplaí agus aicearraí a athchóiriú.
 Seiceáil do bhruscar le do thoil chun iad a athchóiriú de láimh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>Instance not editable</source>
         <translation>Ní féidir an sampla a chur in eagar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Ní féidir an cás seo a chur in eagar. Seans go bhfuil sé briste, neamhbhailí, nó róshean. Seiceáil na logaí le haghaidh sonraí.</translation>
     </message>
@@ -8178,37 +8203,37 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Cuireadh %1 leis an PATH go rathúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>Cuireadh %1 le do PATH go rathúil. Is féidir leat é a thosú anois trí `%2` a rith.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Theip ar %1 a chur leis an PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Tharla earráid agus iarracht á déanamh %1 a chur leis an PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Ní féidir an cás atá ag rith a scriosadh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1539"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Tá an sampla roghnaithe ag rith faoi láthair agus ní féidir é a scriosadh. Stop an sampla le do thoil sula ndéanann tú iarracht é a scriosadh.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1547"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> agus a aicearra cláraithe %n</numerusform>
@@ -8217,7 +8242,7 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1551"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
         <source>Confirm Deletion</source>
         <translation>Dearbhaigh Scrios</translation>
     </message>
@@ -8312,37 +8337,37 @@ Ar mhaith leat dul ar aghaidh?</numerusform>
         <translation type="vanished">Theip ar ásc aicearra a chruthú!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
         <translation>Athainmnigh g&amp;rúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>An bhfuil tú cinnte gur mian leat an grúpa &apos;%1&apos; a scriosadh?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>Rename group</source>
         <translation>Athainmnigh an grúpa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Cannot rename group</source>
         <translation>Ní féidir an grúpa a athainmniú</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Cannot set empty name.</source>
         <translation>Ní féidir ainm folamh a shocrú.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Group already exists. :/</source>
         <translation>Tá an grúpa ann cheana féin. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1468"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1465"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -8351,7 +8376,7 @@ Chun taisce na meiteashonraí a ghlanadh de láimh, téigh chuig Fillteáin -&gt
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -8362,7 +8387,7 @@ D’fhéadfadh sé seo a bheith buan agus scriosfaidh sé an sampla go hiomlán.
 An bhfuil tú cinnte?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
         <source>Deleting</source>
         <translation>Ag scriosadh</translation>
     </message>
@@ -8375,32 +8400,32 @@ An bhfuil tú cinnte?</translation>
         <translation>Athainmnigh an Cás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1772"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Tá &apos;!&apos; i do fhillteán samplaí agus is eol go mbíonn fadhbanna Java mar thoradh air seo!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1776"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1773"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Tá dhá rogha agat anois: &lt;br/&gt; - athraigh an fillteán samplach sna socruithe &lt;br/&gt; - bog an suiteáil seo de %1 go fillteán difriúil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1784"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1781"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Is fadhb í seo: &lt;br/&gt; - Is dócha go scriosfaidh an córas oibriúcháin an lainseálaí gan rabhadh &lt;br/&gt; - dún an lainseálaí anois agus bain é chuig suíomh fíor, ní fillteán sealadach</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1790"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Tá &apos;Rar$&apos; i do fhillteán samplach - ciallaíonn sé sin nach bhfuil cartlann an lainseálaí bainte amach agat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1793"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Tá d&apos;fhillteán samplach i bhfillteán sealadach: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1809"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1806"/>
         <source>Total playtime: %1</source>
         <translation>Am imeartha iomlán: %1</translation>
     </message>
@@ -8423,12 +8448,12 @@ An bhfuil tú cinnte?</translation>
         <translation>Oscail an blag forbartha chun tuilleadh nuachta faoi %1 a léamh.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="811"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Ag lódáil nuacht...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Níl aon nuacht ar fáil.</translation>
     </message>

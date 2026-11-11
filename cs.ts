@@ -930,32 +930,32 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="270"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="280"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[CHYBA] OOoooOOOoooo! Děsivá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="272"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="282"/>
         <source>[ERROR] A spooky error!</source>
         <translation>[CHYBA] Děsivá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="274"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="284"/>
         <source>[INFO] A harmless message...</source>
         <translation>[INFO] Neškodná zpráva...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="275"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="285"/>
         <source>[WARN] A not so spooky warning.</source>
         <translation>[VAROVÁNÍ] Ne tak děsivé varování.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="276"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="286"/>
         <source>[DEBUG] A secret debugging message...</source>
         <translation>[LADĚNÍ] Tajná ladicí zpráva...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="277"/>
+        <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="287"/>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATÁLNÍ] Děsuplná fatální chyba!</translation>
     </message>
@@ -3182,7 +3182,7 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Filtr:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>Actions</source>
         <translation>Akce</translation>
     </message>
@@ -3195,7 +3195,7 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Přidat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="134"/>
         <source>&amp;Remove</source>
         <translation>&amp;Odebrat</translation>
     </message>
@@ -3204,7 +3204,7 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Odebrat vybranou položku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="145"/>
         <source>&amp;Enable</source>
         <translation>&amp;Povolit</translation>
     </message>
@@ -3213,133 +3213,133 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Povolit vybranou položku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="156"/>
         <source>&amp;Disable</source>
         <translation>&amp;Zakázat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="148"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
         <translation>Povolit všechny vybrané položky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="90"/>
         <source>Search</source>
         <translation>Hledat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>&amp;Add File</source>
         <translation>&amp;Přidat soubor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="113"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="126"/>
         <source>Add a locally downloaded file.</source>
         <translation>Přidat lokálně stažený soubor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="137"/>
         <source>Remove all selected items.</source>
         <translation>Odstranit všechny vybrané položky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
         <source>Disable all selected items.</source>
         <translation>Zakázat všechny vybrané položky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="164"/>
         <source>View &amp;Configs</source>
         <translation>Zobrazit &amp;nastavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="167"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>Otevřít složku &apos;config&apos; v souborovém prohlížeči.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="172"/>
         <source>View &amp;Folder</source>
         <translation>Zobrazit &amp;složku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="175"/>
         <source>Open the folder in the system file manager.</source>
         <translation>Otevřít složku v systémovém správci souborů.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="183"/>
         <source>&amp;Download</source>
         <translation>&amp;Stáhnout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="186"/>
         <source>Download resources from online mod platforms.</source>
         <translation>Stáhnout zdroje z online platforem s modifikacemi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
         <translation>Pokusit se zkontrolovat nebo aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není vybrán žádný).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="202"/>
         <source>Reset Update Metadata</source>
         <translation>Resetovat metadata aktualizací</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="210"/>
         <source>Verify Dependencies</source>
         <translation>Ověřit závislosti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="221"/>
         <source>Export List</source>
         <translation>Exportovat seznam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="224"/>
         <source>Export resource&apos;s metadata to text.</source>
         <translation>Exportovat metadata zdroje do textového souboru.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="232"/>
         <source>Change Version</source>
         <translation>Změnit verzi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="235"/>
         <source>Change a resource&apos;s version.</source>
         <translation>Změnit verzi zdroje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="246"/>
         <source>View Homepage</source>
         <translation>Zobrazit domovskou stránku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>View the homepages of all selected items.</source>
         <translation>Zobrazit domovské stránky všech vybraných položek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="254"/>
         <source>Lock Updates</source>
         <translation>Zamknout Aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="244"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="257"/>
         <source>Lock the resource to prevent it from being updated</source>
         <translation>Zamkněte zdroje abyste předešli jejich aktualizacím</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="262"/>
         <source>Unlock Updates</source>
         <translation>Odemknout Aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="265"/>
         <source>Unlock the resource to allow it to be updated</source>
         <translation>Odemkněte zdroje abyste povolili aktualizace</translation>
     </message>
@@ -3348,7 +3348,7 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Stáhnout nový zdroj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="181"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="194"/>
         <source>Check for &amp;Updates</source>
         <translation>Zkontrolovat &amp;aktualizace</translation>
     </message>
@@ -3386,12 +3386,12 @@ Tuto instanci nelze spustit, protože některé knihovny chybí nebo ještě neb
         <translation type="vanished">Odstranit metadata modu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Vybrat %1</translation>
@@ -3407,7 +3407,7 @@ Tato akce může být trvalá a tyto položky ze složky zmizí.
 Jste si jisti?</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="266"/>
         <source>You are about to remove %n items.
 This may be permanent and they will be gone from the folder.
 
@@ -3428,7 +3428,7 @@ Jste si jisti?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -3439,31 +3439,57 @@ Tato akce může být trvalá a složka z nadřazené složky zmizí.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm Delete</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Pokud tento prostředek odstraníte během hry, může dojít k pádu hry.
 Opravdu to chcete udělat?</translation>
     </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="390"/>
-        <source> (%1 installed, %2 enabled, %3 selected)</source>
-        <translation> (%1 nainstalováno, %2 povoleno, %3 vybráno)</translation>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
+        <source>%n items selected</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
+        <source>%n search results</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
+        <source>%1 installed and enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
+        <source>%1 installed, %2 enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (%1 installed, %2 enabled, %3 selected)</source>
+        <translation type="vanished"> (%1 nainstalováno, %2 povoleno, %3 vybráno)</translation>
+    </message>
+    <message>
         <source> (%1 installed, %2 enabled)</source>
-        <translation> (%1 nainstalováno, %2 povoleno)</translation>
+        <translation type="vanished"> (%1 nainstalováno, %2 povoleno)</translation>
     </message>
     <message>
         <source>Confirm disable</source>
@@ -3480,7 +3506,6 @@ Jste si jisti, že to chcete udělat?</translation>
         <translation> (%1 nainstalováno, %2 vybráno)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="398"/>
         <source> (%1 installed)</source>
         <translation> (%1 nainstalováno)</translation>
     </message>
@@ -9374,8 +9399,8 @@ Důvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1754"/>
         <source>No instance selected</source>
         <translation>Nebyla vybrána žádná instance</translation>
     </message>
@@ -9389,13 +9414,13 @@ Důvod:
         <translation type="vanished">Profily</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>&amp;Vytvořit instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Odstranit skupinu</translation>
@@ -9430,7 +9455,7 @@ Důvod:
         <translation>Nebyly přidány žádné účty!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -9445,17 +9470,17 @@ Důvod:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="811"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
         <source>Loading news...</source>
         <translation>Načítání novinek...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
         <source>No news available.</source>
         <translation>Žádné novinky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="862"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="859"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
@@ -9480,28 +9505,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Přidjete prosím svůj účet Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod nebo zdroj %1 je blokován třetím stranám! Stáhněte si jej prosím ručně.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1109"/>
         <source>Modpack download</source>
         <translation>Stáhnutí modpacku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>Group name</source>
         <translation>Název skupiny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1265"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>Enter a new group name.</source>
         <translation>Zadejte nový název skupiny.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
         <source>Delete group</source>
         <translation>Odstranit skupinu</translation>
     </message>
@@ -9510,19 +9535,19 @@ Přidjete prosím svůj účet Microsoft.</translation>
         <translation type="vanished">Opravdu chcete odstranit skupinu %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>Instance not editable</source>
         <translation>Instanci nelze upravit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1437"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Tuto instanci nelze upravovat. Může být nefunkční, neplatná nebo příliš stará. Podrobnosti najdete v protokolech.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1468"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1465"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
@@ -9531,27 +9556,27 @@ Pro ruční vymazání mezipaměti metadat stiskněte Složky -&gt; Data launche
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 úspěšně přidán do PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 byl úspěšně přidán do vaší PATH. Nyní jej můžete spustit zadáním `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Nepodařilo se přidat %1 do PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Při přidávání %1 do PATH došlo k chybě</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1551"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
         <source>Confirm Deletion</source>
         <translation>Potvrdit odstranění</translation>
     </message>
@@ -9657,28 +9682,28 @@ Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1763"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
         <source>No Instance Selected</source>
         <translation>Není vybrána žádná instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Přejmenovat skupinu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
         <translation>Změnit &amp;ikonu skupiny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
         <translation>Smazat &amp;ikonu skupiny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
@@ -9687,22 +9712,22 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 Prism Launcher momentálně podporuje pouze linky modpacků jako modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Neplatný odkaz k importu: chybějící parametr „url“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Neplatný odkaz k importu: adresa musí být http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1090"/>
         <source>Install modpack</source>
         <translation>Nainstalovat modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1094"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9715,49 +9740,49 @@ Adresa:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1149"/>
         <source>No instance!</source>
         <translation>Žádná instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Není dostupná žádná instance, ke které by se dala modifikace přidat.
 Před opětovným pokusem o instalaci této modifikace prosím vytvořte novou instanci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Opravdu chcete odstranit skupinu „%1“?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>Rename group</source>
         <translation>Přejmenovat skupinu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Cannot rename group</source>
         <translation>Nepodařilo se přejmenovat skupinu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Cannot set empty name.</source>
         <translation>Nelze nastavit prázdné jméno.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Group already exists. :/</source>
         <translation>Skupina již existuje. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Failed to undo trashing instance</source>
         <translation>Nepodařilo se obnovit instanci z koše</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1334"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Nepodařilo se obnovit některé instance a zástupce.
@@ -9772,17 +9797,17 @@ Pro ruční vymazání mezipaměti klikněte na Složky -&gt; Otevřít kořenov
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Nepodařilo se odstranit běžící instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1539"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Zvolená instance právě běží a nelze ji odstranit. Před dalším pokusem o odstranění ji prosím zastavte.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1547"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> a její %n registrovaný zástupce</numerusform>
@@ -9791,7 +9816,7 @@ Pro ruční vymazání mezipaměti klikněte na Složky -&gt; Otevřít kořenov
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9802,7 +9827,7 @@ Tato akce může být trvalá a kompletně smaže instanci.
 Opravdu?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
         <source>Deleting</source>
         <translation>Smazání</translation>
     </message>
@@ -9835,46 +9860,46 @@ Opravdu?</translation>
         <translation>Přejmenovat Instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1772"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Složka vaší instance obsahuje znak &apos;!&apos;. Java s má s tímto často problém!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1776"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1773"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Nyní máte dvě možnosti: &lt;br/&gt; - změnit složku instance v nastavení &lt;br/&gt; - přesunout tuto instalaci %1 do jiné složky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1784"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1781"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Toto je problém: &lt;br/&gt; - Launcher bude pravděpodobně smazán operačním systémem bez varování &lt;br/&gt; - ihned zavřete launcher a extrahujte jej do reálné složky, ne do dočasné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1790"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Složka vaší instance obsahuje &apos;Rar$&apos; - to znamená, že jste neextrahovali archiv launcheru!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1793"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Složka vaší instance je v dočasné složce: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1809"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1806"/>
         <source>Total playtime: %1</source>
         <translation>Celková doba hraní: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1075"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1118"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="855"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="952"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="993"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1017"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1464"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -9890,7 +9915,7 @@ Opravdu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Účty</translation>
     </message>
