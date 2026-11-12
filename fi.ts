@@ -2408,9 +2408,11 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa metadatan %n datapakkaukselle.
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa metadatan %n datapakkaukselle.
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -3292,9 +3294,15 @@ Oletko varma?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa %n kohdetta.
+Tämä saattaa olla pysyvää ja ne katoavat kansiosta.
+
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa %n kohdetta.
+Tämä saattaa olla pysyvää ja ne katoavat kansiosta.
+
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -3328,28 +3336,28 @@ Oletko varma, että haluat tehdä näin?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n kohde valittu</numerusform>
+            <numerusform>%n kohdetta valittu</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n hakutulos</numerusform>
+            <numerusform>%n hakutulosta</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 asennettu ja otettu käyttöön</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 asennettu, %2 otettu käyttöön</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -9027,12 +9035,12 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta ryhmän &amp;kuvake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista &amp;ryhmän kuvake</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
@@ -9430,7 +9438,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä URL:stä</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9552,22 +9560,22 @@ Varmista luottamuksesi URL:ään.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä URL:stä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Syötä modipakkaustiedoston latauslinkki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Syötä kelvollinen HTTP(S)-linkki.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -14768,9 +14776,11 @@ Oletko varma että haluat sulkea tämän dialogin?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Sinulla on %n valittu resurssi.
+Oletko varma, että haluat sulkea tämän ikkunan?</numerusform>
+            <numerusform>Sinulla on %n valittua resurssia.
+Oletko varma, että haluat sulkea tämän ikkunan?</numerusform>
         </translation>
     </message>
     <message>
@@ -15385,9 +15395,11 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa metadatan %n resurssipakkaukselle.
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa metadatan %n resurssipakkaukselle.
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -15829,9 +15841,15 @@ Oletko varma?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa %n kuvakaappauksen.
+Tämä saattaa olla pysyvää ja se katoaa kansiosta.
+
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa %n kuvakaappausta.
+Tämä saattaa olla pysyvää ja ne katoavat kansiosta.
+
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -16083,9 +16101,15 @@ Tällä hetkellä asennettu versio: %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa %n valitun palvelimen.
+Tämä on pysyvää ja palvelin katoaa listastasi ikuisesti (TODELLA PITKÄ AIKA).
+
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa %n valittua palvelinta.
+Tämä on pysyvää ja palvelimet katoavat listastasi ikuisesti (TODELLA PITKÄ AIKA).
+
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -16200,9 +16224,11 @@ Oletko varma?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa metadatan %n shader-pakkaukselle.
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa metadatan %n shader-pakkaukselle.
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -17052,9 +17078,11 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Olet poistamassa metadatan %n tekstuuripakkaukselle.
+Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa metadatan %n tekstuuripakkaukselle.
+Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
