@@ -2190,12 +2190,12 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando la propiedad del juego.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencias del juego obtenidas</translation>
     </message>
 </context>
 <context>
@@ -2203,37 +2203,37 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="105"/>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="110"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Agregar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Sobrescribir la configuración &amp;global</translation>
+        <translation>Sobrescribir la configuración &amp;global</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vaciar</translation>
     </message>
 </context>
 <context>
@@ -2241,37 +2241,37 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="92"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="157"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo exportar la instancia</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -2279,110 +2279,110 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descripción</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versión:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Resumen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="114"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Memoria recomendada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation> MiB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marcar los archivos desactivados como opcionales</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="54"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar modpack de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar modpack de CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="165"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="172"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack de CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea abortada</translation>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>El usuario abortó la tarea.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -2390,47 +2390,47 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar como lista de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto sin formato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -2440,30 +2440,35 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Este texto admite los siguientes marcadores de posición:
+{name}     - Nombre del mod
+{mod_id}   - ID del mod
+{url}      - URL del mod
+{version}  - Versión del mod
+{authors}  - Autores del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Información opcional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="105"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="133"/>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
