@@ -3010,30 +3010,30 @@ An bhfuil tú cinnte gur mhaith leat é seo a dhéanamh?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mír roghnaithe</numerusform>
+            <numerusform>%n mhír roghnaithe</numerusform>
+            <numerusform>%n mír roghnaithe</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n torthaí cuardaigh</numerusform>
+            <numerusform>%n thoradh cuardaigh</numerusform>
+            <numerusform>%n toradh cuardaigh</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá %1 suiteáilte agus cumasaithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 suiteáilte, %2 cumasaithe</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
