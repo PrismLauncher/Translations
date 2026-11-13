@@ -2603,7 +2603,7 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentar comprobar o actualizar todos los recursos seleccionados (todos si no hay ninguno seleccionado).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="202"/>
