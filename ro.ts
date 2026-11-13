@@ -298,7 +298,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Traversarea diretoarelor a fost blocată in %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -1367,7 +1367,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea Java %1 fixată în setări nu există: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
