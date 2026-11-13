@@ -2449,8 +2449,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のデータパックのメタデータを削除しようとしています。
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -3380,8 +3381,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個の項目を削除しようとしています。
+この操作は取り消せない場合があり、フォルダから完全に削除されます。
+
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -3415,26 +3419,26 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のアイテムが選択されました</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 件の検索結果</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 がインストールされ、有効化されました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 がインストールされ、有効化されました</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -9355,12 +9359,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>グループを変更する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>「&amp;group」アイコンを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
@@ -9609,7 +9613,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URLからの更新</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9731,22 +9735,22 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URLからの更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>MODパックファイルのダウンロードURLを入力してください：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>無効なURL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>有効な HTTP(S) URL を入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -15089,8 +15093,9 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>選択されているリソースは %n 個あります。
+このダイアログを閉じてもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -15705,8 +15710,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のリソースパックのメタデータを削除しようとしています。
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16160,8 +16166,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 枚のスクリーンショットを削除しようとしています。
+この操作は取り消せない場合があり、フォルダから完全に削除されます。
+
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16417,8 +16426,11 @@ Currently installed version: %1</source>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 台の選択されたサーバーを削除しようとしています。
+この操作は取り消せません。サーバーはリストから永久に（かなり長い間）削除されます。
+
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16533,8 +16545,9 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 個のシェーダーパックのメタデータを削除しようとしています。
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
@@ -17418,8 +17431,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のテクスチャパックのメタデータを削除しようとしています。
+本当に削除してもよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
