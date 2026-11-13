@@ -2608,17 +2608,17 @@ No se puede iniciar esta instancia porque faltan algunas bibliotecas o todavía 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="202"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer metadatos de actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="210"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar dependencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="221"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar lista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="224"/>
