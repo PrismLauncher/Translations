@@ -3420,7 +3420,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
         <translation>
-            <numerusform>%n 個のアイテムが選択されました</numerusform>
+            <numerusform>%n 個を選択中</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -3433,12 +3433,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation>%1 がインストールされ、有効化されました</translation>
+        <translation>%1 個がインストール済みで有効</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation>%1 がインストールされ、有効化されました</translation>
+        <translation>%1 個がインストール済み、%2 個が有効</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -9359,12 +9359,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
-        <translation>グループを変更する</translation>
+        <translation>グループのアイコンを変更(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
-        <translation>「&amp;group」アイコンを削除</translation>
+        <translation>グループのアイコンを削除(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
@@ -9613,7 +9613,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation>URLからの更新</translation>
+        <translation>URLから更新</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9740,7 +9740,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation>MODパックファイルのダウンロードURLを入力してください：</translation>
+        <translation>ModパックファイルのダウンロードURLを入力してください:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
@@ -16427,8 +16427,8 @@ This is permanent and the servers will be gone from your list forever (A LONG TI
 
 Are you sure?</source>
         <translation>
-            <numerusform>%n 台の選択されたサーバーを削除しようとしています。
-この操作は取り消せません。サーバーはリストから永久に（かなり長い間）削除されます。
+            <numerusform>%n 個の選択されたサーバーを削除しようとしています。
+この操作は取り消せません。サーバーはリストから永久に削除されます。
 
 本当に削除してもよろしいですか？</numerusform>
         </translation>
