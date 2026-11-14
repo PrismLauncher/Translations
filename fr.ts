@@ -2493,9 +2493,11 @@ Avertissement&#xa0;: Cette ressource est directement liée à une autre. L&apos;
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n pack de données.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n packs de données.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -3429,9 +3431,15 @@ Ceci pourrait être permanent et ils disparaitront du dossier.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer %n élément.
+Cette opération pourrait être irréversible et l&apos;élément sera retiré du dossier.
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer %n éléments.
+Cette opération pourrait être irréversible et les éléments seront retirés du dossier.
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -3465,28 +3473,28 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n élément sélectionné</numerusform>
+            <numerusform>%n éléments sélectionnés</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n résultat de recherche</numerusform>
+            <numerusform>%n résultats de recherche</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installé et activé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installé, %2 activé</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -9718,12 +9726,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer l&apos;&amp;icône du groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;&amp;icône du groupe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
@@ -10012,7 +10020,7 @@ Voulez-vous vraiment continuer&#x202f;?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour depuis une URL</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10134,22 +10142,22 @@ Assurez-vous également que l&apos;URL est fiable.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour depuis une URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez l&apos;URL de téléchargement du fichier du modpack&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL invalide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez saisir une URL HTTP(S) valide.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -15763,9 +15771,11 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous avez sélectionné %n ressource.
+Êtes-vous sûr(e) de vouloir fermer cette boîte de dialogue&#x202f;?</numerusform>
+            <numerusform>Vous avez sélectionné %n ressources.
+Êtes-vous sûr(e) de vouloir fermer cette boîte de dialogue&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -16392,9 +16402,11 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n pack de ressources.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n packs de ressources.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -16860,9 +16872,15 @@ Vous devriez revérifier les informations personnelles.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer %n capture d’écran.
+Cette opération pourrait être irréversible et elles sera supprimée du dossier.
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer %n captures d’écran.
+Cette opération pourrait être irréversible et elles seront supprimées du dossier.
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -17118,9 +17136,15 @@ Version actuellement installée : %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer %n serveur sélectionné.
+Cette opération est irréversible et le serveur disparaîtra définitivement de votre liste (pour une TRÈS longue durée).
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer les %n serveurs sélectionnés.
+Cette opération est irréversible&#xa0;: les serveurs disparaîtront définitivement de votre liste (pour une TRÈS longue durée).
+
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -17235,9 +17259,11 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n pack de shaders.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n packs de shaders.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -18125,9 +18151,11 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n pack de textures.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
+            <numerusform>Vous êtes sur le point de supprimer les métadonnées de %n packs de textures.
+Êtes-vous sûr(e)&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
@@ -19276,7 +19304,7 @@ Chemin canonique : %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">Ce monde est lié symboliquement autre part. Le modifier changera aussi l&apos;original.
+        <translation>Ce monde est lié symboliquement autre part. Le modifier changera aussi l&apos;original.
 Chemin canonique&#xa0;: %1</translation>
     </message>
     <message>
