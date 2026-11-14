@@ -318,7 +318,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se bloqueó un intento de recorrido de directorios en %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -2493,9 +2493,11 @@ Advertencia: Este recurso está vinculado de forma rígida a otra ubicación. Si
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Está a punto de eliminar los metadatos de los paquetes de datos %n.
+¿Seguro?</numerusform>
+            <numerusform>Está a punto de eliminar los metadatos de los paquetes de datos %n.
+¿Seguro?</numerusform>
         </translation>
     </message>
     <message>
@@ -3429,9 +3431,15 @@ Esta acción puede ser irreversible y los elementos desaparecerán de la carpeta
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Estás a punto de eliminar %n elemento.
+Esto puede ser permanente y desaparecerán de la carpeta.
+
+¿Seguro?</numerusform>
+            <numerusform>Estás a punto de eliminar %n elementos.
+Esto puede ser permanente y desaparecerán de la carpeta.
+
+¿Seguro?</numerusform>
         </translation>
     </message>
     <message>
@@ -3465,28 +3473,28 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n artículo seleccionado</numerusform>
+            <numerusform>%n artículos seleccionados</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Resultado de búsqueda %n</numerusform>
+            <numerusform>Resultados de búsqueda %n</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 instalado y habilitado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 instalado, %2 habilitado</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -6315,17 +6323,17 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del ejecutable Java %1 que se utilizará para las instancias que lo requieran. Déjelo en blanco para usar el detectado automáticamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el ejecutable Java %1 del sistema de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
