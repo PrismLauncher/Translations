@@ -3570,7 +3570,7 @@ Sunteți sigur că vreți face asta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul selectat nu este executabil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
