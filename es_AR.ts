@@ -3193,13 +3193,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron analizar los archivos antiguos obtenidos: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron obtener los archivos antiguos.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
@@ -7268,7 +7268,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
