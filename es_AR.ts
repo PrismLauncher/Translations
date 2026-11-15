@@ -3289,42 +3289,42 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga de mods de Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El modpack intenta descargar un archivo fuera de la carpeta de la instancia (%1). Esto representa un riesgo de seguridad y no está permitido.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completados</translation>
+        <translation>%1 de %2 completados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="665"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copiando mods bloqueados...</translation>
+        <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="681"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copiando mods bloqueados (%1 de %2 completados)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 completados)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="799"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminando archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="816"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron eliminar los archivos antiguos en conflicto.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="657"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
 </context>
 <context>
