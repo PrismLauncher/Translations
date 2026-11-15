@@ -1403,7 +1403,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Java %1-sökväg som har låsts i inställningarna finns inte: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2450,9 +2450,11 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort metadata för %n datapaket.
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort metadata för %n datapaket.
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -3386,9 +3388,15 @@ Detta kan vara permanent och de kommer att försvinna från mappen.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort %n objekt.
+Detta kan vara permanent och objektet försvinner från mappen.
+
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort %n objekt.
+Detta kan vara permanent och objekten försvinner från mappen.
+
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -3422,28 +3430,28 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n objekt valt</numerusform>
+            <numerusform>%n objekt valda</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n sökresultat</numerusform>
+            <numerusform>%n sökresultat</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installerad och aktiverad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installerad, %2 aktiverad</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -4022,7 +4030,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att tolka hämtade gamla filer: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -5513,7 +5521,7 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1036"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att kopiera instansmallen. Instansen har ändå skapats, men innehåller bara delar av mallfilerna eller inga mallfiler alls.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1057"/>
@@ -6156,13 +6164,13 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås specifika Java-installationer till en huvudversion. När startprogrammet automatiskt väljer Java för en instans används en låst installation som motsvarar den version som krävs, innan något annat identifieras eller hämtas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Låsta Java-installationer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -6256,54 +6264,56 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till det körbara Java %1-program som ska användas för instanser som kräver det. Lämna tomt för att använda den automatiskt identifierade installationen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj det körbara Java %1-programmet från filsystemet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en identifierad Java %1-installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande låsta Java-sökvägar kunde inte hittas på systemet. De sparades ändå, men instanser som behöver dessa versioner återgår till den vanliga identifieringen.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta körbart Java %1-program</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en Java %1-installation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga Java %1-installationer identifierades på systemet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -7404,12 +7414,12 @@ Du kan behöva se över dina moddar – spelet fortsätter att skriva till loggf
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapp som kan kopieras till nya instanser när de skapas och aktiveras eller inaktiveras för varje instans. Användbar för options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;mall:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -7521,7 +7531,7 @@ Du kan behöva se över dina moddar – spelet fortsätter att skriva till loggf
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="727"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gräns för nätverksåterförsök:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -7642,7 +7652,7 @@ Du rekommenderas att ge %1 åtkomst till den via Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapp för instansmall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -8905,12 +8915,12 @@ Orsak:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instans&amp;mall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna mallmappen i en filhanterare.</translation>
     </message>
     <message>
         <source>Mod List</source>
@@ -9541,12 +9551,12 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra grupp&amp;ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &amp;gruppikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
@@ -9651,7 +9661,9 @@ Kontrollera papperskorgen för att återställa dem manuellt.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att rensa metadatacachen!
+Om du vill rensa metadatacachen manuellt väljer du Mappar -&gt; Startprogramsdata och tar sedan bort mappen &quot;meta&quot; när startprogrammet har stängts
+</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -9847,7 +9859,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera från URL</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9969,22 +9981,22 @@ Se till också till att du litar på URL länken.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera från URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange hämtnings-URL:en för moddpaketsfilen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en giltig HTTP(S)-URL.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -12772,17 +12784,17 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd instansmall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallkatalogen finns inte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">I Windows kan skapande av symboliska länkar kräva administratörsrättigheter.</translation>
+        <translation>I Windows kan det krävas administratörsbehörighet för att skapa symboliska länkar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
@@ -15521,9 +15533,11 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du har %n vald resurs.
+Vill du verkligen stänga den här dialogrutan?</numerusform>
+            <numerusform>Du har %n valda resurser.
+Vill du verkligen stänga den här dialogrutan?</numerusform>
         </translation>
     </message>
     <message>
@@ -15915,13 +15929,16 @@ Are you sure you want to do this?</source>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här resursen är symboliskt länkad från en annan plats. Om du redigerar den ändras även originalet.
+Kanonisk sökväg: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Den här resursen är hårdlänkad från en annan plats. Om du redigerar den ändras även originalet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -16147,9 +16164,11 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort metadata för %n resurspaket.
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort metadata för %n resurspaket.
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -16615,9 +16634,15 @@ Kontrollera att den inte innehåller personlig information.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort %n skärmbild.
+Detta kan vara permanent och bilden försvinner från mappen.
+
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort %n skärmbilder.
+Detta kan vara permanent och bilderna försvinner från mappen.
+
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -16873,9 +16898,15 @@ För närvarande installerad version: %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort %n vald server.
+Detta är permanent och servern försvinner från listan för alltid (LÄNGE).
+
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort %n valda servrar.
+Detta är permanent och servrarna försvinner från listan för alltid (LÄNGE).
+
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -16990,9 +17021,11 @@ Detta är permanent och servern kommer att försvinna från din lista för allti
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort metadata för %n shaderpaket.
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort metadata för %n shaderpaket.
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -17880,9 +17913,11 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort metadata för %n texturpaket.
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort metadata för %n texturpaket.
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -19029,12 +19064,13 @@ Ursprunglig sökväg: %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här världen är symboliskt länkad från en annan plats. Om du redigerar den ändras även originalet.
+Kanonisk sökväg: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här världen är hårdlänkad från en annan plats. Om du redigerar den ändras även originalet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
