@@ -306,7 +306,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Padtraversal geblokkeerd in %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -1371,7 +1371,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Het Java-pad %1 gegeven in de instellingen bestaat niet: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2293,7 +2293,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <name>DataPack</name>
     <message>
         <source>Unrecognized</source>
-        <translation>Niet herkend</translation>
+        <translation>Onbekend</translation>
     </message>
 </context>
 <context>
@@ -2440,9 +2440,11 @@ Waarschuwing: deze bron is ergens anders hard gekoppeld. Als u deze bewerkt, wor
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Je staat op het punt om de metadata voor %n datapakket te verwijderen.
+Weet je het zeker?</numerusform>
+            <numerusform>Je staat op het punt om de metadata voor %n datapakketen te verwijderen.
+Weet je het zeker?</numerusform>
         </translation>
     </message>
     <message>
@@ -3368,9 +3370,15 @@ Weet u het zeker?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Je staat op het punt om %n item te verwijderen.
+Dit kan permanent zijn en ze zullen worden verwijderd uit deze map.
+
+Weet je het zeker?</numerusform>
+            <numerusform>Je staat op het punt om %n items te verwijderen.
+Dit kan permanent zijn en ze zullen worden verwijderd uit deze map
+
+Weet je het zeker?</numerusform>
         </translation>
     </message>
     <message>
@@ -3404,28 +3412,28 @@ Weet u zeker dat je dit wilt doen?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n item geselecteerd</numerusform>
+            <numerusform>%n items geselecteerd</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n zoekresultaat</numerusform>
+            <numerusform>%n zoekresultaten</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 geïnstalleerd en ingeschakeld</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 geïnstalleerd, %2 ingeschakeld</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
