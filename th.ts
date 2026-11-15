@@ -2456,8 +2456,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>คุณกำลังจะลบข้อมูลเมตาสำหรับ %n ดาต้าแพ็ก
+คุณแน่ใจหรือไม่?</numerusform>
         </translation>
     </message>
     <message>
@@ -3325,8 +3326,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>คุณกำลังจะลบข้อมูล %n ชิ้น.
+การกระทำนี้จะเกิดขึ้นถาวร และถูกลบออกจากโฟลเดอร์
+
+คุณแน่ใจหรือไม่?</numerusform>
         </translation>
     </message>
     <message>
@@ -3360,26 +3364,26 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ไอเทมที่ถูกเลือก %n ชิ้น</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ผลการค้นหา %n รายการ</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ได้รับการติ้งตั้งและเปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแล้ว %1 รายการ, เปิดใช้งานแล้ว %2 รายการ</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -3646,7 +3650,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถแตก native jar &apos;%1&apos; ไปยังปลายทาง &apos;%2&apos; ได้: %3</translation>
     </message>
 </context>
 <context>
@@ -4031,7 +4035,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>มอดแพ็กกำลังพยายามที่จะดาวน์โหลดไฟล์ภายนอกโฟลเดอร์อินสแตนซ์ (%1) เนื่องจากเหตุผลด้านความปลอดภัย</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
