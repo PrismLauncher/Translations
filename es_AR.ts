@@ -3193,96 +3193,98 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation>No se pudieron analizar los archivos anteriores obtenidos: %1</translation>
+        <translation>No se pudieron analizar los archivos antiguos recuperados: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>Failed to fetch the old files.</source>
-        <translation>No se pudieron obtener los archivos anteriores.</translation>
+        <translation>No se pudieron recuperar los archivos antiguos.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>No pudimos obtener los archivos anteriores porque se abortó la tarea. Esto podría hacer que algunos archivos se dupliquen. ¿Querés continuar?</translation>
+        <translation>No pudimos recuperar los archivos antiguos porque se abortó la tarea. Esto podría provocar que algunos archivos se dupliquen. ¿Querés continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudimos recuperar los archivos antiguos porque: %1. Esto podría provocar que algunos archivos se dupliquen. ¿Querés continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay un archivo de índice.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudimos encontrar un archivo de índice adecuado para la versión anterior. Esto puede provocar que algunos archivos se dupliquen. ¿Querés continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">No se pudo obtener el índice local de metadatos para %1</translation>
+        <translation>No se pudo obtener el índice local de metadatos para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">No se pudo encontrar una versión para el cargador %1</translation>
+        <translation>No se pudo encontrar una versión para el cargador %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="332"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">¡No se configuró ninguna versión del cargador para el modpack!</translation>
+        <translation>¡No se configuró ninguna versión del cargador para el modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta carpeta de reemplazos contiene una ruta que conduce a una ubicación arbitraria (%1). Esto representa un riesgo de seguridad y no está permitido.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo renombrar la carpeta de reemplazos:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="412"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta de reemplazos especificada (%1) no se encuentra. ¿Será que el modpack ya se usó antes?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="447"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargador de mods desconocido en el manifiesto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="462"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminaron unos misteriosos puntos al final de la versión de Minecraft al importar el modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished"></translation>
+        <translation>La cantidad de memoria recomendada para el modpack supera el 90 % de la RAM de tu sistema. ¡Se reducirá de %1 MiB a %2 MiB!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="531"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron resolver los ID de los mods:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Se encontraron mods bloqueados</translation>
+        <translation>Se encontraron mods bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y agregarlos a la instancia.</translation>
+        <translation>Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y agregarlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
