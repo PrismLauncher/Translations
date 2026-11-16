@@ -211,12 +211,12 @@
       "untranslated": 33
     },
     "es_AR": {
-      "file": "5e4369ef56e7b82fa2aa885642e611ecf868144d.class",
-      "sha1": "5e4369ef56e7b82fa2aa885642e611ecf868144d",
-      "size": 136884,
-      "translated": 678,
-      "fuzzy": 278,
-      "untranslated": 1625
+      "file": "3a70123cfe8e1340291bf936e389fca581795628.class",
+      "sha1": "3a70123cfe8e1340291bf936e389fca581795628",
+      "size": 138213,
+      "translated": 690,
+      "fuzzy": 275,
+      "untranslated": 1616
     },
     "es_UY": {
       "file": "23485e3f658fca764021af016cc3beca6a17bb0f.class",
@@ -267,8 +267,8 @@
       "untranslated": 1093
     },
     "fr": {
-      "file": "81d487efae821baffd42a13b1c4c0c04881d4e12.class",
-      "sha1": "81d487efae821baffd42a13b1c4c0c04881d4e12",
+      "file": "fdecc72c03892dd7801ebe513f1c68a1d634dd73.class",
+      "sha1": "fdecc72c03892dd7801ebe513f1c68a1d634dd73",
       "size": 417151,
       "translated": 2576,
       "fuzzy": 5,
@@ -699,12 +699,12 @@
       "untranslated": 694
     },
     "tr": {
-      "file": "893c966ef4e2ac0e032f0e8c5554d8b2ee204ad8.class",
-      "sha1": "893c966ef4e2ac0e032f0e8c5554d8b2ee204ad8",
-      "size": 368448,
-      "translated": 2528,
+      "file": "6c146be97773e9951b0f57ab5530e9c83ec7e7b0.class",
+      "sha1": "6c146be97773e9951b0f57ab5530e9c83ec7e7b0",
+      "size": 368718,
+      "translated": 2530,
       "fuzzy": 2,
-      "untranslated": 51
+      "untranslated": 49
     },
     "tt": {
       "file": "f69da64f670963b2bba64a359c6c4564ec143597.class",
@@ -739,11 +739,11 @@
       "untranslated": 2565
     },
     "uz": {
-      "file": "0b03b27b5d529d1f4de8d73c4baac0847da0aaec.class",
-      "sha1": "0b03b27b5d529d1f4de8d73c4baac0847da0aaec",
-      "size": 381228,
-      "translated": 2526,
-      "fuzzy": 4,
+      "file": "1a8b89f0abbb8137b9fce89a38a590ff84e80f37.class",
+      "sha1": "1a8b89f0abbb8137b9fce89a38a590ff84e80f37",
+      "size": 379958,
+      "translated": 2254,
+      "fuzzy": 276,
       "untranslated": 51
     },
     "vec": {
