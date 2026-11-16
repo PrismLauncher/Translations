@@ -2652,17 +2652,17 @@ Vẫn tiếp tục khởi chạy?</translation>
         <translation>Quá tải bộ nhớ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="60"/>
         <source>The system is under high memory pressure</source>
         <translation>Hệ thống đang bị quá tải bộ nhớ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="86"/>
         <source>Low free memory</source>
         <translation>Bộ nhớ khả dụng thấp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="88"/>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
         <source>There might not be enough free RAM to launch this instance with the current memory settings.
 
 Maximum allocated: %1 MiB
@@ -2677,7 +2677,7 @@ Bộ nhớ trống: %2 MiB (trong tổng số %3 MiB)
 Bạn vẫn muốn khởi chạy? Điều này có thể làm chậm game và làm hệ thống của bạn hoạt động không ổn định.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="99"/>
         <source>Not enough RAM available to launch this instance</source>
         <translation>Không đủ bộ nhớ để khởi chạy phiên bản này</translation>
     </message>
@@ -4481,10 +4481,30 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Tải các mod cần thiết</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="222"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
+        <source>Failed to fetch information for dependency %1, it will not be installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Đã xảy ra lỗi mạng. Không thể tải các phần phụ thuộc của dự án:%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
+        <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
+        <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
+        <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4844,12 +4864,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Cài Mod Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="178"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="185"/>
         <source>Installing a second loader</source>
         <translation>Đang cài đặt bộ load thứ hai</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
@@ -4858,17 +4878,17 @@ What would you like to do with %2?</source>
 Bạn muốn làm gì với %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="190"/>
         <source>Keep it</source>
         <translation>Giữ lại nó</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="184"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="192"/>
         <source>Disable it</source>
         <translation>Tắt nó đi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
+        <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="195"/>
         <source>Uninstall it</source>
         <translation>Gỡ cài đặt nó</translation>
     </message>
@@ -8372,7 +8392,7 @@ Lý do:
         <translation type="vanished">Chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="347"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>Launch the selected instance.</source>
         <translation>Chạy phiên bản đã chọn.</translation>
     </message>
@@ -8386,7 +8406,7 @@ Lý do:
         <translation type="vanished">Thêm Phiên Bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="292"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add a new instance.</source>
         <translation>Tạo một phiên bản mới.</translation>
     </message>
@@ -8409,17 +8429,17 @@ Lý do:
         <translation>Mở thư mục mods trong tệp trình duyệt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="203"/>
         <source>&amp;Accounts</source>
         <translation>&amp;Tài Khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="699"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="698"/>
         <source>Folders</source>
         <translation>Thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="701"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Mở một trong các thư mục được chia sẻ giữa các phiên bản.</translation>
     </message>
@@ -8428,7 +8448,7 @@ Lý do:
         <translation type="vanished">Cài Đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="317"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>Change settings.</source>
         <translation>Thay đổi cài đặt.</translation>
     </message>
@@ -8437,7 +8457,7 @@ Lý do:
         <translation type="vanished">Báo cáo lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Mở the bug tracker để báo cáo lỗi của %1.</translation>
     </message>
@@ -8452,7 +8472,7 @@ Lý do:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Open %1 subreddit.</source>
         <translation>Mở %1 subreddit.</translation>
     </message>
@@ -8461,17 +8481,17 @@ Lý do:
         <translation type="vanished">Về %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>View information about %1.</source>
         <translation>Xem Thông Tin Về %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="710"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>Help</source>
         <translation>Hỗ trợ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Cần hỗ trợ về %1 hoặc Minecraft.</translation>
     </message>
@@ -8480,7 +8500,7 @@ Lý do:
         <translation type="vanished">Cập Nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>Check for new updates for %1.</source>
         <translation>Kiểm tra bản cập nhật mới cho %1.</translation>
     </message>
@@ -8489,7 +8509,7 @@ Lý do:
         <translation type="vanished">Meo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Mèo kitty :3</translation>
     </message>
@@ -8498,7 +8518,7 @@ Lý do:
         <translation type="vanished">Quản Lý Tài Khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="63"/>
         <source>News Toolbar</source>
         <translation>Thanh Công Cụ Tinh Tức</translation>
     </message>
@@ -8507,88 +8527,88 @@ Lý do:
         <translation type="vanished">Những tin tức khác...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Đọc tin tức từ nhà phát triển %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Chỉnh sửa...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="416"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="415"/>
         <source>&amp;Folder</source>
         <translation>&amp;Thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="455"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="454"/>
         <source>E&amp;xport...</source>
         <translation>(&amp;X)uất...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="427"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="426"/>
         <source>Dele&amp;te</source>
         <translation>Xóa (&amp;t)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="441"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="440"/>
         <source>Cop&amp;y...</source>
         <translation>Sao chép (&amp;y)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="90"/>
         <source>Instance Toolbar</source>
         <translation>Thanh công cụ phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="390"/>
         <source>Change Icon</source>
         <translation>Đổi biểu tượng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
         <translation>&amp;Hủy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="343"/>
         <source>&amp;Launch</source>
         <translation>&amp;Khởi Chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="289"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="288"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Tạo phiên bản mới... (&amp;e)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="182"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="181"/>
         <source>F&amp;olders</source>
         <translation>Thư mục (&amp;o)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="314"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="313"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>Cài đặt (&amp;n)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="281"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="280"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>&amp;Hồi phục phiên bản mới xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>&amp;Xóa cache của metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="669"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>Clear cached metadata</source>
         <translation>Xóa cache metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="687"/>
         <source>Install to &amp;PATH</source>
         <translation>Cài đặt vào &amp;PATH</translation>
     </message>
@@ -8597,214 +8617,214 @@ Lý do:
         <translation type="vanished">Báo &amp;Lỗi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix Space</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="619"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="618"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord Guild</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="641"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="640"/>
         <source>Sub&amp;reddit</source>
         <translation>Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="651"/>
         <source>&amp;About %1</source>
         <translation>&amp;Về</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="300"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="299"/>
         <source>&amp;Update...</source>
         <translation>&amp;Cập Nhật...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="254"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="253"/>
         <source>&amp;Meow</source>
         <translation>&amp;Meo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="336"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Quản Lý Tài Khoản...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="273"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="272"/>
         <source>Lock Toolbars</source>
         <translation>Khóa các thanh công cụ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Themes</source>
         <translation>Chủ đề</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="136"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="135"/>
         <source>&amp;File</source>
         <translation>&amp;Thư Mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="159"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="158"/>
         <source>&amp;Edit</source>
         <translation>&amp;Chỉnh Sửa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="168"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="167"/>
         <source>&amp;View</source>
         <translation>&amp;Xem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="209"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="208"/>
         <source>&amp;Help</source>
         <translation>&amp;Hỗ Trợ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="239"/>
         <source>More News...</source>
         <translation>Nhiều tin tức hơn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="265"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="264"/>
         <source>Status Bar</source>
         <translation>Thanh Trạng Thái</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="328"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="327"/>
         <source>Manage &amp;Skins...</source>
         <translation>&amp;Quản lý skins...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>Kill the running instance.</source>
         <translation>Hủy phiên bản đang chạy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="458"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>Xuất phiên bảng đang chọn sang những định dạng được hỗ trợ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="473"/>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="482"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="481"/>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation>Tạo một lối tắt tại thư mục được chọn để khởi chạy phiên bản được chọn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="523"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="522"/>
         <source>Close &amp;Window</source>
         <translation>Đóng Cửa Sổ(&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>Close the current window</source>
         <translation>Đóng cửa sổ hiện tại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>I&amp;nstances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="547"/>
         <source>Launcher &amp;Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="558"/>
         <source>&amp;Mods (Quick Access)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>Open the mods folder in a file browser.</source>
         <translation type="unfinished">Mở thư mục mods trong trình duyệt tệp tin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="570"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="569"/>
         <source>&amp;Skins</source>
         <translation>&amp;Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Open the skins folder in a file browser.</source>
         <translation>Mở thư mục skin trong trình duyệt file.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Instance &amp;Icons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Launcher &amp;Logs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation>Xem xét các bản ghi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="679"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation>Xem bản ghi hiện tại và các bản ghi cũ hơn của trình chạy (launcher)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="728"/>
         <source>%1 &amp;Wiki</source>
         <translation>%1 &amp;Wiki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="739"/>
         <source>&amp;Widget Themes</source>
         <translation>&amp;Các chủ đề cho Tiện ích</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="742"/>
         <source>Open the widget themes folder in a file browser.</source>
         <translation>Mở thư mục chủ đề cho tiện ích trong Tệp Tin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>I&amp;con Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="761"/>
         <source>&amp;Cat Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>&amp;Auto Downloaded Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="783"/>
         <source>Instance &amp;Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="787"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Open the template folder in a file browser.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8813,7 +8833,7 @@ Lý do:
         <translation>Biểu Tượng Sắ(&amp;c) Thái</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
         <source>Open the icon theme folder in a file browser.</source>
         <translation>Mở thư mục sắc thái của biểu tượng trong một trường trình quản lý thư mục.</translation>
     </message>
@@ -8822,7 +8842,7 @@ Lý do:
         <translation>Gói Mèo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="764"/>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>Mở thư mục đựng gói mèo trong một trương trình quản lý thư mục.</translation>
     </message>
@@ -8831,28 +8851,28 @@ Lý do:
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>Mở thư mục Java ở trong trình duyệt tệp. Chỉ khả dụng nếu sử dụng trình tải xuống Java tích hợp.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>Mở thư mục root của trình khởi chạy trong một trương trình quản lý thư mục.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>Báo cáo lỗi phần mềm hoặc gợi ý tính năng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="633"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Open %1 Matrix space.</source>
         <translation>Mở không gian ma trận %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="690"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>Tạo một đường dẫn %1 tới /usr/local/bin</translation>
     </message>
@@ -8862,22 +8882,22 @@ Lý do:
         <translation type="vanished">%1&amp;Hỗ trợ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="731"/>
         <source>Open the %1 wiki</source>
         <translation>Mở trang wiki %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="394"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Thay đổ hình đại diện phiên bản đã chọn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="368"/>
         <source>Rename</source>
         <translation>Đổi tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
         <source>Rename the selected instance.</source>
         <translation>Thay đổi tên phiên bản đã chọn.</translation>
     </message>
@@ -8886,22 +8906,22 @@ Lý do:
         <translation type="vanished">Khởi chạy thực thể này trong chế độ demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="361"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="408"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="379"/>
         <source>&amp;Change Group...</source>
         <translation>&amp;Đổi Nhóm...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -8915,12 +8935,12 @@ Lý do:
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="490"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="489"/>
         <source>Create Shortcut</source>
         <translation>Tạo Shortcut</translation>
     </message>
@@ -8933,7 +8953,7 @@ Lý do:
         <translation>&amp;Phiên Bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>Open the instances folder in a file browser.</source>
         <translation>Mở thư mục chứa phiên bản trong một trương trình quản lý thư mục.</translation>
     </message>
@@ -8950,7 +8970,7 @@ Lý do:
         <translation>Biểu Tượng Phiên Bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>Mở thư mục biểu tượng của phiên bản trong một trương trình quản lý thư mục.</translation>
     </message>
@@ -8959,13 +8979,13 @@ Lý do:
         <translation>Nhật ký</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="595"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Open the logs folder in a file browser.</source>
         <translation>Mở thư mục log trong một trương trình quản lý thư mục.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="720"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Accounts</source>
         <translation>Tài khoản</translation>
     </message>
@@ -8974,7 +8994,7 @@ Lý do:
         <translation type="vanished">Chơi Ngoại Tuyến</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
@@ -9001,7 +9021,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Chỉnh Phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Chỉnh sửa cài đặt, mods và phiên bản của phiên bản.</translation>
     </message>
@@ -9018,7 +9038,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Xem Thế Giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="430"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>Xóa phiên bản đang chọn.</translation>
@@ -9036,7 +9056,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Đổi nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Thay đổ nhóm của phiên bản đã chọn.</translation>
     </message>
@@ -9062,7 +9082,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Thư Mục Phiên Bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Mở thư mục root của phiên bản đang chọn.</translation>
     </message>
@@ -9080,7 +9100,7 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Sao chép phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="444"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Copy the selected instance.</source>
         <translation>Sao chép phiên bản đã chọn.</translation>
     </message>
@@ -9095,14 +9115,14 @@ Bạn có chắc không?</translation>
         <translation type="vanished"> trên %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1754"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="376"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>No instance selected</source>
         <translation>Không có phiên bản nào được chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="376"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
         <source>Total playtime: 0s</source>
         <translation>Tổng cộng thời gian chơi: 0 giây</translation>
     </message>
@@ -9111,13 +9131,13 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Hồ sơ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
         <translation>Tạo phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
         <translation>&amp;Xóa nhóm</translation>
@@ -9135,37 +9155,37 @@ Bạn có chắc không?</translation>
         <translation type="vanished">Profilers không được thiết lập chính xác. Đi vào cài đặt, &quot;Nâng Cao&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>No accounts added!</source>
         <translation>Chưa có tài khoản nào được thêm vào!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="698"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="511"/>
         <source>No Default Account</source>
         <translation>Không Có Tài Khoản Mặc Định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="515"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="808"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="809"/>
         <source>Loading news...</source>
         <translation>Đang cập nhật tin tức...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="818"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
         <source>No news available.</source>
         <translation>Không có tin tức mới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="859"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
         <source>Warnings</source>
         <translation>Cảnh báo</translation>
     </message>
@@ -9191,43 +9211,43 @@ Xin bạn hãy đăng nhập vào một tài khoản Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>No Instance Selected</source>
         <translation type="unfinished">Chưa chọn bản cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>Change group &amp;icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="586"/>
         <source>Delete &amp;group icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod, hoặc tài nguyên %1 đã bị bên thứ ba chặn tải! Xin dùng cách thủ công để tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
         <translation>Đường dẫn không hợp lệ: thiếu tham số &apos;url&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
         <source>Invalid import link: URL must be http(s).</source>
         <translation>Đường dẫn không hợp lệ: URL phải có dạng http(s).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1090"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
         <source>Install modpack</source>
         <translation>Tải xuống modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
         <source>Do you want to download and import a modpack from:
 %1
 
@@ -9240,59 +9260,59 @@ URL:
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1109"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1111"/>
         <source>Modpack download</source>
         <translation>Tải xuống modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1149"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>No instance!</source>
         <translation>Không có phiên nào cả!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
         <translation>Không có phiên nào có sẵn để thêm tài nguyên vào
 Hãy tạo một phiên mới trước khi thử cài đặt tài nguyên này một lần nữa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <source>Group name</source>
         <translation>Tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
         <source>Enter a new group name.</source>
         <translation>Đặt tên nhóm mới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
         <source>Delete group</source>
         <translation>Xóa nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
         <source>Failed to undo trashing instance</source>
         <translation>Phục hồi phiên thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
         <translation>Một vài phiên bản và lối tắt không thể được khôi phục
 Vui lòng kiểm tra thùng rác để khôi phục các thư mục này.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1435"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1650"/>
         <source>Instance not editable</source>
         <translation>Không thể chỉnh sửa được phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Không chỉnh sửa được phiên bản này. Có thể nó đã bị hỏng, không hợp lệ, hoặc là quá cũ. Kiểm tra log để xem thêm thông tin.</translation>
     </message>
@@ -9305,22 +9325,22 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Đã thêm %1 vô PATH thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1488"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 đã được ghi vô PATH thành công. Bạn có thể khởi chạy nó bằng cách chạy `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Quá trình ghi %1 vô PATH thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Đã có lỗi xảy ra trong quá trình ghi %1 vô PATH</translation>
     </message>
@@ -9387,12 +9407,12 @@ Bạn có muốn tiếp tục?</numerusform>
         <translation type="vanished">Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Rename group</source>
         <translation>&amp;Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="953"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
@@ -9401,56 +9421,56 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 Prism Launcher hiện chỉ hỗ trợ các đường dẫn modpack tương tự modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1274"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Bạn có chắc chắn muốn xóa nhóm &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
         <source>Rename group</source>
         <translation>Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Cannot rename group</source>
         <translation>Không đổi được tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Cannot set empty name.</source>
         <translation>Tên không được để trống.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Group already exists. :/</source>
         <translation>Nhóm này đã được tạo. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1465"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
         <source>Cannot Delete Running Instance</source>
         <translation>Không thể xóa phiên bản đang chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
         <translation>Phiên bản được chọn đang chạy và không thể bị xóa. Vui lòng dừng phiên bản này trước khi xóa.</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1547"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
             <numerusform> và %n phím tắt được khai báo trước của nó</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1551"/>
         <source>You are about to delete &quot;%1&quot;%2.
 This may be permanent and will completely delete the instance.
 
@@ -9461,7 +9481,7 @@ Phiên bản này có thể sẽ bị xóa vĩnh viễn
 Bạn có chắc chắn không ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
         <source>Deleting</source>
         <translation>Đang xoá</translation>
     </message>
@@ -9482,51 +9502,51 @@ Bạn có chắc chắn không ?</translation>
         <translation>Đổi tên phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1772"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1774"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Thư mục phiên bản chứa ký tự &apos;!&apos;. Ký tự này thường gây vấn đề trong ngôn ngữ Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1773"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Bây giờ bạn có hai sự lựa chọn: &lt;br/&gt; - thay đổi thư mục phiên bản trong cài đặt&lt;br/&gt; - di dời bản cài đặt của %1 sang một thư mục khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1781"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1783"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Có vấn đề: &lt;br/&gt; - Trình khởi chạy rất có thể bị xóa bởi hệ điều hành &lt;br/&gt; - Đóng trình khởi chạy bây giờ và giải nén nó vào một thư mục thật (không phải thư mục tạm)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1789"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Thư mục phiên bản có chứa &apos;Rar$&apos; - điều đó có nghĩa là bạn chưa giải nén!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1793"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1795"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Thư mục chứa phiên bản hiện đang nằm trong một thư mục tạm: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1806"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1808"/>
         <source>Total playtime: %1</source>
         <translation>Tổng cộng giờ chơi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="855"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="952"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="993"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="999"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1017"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1072"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1464"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="954"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1117"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1466"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="622"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>Open %1 Discord guild.</source>
         <translation>Mở %1 Discord guild.</translation>
     </message>
@@ -14335,28 +14355,28 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="22"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
         <translation>gói tài nguyên</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="22"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
         <translation>gói hình ảnh</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="23"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
         <translation>gói dữ liệu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="22"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
         <translation>gói shader</translation>
@@ -14368,7 +14388,7 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="30"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="61"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="57"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>mod</translation>
@@ -14851,19 +14871,19 @@ Tin nhắn báo lỗi: %3</translation>
         <translation>Không thể nhận dạng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="25"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
         <translation>các gói dữ liệu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="63"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="59"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>các mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="24"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
         <translation>các gói tài nguyên</translation>
@@ -14879,13 +14899,13 @@ Tin nhắn báo lỗi: %3</translation>
         <translation>tài nguyên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="24"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
         <translation>shader packs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="24"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
         <translation>các gói kết cấu</translation>
@@ -15023,37 +15043,37 @@ Are you sure you want to close this dialog?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="191"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="193"/>
         <source>Checking for dependencies...</source>
         <translation>Đang kiểm tra các phần phụ thuộc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="349"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="351"/>
         <source>Change %1 version</source>
         <translation>Thay đổi phiên bản của %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="376"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="378"/>
         <source>mods</source>
         <translation>các mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="412"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="414"/>
         <source>resource packs</source>
         <translation>gói tài nguyên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="435"/>
         <source>texture packs</source>
         <translation>các gói kết cấu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="454"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="456"/>
         <source>shader packs</source>
         <translation>shader packs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="475"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="477"/>
         <source>data packs</source>
         <translation>các gói dữ liệu</translation>
     </message>
@@ -15236,22 +15256,22 @@ The author likely blocked third-party launchers.</source>
 Có thể tác giả đã chặn các trình khởi chạy của bên thứ ba (crack launcher).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="696"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="639"/>
         <source>Reinstall</source>
         <translation>Cài lại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="697"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="640"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="703"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="646"/>
         <source>Cancel</source>
         <translation>Hủy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="721"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="664"/>
         <source>The resource was not found</source>
         <translation>Không tìm thấy tài nguyên</translation>
     </message>
@@ -15763,9 +15783,9 @@ Bạn có chắc?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="133"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="230"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="383"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="400"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="386"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="403"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -15816,73 +15836,73 @@ Bạn có chắc?</translation>
         <translation>Tắt những mod không có sẵn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="245"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="248"/>
         <source>Checking for dependencies...</source>
         <translation>Đang kiểm tra các phần phụ thuộc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="270"/>
         <source>Not installed</source>
         <translation>Chưa được cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="304"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="307"/>
         <source>Looking for metadata</source>
         <translation>Đang tìm metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="353"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Tài nguyên &apos;%1&apos; không có metadata. Chúng tôi cần tạo một metadata để kiểm tra các thông tin liên quan đến việc nâng cấp mod này. Để tiến hành, hãy chọn nguồn cung cấp mod để chúng tôi có thể dùng để nâng cấp mod này.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
         <source>Generating metadata...</source>
         <translation>Khởi tạo metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="456"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="459"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Không thể tìm thấy phiên bản thích hợp từ bên cung cấp mod đã được chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="470"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>Mod đã bị vô hiệu hóa vì có thể nó đã được cài đặt trước đó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="474"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>Provider: %1</source>
         <translation>Bên cung cấp: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="478"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="481"/>
         <source>Old version: %1</source>
         <translation>Phiên bản cũ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="482"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="485"/>
         <source>New version: %1</source>
         <translation>Phiên bản mới: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="487"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="490"/>
         <source>New Version Type: %1</source>
         <translation>Loại phiên bản mới: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="494"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="497"/>
         <source>Required by: %1</source>
         <translation>Yêu cầu bởi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="497"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="500"/>
         <source>Required by:</source>
         <translation>Yêu cầu bởi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="509"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="512"/>
         <source>Changelog of the latest version</source>
         <translation>Nhật ký cập nhật cho phiên bản mới nhất</translation>
     </message>
