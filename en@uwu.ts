@@ -295,7 +295,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">The fowwowing fiwes awe nyot avaiwable fow downwoad in thiwd pawty waunchews. You will nyeed to manuawwy downwoad them awnd add then to the instawnce.</translation>
+        <translation>The fowwowing fiwes awe nyot avaiwable fow downwoad in thiwd pawty waunchews. You will nyeed to manuawwy downwoad them awnd add then to the instawnce.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
@@ -866,7 +866,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="284"/>
         <source>[INFO] A harmless message...</source>
-        <translation type="unfinished">[INFO] A hawmwess message...</translation>
+        <translation>[INFO] A hawmwess message...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="285"/>
@@ -876,12 +876,12 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="286"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation type="unfinished">[DEBUG] A secwet debugging myessage...</translation>
+        <translation>[DEBUG] A secwet debugging myessage...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="287"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished">[FATAW] A tewwyfying fataw ewwow!</translation>
+        <translation>[FATAL] A tewwyfying fataw ewwow!</translation>
     </message>
 </context>
 <context>
@@ -1230,7 +1230,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="133"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">F-Faiwed to authenticate. The account nyo w-wongew exists.</translation>
+        <translation>F-Faiwed to authenticate. The account nyo w-wongew exists.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
@@ -1310,7 +1310,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Fowm</translation>
+        <translation>Fowm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1364,7 +1364,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ur configuwed gwobaw mowds fowdew awnd default downloads fowdew awe automaticawwy checked fow the downwoaded mowds awnd they&apos;ll be copwied to the instawnce if founwd.&lt;/p&gt;&lt;p&gt;Optionawwy, you may dwag and dwop the downwoaded mowds onto this diawog or add a fowdew to watch if you did nyot downwoad the mowds to a defauwt wocation.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cwick &apos;Open Missing&apos; to open aww the downwoad links in the bwowsew.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ur configuwed gwobaw mowds fowdew awnd default downloads fowdew awe automaticawwy checked fow the downwoaded mowds awnd they&apos;ll be copwied to the instawnce if founwd.&lt;/p&gt;&lt;p&gt;Optionawwy, you may dwag and dwop the downwoaded mowds onto this diawog or add a fowdew to watch if you did nyot downwoad the mowds to a defauwt wocation.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cwick &apos;Open Missing&apos; to open aww the downwoad links in the bwowsew.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -1674,58 +1674,58 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Adwanced Copy Options</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwuse symbowic or hawd links inwstead of copying fiwes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbowic and Hard Wink Optiwons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Links awe suppowted on most fiwesystems except FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Link each resouwce individuawwy inwstead of winking whole fowders at one</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Link fiwes recursivewy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">If &quot;copy saves&quot; is sewected world save data wiww be copied inwstead of winked awnd thus nyot shawed between inwstances.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Don&apos;t wink saves</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwuse hawd links inwstead of copying fiwes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwuse hawd links</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use symbowic links inwstead of copying fiwes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
