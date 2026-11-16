@@ -3470,12 +3470,12 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 yüklendi ve etkinleştirildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 yüklendi, %2 etkinleştirildi</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
