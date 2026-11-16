@@ -3468,7 +3468,7 @@ Haqiqatan ham buni qilmoqçimisiz?</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Qayta belgilaşlar jildi nomini özgartirib bölmadi:
+        <translation type="unfinished">Qayta belgilaşlar jildini qayta nomlab bölmadi:
 </translation>
     </message>
     <message>
@@ -5353,7 +5353,7 @@ Modlaringizni tuzatişingiz kerak bölişi mumkin, çunki öyin hanuz fayllarga 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation>Jild nomi heç qaçon özgarmasin</translation>
+        <translation type="unfinished">Jildni heç qaçon qayta nomlamaş</translation>
     </message>
     <message>
         <source>&amp;Icons:</source>
@@ -5409,7 +5409,7 @@ Modlaringizni tuzatişingiz kerak bölişi mumkin, çunki öyin hanuz fayllarga 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Always rename the folder</source>
-        <translation>Jild nomini har doim özgartiriş</translation>
+        <translation type="unfinished">Jildni har doim qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="191"/>
@@ -6850,7 +6850,7 @@ Sabab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
         <source>Rename the selected instance.</source>
-        <translation>Tanlangan nusxa nomini özgartiriş.</translation>
+        <translation type="unfinished">Tanlangan nusxani qayta nomlaş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="361"/>
@@ -7177,7 +7177,7 @@ Metadata keşini qölda tozalaş uçun Jildlar -&gt; Launçer ildiz jildini kör
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Rename group</source>
-        <translation>Gu&amp;ruh nomini özgartiriş</translation>
+        <translation type="unfinished">&amp;Guruhni qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
@@ -7204,12 +7204,12 @@ Metadata keşini qölda tozalaş uçun Jildlar -&gt; Launçer ildiz jildini kör
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>Rename group</source>
-        <translation>Guruh nomini özgartiriş</translation>
+        <translation type="unfinished">Guruhni qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>Cannot rename group</source>
-        <translation>Guruh nomini özgartirib bölmaydi</translation>
+        <translation type="unfinished">Guruhni qayta nomlab bölmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
@@ -7246,7 +7246,7 @@ Işonçingiz komilmi?</translation>
     </message>
     <message>
         <source>Rename Instance</source>
-        <translation>Nusxa nomini özgartiriş</translation>
+        <translation type="unfinished">Nusxani qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1772"/>
@@ -8881,14 +8881,14 @@ Iltimos, %1 ni yangilang!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="191"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Overrides jildining nomini özgartirib bölmadi:
+        <translation type="unfinished">Overrides jildini qayta nomlab bölmadi:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="204"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation>Client overrides jildining nomini özgartirib bölmadi:
+        <translation type="unfinished">Client overrides jildini qayta nomlab bölmadi:
 </translation>
     </message>
     <message>
@@ -11242,24 +11242,24 @@ Uşbu yangilanişning bir qismi sifatida mavjud saqlaşlarni yöq qilişni xohla
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="104"/>
         <source>Cannot rename instance</source>
-        <translation>Nusxa nomini özgartirib bölmaydi</translation>
+        <translation type="unfinished">Nusxani qayta nomlab bölmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation>Yangi nusxa ildizi (%1) allaqachon mavjud. &lt;br /&gt;Faqat metamaʼlumotlar qayta nomlanadi.</translation>
+        <translation type="unfinished">Yangi nusxa ildizi (%1) allaqaçon mavjud. &lt;br /&gt;Faqat metamaʼlumotlar qayta nomlanadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation>Nusxa jildinining nomini özgartirib bölmadi</translation>
+        <translation type="unfinished">Nusxa jildini qayta nomlab bölmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
         <source>The instance folder cannot be renamed while the instance is running.
 
 Only the instance name will be changed. The folder will keep its current name.</source>
-        <translation>Nusxa işlayotgan paytda nusxa jildining nomini özgartirib bölmaydi.
+        <translation type="unfinished">Nusxa işlayotgan paytda nusxa jildini qayta nomlab bölmaydi.
 
 Faqat nusxa nomi özgartiriladi. Jild hozirgi nomini saqlab qoladi.</translation>
     </message>
@@ -11271,7 +11271,7 @@ Faqat nusxa nomi özgartiriladi. Jild hozirgi nomini saqlab qoladi.</translation
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="80"/>
         <source>Rename instance folder</source>
-        <translation>Nusxa jildning nomini özgartiriş</translation>
+        <translation type="unfinished">Nusxa jildini qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="81"/>
@@ -11279,7 +11279,7 @@ Faqat nusxa nomi özgartiriladi. Jild hozirgi nomini saqlab qoladi.</translation
 
 Old name: %1
 New name: %2</source>
-        <translation>Nusxa jildining nomini özgartirmoqçimisiz?
+        <translation type="unfinished">Nusxa jildini ham qayta nomlamoqçimisiz?
 
 Eski nom: %1
 Yangi nom: %2</translation>
@@ -11292,7 +11292,7 @@ Yangi nom: %2</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="105"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation type="unfinished">Quyidagi nomni özgartiriş amalini bajarişda xatolik yuz berdi: &lt;br/&gt; - Eski nusxa ildizi: %1&lt;br/&gt; - Yangi nusxa ildizi: %2&lt;br/&gt;Faqat metamaʼlumotlar nomi özgartirildi.</translation>
+        <translation type="unfinished">Quyidagi qayta nomlaş amalini bajarişda xatolik yuz berdi: &lt;br/&gt; - Eski nusxa ildizi: %1&lt;br/&gt; - Yangi nusxa ildizi: %2&lt;br/&gt;Faqat metamaʼlumotlar qayta nomlandi.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="119"/>
@@ -13236,12 +13236,12 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="196"/>
         <source>&amp;Rename Skin</source>
-        <translation>Skin nomini özgartiriş</translation>
+        <translation type="unfinished">&amp;Skinni qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="199"/>
         <source>Rename selected skin</source>
-        <translation>Tanlangan skin nomini özgartiriş</translation>
+        <translation type="unfinished">Tanlangan skinni qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="202"/>
@@ -14629,7 +14629,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="114"/>
         <source>Rename</source>
-        <translation>Nomini özgartiriş</translation>
+        <translation type="unfinished">Qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="119"/>
@@ -14840,7 +14840,7 @@ Xatolik: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="523"/>
         <source>Rename World</source>
-        <translation>Olam nomini özgartiriş</translation>
+        <translation type="unfinished">Olamni qayta nomlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="531"/>
