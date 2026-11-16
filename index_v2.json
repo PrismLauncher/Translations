@@ -155,12 +155,12 @@
       "untranslated": 1282
     },
     "en@uwu": {
-      "file": "540a0f1a6972eb9814c150a8cd27fa490e643676.class",
-      "sha1": "540a0f1a6972eb9814c150a8cd27fa490e643676",
-      "size": 187509,
+      "file": "6be773041c2c27e08a2e7e8a171f98b1563f029a.class",
+      "sha1": "6be773041c2c27e08a2e7e8a171f98b1563f029a",
+      "size": 187779,
       "translated": 1147,
-      "fuzzy": 288,
-      "untranslated": 1146
+      "fuzzy": 291,
+      "untranslated": 1143
     },
     "en_AU": {
       "file": "494d1bf49c01f7dc357993f122c9d1a6bc9434ef.class",
@@ -211,12 +211,12 @@
       "untranslated": 33
     },
     "es_AR": {
-      "file": "25a4c5e99ba5e14e45eccc175190fae878d757c8.class",
-      "sha1": "25a4c5e99ba5e14e45eccc175190fae878d757c8",
-      "size": 132396,
+      "file": "5e4369ef56e7b82fa2aa885642e611ecf868144d.class",
+      "sha1": "5e4369ef56e7b82fa2aa885642e611ecf868144d",
+      "size": 136884,
       "translated": 678,
-      "fuzzy": 245,
-      "untranslated": 1658
+      "fuzzy": 278,
+      "untranslated": 1625
     },
     "es_UY": {
       "file": "23485e3f658fca764021af016cc3beca6a17bb0f.class",
@@ -555,12 +555,12 @@
       "untranslated": 487
     },
     "nl": {
-      "file": "3d78ac89e8f3c832628c885033afa06ea74b02f5.class",
-      "sha1": "3d78ac89e8f3c832628c885033afa06ea74b02f5",
-      "size": 369986,
+      "file": "0edad6f113e112e93d47fdcea9cb88fe7ac6f64d.class",
+      "sha1": "0edad6f113e112e93d47fdcea9cb88fe7ac6f64d",
+      "size": 370123,
       "translated": 2445,
-      "fuzzy": 6,
-      "untranslated": 130
+      "fuzzy": 7,
+      "untranslated": 129
     },
     "nn": {
       "file": "3d50340ef99ff23e0f72eeedb65c3dd7a985c18a.class",
@@ -739,12 +739,12 @@
       "untranslated": 2565
     },
     "uz": {
-      "file": "21d229f1014025d0ab94a1bcb3760a69e3c6005c.class",
-      "sha1": "21d229f1014025d0ab94a1bcb3760a69e3c6005c",
-      "size": 381026,
-      "translated": 2525,
+      "file": "0b03b27b5d529d1f4de8d73c4baac0847da0aaec.class",
+      "sha1": "0b03b27b5d529d1f4de8d73c4baac0847da0aaec",
+      "size": 381228,
+      "translated": 2526,
       "fuzzy": 4,
-      "untranslated": 52
+      "untranslated": 51
     },
     "vec": {
       "file": "49fe9d52b8de30ab75f06394cedc9926c095b8b5.class",
