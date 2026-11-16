@@ -6335,7 +6335,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished">Sélectionner l&apos;exécutable Java %1 dans le système de fichiers.</translation>
+        <translation type="unfinished">Sélectionnez l&apos;exécutable Java %1 dans le système de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
@@ -6345,7 +6345,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished">Sélectionner une installation Java %1 détectée.</translation>
+        <translation type="unfinished">Sélectionnez une installation Java %1 détectée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
@@ -6369,7 +6369,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished">Sélectionner une installation Java</translation>
+        <translation type="unfinished">Sélectionnez une installation Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
