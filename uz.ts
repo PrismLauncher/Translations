@@ -1184,7 +1184,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalarda qadalgan Java %1 yöli mavjud emas: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
