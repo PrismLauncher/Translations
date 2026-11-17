@@ -3591,7 +3591,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo recuperar la información de la dependencia %1, por lo que no se instalará.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -3602,17 +3602,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo resolver la dependencia %1 como un proyecto válido, por lo que no se instalará.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se omitió la dependencia %1 porque la cadena de dependencias es demasiado profunda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo resolver la dependencia %1, por lo que no se instalará. El mod podría no funcionar correctamente sin ella.</translation>
     </message>
 </context>
 <context>
@@ -3773,7 +3773,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Esta url no es un modpack válido!</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -3812,27 +3812,27 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegí la instancia a la que querés importar este resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegí la instancia a la que querés importar este %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3840,12 +3840,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Reportá problemas en: </translation>
     </message>
 </context>
 <context>
@@ -3854,20 +3854,20 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="70"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay versiones de Java disponibles en los metadatos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="71"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="75"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudieron cargar ni descargar las listas de versiones de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="74"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay versiones de Java disponibles para tu sistema operativo.</translation>
     </message>
 </context>
 <context>
@@ -3875,17 +3875,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="104"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Refrescar</translation>
+        <translation>&amp;Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="110"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="111"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
@@ -3915,34 +3915,36 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="153"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar cargador de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="185"/>
         <source>Installing a second loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalación de un segundo cargador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se sabe que %1 entra en conflicto con %2, que está activado en esta instancia. Si los dos están activados a la vez, es probable que la instancia deje de funcionar.
+
+¿Qué querés hacer con %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="190"/>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenerlo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="192"/>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivarlo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="195"/>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalarlo</translation>
     </message>
 </context>
 <context>
@@ -3950,7 +3952,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="41"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Actualmente no hay versiones disponibles para Minecraft %1</translation>
+        <translation>Actualmente no hay versiones disponibles para Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3958,7 +3960,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando el mundo...</translation>
     </message>
 </context>
 <context>
@@ -3966,17 +3968,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando la instancia %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar la carpeta de la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abortó la copia de la carpeta de la instancia.</translation>
     </message>
 </context>
 <context>
@@ -3984,31 +3986,32 @@ What would you like to do with %2?</source>
     <message>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear una nueva instancia:
+%1</translation>
     </message>
     <message>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear una nueva instancia.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminando archivos antiguos en conflicto...</translation>
+        <translation>Eliminando archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">No se pudieron eliminar los archivos antiguos en conflicto.</translation>
+        <translation>No se pudieron eliminar los archivos antiguos en conflicto.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Omitir</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron descargar los archivos del juego: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando archivos del juego</translation>
     </message>
 </context>
 <context>
@@ -4017,38 +4020,39 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando modpack:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="103"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga del modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="131"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentando determinar el tipo de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrayendo modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir el archivo zip del modpack proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no contiene un tipo de modpack reconocido.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron corregir los permisos de %1</translation>
     </message>
 </context>
 <context>
@@ -4056,7 +4060,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="179"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Instancia %1</translation>
     </message>
 </context>
 <context>
@@ -4065,12 +4069,12 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstancePageProvider.h" line="47"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Otros registros</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar instancia (%1)</translation>
     </message>
 </context>
 <context>
@@ -4078,7 +4082,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
 </context>
 <context>
@@ -4086,17 +4090,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1016"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la carpeta temporal</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1036"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar la plantilla de instancia. La instancia se creó de todos modos, pero solo contiene algunos archivos de la plantilla o ninguno.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1057"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo confirmar la instancia, incluso después de varios reintentos. Algo la está bloqueando.</translation>
     </message>
 </context>
 <context>
@@ -4104,22 +4108,22 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation type="unfinished">Omitir</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron descargar los archivos del juego: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando archivos del juego</translation>
     </message>
 </context>
 <context>
@@ -4127,12 +4131,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="461"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Te damos la bienvenida!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="461"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacé clic en &quot;Agregar instancia&quot; para empezar.</translation>
     </message>
 </context>
 <context>
@@ -4140,52 +4144,52 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>Ventana de consola de </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reiniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar la instancia en ejecución</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forzar cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="115"/>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Forzar el cierre de la instancia en ejecución</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar la instancia</translation>
     </message>
 </context>
 <context>
@@ -4193,12 +4197,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuchando en el puerto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Perfilador interrumpido</translation>
+        <translation>Perfilador abortado</translation>
     </message>
 </context>
 <context>
@@ -4206,12 +4210,12 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>VisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>VisualVM iniciado</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Perfilador interrumpido</translation>
+        <translation>Perfilador abortado</translation>
     </message>
 </context>
 <context>
@@ -4219,26 +4223,26 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrayendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir el archivo zip proporcionado: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontraron archivos en el archivo zip proporcionado.</translation>
     </message>
 </context>
 <context>
@@ -4246,17 +4250,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Refrescar</translation>
+        <translation>&amp;Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="236"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="303"/>
@@ -4266,38 +4270,38 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="305"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="307"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished"></translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="350"/>
         <source>Install Java</source>
-        <translation type="unfinished">Instalar Java</translation>
+        <translation>Instalar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="344"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">¡No se pudo determinar el tipo de descarga de Java!</translation>
+        <translation>¡No se pudo determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="357"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -4305,7 +4309,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando Java</translation>
     </message>
 </context>
 <context>
@@ -4313,27 +4317,27 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando la ruta del ejecutable de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando la ruta del ejecutable de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar la ruta del ejecutable de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Recopilando carpetas para crear enlaces simbólicos</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Creando enlaces simbólicos para la ruta del ejecutable de Java</translation>
     </message>
 </context>
 <context>
@@ -4341,7 +4345,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectando instalaciones de Java...</translation>
     </message>
 </context>
 <context>
@@ -4349,50 +4353,51 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="115"/>
         <source>Refresh</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>No hay versiones administradas de Java instaladas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo cargar la lista de versiones administradas de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="111"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a punto de eliminar la instalación de Java llamada &quot;%1&quot;.
+¿Seguro que querés continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
 </context>
 <context>
@@ -4400,7 +4405,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar el ejecutable de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
