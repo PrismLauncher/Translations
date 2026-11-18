@@ -4797,12 +4797,12 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>¿No encontrás tu idioma o la traducción es de mala calidad?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;¡Ayudanos con las traducciones!&lt;/a&gt;</translation>
+        <translation>¿No encontrás tu idioma o la traducción es mala?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;¡Ayudanos con las traducciones!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
         <source>Use system regional standards</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar la configuración regional del sistema</translation>
     </message>
 </context>
 <context>
@@ -4810,12 +4810,12 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation type="unfinished">Idioma</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioná el idioma que querés usar en %1</translation>
     </message>
 </context>
 <context>
@@ -4823,26 +4823,30 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando el comando %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>El comando de %1 está vacío; se omite.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>El comando de %1 falló con el código %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>El comando de %1 se ejecutó correctamente.
+
+</translation>
     </message>
 </context>
 <context>
@@ -4850,66 +4854,70 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se especificó ninguna instancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los argumentos de Java especificados no son válidos. Por favor, corregilos antes de continuar.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin cuentas</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="116"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Qué cuenta querés usar?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del jugador</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Jugar la demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugar demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>Auth servers offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores de autenticación fuera de servicio</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Los servidores de autenticación de Minecraft no están disponibles en este momento; se iniciará en modo sin conexión.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>No internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin conexión a internet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No tenés conexión a internet; se iniciará en modo sin conexión.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
