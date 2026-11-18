@@ -16164,7 +16164,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -16231,7 +16231,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished">The version of the resource.</translation>
+        <translation>The version of the resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
@@ -16270,7 +16270,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="812"/>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -16296,7 +16296,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -17828,7 +17828,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished">Failed to extract modpack: %1</translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17898,7 +17898,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished">Failed to extract modpack: %1</translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -17932,12 +17932,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished">Unable to open &quot;bin/modpack.jar&quot; file: %1</translation>
+        <translation>Unable to open &quot;bin/modpack.jar&quot; file: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished">Unable to open &quot;fmlversion.properties&quot;: %1</translation>
+        <translation>Unable to open &quot;fmlversion.properties&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17948,7 +17948,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished">Unable to open &quot;forgeversion.properties&quot;: %1</translation>
+        <translation>Unable to open &quot;forgeversion.properties&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -19464,12 +19464,12 @@ Canonical Path: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">Tools</translation>
+        <translation>Tools</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished">Run an external tool on the selected world.</translation>
+        <translation>Run an external tool on the selected world.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
@@ -19599,7 +19599,7 @@ Are you sure?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="255"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished">Deleting worlds</translation>
+        <translation>Deleting worlds</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="283"/>
@@ -19614,33 +19614,33 @@ Are you sure?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
         <source>No Tools Added</source>
-        <translation type="unfinished">No Tools Added</translation>
+        <translation>No Tools Added</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Open Settings</source>
-        <translation type="unfinished">Open Settings</translation>
+        <translation>Open Settings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="408"/>
         <source>Invalid command</source>
-        <translation type="unfinished">Invalid command</translation>
+        <translation>Invalid command</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="408"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished">The tool command is empty.</translation>
+        <translation>The tool command is empty.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="417"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished">Tool failed to start!</translation>
+        <translation>Tool failed to start!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished">The tool could not be started.
+        <translation>The tool could not be started.
 Error: %1</translation>
     </message>
     <message>
