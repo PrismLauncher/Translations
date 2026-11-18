@@ -4810,7 +4810,7 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Idioma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
@@ -13247,7 +13247,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Idioma</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
