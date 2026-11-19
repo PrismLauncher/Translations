@@ -4052,7 +4052,7 @@ Déan iarracht arís.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Theip ar réiteach na spleáchais %1; ní shuiteálfar í. D’fhéadfadh sé nach n-oibreoidh an mod i gceart gan í.</translation>
     </message>
 </context>
 <context>
