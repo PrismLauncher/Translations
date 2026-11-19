@@ -4623,7 +4623,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось получить информацию о зависимости %1, она не будет установлена.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4634,17 +4634,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зависимость %1 не может быть разрешена до допустимого проекта, она не будет установлена.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зависимость %1 была пропущена, так как цепочка зависимостей слишком глубока.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось разрешить зависимость %1, она не будет установлена. Мод может работать некорректно без неё.</translation>
     </message>
 </context>
 <context>
