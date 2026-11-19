@@ -13601,7 +13601,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se pudo cargar el perfil de la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
