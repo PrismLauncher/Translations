@@ -2481,8 +2481,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n개의 데이터 팩에서 메타데이터를 제거하려고 합니다.
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -3416,8 +3417,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개를 제거하려고 합니다.
+이는 영구적이며 폴더에서 사라질 것입니다.
+
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -3451,26 +3455,26 @@ Are you sure you want to do this?</source>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>항목 %n개 선택됨</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>검색 결과 %n개</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1개 설치 및 활성화됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1개 설치됨, %2 활성화됨</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -4559,7 +4563,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>종속성 %1에 대한 정보를 가져오지 못했습니다. 해당 항목은 설치되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4570,17 +4574,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>종속성 %1을(를) 유효한 프로젝트로 확인할 수 없습니다. 해당 항목은 설치되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>종속성 %1의 연결 단계가 너무 많아 건너뛰었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>종속성 %1 확인에 실패하여 설치하지 않습니다. 해당 항목 없이는 모드가 정상적으로 작동하지 않을 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -9654,12 +9658,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹 아이콘 바꾸기(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="586"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹 아이콘 삭제(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
@@ -9947,7 +9951,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL에서 업데이트</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10069,22 +10073,22 @@ URL 또한 신뢰할 수 있는지 반드시 확인하십시오.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL에서 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>모드팩 파일의 다운로드 URL을 입력하십시오:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 HTTP(S) URL을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -15651,8 +15655,9 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n개의 리소스를 선택하였습니다.
+이 대화 상자를 닫으시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -16279,8 +16284,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n개의 리소스 팩에서 메타데이터를 제거하려고 합니다.
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -16746,8 +16752,11 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>스크린샷 %n개를 삭제하려고 합니다.
+이는 영구적이며 폴더에서 사라질 것입니다.
+
+삭제하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -17003,8 +17012,11 @@ Currently installed version: %1</source>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>선택한 서버 %n개를 제거하려고 합니다.
+이는 영구적이며 서버가 목록에서 영원히 사라지게 됩니다.
+
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -17119,8 +17131,9 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n개의 셰이더 팩에서 메타데이터를 제거하려고 합니다.
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -18008,8 +18021,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n개의 텍스처 팩에서 메타데이터를 제거하려고 합니다.
+제거하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
