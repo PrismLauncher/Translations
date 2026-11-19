@@ -4922,80 +4922,82 @@ Podés cambiar la versión de Java en la configuración más adelante.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo actualizar la cuenta</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <location filename="src/launcher/LaunchController.cpp" line="376"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cargar el perfil de la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="382"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear la tarea de lanzamiento.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>La comprobación del perfilador %1 falló: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Iniciar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>El inicio del juego se retrasa hasta que presiones el botón. Este es el momento ideal para configurar el perfilador, ya que el servidor del perfilador ya está en ejecución.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo iniciar el perfilador: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="457"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al actualizar &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; expiró y necesita volver a autenticarse</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambió la identificación del cliente del launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ya no existe en los servidores</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
