@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="50"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>خدمة اللصق و نوع</translation>
+        <translation>ن&amp;وع خدمة اللصق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="70"/>
@@ -48,33 +48,33 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="141"/>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation>يمكنك تغيير هذا الإعداد إلى خادم آخر إذا واجهت مشاكل في تنزيل الملفات.</translation>
+        <translation>يمكنك تعيين خادم آخر هنا إذا واجهتك مشاكل في تنزيل الموارد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="167"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>خادم مكتبات FML الإرثية</translation>
+        <translation>خادم مكتبات FML القديمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="173"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>يمكنك التغيير إلى خادم آخر إذا واجهتك مشاكل مع تحميل مكتبات FML الإرثية (Minecraft 1.5.2 أو أقدم).</translation>
+        <translation>يمكنك تعيين خادم آخر هنا إذا واجهتك مشاكل في تنزيل مكتبات FML القديمة (ماين كرافت 1.5.2 أو أقدم).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="227"/>
         <source>&amp;API Keys</source>
-        <translation>مفاتيح واجهة برمجة التطبيقات</translation>
+        <translation>&amp;مفاتيح API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="233"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation>مصادقة Microsoft</translation>
+        <translation>مصادقة &amp;مايكروسوفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="288"/>
         <source>Mod&amp;rinth</source>
-        <translation>Modrinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="310"/>
@@ -103,7 +103,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="259"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر مصادقة Microsoft يعمل.</translation>
+        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر مصادقة مايكروسوفت يعمل.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -156,12 +156,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="214"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>ادخل وكيل مستخدم مخصص هنا. الرمز $LAUNCHER_VER الخاص سيستبدل بإصدار المشغل.</translation>
+        <translation>أدخل هنا وكيل مستخدم (User Agent) مخصصًا. ستُستبدل السلسلة الخاصة $LAUNCHER_VER بإصدار المشغّل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="103"/>
         <source>Meta&amp;data Server</source>
-        <translation>خادم جمع البيانات &amp;العامة</translation>
+        <translation>خادم البيانات ال&amp;وصفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="55"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="109"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>يمكنك وضع خادم البيانات هذا لاستعمال المكتبات التقنية أو ملفات اختراق أخرى.</translation>
+        <translation>يمكنك تعيين هذا إلى خادم بيانات وصفية تابع لجهة خارجية لاستخدام مكتبات معدَّلة أو تعديلات أخرى.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -180,7 +180,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج لتعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;التعليمات&lt;/a&gt; لمعلومات أخرى.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ملاحظة: تحتاج إلى تعيين هذا فقط للوصول إلى البيانات الخاصة. اقرأ &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;الوثائق&lt;/a&gt; لمزيد من المعلومات.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;CurseForge Core API</source>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="375"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>ملاحظة: ربما لا تحتاج إلى تعيين هذا إذا كان كورس فورج يعمل بالفعل.</translation>
+        <translation>ملاحظة: ربما لا تحتاج إلى تعيين هذا إذا كان CurseForge يعمل بالفعل.</translation>
     </message>
     <message>
         <source>Enter a custom API Key for CurseForge here.</source>
@@ -207,53 +207,53 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>تعذرت معالجة بيانات الحزمة:
+        <translation>تعذّر فهم ملف بيان الحزمة:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="357"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
+        <translation>تعذّر الحصول على فهرس البيانات الوصفية المحلي لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="156"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
+        <translation>تعذّر الحصول على فهرس البيانات الوصفية المحلي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="145"/>
         <source>Unsupported installation mode</source>
-        <translation>وضع تنصيب غير مدعوم</translation>
+        <translation>وضع التثبيت غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
         <source>Deleting existing files...</source>
-        <translation>جاري حذف الملفات الموجودة...</translation>
+        <translation>جارٍ حذف الملفات الموجودة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Unknown mod type: %1</source>
-        <translation>نوع إضافة غير معروف: %1</translation>
+        <translation>نوع المود غير معروف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشلت محاولة إيجاد إصدار للمحمل %1</translation>
+        <translation>تعذّر العثور على إصدار للمحمّل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="405"/>
         <source>No loader version set for modpack!</source>
-        <translation>لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
+        <translation>لم يُحدَّد إصدار المحمّل للمودباك!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="537"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
+        <translation>نوع التنزيل غير مدعوم أو غير معروف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Downloading configs...</source>
-        <translation>جارِ تنزيل ملفات الإعدادات...</translation>
+        <translation>جارٍ تنزيل ملفات الإعدادات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
@@ -263,7 +263,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="694"/>
         <source>Extracting configs...</source>
-        <translation>جارِ استخراج ملفات الإعدادات...</translation>
+        <translation>جارٍ استخراج ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -272,17 +272,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Selecting optional mods...</source>
-        <translation>جار وضع الإضافات الاختيارية...</translation>
+        <translation>جارٍ تحديد المودات الاختيارية...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="727"/>
         <source>Downloading mods...</source>
-        <translation>جاري تنزيل الإضافات...</translation>
+        <translation>جارٍ تنزيل المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Mod download</source>
-        <translation>تنزيل الإضافة</translation>
+        <translation>تنزيل المود</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -292,58 +292,58 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="757"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="905"/>
         <source>Unknown download type: %1</source>
-        <translation>وضع تنزيل غير معروف: %1</translation>
+        <translation>نوع التنزيل غير معروف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حظر اجتياز المسار (path traversal) في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
         <source>Blocked mods found</source>
-        <translation>تم العثور على إضافات محظورة</translation>
+        <translation>تم العثور على مودات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="846"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغّلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="912"/>
         <source>%1 out of %2 complete</source>
-        <translation>تم %1 من %2</translation>
+        <translation>اكتمل %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods...</source>
-        <translation>فشل في إستخراج الإضافات...</translation>
+        <translation>تعذّر استخراج المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
         <source>Extracting mods...</source>
-        <translation>جارِ إستخراج الإضافات...</translation>
+        <translation>جارٍ استخراج المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1040"/>
         <source>Installing modpack</source>
-        <translation>تثبيت حزمة الإضافات</translation>
+        <translation>جارٍ تثبيت المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1052"/>
         <source>Failed to create libraries component</source>
-        <translation>فضل انشاء مكون المكاتب</translation>
+        <translation>تعذّر إنشاء مكوّن المكتبات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1092"/>
         <source>Unknown loader type: </source>
-        <translation>نوعية محمّل مجهولة: </translation>
+        <translation>نوع المحمّل غير معروف: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1107"/>
         <source>Failed to create pack component</source>
-        <translation>فشل إنشاء مكون الحزمة</translation>
+        <translation>تعذّر إنشاء مكوّن الحزمة</translation>
     </message>
 </context>
 <context>
@@ -351,12 +351,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>حولَ</translation>
+        <translation>حول</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغل مخصص يجعل إدارة ماين كرافت أسهل عبر السماح لك بامتلاك نسخ متعددة من ماين كرافت في وقت واحد.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;مشغّل مخصص يجعل إدارة ماين كرافت أسهل عبر السماح لك بامتلاك نسخ متعددة من ماين كرافت في وقت واحد.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -371,12 +371,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>رقم الإصدار:</translation>
+        <translation>تاريخ البناء:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>التجهيز:</translation>
+        <translation>الإيداع (Commit):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -386,7 +386,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>الشكر والتقدير إلى</translation>
+        <translation>شكر وتقدير</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -396,7 +396,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>حولَ‫ Qt</translation>
+        <translation>حول Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -411,12 +411,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="103"/>
         <source>Commit: %1</source>
-        <translation>التجهيز:%1</translation>
+        <translation>الإيداع (Commit): %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="108"/>
         <source>Build date: %1</source>
-        <translation>بيانات الإصدار:%1</translation>
+        <translation>تاريخ البناء: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -464,13 +464,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="335"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>غير متصل بالإنترنت</translation>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="338"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -510,7 +510,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="379"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>نوع الحساب (حساب مايكروسوفت أو غير متصل)</translation>
+        <translation>نوع الحساب (مايكروسوفت أو غير متصل)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -554,12 +554,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="367"/>
         <source>Type</source>
-        <translation>نوع</translation>
+        <translation>النوع</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Status</source>
-        <translation>الوضع</translation>
+        <translation>الحالة</translation>
     </message>
     <message>
         <source>Can Migrate?</source>
@@ -568,7 +568,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>اسم المستخدم لماين كرافت مربوط مع الحساب.</translation>
+        <translation>اسم مستخدم ماين كرافت المرتبط بالحساب.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -585,7 +585,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="381"/>
         <source>Current status of the account.</source>
-        <translation>حالة الحساب الحاضر.</translation>
+        <translation>الحالة الحالية للحساب.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -604,19 +604,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="107"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>إزالة</translation>
+        <translation>إ&amp;زالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>تعيين كافتراضي</translation>
+        <translation>&amp;تعيين كافتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="76"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>إزالة الافتراضي</translation>
+        <translation>إل&amp;غاء الافتراضي</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -635,24 +635,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="81"/>
         <source>&amp;Manage Skins</source>
-        <translation>تعديل الأزياء&amp;</translation>
+        <translation>&amp;إدارة الشخصيات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="84"/>
         <source>Manage Skins</source>
-        <translation>تعديل الأزياء</translation>
+        <translation>إدارة الشخصيات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="89"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;اضف حساب ميكروسوفت</translation>
+        <translation>&amp;إضافة حساب مايكروسوفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="94"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>اضافة حساب غير متصل بالشبكة (&amp;O)</translation>
+        <translation>إضافة حساب &amp;غير متصل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -668,12 +668,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="112"/>
         <source>Move &amp;Up</source>
-        <translation>حرك &amp;للفوق</translation>
+        <translation>تحريك لأ&amp;على</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Move &amp;Down</source>
-        <translation>حرك &amp;للتحت</translation>
+        <translation>تحريك لأ&amp;سفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="58"/>
@@ -692,13 +692,13 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>أهلا!
-اذا كنت جديدا هنا، بإمكانك ضغط زر &quot;إضافة حساب مايكروسوفت&quot; لإضافة حساب مايكروسوفت الخاص بك.</translation>
+        <translation>مرحبًا!
+إذا كنت جديدًا هنا، يمكنك الضغط على زر &quot;إضافة حساب مايكروسوفت&quot; لربط حساب مايكروسوفت الخاص بك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>لم يتم تعيين معرف عميل مصادقة الخاص بمايكروسوفت .</translation>
+        <translation>لم يتم تعيين معرّف عميل مصادقة مايكروسوفت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="105"/>
@@ -757,7 +757,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Do you really want to delete this account?</source>
-        <translation>هل تريد حقا حذف هذا الحساب؟</translation>
+        <translation>هل تريد فعلًا حذف هذا الحساب؟</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -820,7 +820,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AppearancePage.h" line="54"/>
         <source>Appearance</source>
-        <translation>مظهر</translation>
+        <translation>المظهر</translation>
     </message>
 </context>
 <context>
@@ -828,19 +828,19 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="34"/>
         <source>View cat packs folder.</source>
-        <translation>عرض مجلد مجموعات القطط.</translation>
+        <translation>عرض مجلد حزم القطط.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="37"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="47"/>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="57"/>
         <source>Open Folder</source>
-        <translation>افتح مجلد</translation>
+        <translation>فتح مجلد الأيقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="44"/>
         <source>View widget themes folder.</source>
-        <translation>عرض مجلد سمات القطعة.</translation>
+        <translation>عرض مجلد سمات عناصر الواجهة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="54"/>
@@ -850,7 +850,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="64"/>
         <source>&amp;Cat Pack:</source>
-        <translation>حزمة القطة:</translation>
+        <translation>&amp;حزمة القطة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="109"/>
@@ -860,32 +860,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="116"/>
         <source>Theme:</source>
-        <translation>سمة:</translation>
+        <translation>السمة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="126"/>
         <source>&amp;Icons:</source>
-        <translation>أيقونات:</translation>
+        <translation>&amp;الأيقونات:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="149"/>
         <source>Console Font:</source>
-        <translation>خط وحدة التحكم:</translation>
+        <translation>خط الطرفية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="209"/>
         <source>Enable cat</source>
-        <translation>إظهار القطة</translation>
+        <translation>تفعيل القطة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="351"/>
         <source>Cat Scaling</source>
-        <translation>تحجيم القط</translation>
+        <translation>تحجيم القطة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="374"/>
         <source>Fit</source>
-        <translation>وسع</translation>
+        <translation>ملاءمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="379"/>
@@ -895,12 +895,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="384"/>
         <source>Stretch</source>
-        <translation>تمطيط</translation>
+        <translation>تمديد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="225"/>
         <source>Cat Opacity</source>
-        <translation>عتامة القط</translation>
+        <translation>عتامة القطة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="280"/>
@@ -915,12 +915,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.ui" line="398"/>
         <source>Preview</source>
-        <translation>عرض مسبق</translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="280"/>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[خطأ] أووووووووووو! خطأ مخيف!</translation>
+        <translation>[خطأ] أووووو! خطأ مخيف!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="282"/>
@@ -930,7 +930,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="284"/>
         <source>[INFO] A harmless message...</source>
-        <translation>[معلومات] رسالة غير ضارة...</translation>
+        <translation>[معلومة] رسالة غير ضارة...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="285"/>
@@ -940,12 +940,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="286"/>
         <source>[DEBUG] A secret debugging message...</source>
-        <translation>[تصحيح الأخطاء] رسالة تصحيح أخطاء سرية...</translation>
+        <translation>[تصحيح] رسالة تصحيح سرية...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/AppearanceWidget.cpp" line="287"/>
         <source>[FATAL] A terrifying fatal error!</source>
-        <translation>[قاتل] خطأ قاتل مرعب!</translation>
+        <translation>[حرج] خطأ حرج مرعب!</translation>
     </message>
 </context>
 <context>
@@ -953,7 +953,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="696"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
+        <translation>لا يمكن عرض هذا السجل لأن طوله تجاوز %1 سطر.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="922"/>
@@ -974,23 +974,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>يحتوي هذا التثبيت على ملف قفل التحديث الموجود في: %1
+        <translation>يوجد ملف قفل تحديث في هذا التثبيت عند: %1
 
 الطابع الزمني: %2
 التحديث من الإصدار %3 إلى %4
-مسار التثبيت الهدف: %5
+مسار التثبيت المستهدف: %5
 مسار البيانات: %6
-وهذا يعني على الأرجح فشل محاولة التحديث. يرجى التأكد من أن التثبيت الخاص بك يعمل جيدًا قبل المتابعة.
-تحقق من سجل تحديث بريسوم لانشر على:
+يعني هذا غالبًا أن محاولة تحديث قد فشلت. يرجى التأكد من أن تثبيتك يعمل جيدًا قبل المتابعة.
+راجع سجل مُحدِّث Prism Launcher في:
 %7
-للحصول على تفاصيل حول محاولة التحديث الأخيرة.
+لمعرفة تفاصيل آخر محاولة تحديث.
 
-لحذف هذا القفل والمتابعة، حدد &quot;تجاهل&quot; أدناه.</translation>
+لحذف هذا القفل والمتابعة، اختر &quot;تجاهل&quot; أدناه.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1112"/>
         <source>Update In Progress</source>
-        <translation>التحديث قيد التقدم</translation>
+        <translation>جارٍ التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1140"/>
@@ -1002,10 +1002,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>فشلت محاولة التحديث
 
-يرجى التأكد من أن التثبيت الخاص بك يعمل جيدًا قبل المتابعة.
-تحقق من سجل تحديث بريسوم لانشر على:
+يرجى التأكد من أن تثبيتك يعمل جيدًا قبل المتابعة.
+راجع سجل مُحدِّث Prism Launcher في:
 %1
-للحصول على تفاصيل حول محاولة التحديث الأخيرة.</translation>
+لمعرفة تفاصيل آخر محاولة تحديث.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1148"/>
@@ -1028,10 +1028,10 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>نجح التحديث
 
-أنت الآن تشغل %1 .
-تحقق من سجل تحديث مشغل بريسم في:
+أنت تستخدم الآن %1 .
+راجع سجل مُحدِّث Prism Launcher في: 
 %2
-للمزيد من التفاصيل.</translation>
+لمزيد من التفاصيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1184"/>
@@ -1045,10 +1045,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation>ملف &quot;/tmp&quot; الخاص بك مركب حاليا مع العلم &apos;noexec&apos; مفعل
-بعض النسخ من ماين كرافت قد لا تعمل
+        <translation>مجلد /tmp لديك مُركَّب حاليًا مع تفعيل الخيار &apos;noexec&apos;.
+قد لا تعمل بعض إصدارات ماين كرافت.
 
-لتصليحها يمكنك إعادة تركيب /tmp في وضع &apos;exec&apos; أو تغير وسائط الآلة الإفتراضية للجافا الخاصة بـjava.io.tmpdir إلى ملف آخر بإمكانك الكتابة فيه ومع وضعية &apos;exec&apos; مفعلة (مثال: /home/user/.local/tmp)
+يمكنك حل هذه المشكلة بإعادة تركيب /tmp بالخيار &apos;exec&apos;، أو بتعيين وسيط JVM ‏java.io.tmpdir إلى مجلد قابل للكتابة في نظام ملفات مفعَّل فيه الخيار &apos;exec&apos; (مثل: /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -1062,7 +1062,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1226"/>
         <source>Incompatible system configuration</source>
-        <translation>إعدادات نظام جهازك غير متوافق</translation>
+        <translation>إعدادات النظام غير متوافقة</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -1071,22 +1071,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1986"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>تم العثور على بيانات قديمة من ٪ 1 ولكن لديك بالفعل بيانات موجودة ل ٪ 2. للأسف سوف تحتاج إلى الانتقال بنفسك. هل تريد أن يتم تذكيرك بترحيل البيانات المعلقة في المرة القادمة التي تبدأ فيها ٪2؟</translation>
+        <translation>تم العثور على بيانات قديمة من %1، لكن لديك بالفعل بيانات موجودة لـ %2. للأسف ستحتاج إلى ترحيلها بنفسك. هل تريد أن نذكّرك بترحيل البيانات المعلّق في المرة القادمة التي تشغّل فيها %2؟</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1990"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>يبدو أنك استخدمت ٪1 من قبل. هل تريد ترحيل البيانات إلى الموقع الجديد ٪2؟</translation>
+        <translation>يبدو أنك استخدمت %1 من قبل. هل تريد ترحيل بياناتك إلى الموقع الجديد لـ %2؟</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1996"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>يبدو أنك استخدمت ٪1 على٪2 من قبل. هل تريد ترحيل البيانات إلى الموقع الجديد ٪3؟</translation>
+        <translation>يبدو أنك استخدمت %1 على %2 من قبل. هل تريد ترحيل بياناتك إلى الموقع الجديد لـ %3؟</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="2042"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>فشل الترحيل! السبب: ٪1</translation>
+        <translation>فشل الترحيل! السبب: %1</translation>
     </message>
 </context>
 <context>
@@ -1094,7 +1094,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>جار تحديث فهرس الموارد...</translation>
+        <translation>جارٍ تحديث فهرس الموارد...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -1113,13 +1113,13 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="77"/>
         <source>Mojang</source>
-        <translation>موجانغ</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation>يتم الحصول على ملف الممتلكات من %1...</translation>
+        <translation>جارٍ جلب ملفات الموارد من %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1146,19 +1146,19 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>فرز بحسب الشعبية</translation>
+        <translation>فرز حسب الشعبية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>فرز بحسب الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>فرز بحسب إصدار اللعبة</translation>
+        <translation>فرز حسب إصدار اللعبة</translation>
     </message>
 </context>
 <context>
@@ -1166,7 +1166,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>اختر الإضافات المراد تثبيتها</translation>
+        <translation>اختر المودات المراد تثبيتها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1176,22 +1176,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>إختر الموصى بة</translation>
+        <translation>اختر الموصى به</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>إستخدم رمز المشاركة</translation>
+        <translation>استخدم رمز المشاركة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>مسج الكل</translation>
+        <translation>مسح الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation>إختر رمز مشاركة</translation>
+        <translation>اختر رمز مشاركة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
@@ -1201,7 +1201,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="355"/>
         <source>No share code specified!</source>
-        <translation>لم يتم إختيار رمز مشاركة!</translation>
+        <translation>لم يتم تحديد رمز مشاركة!</translation>
     </message>
 </context>
 <context>
@@ -1209,7 +1209,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>هل أنت واثق بانك تريد تفعيل هذه الإضافة؟</translation>
+        <translation>هل أنت متأكد من أنك تريد تفعيل هذا المود؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="248"/>
@@ -1222,7 +1222,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>تحذير: ما زال قيد التطوير. في حال مواجهتك للمتاعب أثناء استيراد حزمة إضافات، فقد يكون خلل برمجي.</translation>
+        <translation>تحذير: لا تزال هذه الميزة قيد التطوير. إذا واجهت مشاكل مع المودباك المستورد، فقد يكون السبب خللًا برمجيًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="80"/>
@@ -1249,22 +1249,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت %1</translation>
+        <translation>لا توجد إصدارات متاحة حاليًا لـ ماين كرافت %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>لا يوجد إصدار متوفر الأن حاليا</translation>
+        <translation>لا توجد إصدارات متاحة حاليًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>تعذر تحميل أو تنزيل قوائم الإصدارات!</translation>
+        <translation>تعذّر تحميل أو تنزيل قوائم الإصدارات!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>جار التثبيت</translation>
+        <translation>جارٍ التثبيت</translation>
     </message>
 </context>
 <context>
@@ -1277,12 +1277,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
         <source>Initializing</source>
-        <translation>جار التهيئة</translation>
+        <translation>جارٍ التهيئة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="87"/>
         <source>Waiting...</source>
-        <translation>انتظار...</translation>
+        <translation>جارٍ الانتظار...</translation>
     </message>
     <message>
         <source>Working...</source>
@@ -1291,12 +1291,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
         <source>Preparing to log in...</source>
-        <translation>التحضير لتسجيل الدخول...</translation>
+        <translation>جارٍ التحضير لتسجيل الدخول...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="99"/>
         <source>Authentication task succeeded.</source>
-        <translation>تمت المصادقة.</translation>
+        <translation>اكتملت مهمة المصادقة بنجاح.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="105"/>
@@ -1331,7 +1331,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="141"/>
         <source>Unknown account task state: %1</source>
-        <translation>حالة مهمة الحساب المجهول: %1</translation>
+        <translation>حالة مهمة الحساب غير معروفة: %1</translation>
     </message>
 </context>
 <context>
@@ -1339,42 +1339,42 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار جافا %1 المثبَّت في الإعدادات غير موجود: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>آلية الجافا التلقائية قد وجدت إصدار 32 بت للجافا على جهازك.</translation>
+        <translation>اكتشفت آلية جافا التلقائية تثبيت جافا بنظام 32 بت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="101"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>لم يستطع النظام الوجود على إصدار جافا متناسق، سيستخدم النظام الخيار الافتراضي.</translation>
+        <translation>لم يُعثر على إصدار جافا متوافق. سيتم استخدام الإصدار الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="112"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>جهازك (%1-%2) لا يدعم تثبيت جافا أوتوماتيكياً. سيستخدم مكان جافا التلقائي.</translation>
+        <translation>نظامك (%1-%2) غير متوافق مع التثبيت التلقائي لجافا. سيتم استخدام مسار جافا الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="120"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>المعلومات المطلوبة قديمة أو غير موجودة لتحديد إصدار نسخة جافا التي يجب استعمالها. سيتم استعمال مسار جافا الافتراضي.</translation>
+        <translation>بياناتك الوصفية قديمة أو لا تحتوي على المعلومات اللازمة لتحديد أي تثبيت لجافا يجب استخدامه. سيتم استخدام مسار جافا الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>عثر على إصدار جافا متناسق في: %1.</translation>
+        <translation>عُثر على إصدار جافا متوافق في: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="171"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>لم يوجد أي نسخة متناسقة مع جافا. سيتم استعمال النسخة الافتراضية.</translation>
+        <translation>لم يُعثر على إصدار جافا متوافق (الملف التنفيذي غير موجود). سيتم استخدام الإصدار الافتراضي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="194"/>
         <source>Could not determine Java download type!</source>
-        <translation>لم يتمكن تحديد نوع تنزيل جافا!</translation>
+        <translation>تعذّر تحديد نوع تنزيل جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="198"/>
@@ -1384,12 +1384,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="232"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation>لم يتم العثور على إصدار جافا مناسب لنظامك: %1-%2</translation>
+        <translation>لم يُعثر على أي إصدار من جافا لنظام التشغيل لديك: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="234"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>لم يتم العثور على إصدار جافا مناسب. سيتم استعمال الإصدار الافتراضي.</translation>
+        <translation>لم يُعثر على إصدار جافا متوافق. سيتم استخدام الإصدار الافتراضي.</translation>
     </message>
 </context>
 <context>
@@ -1397,7 +1397,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -1408,12 +1408,12 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>لقد أضفنا خاصية تنزيل النسخة الصحيحة للجافا لكل نسخة من ماين كرافت(هذه الخاصية يمكن تغييرها في إعدادات جافا). هل تريد تفعيل أم تعطيل هذه الخاصية؟</translation>
+        <translation>أضفنا ميزة لتنزيل إصدار جافا الصحيح تلقائيًا لكل إصدار من ماين كرافت (يمكن تغيير ذلك في إعدادات جافا). هل تريد تفعيل هذه الميزة أم تعطيلها؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation>تفعيل التحميل التلقآئي</translation>
+        <translation>تفعيل التنزيل التلقائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
@@ -1433,24 +1433,24 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>تم إنهاء المحلل</translation>
+        <translation>أُوقف المُحلِّل</translation>
     </message>
 </context>
 <context>
     <name>BlockedModsDialog</name>
     <message>
         <source>All mods found</source>
-        <translation>تم العثور على جميع الإضافات</translation>
+        <translation>تم العثور على جميع المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>Please download the missing mods.</source>
-        <translation>يرجى تنزيل الإضافات المفقودة.</translation>
+        <translation>يرجى تنزيل المودات المفقودة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; تم العثور علية في %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; تم العثور عليه في %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1465,27 +1465,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="178"/>
         <source>Skip</source>
-        <translation>تخطي</translation>
+        <translation>تخطّي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتم فحص مجلد المودات العام ومجلد التحميلات الافتراضي تلقائياً بحثاً عن المودات المحملة، وسيتم نسخها إلى النسخة في حال العثور عليها.&lt;/p&gt;&lt;p&gt;اختيارياً، يمكنك سحب وإفلات المودات المحملة داخل هذه النافذة، أو إضافة مجلد لمراقبته إذا لم تقم بتحميل المودات في الموقع الافتراضي.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;انقر على &apos;فتح الروابط الناقصة&apos; لفتح جميع روابط التحميل في المتصفح.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتم فحص مجلد المودات العام ومجلد التنزيلات الافتراضي تلقائياً بحثاً عن المودات المحملة، وسيتم نسخها إلى النسخة في حال العثور عليها.&lt;/p&gt;&lt;p&gt;اختيارياً، يمكنك سحب وإفلات المودات المحملة داخل هذه النافذة، أو إضافة مجلد لمراقبته إذا لم تقم بتنزيل المودات في الموقع الافتراضي.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;انقر على &apos;فتح الروابط الناقصة&apos; لفتح جميع روابط التنزيل في المتصفح.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
         <source>Blocked Mods</source>
-        <translation>الإضافات المحظورة</translation>
+        <translation>المودات المحظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="77"/>
         <source>Open Missing</source>
-        <translation>فتح المفقود</translation>
+        <translation>فتح الروابط الناقصة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="100"/>
         <source>Watched Folders</source>
-        <translation>المجلدات المراقبة</translation>
+        <translation>المجلدات المراقَبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="124"/>
@@ -1495,7 +1495,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>حدد الموقع حيث قمت بتنزيل الإضافات به</translation>
+        <translation>حدّد المجلد الذي نزّلت فيه المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -1505,7 +1505,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;الهاش: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;التجزئة (Hash): %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1520,11 +1520,11 @@ Some versions of Minecraft may not launch.
     <name>CapeChange</name>
     <message>
         <source>Equipping cape</source>
-        <translation>تجهيز الرداء</translation>
+        <translation>جارٍ ارتداء الرداء</translation>
     </message>
     <message>
         <source>Removing cape</source>
-        <translation>إزالة الرداء</translation>
+        <translation>جارٍ إزالة الرداء</translation>
     </message>
 </context>
 <context>
@@ -1532,7 +1532,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="74"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
+        <translation>تعذّر العثور على مكتبة فاحص جافا. يرجى التحقق من تثبيتك.</translation>
     </message>
 </context>
 <context>
@@ -1540,12 +1540,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="14"/>
         <source>Choose Offline Name</source>
-        <translation>إختر اسم غير متصل بالشبكة</translation>
+        <translation>اختر اسمًا للحساب غير المتصل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation>نائب تسمية رسالة.</translation>
+        <translation>حيّز عنوان الرسالة المخصص.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1555,12 +1555,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="40"/>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
-        <translation>لا يكون اسم المستخدم سليماً إلا إذا كان يتراوح طوله بين 3 و 16 رمزاً، ويستخدم الحروف والأعداد الإنكليزية وتساطير سفلية. من الممكن أن يمنع الاسم الغير سليم من الدخول الى الخوادم و عوالم اللاعب الفردي.</translation>
+        <translation>لا يكون اسم المستخدم صالحًا إلا إذا كان طوله بين 3 و16 حرفًا ويتكوّن من أحرف إنجليزية وأرقام وشرطات سفلية. قد يمنعك اسم المستخدم غير الصالح من الانضمام إلى الخوادم والعوالم ذات اللاعب الواحد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="43"/>
         <source>Allow invalid usernames</source>
-        <translation>السماح بأسماء المستخدم الغير سليمة</translation>
+        <translation>السماح بأسماء مستخدم غير صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.cpp" line="33"/>
@@ -1578,32 +1578,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>اختر مورد الإضافات</translation>
+        <translation>اختر مزوّد المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>تخطى هذه الإضافة</translation>
+        <translation>تخطّي هذا المود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>تخطى الكل</translation>
+        <translation>تخطّي الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>التأكيد للكل</translation>
+        <translation>تأكيد للكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>التأكيد</translation>
+        <translation>تأكيد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>حاول استعمال الموفرين الآخرين تلقائيا عند فشل الموفر المختار</translation>
+        <translation>محاولة استخدام المزوّدين الآخرين تلقائيًا إذا فشل المزوّد المختار</translation>
     </message>
 </context>
 <context>
@@ -1611,48 +1611,48 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="85"/>
         <source>Loading components</source>
-        <translation>جري تحميل المكونات</translation>
+        <translation>جارٍ تحميل المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="220"/>
         <source>Aborted</source>
-        <translation>إنهاء المهمة</translation>
+        <translation>أُلغيت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="244"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>عملية تحميل المعلومات الوصفية الخاصة بعنصرٍ ما باءت بالفشل.</translation>
+        <translation>فشلت بعض مهام تحميل البيانات الوصفية للمكوّنات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="249"/>
         <source>Downloading metadata for %1 components</source>
-        <translation>جري تنزيل البيانات الوصفية لالمكونات 1%</translation>
+        <translation>جارٍ تنزيل البيانات الوصفية لـ %1 من المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="485"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>تم اكتشاف تضارب متطلبات أثناء التحقق من التبعيات!</translation>
+        <translation>تم اكتشاف متطلبات متعارضة أثناء التحقق من التبعيات!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="502"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>النموذج يحتوي تبعيات متضاربة.</translation>
+        <translation>تحتوي النسخة على تبعيات متعارضة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="508"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>النموذج يحتوي تبعيات لم يتم تسويتها أثناء التحميل/التحقق للتشغيل.</translation>
+        <translation>تحتوي النسخة على تبعيات غير محلولة أثناء التحميل/التحقق من التشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="808"/>
         <source>Could not download metadata for %1 %2. Please change the version or try again later.</source>
-        <translation>‪لم يمكن تنزيل بيانات التعريف %1 %2 الرجاء تغير الإصدار أو إعادة المحاولة.</translation>
+        <translation>تعذّر تنزيل البيانات الوصفية لـ %1 %2. يرجى تغيير الإصدار أو المحاولة لاحقًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="815"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>عملية تحديث معلومات العنصر الوصفية فشلت أثناء التنزيل من الخادم المتحكم:
+        <translation>فشلت مهمة تحديث البيانات الوصفية للمكوّن أثناء التنزيل من الخادم البعيد:
 %1</translation>
     </message>
 </context>
@@ -1661,7 +1661,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="94"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>فشل في إنهاء المهام الجارية.</translation>
+        <translation>تعذّر إيقاف كل المهام الجارية.</translation>
     </message>
     <message>
         <source>One or more subtasks failed</source>
@@ -1681,13 +1681,13 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="141"/>
         <source>Multiple subtasks failed
 %1</source>
-        <translation>فشلت العديد من المهمات الثانوية
+        <translation>فشلت عدة مهام فرعية
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="246"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>جاري تنفيذ %1 مهمة/مهمات(تم %2 من %3)</translation>
+        <translation>جارٍ تنفيذ %1 من المهام (اكتمل %2 من %3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="249"/>
@@ -1697,12 +1697,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="251"/>
         <source>Waiting for a task to start...</source>
-        <translation>في انتظار بدء مهمة...</translation>
+        <translation>بانتظار بدء مهمة...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="253"/>
         <source>Executing 1 task:</source>
-        <translation>تنفيذ مهمة واحدة:</translation>
+        <translation>جارٍ تنفيذ مهمة واحدة:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="255"/>
@@ -1715,7 +1715,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>نسخ النموذج</translation>
+        <translation>استنساخ النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1730,37 +1730,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>اختيار الكل</translation>
+        <translation>تحديد الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>تعطيل هذا سيحافظ على محمل الإضافات (مثل: فاريك, كويلت, إلخ.)لكن سيحذف الإضافات و تفضيلاتها.</translation>
+        <translation>تعطيل هذا سيُبقي على محمّل المودات (مثل Fabric وQuilt وغيرهما) لكنه سيحذف مجلد المودات وإعداداتها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>خيارات نسخ الحالة</translation>
+        <translation>خيارات استنساخ النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>نسخ الإضافات</translation>
+        <translation>نسخ المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>إنسخ الإعدادات داخل اللعبة مثل مجال الروئية , الحد الأقصى من الفريمات, إلخ...</translation>
+        <translation>انسخ إعدادات اللعبة مثل مجال الرؤية (FOV) والحد الأقصى لمعدل الإطارات وغيرها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>إنسخ إعدادات اللعبة</translation>
+        <translation>نسخ إعدادات اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>نسخ المحفوظات</translation>
+        <translation>نسخ ملفات الحفظ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -1770,42 +1770,42 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>استخدم روابط رمزية أو صلبة بدلا من نسخ الملفات.</translation>
+        <translation>استخدام روابط رمزية أو صلبة بدلًا من نسخ الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>خيارات الارتباط الرمزي والثابت</translation>
+        <translation>خيارات الروابط الرمزية والصلبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>الروابط مدعومة في معظم أنظمة الملفات باستثناء FAT</translation>
+        <translation>الروابط مدعومة في معظم أنظمة الملفات عدا FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>ربط كل مورد على حدة بدلا من ربط المجلدات بأكملها مرة واحدة</translation>
+        <translation>ربط كل مورد على حدة بدلًا من ربط المجلدات بأكملها دفعة واحدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation>ربط الملفات بشكل متكرر</translation>
+        <translation>ربط الملفات تعاوديًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>إذا تم تحديد &quot;نسخ الحفظ&quot; ، نسخ بيانات حفظ العالم بدلا من ربطها وبالتالي عدم مشاركتها بين التجهيزات.</translation>
+        <translation>إذا تم تحديد &quot;نسخ ملفات الحفظ&quot;، فسيتم نسخ بيانات حفظ العالم بدلًا من ربطها، وبالتالي لن تُشارَك بين النسخ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>لا تربط نسخ الحفظ المختلفة</translation>
+        <translation>عدم ربط ملفات الحفظ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>استخدم الروابط الصلبة بدلا من نسخ الملفات.</translation>
+        <translation>استخدام الروابط الصلبة بدلًا من نسخ الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
@@ -1816,42 +1816,42 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>استخدم الروابط الرمزية بدلا من نسخ الملفات.</translation>
+        <translation>استخدام الروابط الرمزية بدلًا من نسخ الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>استخدم الروابط الرمزية</translation>
+        <translation>استخدام الروابط الرمزية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>خيار نسخ على الكتابة</translation>
+        <translation>خيارات النسخ عند الكتابة (CoW)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>الملفات المستنسخة باستخدام روابط الإحالة لا تأخذ أي مساحة إضافية حتى يتم تعديلها.</translation>
+        <translation>لا تشغل الملفات المستنسخة بروابط الإحالة (reflinks) أي مساحة إضافية حتى يتم تعديلها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>استنسخ بدلا من النسخ</translation>
+        <translation>استنساخ بدلًا من النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>ملفات نظامك و/او النظام التشغيلي لا يدعم روابط اللإحالة</translation>
+        <translation>نظام الملفات و/أو نظام التشغيل لديك لا يدعم روابط الإحالة (reflinks)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>نسخ حزم المظلّلات</translation>
+        <translation>نسخ حزم الشادر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>انسخ الخوادم</translation>
+        <translation>نسخ الخوادم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1861,7 +1861,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>الحفاظ على مدة اللعب</translation>
+        <translation>الإبقاء على مدة اللعب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1876,22 +1876,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>ريف لينك مدعوم في %1</translation>
+        <translation>روابط الإحالة (Reflinks) مدعومة على %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>ريف لينك ليس مدعوم في %1</translation>
+        <translation>روابط الإحالة (Reflinks) غير مدعومة على %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>في نظام التشغيل ويندوز، قد تتطلب الارتباطات الرمزية إذن المسؤول لإنشائها (التشغيل كمسؤول).</translation>
+        <translation>في Windows، قد يتطلب إنشاء الروابط الرمزية صلاحيات المسؤول.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation>المساعدة</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -1909,7 +1909,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="74"/>
         <source>Copying world...</source>
-        <translation>يتم نسخ العالم...</translation>
+        <translation>جارٍ نسخ العالم...</translation>
     </message>
     <message>
         <source>Failed to copy world.</source>
@@ -1925,7 +1925,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="87"/>
         <source>Core Mods</source>
-        <translation>الإضافات الأساسية</translation>
+        <translation>المودات الأساسية</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1933,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>لم يتمكن من إنشاء مجلد اللعبة الرئيسي</translation>
+        <translation>تعذّر إنشاء مجلد اللعبة الرئيسي</translation>
     </message>
 </context>
 <context>
@@ -1941,12 +1941,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="17"/>
         <source>Create Instance Shortcut</source>
-        <translation>إنشاء إختصار للنموذج</translation>
+        <translation>إنشاء اختصار للنسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="44"/>
         <source>Save To:</source>
-        <translation>احفظ الى:</translation>
+        <translation>الحفظ في:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="61"/>
@@ -1961,22 +1961,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="79"/>
         <source>Use a different account than the default specified.</source>
-        <translation>إستخدم حسابًا أخر غير الإفتراضي المحدد.</translation>
+        <translation>استخدام حساب آخر غير الحساب الافتراضي المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="82"/>
         <source>Override the default account</source>
-        <translation>تجاوز الحساب الإفتراضي</translation>
+        <translation>تجاوز الحساب الافتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation>حدد عالم أو خادم للدخول إليه بشكل تلقائي عند التشغيل.</translation>
+        <translation>حدّد عالمًا أو خادمًا للانضمام إليه تلقائيًا عند التشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
         <source>Select a target to join on launch</source>
-        <translation>إختار هدف للدخول إليه عند التشغيل</translation>
+        <translation>اختر وجهة للانضمام إليها عند التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="141"/>
@@ -1997,12 +1997,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="200"/>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation>ملحوظة: إذا حُرك الإختصار بعد الإنشاء, لن يمسح الإختصلر عندما يُمسح النموذج.</translation>
+        <translation>ملاحظة: إذا نُقل الاختصار بعد إنشائه، فلن يُحذف عند حذف النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="207"/>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation>تحتاج إلى مسحهم بشكل يدوي بهذه الحالة.</translation>
+        <translation>ستحتاج إلى حذفها يدويًا في هذه الحالة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="84"/>
@@ -2012,17 +2012,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="87"/>
         <source>Applications</source>
-        <translation>برامج</translation>
+        <translation>التطبيقات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="89"/>
         <source>Other...</source>
-        <translation>آخر...</translation>
+        <translation>أخرى...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="95"/>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation>%1 [%2] - آخر مرة تم اللعب فيها: %3</translation>
+        <translation>%1 [%2] - آخر لعب: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="111"/>
@@ -2042,7 +2042,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="195"/>
         <source>instance</source>
-        <translation>عينة</translation>
+        <translation>نسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.cpp" line="199"/>
@@ -2080,37 +2080,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation>تجاوز الإعدادات العالمية</translation>
+        <translation>تجاوز الإعدادات ال&amp;عامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="67"/>
         <source>&amp;Pre-load Command</source>
-        <translation>&amp;أمر التحميل المسبق</translation>
+        <translation>&amp;أمر ما قبل التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="118"/>
         <source>&amp;Pre-launch Command</source>
-        <translation>&amp;أمر ما قبل الإطلاق</translation>
+        <translation>&amp;أمر ما قبل التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="128"/>
         <source>P&amp;ost-exit Command</source>
-        <translation>أمر ما بعد الخروج</translation>
+        <translation>أمر ما بعد ال&amp;خروج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="157"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-load command runs before the instance&apos;s metadata is loaded, pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;All will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يعمل أمر ما قبل التحميل قبل تحميل البيانات الوصفية للنسخة، ويعمل أمر ما قبل التشغيل قبل تشغيل النسخة، ويعمل أمر ما بعد الخروج بعد إغلاقها.&lt;/p&gt;&lt;p&gt;تعمل جميعها في مجلد العمل الخاص بالمشغّل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - اسم النسخة&lt;/li&gt;&lt;li&gt;$INST_ID - معرّف النسخة (اسم مجلدها)&lt;/li&gt;&lt;li&gt;$INST_DIR - المسار المطلق للنسخة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار المطلق لـ ماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA - ملف جافا التنفيذي المستخدم في التشغيل&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - معاملات سطر الأوامر المستخدمة في التشغيل (تحذير: لن تعمل بشكل صحيح إذا كانت المعاملات تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يتيح أمر الغلاف (Wrapper) التشغيل عبر برنامج غلاف إضافي (مثل &apos;optirun&apos; على Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Wrapper Command</source>
-        <translation>أمر المجمع</translation>
+        <translation>أمر ال&amp;غلاف (Wrapper)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتم تشغيل &quot;أمر ما قبل الإطلاق&quot; قبل بدء النسخة، بينما يتم تشغيل &quot;أمر ما بعد الخروج&quot; بعد إغلاقها.&lt;/p&gt;&lt;p&gt;سيتم تشغيل كلاهما في مجلد العمل الخاص بالمشغل مع توفر متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - اسم النسخة&lt;/li&gt;&lt;li&gt;$INST_ID - معرف النسخة (اسم المجلد الخاص بها)&lt;/li&gt;&lt;li&gt;$INST_DIR - المسار الكامل لمجلد النسخة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار الكامل لماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA - ملف الجافا التنفيذي المستخدم للإطلاق&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - معاملات سطر الأوامر المستخدمة للإطلاق (تنبيه: لن يعمل بشكل صحيح إذا كانت المعاملات تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يسمح &quot;أمر الغلاف&quot; بالإطلاق باستخدام برنامج غلاف إضافي (مثل &apos;optirun&apos; على نظام لينكس)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يعمل أمر ما قبل التشغيل قبل تشغيل النسخة، ويعمل أمر ما بعد الخروج بعد إغلاقها.&lt;/p&gt;&lt;p&gt;يعمل كلاهما في مجلد العمل الخاص بالمشغّل مع متغيرات بيئة إضافية:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - اسم النسخة&lt;/li&gt;&lt;li&gt;$INST_ID - معرّف النسخة (اسم مجلدها)&lt;/li&gt;&lt;li&gt;$INST_DIR - المسار المطلق للنسخة&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - المسار المطلق لـ ماين كرافت&lt;/li&gt;&lt;li&gt;$INST_JAVA - ملف جافا التنفيذي المستخدم في التشغيل&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - معاملات سطر الأوامر المستخدمة في التشغيل (تحذير: لن تعمل بشكل صحيح إذا كانت المعاملات تحتوي على مسافات)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;يتيح أمر الغلاف (Wrapper) التشغيل عبر برنامج غلاف إضافي (مثل &apos;optirun&apos; على Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2125,7 +2125,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation>الفلتر</translation>
+        <translation>تصفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
@@ -2135,7 +2135,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>الإصدارات التجريبية</translation>
+        <translation>اللقطات (Snapshots)</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2144,58 +2144,58 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation>نسخ ثانوية (بيتا)</translation>
+        <translation>النسخ التجريبية (بيتا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation>نسخ أولية (ألفا)</translation>
+        <translation>النسخ التجريبية (ألفا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation>المزايا التجريبية</translation>
+        <translation>التجارب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation>تنشيط</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>محمل المود</translation>
+        <translation>محمّل المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation>لا شيء</translation>
+        <translation>بدون</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
         <source>NeoForge</source>
-        <translation>نيوفورج</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation>فورج (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>فابريك (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>كويلت (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation>لايت لودر (LiteLoader)</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="55"/>
@@ -2205,17 +2205,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="124"/>
         <source>No Minecraft version is selected.</source>
-        <translation>لم يتم تحديد نسخة ماين كرافت.</translation>
+        <translation>لم يتم تحديد إصدار ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="130"/>
         <source>No mod loader is selected.</source>
-        <translation>لم يتم تحديد محمل الإضافات.</translation>
+        <translation>لم يتم تحديد محمّل المودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="164"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدارات متوفرة حاليا لماين كرافت %1</translation>
+        <translation>لا توجد إصدارات متاحة حاليًا لـ ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -2223,17 +2223,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="22"/>
         <source>Scanning files...</source>
-        <translation>جاري مسح الملفات...</translation>
+        <translation>جارٍ فحص الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="40"/>
         <source>Failed to scan source path.</source>
-        <translation>فشل في فحص مسار المصدر.</translation>
+        <translation>تعذّر فحص المسار المصدر.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="53"/>
         <source>Copying %1…</source>
-        <translation>جاري نسخ %1…</translation>
+        <translation>جارٍ نسخ %1…</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2242,14 +2242,14 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="74"/>
         <source>Some paths could not be copied!</source>
-        <translation>لا يمكن نسخ بعض المسارات!</translation>
+        <translation>تعذّر نسخ بعض المسارات!</translation>
     </message>
 </context>
 <context>
     <name>DataPack</name>
     <message>
         <source>Unrecognized</source>
-        <translation>غير معترف به</translation>
+        <translation>غير معرَّف</translation>
     </message>
 </context>
 <context>
@@ -2260,7 +2260,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
+        <translation>الصورة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2270,7 +2270,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
-        <translation>تنسيق الحزمة</translation>
+        <translation>صيغة الحزمة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2285,12 +2285,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>File Name</source>
-        <translation>آسم الملف</translation>
+        <translation>اسم الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2299,17 +2299,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="168"/>
         <source>The version of the data pack.</source>
-        <translation>إصدار حزمة البيانات.</translation>
+        <translation>إصدار الداتاباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="175"/>
         <source>The size of the data pack.</source>
-        <translation>حجم حزمة البيانات.</translation>
+        <translation>حجم الداتاباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="177"/>
         <source>The file name of the data pack.</source>
-        <translation>اسم ملف حزمة البيانات.</translation>
+        <translation>اسم ملف الداتاباك.</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -2320,7 +2320,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="171"/>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>معرف تنسيق حزمة البيانات، بالإضافة إلى إصدارات ماين كرافت التي تم تصميمها لها.</translation>
+        <translation>معرّف صيغة الداتاباك، بالإضافة إلى إصدارات ماين كرافت التي صُمِّم لها.</translation>
     </message>
     <message>
         <source>
@@ -2339,17 +2339,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="164"/>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation>هل تم تفعيل حزمة البيانات؟ (صالح فقط لملفات ZIP)</translation>
+        <translation>هل الداتاباك مفعَّل؟ (صالح لملفات ZIP فقط)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="166"/>
         <source>The name of the data pack.</source>
-        <translation>اسم حزمة البيانات.</translation>
+        <translation>اسم الداتاباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="173"/>
         <source>The date and time this data pack was last changed (or added).</source>
-        <translation>التاريخ والوقت الذي تم فيه آخر تغيير (أو إضافة) لحزمة البيانات هذه.</translation>
+        <translation>تاريخ ووقت آخر تغيير (أو إضافة) لهذا الداتاباك.</translation>
     </message>
 </context>
 <context>
@@ -2362,22 +2362,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="33"/>
         <source>Download data packs from online mod platforms</source>
-        <translation>نزّل حزم البيانات من منصات الإضافات عبر الإنترنت</translation>
+        <translation>نزّل الداتاباكات من منصات المودات عبر الإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="39"/>
         <source>Try to check or update all selected data packs (all data packs if none are selected)</source>
-        <translation>حاول التحقق من جميع حزم البيانات المحددة أو تحديثها (كل حزم البيانات إذا لم يتم تحديد أي منها)</translation>
+        <translation>حاول التحقق من كل الداتاباكات المحددة أو تحديثها (كل الداتاباكات إن لم يُحدَّد أي منها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="53"/>
         <source>Change a data pack&apos;s version.</source>
-        <translation>تغيير إصدار حزمة البيانات.</translation>
+        <translation>تغيير إصدار الداتاباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="81"/>
         <source>Download Data Packs</source>
-        <translation>تنزيل حزم البيانات</translation>
+        <translation>تنزيل الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="83"/>
@@ -2392,13 +2392,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n من الداتاباكات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لداتاباك واحد.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لداتاباكين.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n داتاباكات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n داتاباكًا.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n داتاباك.
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
@@ -2407,7 +2413,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التنزيل بواسطة المستخدم.</translation>
+        <translation>أوقف المستخدم التنزيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2418,13 +2424,13 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إحباط</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="113"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="205"/>
         <source>Data pack updates are unavailable when metadata is disabled!</source>
-        <translation>تحديثات حزمة البيانات غير متاحة عند تعطيل البيانات الوصفية!</translation>
+        <translation>تحديثات الداتاباك غير متاحة عند تعطيل البيانات الوصفية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
@@ -2436,33 +2442,33 @@ Are you sure?</source>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>قد يؤدي تحديث حزم البيانات أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
+        <translation>قد يؤدي تحديث الداتاباكات أثناء تشغيل اللعبة إلى تكرار الحزم وتعطّل اللعبة.
 قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
-هل أنت متأكد من رغبتك في القيام بذلك؟</translation>
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
-        <translation>تم إلغاء تحديث حزمة البيانات!</translation>
+        <translation>أُلغي مُحدِّث الداتاباك!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;%1&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدَّث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation>جميع حزم البيانات محدثة! :)</translation>
+        <translation>كل الداتاباكات محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation>جميع حزم البيانات المحددة محدثة! :)</translation>
+        <translation>كل الداتاباكات المحددة محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <source>Update checker</source>
-        <translation>فاحص التحديثات</translation>
+        <translation>مدقق التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="187"/>
@@ -2472,7 +2478,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation>أنت على وشك إزالة البيانات الوصفية لـ %1 من حزم البيانات.
+        <translation>أنت على وشك إزالة البيانات الوصفية لـ %1 من الداتاباكات.
 هل أنت متأكد؟</translation>
     </message>
 </context>
@@ -2481,7 +2487,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation>يتم حذف العالم...</translation>
+        <translation>جارٍ حذف العالم...</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
@@ -2555,11 +2561,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation>النظام يعاني من ضغط مرتفع على الذاكرة.
-قد يؤدي هذا إلى لاق او بطئ في الأداء.
-إذا امكن، قم بأغلاق البرامج الأخرى قبل المتابعة.
+        <translation>النظام تحت ضغط متزايد على الذاكرة.
+قد يؤدي هذا إلى تأخر أو بطء في الأداء.
+إذا أمكن، أغلق التطبيقات الأخرى قبل المتابعة.
 
-تشغيل على اي حال؟</translation>
+هل تريد التشغيل على أي حال؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2568,9 +2574,9 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation>النظام لديك يعاني من ضغط حرج على الذاكرة.
-قد يؤدي هذا إلى بطء شديد أو انهيارات أو عدم استقرار في النظام.
-يُنصح بإغلاق التطبيقات الأخرى أو إعادة تشغيل الجهاز.
+        <translation>النظام لديك تحت ضغط حرج على الذاكرة.
+قد يؤدي هذا إلى بطء شديد أو أعطال أو عدم استقرار في النظام.
+يُنصح بإغلاق التطبيقات الأخرى أو إعادة تشغيل النظام.
 
 هل تريد التشغيل على أي حال؟</translation>
     </message>
@@ -2582,12 +2588,12 @@ Launch anyway?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="60"/>
         <source>The system is under high memory pressure</source>
-        <translation>النظام يعاني من ضغط مرتفع على الذاكرة</translation>
+        <translation>النظام تحت ضغط مرتفع على الذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="86"/>
         <source>Low free memory</source>
-        <translation>انخفاض الذاكرة المتاحة</translation>
+        <translation>ذاكرة متاحة منخفضة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2597,17 +2603,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation>قد لا تتوفر ذاكرة RAM كافية لتشغيل هذه النسخة بإعدادات الذاكرة الحالية
+        <translation>قد لا تتوفر ذاكرة RAM كافية لتشغيل هذه النسخة بإعدادات الذاكرة الحالية.
 
 الحد الأقصى المخصص: %1 ميبيبايت
-المتاح: (%2 ميبيبايت من أصل %3 ميبيبايت)
+المتاح: %2 ميبيبايت (من أصل %3 ميبيبايت)
 
 هل تريد التشغيل على أي حال؟ قد يسبب هذا بطئًا في اللعبة والنظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="99"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation>لا توجد ذاكرة رام (RAM) كافية لتشغيل هذه النسخة</translation>
+        <translation>لا توجد ذاكرة RAM كافية لتشغيل هذه النسخة</translation>
     </message>
 </context>
 <context>
@@ -2619,31 +2625,31 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="98"/>
         <source>Checking if resources have metadata...</source>
-        <translation>التحقق إذا الموارد لديها المعلومات المطلوبة...</translation>
+        <translation>جارٍ التحقق مما إذا كانت الموارد تحتوي على بيانات وصفية...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="171"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>جاري طلب معلومات بيانات التعريف من %1...</translation>
+        <translation>جارٍ طلب معلومات البيانات الوصفية من %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="173"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>جاري طلب معلومات بيانات التعريفية من %1 من اجل &apos;%2&apos;...</translation>
+        <translation>جارٍ طلب معلومات البيانات الوصفية من %1 لـ &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="253"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="299"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>تحليل رد واجهة تطبيق من مودرينث لأجل &apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من Modrinth لـ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="447"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="488"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل الرد واجهة التطبيق من كورس فورج لأجل &apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من CurseForge لـ &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2657,7 +2663,7 @@ Launch anyway? This may cause slowdowns in the game and your system.</source>
         <source>
 This instance cannot be launched because some libraries are missing or have not been downloaded yet. Please try again in online mode with a working Internet connection</source>
         <translation>
-لا يمكن تشغيل هذه النسخة بسبب فقدان بعض المكتبات أو عدم تحميلها بعد. يرجى المحاولة مرة أخرى في وضع الاتصال مع وجود اتصال إنترنت فعال</translation>
+لا يمكن تشغيل هذه النسخة لأن بعض المكتبات مفقودة أو لم يتم تنزيلها بعد. يرجى المحاولة مرة أخرى في وضع الاتصال مع وجود اتصال فعّال بالإنترنت</translation>
     </message>
 </context>
 <context>
@@ -2665,12 +2671,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>تحديد ملكية اللعبة.</translation>
+        <translation>جارٍ تحديد ملكية اللعبة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>حصلت على استحقاقات</translation>
+        <translation>تم الحصول على الاستحقاقات</translation>
     </message>
 </context>
 <context>
@@ -2678,7 +2684,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
@@ -2697,12 +2703,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="50"/>
         <source>&amp;Add</source>
-        <translation>&amp;اضف</translation>
+        <translation>&amp;إضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation>تجاوز و الإعدادات العامة</translation>
+        <translation>تجاوز الإعدادات ال&amp;عامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -2712,7 +2718,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="77"/>
         <source>&amp;Clear</source>
-        <translation>&amp;تصفية</translation>
+        <translation>&amp;مسح</translation>
     </message>
 </context>
 <context>
@@ -2727,7 +2733,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>تصدير حزمة</translation>
+        <translation>تصدير النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="137"/>
@@ -2761,11 +2767,11 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="149"/>
         <source>Unable to export instance</source>
-        <translation>غير قادر على تصدير النموذج</translation>
+        <translation>تعذّر تصدير النسخة</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
 </context>
 <context>
@@ -2801,22 +2807,22 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="31"/>
         <source>&amp;Name:</source>
-        <translation>الاسم:</translation>
+        <translation>&amp;الاسم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="44"/>
         <source>&amp;Version:</source>
-        <translation>الإصدار:</translation>
+        <translation>&amp;الإصدار:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="61"/>
         <source>&amp;Author:</source>
-        <translation>مؤلف:</translation>
+        <translation>&amp;المؤلف:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="76"/>
         <source>&amp;Summary</source>
-        <translation>&amp; الملخص</translation>
+        <translation>&amp;الملخص</translation>
     </message>
     <message>
         <source>&amp;Name</source>
@@ -2835,12 +2841,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="135"/>
         <source>&amp;Recommended Memory:</source>
-        <translation>الذاكرة الموصى بها:</translation>
+        <translation>&amp;الذاكرة الموصى بها:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="151"/>
         <source> MiB</source>
-        <translation> ميبي بايت</translation>
+        <translation> ميبيبايت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="183"/>
@@ -2850,7 +2856,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="209"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation>&amp;وسم الملفات الغير مفعلة كاختيارية</translation>
+        <translation>&amp;وسم الملفات المعطّلة على أنها اختيارية</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2864,12 +2870,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="50"/>
         <source>Export Modrinth Pack</source>
-        <translation>تصدير حزمة مودرينث</translation>
+        <translation>تصدير حزمة Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="59"/>
         <source>Export CurseForge Pack</source>
-        <translation>تصدير حزمة كورس فورج</translation>
+        <translation>تصدير حزمة CurseForge</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -2894,12 +2900,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="166"/>
         <source>Modrinth pack</source>
-        <translation>حزمة مودرينث</translation>
+        <translation>حزمة Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="173"/>
         <source>CurseForge pack</source>
-        <translation>حزمة كورس فو‬رج</translation>
+        <translation>حزمة CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="200"/>
@@ -2912,11 +2918,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
 </context>
 <context>
@@ -2924,7 +2930,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>تصدير الحزمة الى قائمة الإضافات</translation>
+        <translation>تصدير الحزمة إلى قائمة المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2939,12 +2945,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation>وسم</translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation>النص الصافي</translation>
+        <translation>نص عادي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -2964,7 +2970,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation>قالب</translation>
+        <translation>القالب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -2974,12 +2980,12 @@ This instance cannot be launched because some libraries are missing or have not 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation>هذا النص يدعم العناصر المؤقتة:
-{name}     - اسم الإضافة
-{mod_id}   - رمز هوية الإضافة
-{url}      - الموقع الإلكتروني للإضافة
-{version}  - نسخة الإضافة
-{authors}  - مؤلفو الإضافة</translation>
+        <translation>يدعم هذا النص العناصر النائبة التالية:
+{name}     - اسم المود
+{mod_id}   - معرّف المود
+{url}      - رابط المود
+{version}  - إصدار المود
+{authors}  - مؤلفو المود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="99"/>
@@ -2996,13 +3002,13 @@ This instance cannot be launched because some libraries are missing or have not 
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="112"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="140"/>
         <source>Authors</source>
-        <translation>المؤلفين</translation>
+        <translation>المؤلفون</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="119"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>URL</source>
-        <translation>موقع الإلكتروني</translation>
+        <translation>الرابط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="126"/>
@@ -3023,7 +3029,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="212"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>هذا يعتمد على المعلومات الوصفية للإضافات. للتأكد من أنها متاحة, قم بإجراء تحديث على العينة. تثبيت التحديثات غير ضروري.</translation>
+        <translation>يعتمد هذا على البيانات الوصفية للمودات. للتأكد من توفرها، شغّل تحديثًا للنسخة. تثبيت التحديثات غير ضروري.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="226"/>
@@ -3038,7 +3044,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="70"/>
         <source>Save</source>
-        <translation>احفظ</translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="171"/>
@@ -3130,7 +3136,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="90"/>
         <source>Search</source>
-        <translation>البحث</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
@@ -3140,12 +3146,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="126"/>
         <source>Add a locally downloaded file.</source>
-        <translation>إضافة ملف مُنزّل محلياً.</translation>
+        <translation>إضافة ملف تم تنزيله محليًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="137"/>
         <source>Remove all selected items.</source>
-        <translation>احذف كل العناصر المحددة.</translation>
+        <translation>إزالة كل العناصر المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="159"/>
@@ -3155,12 +3161,12 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="164"/>
         <source>View &amp;Configs</source>
-        <translation>عرض &amp;ملفات التعديل</translation>
+        <translation>عرض &amp;ملفات الإعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="167"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>افتح مجلد &apos;config&apos; باستخدام مدير ملفات النظام.</translation>
+        <translation>افتح مجلد &apos;config&apos; في مدير ملفات النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="172"/>
@@ -3170,27 +3176,27 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="175"/>
         <source>Open the folder in the system file manager.</source>
-        <translation>افتح المجلد الذي يوجد داخل مدير ملفات النظام.</translation>
+        <translation>افتح المجلد في مدير ملفات النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="183"/>
         <source>&amp;Download</source>
-        <translation>تنزيل</translation>
+        <translation>&amp;تنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="186"/>
         <source>Download resources from online mod platforms.</source>
-        <translation>تنزيل موارد من منصات الإضافات على الإنترنت.</translation>
+        <translation>تنزيل موارد من منصات المودات على الإنترنت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="197"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation>حاول التحقق أو تحديث جميع الموارد المحددة (كل الموارد إذا لم يُحدد شيء).</translation>
+        <translation>محاولة التحقق من كل الموارد المحددة أو تحديثها (كل الموارد إذا لم يتم تحديد أي منها).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="202"/>
         <source>Reset Update Metadata</source>
-        <translation>إعادة تعيين بيانات التعريف للتحديثات</translation>
+        <translation>إعادة تعيين البيانات الوصفية للتحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="210"/>
@@ -3205,7 +3211,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="224"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation>تصدير معلومات المورد الداخلية إلى نص.</translation>
+        <translation>تصدير البيانات الوصفية للمورد إلى نص.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="232"/>
@@ -3215,37 +3221,37 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="235"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>غير نسخة المورد.</translation>
+        <translation>تغيير إصدار المورد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="246"/>
         <source>View Homepage</source>
-        <translation>عرض القائمة الرئيسية</translation>
+        <translation>عرض الصفحة الرئيسية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="249"/>
         <source>View the homepages of all selected items.</source>
-        <translation>عرض القوائم الرئيسية لكل الاغراض المحددة.</translation>
+        <translation>عرض الصفحات الرئيسية لكل العناصر المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="254"/>
         <source>Lock Updates</source>
-        <translation>منع التحديثات</translation>
+        <translation>قفل التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="257"/>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished"></translation>
+        <translation>قفل المورد لمنع تحديثه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="262"/>
         <source>Unlock Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء قفل التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="265"/>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء قفل المورد للسماح بتحديثه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="194"/>
@@ -3268,10 +3274,10 @@ This instance cannot be launched because some libraries are missing or have not 
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>أنت على وشك إزالة ٪ 1 عناصر.
-قد يكون هذا دائم وستحذف العناصر من الملف
+        <translation>أنت على وشك إزالة %1 من العناصر.
+قد يكون هذا دائمًا وستختفي من المجلد.
 
-هل أنت متأكد؟؟</translation>
+هل أنت متأكد؟</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="266"/>
@@ -3279,13 +3285,31 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة %n عنصر.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة عنصر واحد.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة عنصرين.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n عناصر.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n عنصرًا.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n عنصر.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
@@ -3294,8 +3318,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>أنت على وشك إزالة المجلد &quot;%1&quot;
-قد يكون هذا دائم وسيحذف من المجلد الأصل
+        <translation>أنت على وشك إزالة المجلد &quot;%1&quot;.
+قد يكون هذا دائمًا وسيختفي من المجلد الأصل.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -3313,42 +3337,42 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>إذا أزلت هذا المورد أثناء عمل اللعبة من الممكن أن تتعطل لعبتك.
-هل أنت متأكد أنك تريد فعل هذا؟</translation>
+        <translation>إذا أزلت هذا المورد أثناء تشغيل اللعبة فقد تتعطل.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n عنصر محدد</numerusform>
+            <numerusform>عنصر واحد محدد</numerusform>
+            <numerusform>عنصران محددان</numerusform>
+            <numerusform>%n عناصر محددة</numerusform>
+            <numerusform>%n عنصرًا محددًا</numerusform>
+            <numerusform>%n عنصر محدد</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n نتيجة بحث</numerusform>
+            <numerusform>نتيجة بحث واحدة</numerusform>
+            <numerusform>نتيجتا بحث</numerusform>
+            <numerusform>%n نتائج بحث</numerusform>
+            <numerusform>%n نتيجة بحث</numerusform>
+            <numerusform>%n نتيجة بحث</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 مثبَّت ومفعَّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 مثبَّت، %2 مفعَّل</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -3370,11 +3394,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source> (%1 installed, %2 selected)</source>
-        <translation> .( تم تحميل %1، تم تحديد %2)</translation>
+        <translation> (%1 مثبَّت، %2 محدَّد)</translation>
     </message>
     <message>
         <source> (%1 installed)</source>
-        <translation> (تم تثبيت %1)</translation>
+        <translation> (%1 مثبَّت)</translation>
     </message>
 </context>
 <context>
@@ -3382,54 +3406,54 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="44"/>
         <source>&amp;Editors</source>
-        <translation>&amp;المُحررون</translation>
+        <translation>&amp;المحررون</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="50"/>
         <source>&amp;Text Editor</source>
-        <translation>&amp;أداة تحرير النص</translation>
+        <translation>&amp;محرر النصوص</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="65"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="147"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="207"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="74"/>
         <source>Used to edit component JSON files.</source>
-        <translation>اِستُخدمت في تحرير تكوينات ملفات JSON.</translation>
+        <translation>يُستخدم لتحرير ملفات JSON الخاصة بالمكوّنات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="239"/>
         <source>World Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات العالم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="245"/>
         <source>Custom tools launchable on worlds from the instance Worlds menu. Command supports the ${WORLD_PATH} placeholder.</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات مخصصة يمكن تشغيلها على العوالم من قائمة العوالم في النسخة. يدعم الأمر العنصر النائب ${WORLD_PATH}.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="257"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;إضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="264"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;إزالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="311"/>
         <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="316"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>الأمر</translation>
     </message>
     <message>
         <source>&amp;MCEdit</source>
@@ -3444,12 +3468,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="100"/>
         <source>&amp;Profilers</source>
-        <translation>&amp;المُسجلات</translation>
+        <translation>&amp;محللات الأداء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="106"/>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation>يمكن الوصول إلى المُسجلات عن طريق قائمة تشغيل.</translation>
+        <translation>يمكن الوصول إلى محللات الأداء من قائمة التشغيل المنسدلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="132"/>
@@ -3477,32 +3501,32 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="104"/>
         <source>Executables (*.exe *.bat);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>الملفات التنفيذية (*.exe *.bat);;كل الملفات (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="106"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>كل الملفات (*)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>Select Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر ملفًا تنفيذيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>أمر غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="112"/>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف المحدد غير قابل للتنفيذ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="158"/>
         <source>JProfiler Folder</source>
-        <translation>مجلد‫ JProfiler</translation>
+        <translation>مجلد JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="164"/>
@@ -3517,7 +3541,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>حدث خطأ اثناء التحقق من تثبيت JProfiler:
+        <translation>حدث خطأ أثناء التحقق من تثبيت JProfiler:
 %1</translation>
     </message>
     <message>
@@ -3529,12 +3553,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="178"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JProfiler مثبت بشكل سليم</translation>
+        <translation>يبدو أن إعداد JProfiler سليم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>VisualVM Executable</source>
-        <translation>تنفيذي الVisualVM</translation>
+        <translation>الملف التنفيذي لـ VisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="193"/>
@@ -3547,12 +3571,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="207"/>
         <source>VisualVM setup seems to be OK</source>
-        <translation>يبدو أن نظام VisualVM على ما يرام</translation>
+        <translation>يبدو أن إعداد VisualVM سليم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="230"/>
         <source>Text Editor</source>
-        <translation>أداة تحرير النص</translation>
+        <translation>محرر النصوص</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3570,11 +3594,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>MCEdit Application</source>
-        <translation>تطبيق‫ MCEdit</translation>
+        <translation>تطبيق MCEdit</translation>
     </message>
     <message>
         <source>MCEdit Folder</source>
-        <translation>مجلد‫ MCEdit</translation>
+        <translation>مجلد MCEdit</translation>
     </message>
     <message>
         <source>Error while checking MCEdit install:
@@ -3584,7 +3608,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>MCEdit setup seems to be OK</source>
-        <translation>MCEdit مثبت بشكل سليم</translation>
+        <translation>يبدو أن إعداد MCEdit سليم</translation>
     </message>
     <message>
         <source>JSON Editor</source>
@@ -3598,7 +3622,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="248"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>يبدو أن الملف المختار ليس بملف قابل للتنفيذ</translation>
+        <translation>يبدو أن الملف المختار ليس ملفًا تنفيذيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="55"/>
@@ -3610,12 +3634,12 @@ Are you sure you want to do this?</source>
     <name>ExtractNatives</name>
     <message>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>تعذر استخراج ملف jar المحلي &apos;%1&apos; إلى الوجهة &apos;%2&apos;</translation>
+        <translation>تعذّر استخراج ملف jar الأصلي &apos;%1&apos; إلى الوجهة &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="78"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استخراج ملف jar الأصلي &apos;%1&apos; إلى الوجهة &apos;%2&apos;: %3</translation>
     </message>
 </context>
 <context>
@@ -3662,70 +3686,70 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="82"/>
         <source>Getting the manifest...</source>
-        <translation>جري تحميل البيان...</translation>
+        <translation>جارٍ الحصول على البيان...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="90"/>
         <source>Failed to find pack version %1</source>
-        <translation>تعذر إيجاد إصدار الحزمه %1</translation>
+        <translation>تعذّر العثور على إصدار الحزمة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="126"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>لم يتمكن من فهم بيان الحزمة:
+        <translation>تعذّر فهم ملف بيان الحزمة:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="137"/>
         <source>Resolving mods...</source>
-        <translation>تحليل المودات...</translation>
+        <translation>جارٍ تحديد المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>ملف بيان غير صالح: لا توجد معلومات متاحة لتنزيل الملف &apos;%1&apos;!</translation>
+        <translation>بيان غير صالح: لا توجد معلومات متاحة لتنزيل الملف &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="211"/>
         <source>Blocked files found</source>
-        <translation>يوجد ملفات محظورة</translation>
+        <translation>تم العثور على ملفات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغّلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="234"/>
         <source>Creating the instance...</source>
-        <translation>جاري انشاء النسخة...</translation>
+        <translation>جارٍ إنشاء النسخة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="297"/>
         <source>Downloading mods...</source>
-        <translation>يتم تنزيل المودات...</translation>
+        <translation>جارٍ تنزيل المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="300"/>
         <source>Mod download</source>
-        <translation>تحميل المود</translation>
+        <translation>تنزيل المود</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="387"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تم حظر اجتياز المسار (path traversal) في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods...</source>
-        <translation>جار نسخ الإضافات المحظورة...</translation>
+        <translation>جارٍ نسخ المودات المحظورة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="391"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>جار نسخ الإضافات المحظورة(تم تحميل %1 من %2)</translation>
+        <translation>جارٍ نسخ المودات المحظورة (اكتمل %1 من %2)</translation>
     </message>
 </context>
 <context>
@@ -3733,12 +3757,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="143"/>
         <source>Sort by Name</source>
-        <translation>نوع من الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="144"/>
         <source>Sort by Game Version</source>
-        <translation>فرز بحسب إصدار اللعبة</translation>
+        <translation>فرز حسب إصدار اللعبة</translation>
     </message>
 </context>
 <context>
@@ -3746,12 +3770,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="43"/>
         <source>FTB App Import</source>
-        <translation>استيراد من تطبيق إف تي بي</translation>
+        <translation>استيراد من تطبيق FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge! Also, if your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>ملاحظة: الكثير من حزم إف تي بي الحديثة موجودة في كورس فورج أيضا! إذا لم تكن نماذج الإف تي بي في موقعها الافتراضي, يمكنك أن تختار الموقع باستخدام الزر على جانب زر البحث.</translation>
+        <translation>ملاحظة: الكثير من مودباكات FTB الحديثة متوفرة أيضًا في CurseForge! وإذا لم تكن نسخ FTB لديك في الموقع الافتراضي، فاختر موقعها بالزر المجاور لحقل البحث.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="37"/>
@@ -3766,7 +3790,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="47"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="63"/>
         <source>Select FTBApp instances directory</source>
-        <translation>اختر مسار نماذج تطبيق إف تي بي</translation>
+        <translation>اختر مجلد نسخ تطبيق FTB</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
@@ -3787,12 +3811,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="33"/>
         <source>Copying files...</source>
-        <translation>جاري نسخ الملفات...</translation>
+        <translation>جارٍ نسخ الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="48"/>
         <source>Copying settings...</source>
-        <translation>جاري نسخ الإعدادات...</translation>
+        <translation>جارٍ نسخ الإعدادات...</translation>
     </message>
 </context>
 <context>
@@ -3800,18 +3824,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="54"/>
         <source>Resolving mod IDs...</source>
-        <translation>جار تحليل معرفات الإضافة...</translation>
+        <translation>جارٍ تحديد معرّفات المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="99"/>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="123"/>
         <source>Invalid data returned from the API.</source>
-        <translation>أعيدت معلومات غير صالحة من الإي بي آي.</translation>
+        <translation>أعادت واجهة API بيانات غير صالحة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="221"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل الرد من وسيط &quot;كورس فورج&quot; لأجل &apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من CurseForge لـ &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3824,7 +3848,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="39"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>جاري تجهيز المواد لكورس فورج...</translation>
+        <translation>جارٍ تجهيز الموارد لـ CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3838,39 +3862,39 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل رد واجهة التطبيق من كورس فورج ل&apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من CurseForge لـ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="91"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
+        <translation>لم يُعثر على إصدار صالح لهذا المورد. من المرجح أنه غير متاح لإصدار اللعبة الحالي / محمّل المودات الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="94"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة الحالية.</translation>
+        <translation>لم يُعثر على إصدار صالح لهذا المورد. من المرجح أنه غير متاح لإصدار اللعبة الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="172"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل رد من واجهة التطبيق من كورس فورج ل &apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من CurseForge لـ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="177"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>يوجد تحديث جديد للمصدر, ولكن لا يمكن تنزيله باستخدام كورس فورج.</translation>
+        <translation>يتوفر تحديث جديد للمورد، لكن لا يمكن تنزيله باستخدام CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="111"/>
         <source>Not installed</source>
-        <translation>ليس مثبت</translation>
+        <translation>غير مثبَّت</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="113"/>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3891,7 +3915,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="383"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>تعذرت معالجة بيانات الحزمة:
+        <translation>تعذّر فهم ملف بيان الحزمة:
 </translation>
     </message>
     <message>
@@ -3902,7 +3926,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تحليل الملفات القديمة التي تم جلبها: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -3918,7 +3942,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="270"/>
         <source>We couldn&apos;t fetch the old files because: %1. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>لم نتمكن من جلب الملفات القديمة بسبب: %1. قد يؤدي هذا الى تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
+        <translation>لم نتمكن من جلب الملفات القديمة بسبب: %1. قد يؤدي هذا إلى تكرار بعض الملفات. هل تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
@@ -3928,69 +3952,69 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>لم نستطع إيجاد ملف فهرس مناسب للنسخة القديمة وهذا قد يسبب تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
+        <translation>لم نتمكن من العثور على ملف فهرس مناسب للإصدار الأقدم. قد يؤدي هذا إلى تكرار بعض الملفات. هل تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشل في الحصول على فهرس البيانات الوصفية المحلية لـ %1</translation>
+        <translation>تعذّر الحصول على فهرس البيانات الوصفية المحلي لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشل محاولة إيجاد إصدار ل المحمل %1</translation>
+        <translation>تعذّر العثور على إصدار للمحمّل %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="332"/>
         <source>No loader version set for modpack!</source>
-        <translation>لا يوجد محمل موضوع لحزمة الإضافات!</translation>
+        <translation>لم يُحدَّد إصدار المحمّل للمودباك!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي مجلد التجاوزات (overrides) على مسار يؤدي إلى موقع عشوائي (%1). يمثل هذا خطرًا أمنيًا وهو غير مسموح.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="407"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>تعذرت إعادة تسمية مجلد التجاوزات:
+        <translation>تعذّرت إعادة تسمية مجلد التجاوزات:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="412"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>مجلد التجاوزات المحدد (%1) مفقود. ربما حزمة الإضافات تم استخدامها مسبقًا؟</translation>
+        <translation>مجلد التجاوزات المحدد (%1) مفقود. ربما سبق استخدام المودباك؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="447"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>محمّل إضافات مجهول في البيان: %1</translation>
+        <translation>محمّل مودات غير معروف في البيان: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="462"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>تم إزالة نقاط ذيلية غامضة من إصدار ماينكرافت أثناء استيراد الحزمة.</translation>
+        <translation>أُزيلت نقاط زائدة غامضة من إصدار ماين كرافت أثناء استيراد الحزمة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation>الذاكرة الموصى بها لحزمة الإضافات تتخطى 90% من الذاكرة المؤقتة لنظامك ستخفّض من %1 مبب الى %2 مبب!</translation>
+        <translation>الذاكرة الموصى بها للمودباك تتجاوز 90% من ذاكرة RAM في نظامك — سيتم خفضها من %1 ميبيبايت إلى %2 ميبيبايت!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحاول المودباك تنزيل ملف خارج مجلد النسخة (%1). يمثل هذا خطرًا أمنيًا وهو غير مسموح.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="799"/>
         <source>Removing old conflicting files...</source>
-        <translation>جار إزالة الملفات القديمة والمتعارضة...</translation>
+        <translation>جارٍ إزالة الملفات القديمة المتعارضة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="816"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>فشلت محاولة إزالة الملفات القديمة والمتعارضة.</translation>
+        <translation>تعذّرت إزالة الملفات القديمة المتعارضة.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4000,39 +4024,39 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="531"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>لا يمكن معالجة معرفات الإضافات:
+        <translation>تعذّر تحديد معرّفات المودات:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
         <source>Blocked mods found</source>
-        <translation>تم العثور على إضافات محظورة</translation>
+        <translation>تم العثور على مودات محظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغّلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
         <source>Mod Download Flame</source>
-        <translation>تنزيل إضافات فليم</translation>
+        <translation>تنزيل مودات Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="652"/>
         <source>%1 out of %2 complete</source>
-        <translation>تم تحميل %1 من %2</translation>
+        <translation>اكتمل %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="665"/>
         <source>Copying Blocked Mods...</source>
-        <translation>جار نسخ الإضافات المحظورة...</translation>
+        <translation>جارٍ نسخ المودات المحظورة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="681"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>جار نسخ الإضافات المحظورة(تم تحميل %1 من %2)</translation>
+        <translation>جارٍ نسخ المودات المحظورة (اكتمل %1 من %2)</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
@@ -4049,7 +4073,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="657"/>
         <source>Downloading mods...</source>
-        <translation>جاري تنزيل الإضافات...</translation>
+        <translation>جارٍ تنزيل المودات...</translation>
     </message>
 </context>
 <context>
@@ -4057,7 +4081,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="350"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;أهلاً بك!&lt;/h1&gt;&lt;h4&gt;يبدو أن &quot;مُعرّف الحزمة&quot; فارغ. يعود هذا لخطأ برمجي في إصدارات قديمة من المشغل.&lt;br/&gt;للأسف، لا يمكننا إرسال طلبات البرمجة الصحيحة بدون هذه المعلومات.&lt;br/&gt;&lt;br/&gt;لذا، لكي تعمل هذه الميزة، ستحتاج إلى إعادة تحميل حزمة المودات من خلال أداة التحميل المدمجة.&lt;br/&gt;&lt;br/&gt;لكن لا تقلق، سيطلب منك البرنامج تحديث هذه النسخة بدلاً من ذلك، لذا لن تفقد ملفات هذه النسخة!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;مرحبًا!&lt;/h1&gt;&lt;h4&gt;يبدو أن &quot;معرّف الحزمة&quot; فارغ. يعود ذلك إلى خلل في الإصدارات القديمة من المشغّل.&lt;br/&gt;للأسف، لا يمكننا إرسال طلبات API الصحيحة دون هذه المعلومات.&lt;br/&gt;&lt;br/&gt;لذا، لكي تعمل هذه الميزة، ستحتاج إلى إعادة تنزيل المودباك عبر أداة التنزيل المدمجة.&lt;br/&gt;&lt;br/&gt;لا تقلق، سيطلب منك تحديث هذه النسخة بدلًا من إنشاء نسخة جديدة، فلن تفقد هذه النسخة!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="392"/>
@@ -4072,7 +4096,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="454"/>
         <source>CurseForge pack</source>
-        <translation>حزمة كورس فو‬رج</translation>
+        <translation>حزمة CurseForge</translation>
     </message>
 </context>
 <context>
@@ -4108,34 +4132,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>جاري البحث على الملفات...</translation>
+        <translation>جارٍ البحث عن الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="72"/>
         <source>Could not search for files</source>
-        <translation>لم يتمكن من البحث عن الملفات</translation>
+        <translation>تعذّر البحث عن الملفات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Finding file hashes...</source>
-        <translation>جاري البحث عن تجزئات الملف...</translation>
+        <translation>جارٍ البحث عن تجزئات الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="168"/>
         <source>Finding versions for hashes...</source>
-        <translation>جاري البحث عن نسخة تجزئات...</translation>
+        <translation>جارٍ البحث عن الإصدارات المقابلة للتجزئات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="214"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="259"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="295"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>تحليل الرد من واجهة كورس فورج لأجل &apos;%1&apos;...</translation>
+        <translation>جارٍ تحليل استجابة API من CurseForge لـ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="240"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>جار البحث عن معلومات المشروع من كورس فورج...</translation>
+        <translation>جارٍ البحث عن معلومات المشروع من CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
@@ -4158,7 +4182,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>ملاحظة: يعطي كورس فورج لصانعي المحتوى الخيار لحظر أدوات الطرف الثالث مثل بريسم. لذلك يجب عليك أن تنزل بعض الحزم يدوياً.</translation>
+        <translation>ملاحظة: يتيح CurseForge لصانعي المحتوى حظر الوصول من أدوات الطرف الثالث مثل Prism Launcher. لذلك قد تحتاج إلى تنزيل بعض المودات يدويًا لتتمكن من تثبيت المودباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -4179,13 +4203,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>فرز بحسب البارز</translation>
+        <translation>فرز حسب المميز</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>فرز بحسب الشعبية</translation>
+        <translation>فرز حسب الشعبية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
@@ -4197,19 +4221,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>فرز بحسب الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>فرز بحسب الصانع</translation>
+        <translation>فرز حسب المؤلف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>فرز بحسب مجموع التنزيلات</translation>
+        <translation>فرز حسب إجمالي التنزيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="177"/>
@@ -4225,17 +4249,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="295"/>
         <source> by </source>
-        <translation> حسب </translation>
+        <translation> بواسطة </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="301"/>
         <source>External links:</source>
-        <translation>الروابط الخارجية:</translation>
+        <translation>روابط خارجية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="305"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>المشاكل: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>المشكلات: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="308"/>
@@ -4245,7 +4269,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="311"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>نص المصدر: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>الشيفرة المصدرية: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4254,7 +4278,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>فشل في إنشاء مجلد لملفات ماين كرافت الثنائية.</translation>
+        <translation>تعذّر إنشاء مجلد لملفات ماين كرافت الثنائية.</translation>
     </message>
 </context>
 <context>
@@ -4263,19 +4287,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>فرز بحسب مرات التشغيل</translation>
+        <translation>فرز حسب مرات اللعب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>فرز بحسب عدد مرات التثبيت</translation>
+        <translation>فرز حسب عدد مرات التثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>فرز بحسب الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
 </context>
 <context>
@@ -4289,12 +4313,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>بحث وفرز...</translation>
+        <translation>بحث وتصفية...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="77"/>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation>ملاحظة: العديد من حزم مودات FTB الحديثة متوفرة أيضاً على CurseForge!</translation>
+        <translation>ملاحظة: الكثير من مودباكات FTB الحديثة متوفرة أيضًا على CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -4325,32 +4349,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="88"/>
         <source>Survival</source>
-        <translation>طور البقاء</translation>
+        <translation>وضع البقاء</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="90"/>
         <source>Creative</source>
-        <translation>طور الإبداع</translation>
+        <translation>وضع الإبداع</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="92"/>
         <source>Adventure</source>
-        <translation>طور المغامرة</translation>
+        <translation>وضع المغامرة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="94"/>
         <source>Spectator</source>
-        <translation>طور المشاهد</translation>
+        <translation>وضع المشاهد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Unknown (%1)</source>
-        <translation>مجهول (%1)</translation>
+        <translation>غير معروف (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
         <source>Undefined</source>
-        <translation>غير معرّف</translation>
+        <translation>غير معرَّف</translation>
     </message>
 </context>
 <context>
@@ -4366,33 +4390,33 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="91"/>
         <source>Get dependencies</source>
-        <translation>حصول على التبعيات</translation>
+        <translation>الحصول على التبعيات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر جلب معلومات التبعية %1، ولن يتم تثبيتها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>حدث خطأ في الشبكة لا يمكن تحميل تبعيات المشروع:%1</translation>
+        <translation>حدث خطأ في الشبكة. تعذّر تحميل تبعيات المشروع:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تحويل التبعية %1 إلى مشروع صالح، ولن يتم تثبيتها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تخطي التبعية %1 لأن سلسلة التبعيات أعمق من اللازم.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر حل التبعية %1، ولن يتم تثبيتها. قد لا يعمل المود بشكل صحيح بدونها.</translation>
     </message>
 </context>
 <context>
@@ -4400,12 +4424,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="12"/>
         <source>Getting skin.</source>
-        <translation>جار الحصول على مظهر اللاعب.</translation>
+        <translation>جارٍ الحصول على الشخصية.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="36"/>
         <source>Got skin</source>
-        <translation>تم الحصول على مظهر اللاعب</translation>
+        <translation>تم الحصول على الشخصية</translation>
     </message>
 </context>
 <context>
@@ -4457,12 +4481,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="22"/>
         <source>Icon category</source>
-        <translation>تصنيفات الأيقونات</translation>
+        <translation>فئة الأيقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="42"/>
         <source>Search Icons...</source>
-        <translation>بحث الأيقونات...</translation>
+        <translation>البحث في الأيقونات...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4481,12 +4505,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Legacy</source>
-        <translation>كلاسيكي</translation>
+        <translation>قديم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modpacks</source>
-        <translation>مودباك</translation>
+        <translation>المودباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
@@ -4516,7 +4540,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="175"/>
         <source>Open Folder</source>
-        <translation>افتح مجلد الأيقونات</translation>
+        <translation>فتح مجلد الأيقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="208"/>
@@ -4534,7 +4558,7 @@ Please try again.</source>
     <name>ImgurUpload</name>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation>تعذر فتح الملف %1 للقراءة: %2</translation>
+        <translation>تعذّر فتح الملف %1 للقراءة: %2</translation>
     </message>
 </context>
 <context>
@@ -4542,45 +4566,45 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>أنواع الملفات التالية مدعومة(لكلّ من الملفات المحّلّية و مواقع الشبكة):</translation>
+        <translation>أنواع الملفات التالية مدعومة (للملفات المحلية والروابط على حد سواء):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- حزم إضافات كورس فورج (ZIP / curseforge:// URL)</translation>
+        <translation>- مودباكات CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- حزم إضافات مودرينث (زيب / إم أر باك)</translation>
+        <translation>- مودباكات Modrinth (ZIP وmrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- النماذج المصدرة من مشغل بريسم و بولي إم سي و مولتي إم سي(ZIP)</translation>
+        <translation>- النسخ المصدَّرة من Prism Launcher أو PolyMC أو MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- حزم إضافات تكنيك (ZIP)</translation>
+        <translation>- مودباكات Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>ملف محلي أو رابط لتنزيل المباشر:</translation>
+        <translation>ملف محلي أو رابط تنزيل مباشر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="55"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation>الاستيراد</translation>
+        <translation>استيراد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="138"/>
@@ -4593,16 +4617,16 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="157"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>حزمة الإضافات %1 محظورة للطرف الثالث. يرجى تنزيله يدوياً.</translation>
+        <translation>المودباك %1 محظور على الأطراف الثالثة! يرجى تنزيله يدويًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="174"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>لا يحتوي هذا الموقع على حزمة إضافات صالحة!</translation>
+        <translation>هذا الرابط ليس مودباك صالحًا!</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -4613,12 +4637,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="216"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>حزمة مودرينث</translation>
+        <translation>حزمة Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="217"/>
         <source>Choose modpack</source>
-        <translation>اختر حزمة إضافات</translation>
+        <translation>اختر مودباك</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4630,17 +4654,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>اختر النموذج الذي تريد استيراده إليه</translation>
+        <translation>اختر النسخة التي تريد الاستيراد إليها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>اختر النموذج الذي تريد استيراد حزمة الموارد إليه.</translation>
+        <translation>اختر النسخة التي تريد استيراد حزمة الموارد هذه إليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>اختر النموذج الذي تريد استيراد %1 إليه.</translation>
+        <translation>اختر النسخة التي تريد استيراد %1 إليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -4670,12 +4694,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
-        <translation>رخصة: %1</translation>
+        <translation>الرخصة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
-        <translation>بلغ المشاكل لـ </translation>
+        <translation>أبلغ عن المشكلات إلى: </translation>
     </message>
 </context>
 <context>
@@ -4684,20 +4708,20 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="70"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation>لا تتوفر حاليًا إصدارات جافا في المتغيرات.</translation>
+        <translation>لا تتوفر حاليًا أي إصدارات من جافا في البيانات الوصفية.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="71"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="75"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>لم يتم تنزيل او تحميل قائمة الإصدارات الخاصة بجافا!</translation>
+        <translation>تعذّر تحميل أو تنزيل قوائم إصدارات جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="74"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation>لا تتوفر حاليًا إصدارات جافا لنظام تشغيلك.</translation>
+        <translation>لا تتوفر حاليًا أي إصدارات من جافا لنظام التشغيل لديك.</translation>
     </message>
 </context>
 <context>
@@ -4724,61 +4748,61 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>NeoForge</source>
-        <translation>نيوفورج (NeoForge)</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>Forge</source>
-        <translation>فورج (Forge)</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="143"/>
         <source>Fabric</source>
-        <translation>فابريك (Fabric)</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <source>Quilt</source>
-        <translation>كويلت (Quilt)</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>LiteLoader</source>
-        <translation>لايت لودر (LiteLoader)</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="153"/>
         <source>Install Loader</source>
-        <translation>تنصيب المحمل</translation>
+        <translation>تثبيت المحمّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="185"/>
         <source>Installing a second loader</source>
-        <translation>جاري تثبيث محمل ثان</translation>
+        <translation>جارٍ تثبيت محمّل ثانٍ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="186"/>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation>معروف أن 1% يتعارض مع 2% المفعل في هاته النسخة. قد يؤدي تفعيلهما في نفس الوقت الى تعطل ‌‍‎‏ على الأغلب
+        <translation>%1 معروف بتعارضه مع %2 المفعَّل في هذه النسخة. من المرجح أن يؤدي تفعيلهما معًا إلى تعطّل النسخة.
 
-مالذي تريد أن تفعله بـ 2% ؟</translation>
+ماذا تريد أن تفعل بـ %2؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="190"/>
         <source>Keep it</source>
-        <translation>أبقها</translation>
+        <translation>أبقِه</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="192"/>
         <source>Disable it</source>
-        <translation>تعطيل</translation>
+        <translation>عطّله</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="195"/>
         <source>Uninstall it</source>
-        <translation>إلغاء التثبيت</translation>
+        <translation>أزل تثبيته</translation>
     </message>
 </context>
 <context>
@@ -4786,7 +4810,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="41"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>لا يوجد إصدار متوفر حاليا لماين كرافت %1</translation>
+        <translation>لا توجد إصدارات متاحة حاليًا لـ ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -4794,7 +4818,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="33"/>
         <source>Importing world...</source>
-        <translation>يتم نقل العالم...</translation>
+        <translation>جارٍ استيراد العالم...</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
@@ -4817,17 +4841,17 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Copying instance %1</source>
-        <translation>جار نسخ النموذج: %1</translation>
+        <translation>جارٍ نسخ النسخة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="127"/>
         <source>Instance folder copy failed.</source>
-        <translation>تعذر نسخ مجلد النموذج.</translation>
+        <translation>تعذّر نسخ مجلد النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="176"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>تم إيقاف نسخ مجلد النموذج.</translation>
+        <translation>أُلغي نسخ مجلد النسخة.</translation>
     </message>
 </context>
 <context>
@@ -4839,32 +4863,32 @@ What would you like to do with %2?</source>
     <message>
         <source>Error while creating new instance:
 %1</source>
-        <translation>حدث خطأ عند إنشاء نموذج جديد:
+        <translation>حدث خطأ أثناء إنشاء نسخة جديدة:
 %1</translation>
     </message>
     <message>
         <source>Error while creating new instance.</source>
-        <translation>حدث خطأ عند إنشاء نموذج جديد.</translation>
+        <translation>حدث خطأ أثناء إنشاء نسخة جديدة.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation>جار إزالة الملفات القديمة والمتعارضة...</translation>
+        <translation>جارٍ إزالة الملفات القديمة المتعارضة...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation>فشلت محاولة إزالة الملفات القديمة والمتعارضة.</translation>
+        <translation>تعذّرت إزالة الملفات القديمة المتعارضة.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>تخطي</translation>
+        <translation>تخطّي</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation>تعذر تحميل ملفات اللعبة: %1</translation>
+        <translation>تعذّر تنزيل ملفات اللعبة: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation>تحميل ملفات اللعبة</translation>
+        <translation>جارٍ تنزيل ملفات اللعبة</translation>
     </message>
 </context>
 <context>
@@ -4873,34 +4897,34 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>جار تنزيل حزمة الإضافات:
+        <translation>جارٍ تنزيل المودباك:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="103"/>
         <source>Modpack download</source>
-        <translation>تنزيل حزمة إضافات</translation>
+        <translation>تنزيل المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="131"/>
         <source>Attempting to determine instance type</source>
-        <translation>جار محاولة تحديد نوع النموذج</translation>
+        <translation>جارٍ محاولة تحديد نوع النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <source>Extracting modpack</source>
-        <translation>جار استخراج حزمة الإضافات</translation>
+        <translation>جارٍ استخراج المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>لا يمكن فتح الملف المحدد لحزمة الإضافات المضغوطة.</translation>
+        <translation>تعذّر فتح ملف ZIP المحدد للمودباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="178"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="252"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>الأرشيف لا يحتوي على أي نوع من حزم الإضافات المدعومة.</translation>
+        <translation>لا يحتوي الأرشيف على نوع مودباك معروف.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4909,7 +4933,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
-        <translation>تعذر إصلاح الأذونات لـ %1</translation>
+        <translation>تعذّر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -4976,7 +5000,7 @@ What would you like to do with %2?</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="179"/>
         <source>%1 Instance</source>
-        <translation>%1 نموذج</translation>
+        <translation>نسخة %1</translation>
     </message>
 </context>
 <context>
@@ -4993,12 +5017,12 @@ What would you like to do with %2?</source>
         <location filename="src/launcher/InstancePageProvider.h" line="47"/>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation>تقارير أخرى</translation>
+        <translation>سجلات أخرى</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="51"/>
         <source>Edit Instance (%1)</source>
-        <translation>تعديل النموذج (%1)</translation>
+        <translation>تحرير النسخة (%1)</translation>
     </message>
 </context>
 <context>
@@ -5300,17 +5324,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1016"/>
         <source>Could not create staging folder</source>
-        <translation>فشلت محاولة إنشاء مجلد المرحليات</translation>
+        <translation>تعذّر إنشاء مجلد التجهيز المؤقت</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1036"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر نسخ قالب النسخة. أُنشئت النسخة مع ذلك، لكنها تحتوي على ملفات القالب جزئيًا فقط أو لا تحتوي عليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1057"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>فشل في إيداع النموذج، حتى بعد عدة محاولات. يتم حجب العملية بشيء ما.</translation>
+        <translation>تعذّر إيداع (commit) النسخة حتى بعد عدة محاولات. هناك ما يعيق العملية.</translation>
     </message>
 </context>
 <context>
@@ -5318,7 +5342,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="143"/>
         <source>Skip</source>
-        <translation>تخطي</translation>
+        <translation>تخطّي</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="161"/>
@@ -5328,12 +5352,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="162"/>
         <source>Could not download game files: %1</source>
-        <translation>تعذر تحميل ملفات اللعبة: %1</translation>
+        <translation>تعذّر تنزيل ملفات اللعبة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="168"/>
         <source>Downloading game files</source>
-        <translation>جاري تحميل ملفات اللعبة</translation>
+        <translation>جارٍ تنزيل ملفات اللعبة</translation>
     </message>
 </context>
 <context>
@@ -5341,12 +5365,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="461"/>
         <source>Welcome!</source>
-        <translation>أهلا!</translation>
+        <translation>مرحبًا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="461"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>اضغط على &quot;إضافة نموذج&quot; للبدء</translation>
+        <translation>اضغط على &quot;إضافة نسخة&quot; للبدء.</translation>
     </message>
 </context>
 <context>
@@ -5354,37 +5378,37 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>نافذة لوحة التحكم لـ </translation>
+        <translation>نافذة الطرفية لـ </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation>المساعدة</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation>شغّل</translation>
+        <translation>&amp;تشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Restart</source>
-        <translation>&amp;اعادة التشغيل</translation>
+        <translation>&amp;إعادة التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Restart the running instance</source>
-        <translation>اعادة تشغيل النسخة الجارية</translation>
+        <translation>إعادة تشغيل النسخة الجارية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="106"/>
         <source>&amp;Kill</source>
-        <translation>&amp;ايقاف</translation>
+        <translation>&amp;إنهاء قسري</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Ctrl+K</source>
-        <translation>Ctrl+ن</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -5402,7 +5426,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Kill the running instance</source>
-        <translation>ايقاف النموذج الحالي</translation>
+        <translation>إنهاء النسخة الجارية قسرًا</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5411,7 +5435,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>شغّل النموذج</translation>
+        <translation>تشغيل النسخة</translation>
     </message>
 </context>
 <context>
@@ -5419,12 +5443,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>يتم الاستماع على المَنفَذ: %1</translation>
+        <translation>الاستماع على المنفذ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>تم إنهاء المحلل</translation>
+        <translation>أُوقف المُحلِّل</translation>
     </message>
 </context>
 <context>
@@ -5441,7 +5465,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>تم إنهاء المحلل</translation>
+        <translation>أُوقف المُحلِّل</translation>
     </message>
 </context>
 <context>
@@ -5449,17 +5473,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="36"/>
         <source>Downloading Java</source>
-        <translation>جار تنزيل الجافا</translation>
+        <translation>جارٍ تنزيل جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation>جار استخراج الجافا</translation>
+        <translation>جارٍ استخراج جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="72"/>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فتح ملف ZIP المحدد: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5475,12 +5499,12 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Unable to open supplied zip file.</source>
-        <translation>فشلت محاولة فتح أرشيف زيب الموفر.</translation>
+        <translation>تعذّر فتح ملف ZIP المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation>لم يعثر على أي ملف في ملف ZIP الموفر.</translation>
+        <translation>لم يُعثر على أي ملفات في ملف ZIP المحدد.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -5492,12 +5516,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="218"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;حدّث</translation>
+        <translation>&amp;تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
-        <translation>&amp;نزّل</translation>
+        <translation>تنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="236"/>
@@ -5507,33 +5531,33 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="303"/>
         <source>Mojang</source>
-        <translation>موجانغ</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="305"/>
         <source>Adoptium</source>
-        <translation>أدوبتيوم</translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="307"/>
         <source>Azul Zulu</source>
-        <translation>أزول زولو</translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>IBM Semeru Open</source>
-        <translation>بيئة تشغيل IBM Semeru المفتوحة</translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="350"/>
         <source>Install Java</source>
-        <translation>تثبيت الجافا</translation>
+        <translation>تثبيت جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="344"/>
         <source>Could not determine Java download type!</source>
-        <translation>لم يتمكن تحديد نوع تنزيل الجافا!</translation>
+        <translation>تعذّر تحديد نوع تنزيل جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="345"/>
@@ -5543,7 +5567,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
 </context>
 <context>
@@ -5551,7 +5575,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>جار تنزيل الجافا</translation>
+        <translation>جارٍ تنزيل جافا</translation>
     </message>
 </context>
 <context>
@@ -5559,27 +5583,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>جار التحقق من مسار ثنائيات الجافا</translation>
+        <translation>جارٍ التحقق من مسار الملف التنفيذي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>جار البحث عن مسار ثنائيات الجافا</translation>
+        <translation>جارٍ البحث عن مسار الملف التنفيذي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>لم يتم العثور على مسار ثنائيات الجافا</translation>
+        <translation>تعذّر العثور على مسار الملف التنفيذي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>جار جمع المجلدات إلى الوصل الرمزي</translation>
+        <translation>جارٍ جمع المجلدات لإنشاء روابط رمزية لها</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>جار الوصل الرمزي لمسار ثنائيات جافا</translation>
+        <translation>جارٍ إنشاء رابط رمزي لمسار الملف التنفيذي لجافا</translation>
     </message>
 </context>
 <context>
@@ -5587,7 +5611,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>جار التحقق من تثبيتات للجافا...</translation>
+        <translation>جارٍ اكتشاف تثبيتات جافا...</translation>
     </message>
 </context>
 <context>
@@ -5667,7 +5691,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="88"/>
         <source>Download</source>
-        <translation>التنزيلات</translation>
+        <translation>تنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="95"/>
@@ -5724,13 +5748,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="69"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation>لم يتم العثور على نسخة جافا مثبتة ومدارة</translation>
+        <translation>لا توجد إصدارات جافا مُدارة مثبَّتة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation>لم يتم تحميل قائمة نسخ جافا المدارة!</translation>
+        <translation>تعذّر تحميل قائمة جافا المُدارة!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -5773,7 +5797,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>أنت على وشك إزالة  نسخة الجافا &quot;%1&quot;.
+        <translation>أنت على وشك إزالة تثبيت جافا المسمى &quot;%1&quot;.
 هل أنت متأكد؟</translation>
     </message>
 </context>
@@ -5822,7 +5846,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
         <source>Find Java executable</source>
-        <translation>اعثر‫ على ملف جافا التنفيذي</translation>
+        <translation>البحث عن ملف جافا التنفيذي</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5831,7 +5855,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة المسموح لـ ماين كرافت باستخدامها.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5840,17 +5864,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="23"/>
         <source>Java Insta&amp;llation</source>
-        <translation>تثبيت الجافا</translation>
+        <translation>تثبيت جا&amp;فا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="35"/>
         <source>Auto-&amp;detect Java version</source>
-        <translation>اختر&amp; نسخة الجافا تلقائيا</translation>
+        <translation>اكتشاف إصدار جافا &amp;تلقائيًا</translation>
     </message>
     <message>
         <source>Auto-detect...</source>
@@ -5863,68 +5887,68 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="120"/>
         <source>Automatically downloads and selects the Java build recommended by Mojang.</source>
-        <translation>ينزل ويختار بنية الجافا المستحسنة من موجانغ تلقائيا.</translation>
+        <translation>ينزّل ويختار تلقائيًا إصدار جافا الموصى به من Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="123"/>
         <source>Auto-download &amp;Mojang Java</source>
-        <translation>تنزيل &amp;الجافا لموجانغ تلقائيا</translation>
+        <translation>التنزيل التلقائي لجافا من &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>عند التفعيل, لن يطالب المشغل اختيار نسخة جافا في حال عدم العثور عليها عند البدء.</translation>
+        <translation>عند التفعيل، لن يطلب المشغّل منك اختيار إصدار جافا إذا لم يُعثر على أي إصدار عند بدء التشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
         <source>Skip Java setup prompt on startup</source>
-        <translation>تخطى اختبار نسخة الجافا عند البدء</translation>
+        <translation>تخطي نافذة إعداد جافا عند بدء التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>عند التفعيل, لن يختبر المشغل توافق النموذج مع نسخة الجافا المختارة.</translation>
+        <translation>عند التفعيل، لن يتحقق المشغّل من توافق النسخة مع إصدار جافا المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
         <source>&amp;Detect</source>
-        <translation>&amp;كشف</translation>
+        <translation>&amp;اكتشاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="51"/>
         <source>&amp;Browse</source>
-        <translation>&amp;تصفح</translation>
+        <translation>&amp;استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="75"/>
         <source>Test S&amp;ettings</source>
-        <translation>اختبر ال%إعدادات</translation>
+        <translation>اختبار ال&amp;إعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="82"/>
         <source>Open Java &amp;Downloader</source>
-        <translation>افتح منزل &amp;الجافا</translation>
+        <translation>فتح م&amp;نزّل جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="133"/>
         <source>Skip Java compatibility checks</source>
-        <translation>تخطى اختبارات توافق الجافا</translation>
+        <translation>تخطي فحوصات توافق جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="143"/>
         <source>Java &amp;Executable</source>
-        <translation>تنفيذي ال&amp;جافا</translation>
+        <translation>الملف ال&amp;تنفيذي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>ثبّت تثبيتات جافا محددة على إصدار رئيسي. عندما يختار المشغّل جافا لنسخة ما تلقائيًا، يُستخدم التثبيت المثبَّت المطابق للإصدار المطلوب قبل اكتشاف أي شيء آخر أو تنزيله.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيتات جافا المثبَّتة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -5957,12 +5981,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
+        <translation>مقدار الذاكرة التي يبدأ بها ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
-        <translation>&amp;حجم بيرم جين:</translation>
+        <translation>&amp;حجم PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
@@ -5972,32 +5996,32 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأ&amp;قصى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأ&amp;دنى لاستخدام الذاكرة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
         <source>Warn when there is not enough free memory</source>
-        <translation>التحذير عند عدم توفر ذاكرة خالية كافية</translation>
+        <translation>التحذير عند عدم توفر ذاكرة حرة كافية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
         <source>Java Argumen&amp;ts</source>
-        <translation>مدخلا&amp;ت‫ الجافا</translation>
+        <translation>وسائط جا&amp;فا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
+        <translation>مقدار الذاكرة المتاحة لتخزين أصناف (classes) جافا المحمّلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -6014,59 +6038,61 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>جافا %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار الملف التنفيذي لجافا %1 المستخدم للنسخ التي تتطلبه. اتركه فارغًا لاستخدام الملف المكتشف تلقائيًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر الملف التنفيذي لجافا %1 من نظام الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتشاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر تثبيت جافا %1 مكتشفًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>جافا %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر العثور على مسارات جافا المثبَّتة التالية على نظامك. تم حفظها على أي حال، لكن النسخ التي تحتاج إلى هذه الإصدارات ستعود إلى الاكتشاف المعتاد.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن الملف التنفيذي لجافا %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر تثبيت جافا %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم اكتشاف أي تثبيت لجافا %1 على هذا النظام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>Select a Java version</source>
-        <translation>اختر إصدار الجافا</translation>
+        <translation>اختر إصدار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
@@ -6078,24 +6104,24 @@ You can change the Java version in the settings later.
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>إنك اخترت نسخة ال32 بت من الجافا
-لا تدعم هذه النسخة اكثر من 2048 ميبي بايت للذاكرة المؤقتة
-تأكد من أن احد الأقصى لاستخدام الذاكرة أقل من الحد المطلوب.</translation>
+        <translation>اخترت إصدار جافا بنظام 32 بت.
+لا يدعم هذا التثبيت أكثر من 2048 ميبيبايت من ذاكرة RAM.
+يرجى التأكد من أن قيمة الحد الأقصى للذاكرة أقل من ذلك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة يتجاوز سعة ذاكرة نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة قريب من سعة ذاكرة نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة اقل من الحد الأدنى.</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة أقل من الحد الأدنى للذاكرة المخصصة.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -6121,7 +6147,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>يرجى اختيار مقدار الذاكرة التي يراد تخصيصها للنماذج، وإذا كان ينبغي أن يدير مشغل بريسم جافا تلقائيا أو يدويا.</translation>
+        <translation>يرجى اختيار مقدار الذاكرة المراد تخصيصه للنسخ، وما إذا كان يجب أن يدير Prism Launcher جافا تلقائيًا أم يدويًا.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6137,12 +6163,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="137"/>
         <source>Download Java</source>
-        <translation>نزل الجافا</translation>
+        <translation>تنزيل جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="234"/>
         <source>32-bit Java detected</source>
-        <translation>عثر على نسخة جافا 32 بت</translation>
+        <translation>تم اكتشاف جافا بنظام 32 بت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="235"/>
@@ -6152,17 +6178,17 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>إنك اخترت نسخة ال32 بت من الجافا, ولكنك خصصت اكثر من 2048 ميبي بايت من الذاكرة كحد أقصى.
-لن يتمكن %1 من بدء ماين كرافت.
-هل تريد الاستمرار؟
+        <translation>اخترت تثبيت جافا بنظام 32 بت، لكنك خصصت أكثر من 2048 ميبيبايت كحد أقصى للذاكرة.
+لن يتمكن %1 من تشغيل ماين كرافت.
+هل تريد المتابعة؟
 
-يمكنك تغيير نسخة الجافا من الإعدادات لاحقا.
+يمكنك تغيير إصدار جافا لاحقًا من الإعدادات.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
         <source>No Java version selected</source>
-        <translation>لم يتم تحديد نسخة الجافا</translation>
+        <translation>لم يتم تحديد إصدار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="246"/>
@@ -6172,17 +6198,17 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>إنك اخترت نسخة جافا غير عملية أو أنك لم تختر أي نسخة.
-لن يتمكن %1 من بدء ماين كرافت.
-هل تريد الاستمرار بدون نسخة عملية لجافا؟
+        <translation>إما أنك لم تختر إصدار جافا أو اخترت إصدارًا لا يعمل.
+لن يتمكن %1 من تشغيل ماين كرافت.
+هل تريد المتابعة دون إصدار جافا يعمل؟
 
-يمكنك تغيير نسخة الجافا من الإعدادات لاحقا.
+يمكنك تغيير إصدار جافا لاحقًا من الإعدادات.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="344"/>
         <source>Find Java executable</source>
-        <translation>اعثر‫ على ملف جافا التنفيذي</translation>
+        <translation>البحث عن ملف جافا التنفيذي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="486"/>
@@ -6192,67 +6218,67 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="487"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>الحد الأقصى للذاكرة يسمح لماين كرافت باستخدامه.</translation>
+        <translation>الحد الأقصى للذاكرة المسموح لـ ماين كرافت باستخدامها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="488"/>
         <source>Minimum memory allocation:</source>
-        <translation>الحد الأدنى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأدنى للذاكرة المخصصة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="489"/>
         <source>Maximum memory allocation:</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة:</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="490"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>الذاكرة التي تستخدمها ماين كرافت عند البدء.</translation>
+        <translation>مقدار الذاكرة التي يبدأ بها ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>الذاكرة المتوفرة لتخزين كائنات الجافا المحمّلة.</translation>
+        <translation>مقدار الذاكرة المتاحة لتخزين أصناف (classes) جافا المحمّلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
         <source>Auto-download Mojang Java</source>
-        <translation>تنزيل الجافا لموجانغ تلقائيا</translation>
+        <translation>التنزيل التلقائي لجافا من Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
         <source>Auto-detect Java version</source>
-        <translation>اختر نسخة الجافا تلقائيا</translation>
+        <translation>اكتشاف إصدار جافا تلقائيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
         <source>Autodetect Java</source>
-        <translation>كشف التلقائي للجافا</translation>
+        <translation>الاكتشاف التلقائي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة يتجاوز ذاكرة النظام.</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة يتجاوز سعة ذاكرة نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="509"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة قريب من ذاكرة النظام.</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة يقارب سعة ذاكرة نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>الحد الأقصى لاستخدام الذاكرة أصغر من الحد الأدنى</translation>
+        <translation>الحد الأقصى للذاكرة المخصصة أصغر من القيمة الدنيا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>إنك تتخطى الحد الأقصى المدعوم من قبل نسخ ال32 بت للجافا.</translation>
+        <translation>أنت تتجاوز الحد الأقصى للتخصيص المدعوم في تثبيتات جافا بنظام 32 بت.</translation>
     </message>
 </context>
 <context>
@@ -6268,7 +6294,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="66"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>لا تَجد لغتك أو الترجمة ضعيفة؟ &lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;ساعدنا في الترجمة!&lt;/a&gt;</translation>
+        <translation>لا ترى لغتك أو أن جودة الترجمة ضعيفة؟&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;ساعدنا في الترجمة!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="69"/>
@@ -6298,26 +6324,30 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="53"/>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>جارٍ تشغيل أمر %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="55"/>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>أمر %1 فارغ، سيتم تخطيه.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="67"/>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل أمر %1 برمز %2.
+
+</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/LaunchCommand.cpp" line="85"/>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>نجح تشغيل أمر %1.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6325,28 +6355,28 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
-        <translation>لم يتم تحديد نموذج!</translation>
+        <translation>لم يتم تحديد نسخة!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>تم تعيين وسائط جافا غير صالحة. يرجى إصلاحها أولا.</translation>
+        <translation>تم تحديد وسائط جافا غير صالحة. يرجى إصلاحها أولًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="98"/>
         <source>No Accounts</source>
-        <translation>لا تتوفر حسابات</translation>
+        <translation>لا توجد حسابات</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="99"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>للعب ماين كرافت, يجب عليك أن توفر حساب مايكروسوفت مالك لماين كرافت. هل تريد أن تفتح مدير الحسابات لضيف حسابا الآن؟</translation>
+        <translation>للعب ماين كرافت، يجب أن يكون لديك على الأقل حساب مايكروسوفت واحد يملك ماين كرافت وقد سجّلت الدخول به. هل تريد فتح مدير الحسابات لإضافة حساب الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="116"/>
         <source>Which account would you like to use?</source>
-        <translation>أي حساب تريد أن تستخدم؟</translation>
+        <translation>أي حساب تريد استخدامه؟</translation>
     </message>
     <message>
         <source>No account selected for launch.</source>
@@ -6384,7 +6414,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play demo?</source>
-        <translation>العب الوضع التجريبي؟</translation>
+        <translation>تشغيل الوضع التجريبي؟</translation>
     </message>
     <message>
         <source>This account does not own Minecraft.
@@ -6399,7 +6429,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play Demo</source>
-        <translation>العب الوضع التجريبي</translation>
+        <translation>تشغيل الوضع التجريبي</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
@@ -6429,7 +6459,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account refresh failed</source>
-        <translation>فشلت عملية تحديث الحساب</translation>
+        <translation>فشل تحديث الحساب</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
@@ -6469,27 +6499,27 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="375"/>
         <location filename="src/launcher/LaunchController.cpp" line="376"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>تعذر تحميل ملف النموذج.</translation>
+        <translation>تعذّر تحميل ملف تعريف النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="382"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>تعذر إنشاء مشغل.</translation>
+        <translation>تعذّر إنشاء مثيل للمشغّل.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>فشل تدقيق الملف الشخصي ل%1:%2</translation>
+        <translation>فشل فحص المحلل لـ %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل المحلل عند التشغيل التالي</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <source>&amp;Launch</source>
-        <translation>شغّل</translation>
+        <translation>&amp;تشغيل</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -6500,14 +6530,14 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>تم تأخير تشغيل اللعبة حتى يتم ضغط الزر. هذا هو الوقت الأنسب لإعداد المحلل، حيث أن خادم المحلل يعمل.
+        <translation>تأخر تشغيل اللعبة حتى تضغط الزر. هذا هو الوقت المناسب لإعداد المحلل، لأن خادم المحلل يعمل الآن.
 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>Waiting.</source>
-        <translation>جار الانتظار.</translation>
+        <translation>جارٍ الانتظار.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -6516,7 +6546,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="456"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>تعذر تشغيل المحلل: %1</translation>
+        <translation>تعذّر تشغيل المحلل: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="457"/>
@@ -6525,39 +6555,39 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
-        <translation>حدث خطأ أثناء تحديث &apos;%1</translation>
+        <translation>حدث خطأ أثناء تحديث &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>&apos;%1&apos; has expired and needs to be reauthenticated</source>
-        <translation>انتهت صلاحية &apos;%1&apos; ويلزم إعادة المصادقة</translation>
+        <translation>انتهت صلاحية &apos;%1&apos; ويلزم إعادة مصادقته</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="194"/>
         <source>The launcher&apos;s client identification has changed</source>
-        <translation>تغير تعريف العميل الخاص بمشغل اللعبة</translation>
+        <translation>تغيّر معرّف العميل الخاص بالمشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>&apos;%1&apos; no longer exists on the servers</source>
-        <translation>%1’ لم يعد موجودًا على الخوادم</translation>
+        <translation>لم يعد &apos;%1&apos; موجودًا على الخوادم</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation>هذا الحساب لايمتلك ماينكرافت.
-تحتاج لشراء اللعبة أولا كي تلعب النسخة الكاملة.</translation>
+        <translation>هذا الحساب لا يملك ماين كرافت.
+تحتاج إلى شراء اللعبة أولًا لتلعب النسخة الكاملة.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>No account was selected for launch.</source>
-        <translation>لم تختر حسابا للتشغيل.</translation>
+        <translation>لم يتم اختيار حساب للتشغيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -6566,7 +6596,7 @@ You need to purchase the game first to play the full version.</source>
 Do you want to play the demo?</source>
         <translation>
 
-هل تريد لعب النسخة التجريبية؟</translation>
+هل تريد لعب الوضع التجريبي؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
@@ -6576,28 +6606,28 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="249"/>
         <source>Auth servers offline</source>
-        <translation>سيرفر التأكيد غير متصل</translation>
+        <translation>خوادم المصادقة غير متصلة</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation>سيرفرات التأكد الخاصة بماين كرافت خارج النطاق حاليا, جاري الفتح في وضع غير متصل
+        <translation>خوادم مصادقة ماين كرافت غير متاحة حاليًا، جارٍ التشغيل في وضع عدم الاتصال.
 
 </translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>No internet connection</source>
-        <translation>لا يوجد اتصال بالإنترنات</translation>
+        <translation>لا يوجد اتصال بالإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation>انت لست متصل بالإنتنرنات, جاري الفتح في وضع غير متصل
+        <translation>أنت غير متصل بالإنترنت، جارٍ التشغيل في وضع عدم الاتصال.
 
 </translation>
     </message>
@@ -6612,7 +6642,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="256"/>
         <source>Choose your offline mode player name</source>
-        <translation>اختر اسم اللاعب لوضع اللعب بدون اتصال</translation>
+        <translation>اختر اسم اللاعب لوضع عدم الاتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="304"/>
@@ -6622,17 +6652,17 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation>%1. هل ترغب في إعادة المصادقة لهذا الحساب؟</translation>
+        <translation>%1. هل تريد إعادة مصادقة هذا الحساب؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="497"/>
         <source>Kill Minecraft?</source>
-        <translation>ايقاف ماينكرافت ؟</translation>
+        <translation>إنهاء ماين كرافت قسرًا؟</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="498"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>قد تؤدي هذه العملية إلى عطب النموذج لذا ينبغي استخدامها فقط حين تتوقف ماين كرافت عن الاستجابة</translation>
+        <translation>قد يؤدي هذا إلى تلف النسخة، ولا ينبغي استخدامه إلا إذا تجمّد ماين كرافت لسبب ما</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
@@ -6653,13 +6683,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="211"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>توقفت مشاهدة سجل اللعبة لانّ تخطى طول السجل %1 سطر.
-ربما عليك أن تصلح إضافاتك لأن اللعبة لا تزال تسجل للملفات من الممكن أنك تضيع مساحة تخزين بمقدار خطير!</translation>
+        <translation>توقفت مراقبة سجل اللعبة لأن طوله تجاوز %1 سطر.
+قد تحتاج إلى إصلاح المودات لديك لأن اللعبة ما زالت تكتب السجل في الملفات وربما تستهلك مساحة القرص الصلب بمعدل مقلق!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="237"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation>[خطأ تحليل لوج4جي] فشل تحليل حدث سجل لوج4جي: %1</translation>
+        <translation>[خطأ تحليل Log4j] تعذّر تحليل حدث سجل log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -6671,23 +6701,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation>جاري الحصول على رمز دخول ماينكرافت</translation>
+        <translation>جارٍ جلب رمز وصول ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>تعذر جلب رمز وصول ماين كرافت: %1</translation>
+        <translation>تعذّر جلب رمز وصول ماين كرافت: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>تعذر تحليل رد رمز وصول ماين كرافت.</translation>
+        <translation>تعذّر تحليل استجابة رمز وصول ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
-        <translation>تم استلام رمز الوصول الخاص بماينكرافت</translation>
+        <translation>تم الحصول على رمز وصول ماين كرافت</translation>
     </message>
 </context>
 <context>
@@ -6704,7 +6734,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation>التحقق من التحديثات تلقائيا</translation>
+        <translation>التحقق من التحديثات تلقائيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
@@ -6714,7 +6744,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>I&amp;nstances:</source>
-        <translation>الن&amp;ماذج:</translation>
+        <translation>ال&amp;نسخ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -6725,47 +6755,47 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="378"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>ترتيب النماذج</translation>
+        <translation>ترتيب النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="115"/>
         <source>Instance Renaming</source>
-        <translation>تغيير اسم النماذج</translation>
+        <translation>إعادة تسمية النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Always rename the folder</source>
-        <translation>غيّر اسم المجلد دائما</translation>
+        <translation>إعادة تسمية المجلد دائمًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Ask what to do</source>
-        <translation>السؤال عن الإجراءات المطلوبة</translation>
+        <translation>السؤال عما يجب فعله</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation>لا تغير اسم المجلد أبدا</translation>
+        <translation>عدم إعادة تسمية المجلد أبدًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="191"/>
         <source>Updater</source>
-        <translation>المحدث</translation>
+        <translation>المحدِّث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>How Often?</source>
-        <translation>بأي تكرار؟</translation>
+        <translation>كم مرة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="212"/>
         <source>Set to 0 to only check on launch</source>
-        <translation>اجعله 0 لكي يتم التأكيد فقط عند التشغيل</translation>
+        <translation>اضبطه على 0 للتحقق عند التشغيل فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
@@ -6784,40 +6814,40 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Auto Java Download:</source>
-        <translation>&amp;تحميل جافا تلقائياً:</translation>
+        <translation>&amp;التنزيل التلقائي لجافا:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>الملف الذي يخزن فيه Prism Launcher اصدارات الجافا تلقائياً. لا تضبط هذا الخيار في مسار تثبيت الجافا في نظامك.</translation>
+        <translation>المجلد الذي يخزّن فيه Prism Launcher إصدارات جافا التي تُنزَّل تلقائيًا. لا تعيّنه إلى مجلد تثبيت جافا الخاص بنظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation>حسب الوقت الاجمالي و اللعب</translation>
+        <translation>حسب إجمالي وقت ال&amp;لعب</translation>
     </message>
     <message>
         <source>&amp;Mods:</source>
-        <translation>&amp;الإضافات:</translation>
+        <translation>&amp;المودات:</translation>
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation>الأيقونات:</translation>
+        <translation>&amp;الأيقونات:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation>يعرض هذا حاليًا فقط المودات التي لا تحمل علامة التوافق مع إصدار ماينكرافت الحالي.</translation>
+        <translation>يعرض هذا حاليًا فقط المودات التي لا تحمل علامة التوافق مع إصدار ماين كرافت الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation>الكشف عن حالات عدم توافق الmod وعرضها (تجريبي)</translation>
+        <translation>اكتشاف حالات عدم توافق المودات وعرضها (تجريبي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="619"/>
         <source>Log History &amp;Limit:</source>
-        <translation>حد&amp; تاريخ السجل:</translation>
+        <translation>الحد الأقصى ل&amp;سجل الأحداث:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="664"/>
@@ -6826,7 +6856,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Retry Limit:</source>
-        <translation>حد التكرار:</translation>
+        <translation>حد إعادة المحاولة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="734"/>
@@ -6836,7 +6866,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="744"/>
         <source>HTTP Timeout:</source>
-        <translation>انتهاء مهلة الHTTP:</translation>
+        <translation>مهلة HTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="770"/>
@@ -6846,7 +6876,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>&amp;Downloads:</source>
-        <translation>التنزيلات :</translation>
+        <translation>&amp;التنزيلات:</translation>
     </message>
     <message>
         <source>Update interval</source>
@@ -6863,7 +6893,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>&amp;Skins:</source>
-        <translation>المظاهر:</translation>
+        <translation>&amp;الشخصيات:</translation>
     </message>
     <message>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
@@ -6900,7 +6930,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation>حسب&amp; الاسم</translation>
+        <translation>حسب ال&amp;اسم</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -6913,7 +6943,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>عند تفعيله, سيتم البحث في المجلدات الفرعية لمجلد التنزيلات أيضا عند البحث عن الموارد (مثلا عند البحث عن الإضافات المحظورة في كورس فورج).</translation>
+        <translation>عند التفعيل، سيتم البحث أيضًا في المجلدات الفرعية لمجلد التنزيلات عند البحث عن الموارد (مثلًا عند البحث عن المودات المحظورة في CurseForge).</translation>
     </message>
     <message>
         <source>Check downloads folder recursively</source>
@@ -6933,7 +6963,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: قد يؤدي تعطيل بيانات تعريف الإضافات لتعطيل بعض مزايا جودة التجربة مثل تحديث الإضافات!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تحذير&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: قد يؤدي تعطيل البيانات الوصفية للمودات إلى تعطيل بعض ميزات سهولة الاستخدام أيضًا، مثل تحديث المودات!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -6954,7 +6984,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="741"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation>الثواني الذي يجب انتظارها حتى تنتهي الطلبات</translation>
+        <translation>عدد الثواني المنتظرة قبل إنهاء الطلبات</translation>
     </message>
     <message>
         <source>Timeout for HTTP requests</source>
@@ -6972,7 +7002,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="473"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation>عند تفعيله, سيتم نقل الموارد بدل نسخهم.</translation>
+        <translation>عند التفعيل، سيتم نقل الموارد المحظورة بدلًا من نسخها.</translation>
     </message>
     <message>
         <source>&amp;Java:</source>
@@ -7001,18 +7031,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>يعد شريط القوائم أفضل للتحكم باستخدام لوحة المفاتيح.</translation>
+        <translation>شريط القوائم أنسب للتفاعل عبر لوحة المفاتيح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="171"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>استبدال شريط الأدوات بشريط القوائم</translation>
+        <translation>&amp;استبدال شريط الأدوات بشريط القوائم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation>قم بفتح نافدة تعديل النسخة ثم قم بالنقر مرتين على النسخ بدل تشغيلها.</translation>
+        <translation>يفتح نافذة تحرير النسخة عند النقر المزدوج على النسخة بدلًا من تشغيلها.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
@@ -7026,37 +7056,37 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="365"/>
         <source>&amp;Auto Downloaded Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;جافا المنزَّل تلقائيًا:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>أيقونات ال&amp;نسخ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;المودات (وصول سريع):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد قد يُنسخ إلى النسخ الجديدة عند إنشائها، ويمكن تفعيله لكل نسخة على حدة. مفيد لملف options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>ق&amp;الب النسخة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلدات نسخ إضافية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>Add</source>
-        <translation>اضافة</translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
@@ -7066,89 +7096,89 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>Mods and Modpacks</source>
-        <translation>الإضافات وحزم الإضافات</translation>
+        <translation>المودات والمودباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation>ابحث في المجلدات الفرعية على الإضافات المحظورة</translation>
+        <translation>التحقق من ال&amp;مجلدات الفرعية بحثًا عن المودات المحظورة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="476"/>
         <source>Move blocked mods instead of copying them</source>
-        <translation>انقل الإضافات المحظورة بدل نسخهم</translation>
+        <translation>نقل المودات المحظورة بدلًا من نسخها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
-        <translation>خزن معلومات الإصدار المزودة من قبل موفري الإضافات (مثل مودرينث وكورس فورج) للإضافات.</translation>
+        <translation>تخزين معلومات الإصدار التي يوفرها مزودو المودات (مثل Modrinth وCurseForge) للمودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="486"/>
         <source>Keep track of mod metadata</source>
-        <translation>تعقب بيانات تعريف الإضافات</translation>
+        <translation>تتبّع البيانات الوصفية للمودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
-        <translation>اكشف, حمل وحدث تبعيات الإضافات تلقائيا.</translation>
+        <translation>اكتشاف تبعيات المودات وتثبيتها وتحديثها تلقائيًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="506"/>
         <source>Install dependencies automatically</source>
-        <translation>ثبت التبعيات تلقائيا</translation>
+        <translation>تثبيت التبعيات تلقائيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
-        <translation>عند إنشاء نموذج حزمة إضافات جديد, اقترح تحديث النموذج الحالي بدلا من ذلك.</translation>
+        <translation>عند إنشاء نسخة مودباك جديدة، اقترح تحديث نسخة موجودة بدلًا من ذلك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
         <source>Suggest to update an existing instance during modpack installation</source>
-        <translation>اقترح تحديث النموذج الحالي عند تثبيت حزمة إضافات</translation>
+        <translation>اقتراح تحديث نسخة موجودة أثناء تثبيت المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="545"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر قناة الإصدار المفضلة عند التحقق من تحديثات المودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="538"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>قناة تحديث المودات:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>الكل (الإصدار النهائي، بيتا، ألفا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="554"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار النهائي فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار النهائي وبيتا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="585"/>
         <source>Instance Creation</source>
-        <translation>إنشاء نسخه</translation>
+        <translation>إنشاء النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="591"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation>تنزيل ملفات اللعبه النطلوبة أثناء إنشاء النسخه. قم بتعطيل هذا الخيار لتخطي التنزيل الأولي وجلب الملفات عند تشغيل البرنامج.</translation>
+        <translation>ينزّل ملفات اللعبة المطلوبة أثناء إنشاء النسخة. عطّل هذا الخيار لتخطي التنزيل الأولي وجلب الملفات عند تشغيل النسخة بدلًا من ذلك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="594"/>
         <source>Download game files during instance creation</source>
-        <translation>تنزيل ملقات اللعبه أثناء إنشاء النسخة</translation>
+        <translation>تنزيل ملفات اللعبة أثناء إنشاء النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="604"/>
@@ -7158,7 +7188,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="727"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>حد إعادة محاولات الشبكة:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -7188,7 +7218,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="654"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>توقف عن التسجيل عند فيض السجل</translation>
+        <translation>&amp;إيقاف التسجيل عند امتلاء السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="635"/>
@@ -7203,17 +7233,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="129"/>
         <source>Instance Folder</source>
-        <translation>مجلد النموذج</translation>
+        <translation>مجلد النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="100"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>إنك تحاول تحديد مسار مجلد نموذج يحتوي على ’!’ واحدة على الأقل. من المعروف أنها تسبب مشاكل في الجافا ,من المحتمل ألا يبدأ نموذجك!</translation>
+        <translation>تحاول تحديد مجلد نسخة يحتوي مساره على &apos;!&apos; واحدة على الأقل. من المعروف أن جافا تسبب مشاكل في هذه الحالة، وعلى الأرجح لن تعمل نسخك!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="105"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>هل تريد استخدام هذا المسار؟ سيؤدي اختيار ’لا’ إلى إغلاق هذا ولم يتم تعديل مسار النموذج.</translation>
+        <translation>هل تريد فعلًا استخدام هذا المسار؟ سيؤدي اختيار &quot;لا&quot; إلى إغلاق هذه النافذة دون تغيير مسار النسخ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="112"/>
@@ -7225,10 +7255,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>إنك تحاول تخصيص مجلد نموذج قد تم تزويده مؤقتا من فلاتباك.
-ممن المعروف انه قد يتسبب بمشاكل. قد يتعطل المشغل بعد إعادة التشغيل, لأنه لن يقدر على الوصول إلى ذاك المسار.
+        <translation>تحاول تحديد مجلد نسخة مُنح مؤقتًا عبر Flatpak.
+من المعروف أن هذا يسبب مشاكل. بعد إعادة التشغيل قد يتعطل المشغّل لأنه لن يعود لديه صلاحية الوصول إلى ذلك المجلد.
 
-ينصح بإعطاء صلاحية الوصول ل%1 إلى فلاتسيل.</translation>
+يُنصح بمنح %1 حق الوصول إليه عبر Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="119"/>
@@ -7238,23 +7268,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
         <source>Additional Instance Folder</source>
-        <translation>مجلد النسخة الاضافي</translation>
+        <translation>مجلد نسخ إضافي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>Duplicate directory</source>
-        <translation>كرر المجلد</translation>
+        <translation>مجلد مكرر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>This is already your primary instance directory.</source>
-        <translation>هذا بالفعل مجلد النسخ الأساسي الخاص بك.</translation>
+        <translation>هذا هو مجلد النسخ الأساسي لديك بالفعل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>This directory has already been added.</source>
-        <translation>هذا المجلد قد تم اضافته بالفعل مسبقا.</translation>
+        <translation>تمت إضافة هذا المجلد بالفعل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
@@ -7264,7 +7294,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Mods Folder</source>
-        <translation>مجلد الإضافات</translation>
+        <translation>مجلد المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="189"/>
@@ -7274,17 +7304,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="199"/>
         <source>Java Folder</source>
-        <translation>مجلد الجافا</translation>
+        <translation>مجلد جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد قالب النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
         <source>Skins Folder</source>
-        <translation>مجلد المظاهر</translation>
+        <translation>مجلد الشخصيات</translation>
     </message>
     <message>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -7325,23 +7355,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>تعذر العثور على مكتبات المشغل. تحقق من تثبيبك.</translation>
+        <translation>تعذّر العثور على مكتبة المشغّل. يرجى التحقق من تثبيتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>تعذر العثور على مكتبات المشغل الإرثي. تحقق من تثبيبك.</translation>
+        <translation>تعذّر العثور على مكتبة المشغّل القديم. يرجى التحقق من تثبيتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>لم يتم العثور على الأمر المغلف &quot;%1&quot;.</translation>
+        <translation>تعذّر العثور على أمر الغلاف (wrapper) &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>يتعذر فتح ماين كرافت:1%</translation>
+        <translation>تعذّر تشغيل ماين كرافت: %1</translation>
     </message>
     <message>
         <source>Could not launch Minecraft!</source>
@@ -7353,7 +7383,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
-        <translation>تعطلت اللعبة.</translation>
+        <translation>تعطّلت اللعبة.</translation>
     </message>
 </context>
 <context>
@@ -7361,27 +7391,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>جار التحقق من مكتبات FML...</translation>
+        <translation>جارٍ التحقق من مكتبات FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>جار تنزيل مكتبات FML...</translation>
+        <translation>جارٍ تنزيل مكتبات FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="89"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>جار نسخ مكتبات FML إلى النسخة...</translation>
+        <translation>جارٍ نسخ مكتبات FML إلى النسخة...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="98"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>فشل في إنشاء مجلد لمكتبة FML داخل النسخة.</translation>
+        <translation>تعذّر إنشاء مجلد مكتبات FML داخل النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="102"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>فشل في نسخ (Forge/FML library: %1).</translation>
+        <translation>تعذّر نسخ مكتبة Forge/FML: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="115"/>
@@ -7390,11 +7420,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation>فشل في تنزيل الملفات الآتية:
+        <translation>تعذّر تنزيل الملفات التالية:
 %1
 
 السبب: %2
-يرجى المحاولة مجددًا.</translation>
+يرجى المحاولة مرة أخرى.</translation>
     </message>
 </context>
 <context>
@@ -7403,28 +7433,28 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>فرز بحسب الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="60"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>فرز بحسب إصدار اللعبة</translation>
+        <translation>فرز حسب إصدار اللعبة</translation>
     </message>
 </context>
 <context>
     <name>LegacyFTB::ListModel</name>
     <message>
         <source>Public Modpack</source>
-        <translation>حزمة عامة</translation>
+        <translation>مودباك عام</translation>
     </message>
     <message>
         <source>Third Party Modpack</source>
-        <translation>حزمة طرف ثالث</translation>
+        <translation>مودباك تابع لجهة خارجية</translation>
     </message>
     <message>
         <source>Private Modpack</source>
-        <translation>حزمة خاصة</translation>
+        <translation>مودباك خاص</translation>
     </message>
 </context>
 <context>
@@ -7432,17 +7462,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="114"/>
         <source>Public Packs</source>
-        <translation>حزم عامة</translation>
+        <translation>مودباكات عامة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="118"/>
         <source>Third Party Packs</source>
-        <translation>حزم طرف ثالث</translation>
+        <translation>مودباكات تابعة لجهات خارجية</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>فشل في تنزيل بعض قوائم الحزم: %1</translation>
+        <translation>تعذّر تنزيل بعض قوائم الحزم: %1</translation>
     </message>
 </context>
 <context>
@@ -7450,7 +7480,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="68"/>
         <source>Downloading zip for %1</source>
-        <translation>جار تنزيل الملف المضغوط لـ %1</translation>
+        <translation>جارٍ تنزيل ملف ZIP لـ %1</translation>
     </message>
     <message>
         <source>Downloading zip for %1 (%2%)</source>
@@ -7459,7 +7489,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="98"/>
         <source>Extracting modpack</source>
-        <translation>استخراج حزمة الإضافات</translation>
+        <translation>جارٍ استخراج المودباك</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
@@ -7468,18 +7498,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="123"/>
         <source>Installing modpack</source>
-        <translation>تثبيت حزمة الإضافات</translation>
+        <translation>جارٍ تثبيت المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="129"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation>تعذر نقل ماين كرافت بعد فك ضغطها!</translation>
+        <translation>تعذّر نقل ماين كرافت بعد فك ضغطه!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="194"/>
         <source>No installation method found!</source>
-        <translation>لا يوجد طرق للتثبيت!</translation>
+        <translation>لم يتم العثور على طريقة تثبيت!</translation>
     </message>
 </context>
 <context>
@@ -7501,7 +7531,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="65"/>
         <source>3rd Party</source>
-        <translation>طرف ثالث</translation>
+        <translation>جهة خارجية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="95"/>
@@ -7538,24 +7568,24 @@ Please try again.</source>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="217"/>
         <source>FTB private packs</source>
-        <translation>حزم إف تي بي الخاصة</translation>
+        <translation>حزم FTB الخاصة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="218"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>فشل في تنزيل معلومات الحزمة مع رمز الخطأ %1.
-هل ينبغي إزالة الحزمة؟</translation>
+        <translation>تعذّر تنزيل معلومات الحزمة للرمز %1.
+هل تريد إزالتها الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Add FTB pack</source>
-        <translation>إضافة حزمة إف تي بي</translation>
+        <translation>إضافة حزمة FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
@@ -7570,7 +7600,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>هل أن متأكد أنك تريد إزالة الحزمة %1؟</translation>
+        <translation>هل أنت متأكد أنك تريد إزالة الحزمة %1؟</translation>
     </message>
 </context>
 <context>
@@ -7632,17 +7662,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>جار تنزيل ملفات المكتبة المطلوبة...</translation>
+        <translation>جارٍ تنزيل ملفات المكتبات المطلوبة...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>المكتبات للنموذج %1</translation>
+        <translation>المكتبات للنسخة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>تم تحديد ملف jar فارغ في البيانات الوصفية، جار الإلغاء.</translation>
+        <translation>حُدِّد ملف jar فارغ (null) في البيانات الوصفية، سيتم الإلغاء.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -7651,11 +7681,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>بعض الأدوات المعلمة على أنها &apos;محلية&apos; تفتقر إلى ملفاتها:
+        <translation>بعض العناصر (artifacts) المعلَّمة بأنها &apos;محلية&apos; تفتقد ملفاتها:
 %1
 
-عليك إما أن تضيف الملفات المفقودة، أو أن تزيل الحزم المعتمدة على هذه الملفات.
-ستحتاج إلى حل هذه المشكلة يدويًا.</translation>
+عليك إما إضافة الملفات، أو إزالة الحزم التي تتطلبها.
+سيتعيّن عليك تصحيح هذه المشكلة يدويًا.</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7666,7 +7696,7 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>تعذر تحديث اللعبة: لقد استحال الحصول على المكتبات المطلوبة.
+        <translation>تعذّر تحديث اللعبة: استحال جلب المكتبات المطلوبة.
 السبب:
 %1</translation>
     </message>
@@ -7697,13 +7727,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="54"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>جار تحديث الفهرس للمورد:
+        <translation>جارٍ تحديث الفهرس للمورد:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="71"/>
         <source>Invalid metadata</source>
-        <translation>بيانات تعريف غير صالحة</translation>
+        <translation>بيانات وصفية غير صالحة</translation>
     </message>
 </context>
 <context>
@@ -7711,22 +7741,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="47"/>
         <source>Keep updating</source>
-        <translation>استمر بالتحديث</translation>
+        <translation>متابعة التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="57"/>
         <source>Wrap lines</source>
-        <translation>لف الأسطر</translation>
+        <translation>التفاف الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="67"/>
         <source>Color lines</source>
-        <translation>لوّن الأسطر</translation>
+        <translation>تلوين الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="90"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>انسخ السجل كاملًا إلى الحافظة</translation>
+        <translation>نسخ السجل كاملًا إلى الحافظة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -7737,7 +7767,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="100"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>ارفع السجل إلى خدمة اللصق المعدلة في التفضيلات</translation>
+        <translation>رفع السجل إلى خدمة اللصق المضبوطة في التفضيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -7747,7 +7777,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="110"/>
         <source>Clear the log</source>
-        <translation>امسح السجل</translation>
+        <translation>مسح السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -7757,7 +7787,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="158"/>
         <source>Search</source>
-        <translation>البحث</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7766,23 +7796,23 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="128"/>
         <source>Find</source>
-        <translation>اعثر</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="141"/>
         <source>Scroll all the way to bottom</source>
-        <translation>انتقل إلى نهاية السجل</translation>
+        <translation>التمرير إلى نهاية السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="144"/>
         <source>Bottom</source>
-        <translation>إلى الأسفل</translation>
+        <translation>الأسفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="247"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="68"/>
         <source>Minecraft Log</source>
-        <translation>تقرير ماينكرافت</translation>
+        <translation>سجل ماين كرافت</translation>
     </message>
 </context>
 <context>
@@ -7791,29 +7821,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>توقفت العملية برمز الخروج %1.</translation>
+        <translation>انتهت العملية برمز الخروج %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>فشلت العملية.</translation>
+        <translation>تعطّلت العملية.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>فشلت العملية مع رمز الخطأ %1.</translation>
+        <translation>تعطّلت العملية برمز الخروج %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>تم ايقاف العملية من قبل المستخدم.</translation>
+        <translation>أنهى المستخدم العملية قسرًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start: %1</source>
-        <translation>فشل تشغيل العملية: 1%</translation>
+        <translation>فشل تشغيل العملية: %1</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -7840,7 +7870,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -7850,12 +7880,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>لتتمكن من لعب ماين كرافت, يجب أن يكون لديك على الأقل حساب مايكروسوفت واحد مسجل. هل تريد التسجيل الآن؟</translation>
+        <translation>للعب ماين كرافت، يجب أن يكون لديك على الأقل حساب مايكروسوفت واحد مسجَّل الدخول. هل تريد تسجيل الدخول الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation>أضف حساب مايكروسوفت</translation>
+        <translation>إضافة حساب مايكروسوفت</translation>
     </message>
 </context>
 <context>
@@ -7868,30 +7898,30 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فتح ملف الإخراج: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّرت إضافة %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّرت قراءة %1 وضغطه: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر إغلاق ملف الإخراج: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
-        <translation>تعذر إنشاء ملف</translation>
+        <translation>تعذّر إنشاء الملف</translation>
     </message>
     <message>
         <source>Could not add:</source>
-        <translation>تعذر الإضافة:</translation>
+        <translation>تعذّرت الإضافة:</translation>
     </message>
     <message>
         <source>Could not create:</source>
@@ -7899,11 +7929,11 @@ Reason:
     </message>
     <message>
         <source>Could not read and compress %1</source>
-        <translation>تعذر القراءة أو الضغط %1</translation>
+        <translation>تعذّرت قراءة %1 وضغطه</translation>
     </message>
     <message>
         <source>A zip error occurred</source>
-        <translation>حصل خطأ في الزيب</translation>
+        <translation>حدث خطأ في ملف ZIP</translation>
     </message>
 </context>
 <context>
@@ -7914,30 +7944,30 @@ Reason:
     </message>
     <message>
         <source>Failed to enumerate files in archive</source>
-        <translation>تعذر إحصاء الملفات في الأرشيف</translation>
+        <translation>تعذّر تعداد الملفات في الأرشيف</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="44"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation>استخراج الملفات الفارغة يبدو أمراً غريباً...</translation>
+        <translation>يبدو استخراج أرشيف فارغ أمرًا غريبًا...</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استخراج الملف %1 إلى %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
-        <translation>فشل تحليل الملف %1</translation>
+        <translation>تعذّر تحليل الملف %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="89"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation>تم إلغاء استخراج %1, لأنه كان خارج المسار الهدف %2</translation>
+        <translation>أُلغي استخراج %1 لأنه كان فعليًا خارج المسار الهدف %2</translation>
     </message>
     <message>
         <source>Failed to extract file %1 to %2</source>
-        <translation>تعذر استخراج الملف %1 إلى %2</translation>
+        <translation>تعذّر استخراج الملف %1 إلى %2</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
@@ -7949,13 +7979,13 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation>جار تسجيل الدخول مع حساب مايكروسوفت(رمز الجهاز).</translation>
+        <translation>جارٍ تسجيل الدخول بحساب مايكروسوفت (رمز الجهاز).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="126"/>
         <source>Device authorization failed: %1</source>
-        <translation>فشل التحقق من الجهاز:%1</translation>
+        <translation>فشلت مصادقة الجهاز: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve device authorization</source>
@@ -7964,7 +7994,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="131"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>فشل التحقق من الجهاز: الفراغات الآتية غير كاملة</translation>
+        <translation>فشلت مصادقة الجهاز: حقول مطلوبة مفقودة</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7973,12 +8003,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="256"/>
         <source>Device Access failed: %1</source>
-        <translation>تعذر الوصول إلى الجهاز: %1</translation>
+        <translation>فشل الوصول إلى الجهاز: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="271"/>
         <source>Got MSA token</source>
-        <translation>حصلت على رمز MSA</translation>
+        <translation>تم الحصول على رمز MSA</translation>
     </message>
     <message>
         <source>Got</source>
@@ -7990,7 +8020,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>أضف حساب مايكروسوفت</translation>
+        <translation>إضافة حساب مايكروسوفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -8002,12 +8032,12 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="231"/>
         <source>Status</source>
-        <translation>الوضع</translation>
+        <translation>الحالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation>تسجيل الدخول مع مايكروسوفت</translation>
+        <translation>تسجيل الدخول بحساب مايكروسوفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
@@ -8017,12 +8047,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="347"/>
         <source>CODE</source>
-        <translation>رمز</translation>
+        <translation>الرمز</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="360"/>
         <source>Copy code to clipboard</source>
-        <translation>انسخ الرمز إلى الحافظة</translation>
+        <translation>نسخ الرمز إلى الحافظة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="398"/>
@@ -8037,7 +8067,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="225"/>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
-        <translation>افتح %1 أو افحص رمز المربّع وادخل الرمز في الأعلى إذا طلب.</translation>
+        <translation>افتح %1 أو امسح رمز QR وأدخل الرمز أعلاه إذا لزم الأمر.</translation>
     </message>
 </context>
 <context>
@@ -8045,27 +8075,27 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
         <source>Got MSA token</source>
-        <translation>حصلت على رمز MSA</translation>
+        <translation>تم الحصول على رمز MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Failed to refresh token.</source>
-        <translation>تعذر تحديت الرمز المميز.</translation>
+        <translation>تعذّر تحديث الرمز.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="182"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>جار تسجيل الدخول مع حساب مايكروسوفت.</translation>
+        <translation>جارٍ تسجيل الدخول بحساب مايكروسوفت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="190"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>تعذر التحقق من مستخدم مايكروسوفت - تم تغيير هوية العميل.</translation>
+        <translation>فشلت مصادقة مستخدم مايكروسوفت - تغيّر معرّف العميل.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="194"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation>تعذر التحقق من مستخدم مايكروسوفت - خانة رمز التحديث فارغة.</translation>
+        <translation>فشلت مصادقة مستخدم مايكروسوفت - رمز التحديث فارغ.</translation>
     </message>
     <message>
         <source>Got </source>
@@ -8074,7 +8104,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="160"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>تعذر التحقق من مستخدم مايكروسوفت.</translation>
+        <translation>فشلت مصادقة مستخدم مايكروسوفت.</translation>
     </message>
 </context>
 <context>
@@ -8094,12 +8124,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>Launch the selected instance.</source>
-        <translation>تشغيل النموذج المحدد.</translation>
+        <translation>تشغيل النسخة المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation>شريط الأدوات الأساسي</translation>
+        <translation>شريط الأدوات الرئيسي</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -8108,7 +8138,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add a new instance.</source>
-        <translation>إضافة نموذجٍ جديد.</translation>
+        <translation>إضافة نسخة جديدة.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -8126,12 +8156,12 @@ Reason:
     </message>
     <message>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>افتح المجلد المركزي للإضافات بمتصفح الملفات.</translation>
+        <translation>فتح مجلد المودات المركزي في متصفح الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="203"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;حسابات</translation>
+        <translation>&amp;الحسابات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="698"/>
@@ -8141,7 +8171,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="701"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>افتح مجلدًا مشترك بين النماذج.</translation>
+        <translation>فتح أحد المجلدات المشتركة بين النسخ.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -8159,7 +8189,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>فتح متعقب الأخطاء لتقرير الأخطاء مع %1.</translation>
+        <translation>فتح متتبع الأخطاء للإبلاغ عن خطأ في %1.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -8174,22 +8204,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
         <source>Open %1 subreddit.</source>
-        <translation>فتح مجموعة ريديت %1.</translation>
+        <translation>فتح مجتمع %1 على Reddit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>View information about %1.</source>
-        <translation>عرض المعلومات عن %1.</translation>
+        <translation>عرض معلومات عن %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>Help</source>
-        <translation>المساعدة</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>الحصول على المساعدة مع %1 أو ماين كرافت.</translation>
+        <translation>الحصول على مساعدة بخصوص %1 أو ماين كرافت.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -8198,7 +8228,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
         <source>Check for new updates for %1.</source>
-        <translation>تحقق من التحديثات ل%1.</translation>
+        <translation>التحقق من تحديثات %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -8207,7 +8237,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>إنّها هِرَّة ظَرِيفَة 3:‮</translation>
+        <translation>إنها قطة لطيفة :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -8216,17 +8246,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="63"/>
         <source>News Toolbar</source>
-        <translation>شريط الأدوات الأخبار</translation>
+        <translation>شريط أدوات الأخبار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>انتقل إلى مدونة التطوير لقراءة المزيد من الأخبار عن %1.</translation>
+        <translation>افتح مدونة التطوير لقراءة المزيد من الأخبار عن %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;تعديل...</translation>
+        <translation>&amp;تحرير...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="415"/>
@@ -8236,7 +8266,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="454"/>
         <source>E&amp;xport...</source>
-        <translation>تصدير...</translation>
+        <translation>ت&amp;صدير...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="426"/>
@@ -8246,68 +8276,68 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="440"/>
         <source>Cop&amp;y...</source>
-        <translation>نسخ...</translation>
+        <translation>نس&amp;خ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="90"/>
         <source>Instance Toolbar</source>
-        <translation>شريط النماذج</translation>
+        <translation>شريط النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="390"/>
         <source>Change Icon</source>
-        <translation>تعديل الأيقونة</translation>
+        <translation>تغيير الأيقونة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
-        <translation>اقتل</translation>
+        <translation>&amp;إنهاء قسري</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="343"/>
         <source>&amp;Launch</source>
-        <translation>&amp;تشغّيل</translation>
+        <translation>&amp;تشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="288"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>إضافة نموذج...</translation>
+        <translation>إضافة &amp;نسخة...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="181"/>
         <source>F&amp;olders</source>
-        <translation>المجلدات</translation>
+        <translation>ال&amp;مجلدات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="313"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>الإعدادات...</translation>
+        <translation>ال&amp;إعدادات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="280"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>عودة عن آخر عملية حذف نموذج</translation>
+        <translation>&amp;التراجع عن آخر حذف لنسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>مسح تخزين بيانات التعريف المؤقتة</translation>
+        <translation>&amp;مسح ذاكرة البيانات الوصفية المؤقتة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>Clear cached metadata</source>
-        <translation>مسح تخزين بيانات التعريف المؤقتة</translation>
+        <translation>مسح البيانات الوصفية المخزنة مؤقتًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="687"/>
         <source>Install to &amp;PATH</source>
-        <translation>التثبيث إلى &amp;PATH</translation>
+        <translation>التثبيت في &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
         <source>&amp;Matrix Space</source>
-        <translation>مساحة ماتريكس</translation>
+        <translation>&amp;مساحة Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="239"/>
@@ -8322,48 +8352,48 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="327"/>
         <source>Manage &amp;Skins...</source>
-        <translation>إدارة والأزياء...</translation>
+        <translation>إدارة ال&amp;شخصيات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
-        <translation>ينشئ اختصار في المجلد المختار لتشغيل النموذج المختار.</translation>
+        <translation>ينشئ اختصارًا في مجلد محدد لتشغيل النسخة المحددة.</translation>
     </message>
     <message>
         <source>&amp;Instances</source>
-        <translation>النماذج</translation>
+        <translation>&amp;النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>افتح مجلد النماذج في متصفح الملفات.</translation>
+        <translation>فتح مجلد النسخ في متصفح الملفات.</translation>
     </message>
     <message>
         <source>Launcher &amp;Root</source>
-        <translation>جزر المشغل</translation>
+        <translation>جذر ال&amp;مشغّل</translation>
     </message>
     <message>
         <source>&amp;Central Mods</source>
-        <translation>الإضافات المركزية</translation>
+        <translation>ال&amp;مودات المركزية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="569"/>
         <source>&amp;Skins</source>
-        <translation>الأزياء</translation>
+        <translation>ال&amp;شخصيات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>افتح مجلد الأزياء في متصفح الملفات.</translation>
+        <translation>فتح مجلد الشخصيات في متصفح الملفات.</translation>
     </message>
     <message>
         <source>Instance Icons</source>
-        <translation>أيقونات النماذج</translation>
+        <translation>أيقونات النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>افتح مجلد أيقونات النماذج في متصفح الملفات.</translation>
+        <translation>فتح مجلد أيقونات النسخ في متصفح الملفات.</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -8372,22 +8402,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>افتح مجلد السجلات في متصفح الملفات.</translation>
+        <translation>فتح مجلد السجلات في متصفح الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="618"/>
         <source>&amp;Discord Guild</source>
-        <translation>نقابة الديسكورد</translation>
+        <translation>خادم &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="640"/>
         <source>Sub&amp;reddit</source>
-        <translation>فرعي الريدت</translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="651"/>
         <source>&amp;About %1</source>
-        <translation>عن %1</translation>
+        <translation>&amp;حول %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
@@ -8399,26 +8429,26 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="679"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation>عرص سجلات المشغل الحالية و الماضية</translation>
+        <translation>عرض سجلات المشغّل الحالية والسابقة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="728"/>
         <source>%1 &amp;Wiki</source>
-        <translation>%1 &amp;الويكي</translation>
+        <translation>&amp;ويكي %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="739"/>
         <source>&amp;Widget Themes</source>
-        <translation>سمات عناصر الواجهة</translation>
+        <translation>سمات عناصر ال&amp;واجهة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="742"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>افتح مجلد سمات عناصر الواجهة في متصفح الملفات.</translation>
+        <translation>فتح مجلد سمات عناصر الواجهة في متصفح الملفات.</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
-        <translation>سمات الأيقونات</translation>
+        <translation>سمات الأ&amp;يقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
@@ -8427,12 +8457,12 @@ Reason:
     </message>
     <message>
         <source>Cat Packs</source>
-        <translation>حزم القط</translation>
+        <translation>حزم القطط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="764"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>افتح مجلد حزم القط في متصفح الملفات.</translation>
+        <translation>فتح مجلد حزم القطط في متصفح الملفات.</translation>
     </message>
     <message>
         <source>Java</source>
@@ -8442,82 +8472,82 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>افتح مجلد الجافا في متصفح الملفات. ممكن فقط عند استخدام منزل الجافا المبني.</translation>
+        <translation>فتح مجلد جافا في متصفح الملفات. متاح فقط عند استخدام منزّل جافا المدمج.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="299"/>
         <source>&amp;Update...</source>
-        <translation>تحديث...</translation>
+        <translation>&amp;تحديث...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="253"/>
         <source>&amp;Meow</source>
-        <translation>مياو</translation>
+        <translation>&amp;مياو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>إدارة الحسابات...</translation>
+        <translation>&amp;إدارة الحسابات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="272"/>
         <source>Lock Toolbars</source>
-        <translation>قفل أشرط الأدوات</translation>
+        <translation>قفل أشرطة الأدوات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Themes</source>
-        <translation>سمات</translation>
+        <translation>السمات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="135"/>
         <source>&amp;File</source>
-        <translation>ملف</translation>
+        <translation>&amp;ملف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="158"/>
         <source>&amp;Edit</source>
-        <translation>تعديل</translation>
+        <translation>&amp;تحرير</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="167"/>
         <source>&amp;View</source>
-        <translation>عرض</translation>
+        <translation>&amp;عرض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="208"/>
         <source>&amp;Help</source>
-        <translation>مساعدة</translation>
+        <translation>&amp;مساعدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>Kill the running instance.</source>
-        <translation>اقتل النموذج قيد التشغيل.</translation>
+        <translation>إنهاء النسخة الجارية قسرًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>تصدير النموذج المختار إلى صيغ مدعومة.</translation>
+        <translation>تصدير النسخة المحددة إلى الصيغ المدعومة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Prism Launcher (zip)</source>
-        <translation>مشغل بريسم (أرشيف زيب)</translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="473"/>
         <source>Modrinth (mrpack)</source>
-        <translation>مودرينث (إم أر باك)</translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="481"/>
         <source>CurseForge (zip)</source>
-        <translation>كروس فورج (زيب)</translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="522"/>
         <source>Close &amp;Window</source>
-        <translation>إغلاق النافذة</translation>
+        <translation>إغلاق ال&amp;نافذة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
@@ -8527,77 +8557,77 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>ال&amp;نسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="547"/>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات ال&amp;مشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>افتح مجلد جزر المشغل في متصفح الملفات.</translation>
+        <translation>فتح المجلد الجذر للمشغّل في متصفح الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="558"/>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;المودات (وصول سريع)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مجلد المودات في متصفح الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>أيقونات ال&amp;نسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>سجلات ال&amp;مشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>إبلاغ عن خطأ أو اقتراح ميزة</translation>
+        <translation>الإبلاغ عن خطأ أو اقتراح ميزة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Open %1 Matrix space.</source>
-        <translation>افتح مساحة ماتريكس %1.</translation>
+        <translation>فتح مساحة %1 على Matrix.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="690"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>تثبيت وصلة رمزية ل%1 على /usr/local/bin</translation>
+        <translation>تثبيت رابط رمزي لـ %1 في /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>I&amp;con Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>سمات الأ&amp;يقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="761"/>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>حزم ال&amp;قطط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;جافا المنزَّل تلقائيًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="783"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>ق&amp;الب النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مجلد القالب في متصفح الملفات.</translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -8607,52 +8637,52 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="731"/>
         <source>Open the %1 wiki</source>
-        <translation>افتح موسوعة %1</translation>
+        <translation>فتح ويكي %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>تغيير أيقونة النموذج المحدد.</translation>
+        <translation>تغيير أيقونة النسخة المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="368"/>
         <source>Rename</source>
-        <translation>إعادة التسمية</translation>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
         <source>Rename the selected instance.</source>
-        <translation>تغيير اسم النموذج المحدد.</translation>
+        <translation>إعادة تسمية النسخة المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Ctrl+K</source>
-        <translation>Ctrl+K\ن</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Ctrl+I</source>
-        <translation>Ctrl+I\ه</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="379"/>
         <source>&amp;Change Group...</source>
-        <translation>تغيير المجموعة...</translation>
+        <translation>&amp;تغيير المجموعة...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Ctrl+G</source>
-        <translation>Ctrl+G\ل</translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="277"/>
         <source>Backspace</source>
-        <translation>Backspace\مسافة للخلف</translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Ctrl+D</source>
-        <translation>Ctrl+D\ي</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="489"/>
@@ -8685,7 +8715,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>تغيير إعدادات النموذج، إضافاته وإصداراته.</translation>
+        <translation>تغيير إعدادات النسخة والمودات والإصدارات.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -8703,7 +8733,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>احذف النموذج المحدد.</translation>
+        <translation>حذف النسخة المحددة.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -8720,7 +8750,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>تغيير مجموعة النموذج المحدد.</translation>
+        <translation>تغيير مجموعة النسخة المحددة.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -8746,7 +8776,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>افتح المجلد الأساسي للنموذج المحدد بمتصفح الملغات.</translation>
+        <translation>فتح المجلد الجذر للنسخة المحددة في متصفح الملفات.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -8764,7 +8794,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
         <source>Copy the selected instance.</source>
-        <translation>انسخ النموذج المحدد.</translation>
+        <translation>نسخ النسخة المحددة.</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -8776,7 +8806,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>No instance selected</source>
-        <translation>لا يوجد نموذج محدد</translation>
+        <translation>لم يتم تحديد نسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
@@ -8791,13 +8821,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation>إنشاء نموذج</translation>
+        <translation>&amp;إنشاء نسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>حذف‫ المجموعة</translation>
+        <translation>حذف ال&amp;مجموعة</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -8810,7 +8840,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>No accounts added!</source>
-        <translation>لا يوجد حسابات مضافة!</translation>
+        <translation>لم تتم إضافة أي حسابات!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
@@ -8830,12 +8860,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="809"/>
         <source>Loading news...</source>
-        <translation>جار تحميل الأخبار...</translation>
+        <translation>جارٍ تحميل الأخبار...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
         <source>No news available.</source>
-        <translation>لا يوجد أخبار.</translation>
+        <translation>لا توجد أخبار متاحة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="861"/>
@@ -8848,33 +8878,35 @@ Reason:
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط Modrinth غير مدعوم.
+
+يدعم Prism Launcher حاليًا روابط المودباكات فقط، مثل modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>حزمة الإضافات, الإضافة أو المورد %1 محظور للطرف الثالث. يرجى تنزيله يدوياً.</translation>
+        <translation>المودباك أو المود أو المورد %1 محظور على الأطراف الثالثة! يرجى تنزيله يدويًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1074"/>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
-        <translation>رابط إستيراد غير صالح: المعامل &apos;url&apos; مفقود.</translation>
+        <translation>رابط استيراد غير صالح: المعامل &apos;url&apos; مفقود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
         <source>Invalid import link: URL must be http(s).</source>
-        <translation>رابط إستيراد غير صالح: يجب ان يكون عنوان URL من نوع http(s).</translation>
+        <translation>رابط استيراد غير صالح: يجب أن يبدأ عنوان URL بـ http(s).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
@@ -8888,7 +8920,7 @@ Prism Launcher currently only supports modpack links such as modrinth://modpack/
 
 URL:
 %2</source>
-        <translation>هل تريد تنزيل وتصدير المودباك من:
+        <translation>هل تريد تنزيل مودباك واستيراده من:
 %1
 
 URL:
@@ -8897,19 +8929,19 @@ URL:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1111"/>
         <source>Modpack download</source>
-        <translation>تنزيل حزمة إضافات</translation>
+        <translation>تنزيل المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>No instance!</source>
-        <translation>لا يوجد نموذج!</translation>
+        <translation>لا توجد نسخة!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
         <source>No instance available to add the resource to.
 Please create a new instance before attempting to install this resource again.</source>
-        <translation>لا يوجد نموذج لإضافة المورد إليه.
-يرجى إنشاء نموذج جديد قبل محاولة تحميل هذا المورد مرة أخرى.</translation>
+        <translation>لا توجد نسخة لإضافة المورد إليها.
+يرجى إنشاء نسخة جديدة قبل محاولة تثبيت هذا المورد مرة أخرى.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
@@ -8920,7 +8952,7 @@ Please create a new instance before attempting to install this resource again.</
         <location filename="src/launcher/ui/MainWindow.cpp" line="1264"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
         <source>Enter a new group name.</source>
-        <translation>أدخل اسم مجموعة جديد.</translation>
+        <translation>أدخل اسمًا جديدًا للمجموعة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
@@ -8930,81 +8962,81 @@ Please create a new instance before attempting to install this resource again.</
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
         <source>Failed to undo trashing instance</source>
-        <translation>تعذر التراجع عن حذف النموذج</translation>
+        <translation>تعذّر التراجع عن حذف النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
         <source>Some instances and shortcuts could not be restored.
 Please check your trashbin to manually restore them.</source>
-        <translation>لا يمكن استرجاع بعض النماذج والاختصارات.
-يرجى التحقق من سلة المهملات لاسترجاعهم يدويا.</translation>
+        <translation>تعذّرت استعادة بعض النسخ والاختصارات.
+يرجى التحقق من سلة المهملات لاستعادتها يدويًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1435"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1650"/>
         <source>Instance not editable</source>
-        <translation>النموذج غير قابل للتعديل</translation>
+        <translation>النسخة غير قابلة للتحرير</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1436"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>النموذج غير قابل للتعديل. من الممكن أن يكون تالفا أو غير صالح أو قديما. تحقق من السجل للمزيد من التفاصيل.</translation>
+        <translation>هذه النسخة غير قابلة للتحرير. قد تكون تالفة أو غير صالحة أو قديمة جدًا. راجع السجلات لمزيد من التفاصيل.</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; View Launcher Root Folder, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation>تعذر مسح تخزين بيانات التعريف المؤقتة.
-لمسح تخزين بيانات التعريف المؤقتة يدويا, أضغط على المجلدات -&gt; عرض مجلد جزر المشغل, واحذف المجلد المسمى ب&quot;meta&quot; بعد إغلاق المشغل.
+        <translation>تعذّر مسح ذاكرة البيانات الوصفية المؤقتة!
+لمسح ذاكرة البيانات الوصفية المؤقتة يدويًا، اضغط على المجلدات -&gt; عرض المجلد الجذر للمشغّل، وبعد إغلاق المشغّل احذف المجلد المسمى &quot;meta&quot;
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Successfully added %1 to PATH</source>
-        <translation>تم إضافة %1 إلى PATH بنجاح</translation>
+        <translation>تمت إضافة %1 إلى PATH بنجاح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>تم إضافة %1 إلى PATH التابع لك بنجاح. يمكنك بدؤه بتشغيل ’%2’.</translation>
+        <translation>تمت إضافة %1 إلى PATH لديك بنجاح. يمكنك الآن تشغيله بالأمر `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>تعذر إضافة %1 إلى PATH</translation>
+        <translation>تعذّرت إضافة %1 إلى PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>حدث خطأ عند محاولة إضافة %1 إلى PATH</translation>
+        <translation>حدث خطأ أثناء محاولة إضافة %1 إلى PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>&amp;Rename group</source>
-        <translation>إعادة تسمية المجموعة&amp;</translation>
+        <translation>&amp;إعادة تسمية المجموعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="184"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد نسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير &amp;أيقونة المجموعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="586"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف أيقونة ال&amp;مجموعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>هل أنت متأكد من حذف مجموعة ’%1’؟</translation>
+        <translation>هل أنت متأكد أنك تريد حذف المجموعة &apos;%1&apos;؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1312"/>
@@ -9014,45 +9046,47 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Cannot rename group</source>
-        <translation>لا يمكن تغيير اسم المجموعة</translation>
+        <translation>تعذّرت إعادة تسمية المجموعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Cannot set empty name.</source>
-        <translation>لا يمكن وضع اسم فارغ.</translation>
+        <translation>لا يمكن تعيين اسم فارغ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
         <source>Group already exists. :/</source>
-        <translation>المجموعة متواجدة. :\</translation>
+        <translation>المجموعة موجودة بالفعل. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر مسح ذاكرة البيانات الوصفية المؤقتة!
+لمسح ذاكرة البيانات الوصفية المؤقتة يدويًا، اضغط على المجلدات -&gt; بيانات المشغّل، وبعد إغلاق المشغّل احذف المجلد المسمى &quot;meta&quot;
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
         <source>Cannot Delete Running Instance</source>
-        <translation>لا يمكن حذف النموذج الجار</translation>
+        <translation>لا يمكن حذف نسخة قيد التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
         <source>The selected instance is currently running and cannot be deleted. Please stop the instance before attempting to delete it.</source>
-        <translation>النموذج المختار يعمل حاليا ولا يمكن حذفه. يرجى إيقاف النموذج قبل محاولة حذفه.</translation>
+        <translation>النسخة المحددة قيد التشغيل حاليًا ولا يمكن حذفها. يرجى إيقاف النسخة قبل محاولة حذفها.</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> مع عدم وجود اختصارات له</numerusform>
-            <numerusform> واختصاره المسجل</numerusform>
-            <numerusform> واختصارينه المسجلين</numerusform>
-            <numerusform> واختصاراته ال%n المسجلات</numerusform>
-            <numerusform> وال%n اختصارا مسجلا له</numerusform>
-            <numerusform> وال%n اختصار مسجل له</numerusform>
+            <numerusform> (بدون اختصارات مسجّلة)</numerusform>
+            <numerusform> واختصاره المسجّل</numerusform>
+            <numerusform> واختصاريه المسجّلين</numerusform>
+            <numerusform> و%n اختصارات مسجّلة له</numerusform>
+            <numerusform> و%n اختصارًا مسجّلًا له</numerusform>
+            <numerusform> و%n اختصار مسجّل له</numerusform>
         </translation>
     </message>
     <message>
@@ -9061,44 +9095,44 @@ To clear the metadata cache manually, press Folders -&gt; Launcher Data, and aft
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>انك على وشك حذف &quot;%1&quot;%2.
-هذا سيكون دائم وسيحذف هذا النموذج.
+        <translation>أنت على وشك حذف &quot;%1&quot;%2.
+قد يكون هذا دائمًا وسيحذف النسخة بالكامل.
 
-هل انت متاكد؟</translation>
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
         <source>Deleting</source>
-        <translation>جار الحذف</translation>
+        <translation>جارٍ الحذف</translation>
     </message>
     <message>
         <source>Rename Instance</source>
-        <translation>إعادة تسمية النموذج</translation>
+        <translation>إعادة تسمية النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1774"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>يحتوي مجلد نموذجك على ’!’ و من الممكن أن يتسبب بمشاكل في الجافا!</translation>
+        <translation>يحتوي مجلد نسختك على &apos;!&apos;، ومن المعروف أن هذا يسبب مشاكل في جافا!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>لديك خياران: &lt;br/&gt; - إما أن تغير مجلد النموذج في الإعدادات &lt;br/&gt; - أو أن تنقل تثبيت %1 إلى مجلد آخر</translation>
+        <translation>لديك الآن خياران: &lt;br/&gt; - تغيير مجلد النسخ في الإعدادات &lt;br/&gt; - نقل تثبيت %1 إلى مجلد مختلف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1783"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>هذه مشكلة: &lt;br/&gt; - يمكن أن يحذف المشغل من قبل نظام التشغيل بدون إنذار &lt;br/&gt; - أغلق المشغل فورا واستخرجه إلى مجلد حقيقي غير مؤقت</translation>
+        <translation>هذه مشكلة: &lt;br/&gt; - من المرجح أن يحذف نظام التشغيل المشغّل دون تحذير &lt;br/&gt; - أغلق المشغّل الآن واستخرجه إلى موقع حقيقي، وليس مجلدًا مؤقتًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1789"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>يحتوي مجلد نموذجك على &apos;Rar$&apos; - هذا يعني انك لم تستخرج الأرشيف المشغل!</translation>
+        <translation>يحتوي مجلد نسختك على &apos;Rar$&apos; - هذا يعني أنك لم تستخرج أرشيف المشغّل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1795"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>مجلد نموذجك في مجلد مؤقت: ’%1’!</translation>
+        <translation>مجلد نسختك في مجلد مؤقت: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1808"/>
@@ -9122,7 +9156,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>Open %1 Discord guild.</source>
-        <translation>افتج نقابة الديسكورد ل%1.</translation>
+        <translation>فتح خادم %1 على Discord.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -9151,17 +9185,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>معلومات الموفر:</translation>
+        <translation>معلومات المزوّد:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>تحديث إلى إصدار:</translation>
+        <translation>التحديث إلى الإصدار:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="155"/>
         <source>Fetching versions...</source>
-        <translation>البحث عن إصدارات...</translation>
+        <translation>جارٍ جلب الإصدارات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="168"/>
@@ -9171,12 +9205,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث من رابط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="196"/>
         <source>Changelog</source>
-        <translation>التغييرات</translation>
+        <translation>سجل التغييرات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="202"/>
@@ -9199,7 +9233,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="111"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>الموقع: &lt;a href=%1&gt;%2&lt;/a&gt;    |    رمز الحزمة: %3    |    رمز الإصدار: %4</translation>
+        <translation>الموقع: &lt;a href=%1&gt;%2&lt;/a&gt;    |    معرّف الحزمة: %3    |    معرّف الإصدار: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="156"/>
@@ -9217,11 +9251,11 @@ This can be updated only using a file in %1 format
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="96"/>
@@ -9242,25 +9276,25 @@ Do not use a different format than the one mentioned as it may break the instanc
 Make sure you also trust the URL.
 </source>
         <translation>هذا مودباك محلي.
-هذا يمكن تحديثة إما بإستخدام ملف بتنسيق 1% او عنوان URL.
-لا تستخدم تنسيقاً مختلف عن التنسيق المنشور وإلا فقد يؤدي ذلك إلى تعطيل النسخة .
-تأكد انك أيضاً تثق في عنوان الURL.
+يمكن تحديثه إما باستخدام ملف بصيغة %1 أو برابط URL.
+لا تستخدم صيغة مختلفة عن المذكورة لأنها قد تتلف النسخة.
+تأكد أيضًا من أنك تثق بالرابط.
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="184"/>
         <source>Failed to search for available versions.</source>
-        <translation>فشل البحث عن إصدارات متاحة.</translation>
+        <translation>تعذّر البحث عن الإصدارات المتاحة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="187"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>فشل طلب معلومات عن سجل التغييرات لحزمة الإضافات هذه.</translation>
+        <translation>تعذّر طلب بيانات سجل التغييرات لهذا المودباك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="189"/>
         <source>Cannot update!</source>
-        <translation>لا يمكن التحديث !</translation>
+        <translation>لا يمكن التحديث!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="291"/>
@@ -9270,7 +9304,7 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="292"/>
         <source>The instance updated to pack version %1 successfully.</source>
-        <translation>تم تحديث النموذج إلى الإصدار %1 بنجاح.</translation>
+        <translation>تم تحديث النسخة إلى إصدار الحزمة %1 بنجاح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="297"/>
@@ -9280,27 +9314,27 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="298"/>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
-        <translation>فشل تحديث الحزمة إلى الإصدار %1. تحقق من السجل لمزيد من المعلومات.</translation>
+        <translation>فشل تحديث النسخة إلى إصدار الحزمة %1. يرجى مراجعة سجلات المشغّل لمزيد من المعلومات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث من رابط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل رابط تنزيل ملف المودباك:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى إدخال رابط HTTP(S) صالح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -9309,12 +9343,16 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك تحديث المودباك إلى إصدار جديد.
+قد تُجرى تغييرات لا رجعة فيها على ملفات النسخة.
+لذلك يوصى بشدة بإنشاء نسخة احتياطية من النسخة.
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="498"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">تأكيد التحديث</translation>
+        <translation>تأكيد التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="491"/>
@@ -9323,7 +9361,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك تحديث المودباك إلى الإصدار &quot;%1&quot;.
+قد تُجرى تغييرات لا رجعة فيها على ملفات النسخة.
+لذلك يوصى بشدة بإنشاء نسخة احتياطية من النسخة.
+
+هل أنت متأكد؟</translation>
     </message>
 </context>
 <context>
@@ -9331,7 +9373,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="107"/>
         <source>Loading local file</source>
-        <translation>جار تحميل الملفات المحلية</translation>
+        <translation>جارٍ تحميل الملفات المحلية</translation>
     </message>
 </context>
 <context>
@@ -9345,7 +9387,7 @@ Are you sure?</source>
         <location filename="src/launcher/meta/Index.cpp" line="146"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>تحميل البيانات التعريف لـ %1: %2</translation>
+        <translation>تحميل البيانات الوصفية لـ %1:%2</translation>
     </message>
 </context>
 <context>
@@ -9354,7 +9396,7 @@ Are you sure?</source>
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>تحميل البيانات التعريف لـ %1</translation>
+        <translation>تحميل البيانات الوصفية لـ %1</translation>
     </message>
 </context>
 <context>
@@ -9363,7 +9405,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="123"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
         <source>Aborted</source>
-        <translation>ألغيت</translation>
+        <translation>أُلغيت</translation>
     </message>
 </context>
 <context>
@@ -9371,32 +9413,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
         <source>&amp;Launch</source>
-        <translation>شغّل</translation>
+        <translation>&amp;تشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Launch &amp;Offline</source>
-        <translation>شغّل&amp; بدون اتصال</translation>
+        <translation>تشغيل &amp;بدون اتصال</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="318"/>
         <source>Ctrl+Shift+O</source>
-        <translation>Ctrl+Shift+O\خ</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Launch &amp;Demo</source>
-        <translation>شغّل&amp; نسخة تجريبية</translation>
+        <translation>تشغيل &amp;الوضع التجريبي</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="320"/>
         <source>Ctrl+Alt+O</source>
-        <translation>Ctrl+Alt+O\خ</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل &amp;باسم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="344"/>
@@ -9406,32 +9448,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="354"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;لا محلل</translation>
+        <translation>&amp;بدون محلل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1057"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation>&lt;معرف الجلسة&gt;</translation>
+        <translation>&lt;معرّف الجلسة&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1060"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation>&lt;تذكرة الوصول&gt;</translation>
+        <translation>&lt;رمز الوصول&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1188"/>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>قبل التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1209"/>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>قبل التشغيل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1265"/>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>بعد التشغيل</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -9440,7 +9482,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation>&lt;معرف الحساب&gt;</translation>
+        <translation>&lt;معرّف الملف الشخصي&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1099"/>
@@ -9455,7 +9497,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
         <source>, last played on %1 for %2</source>
-        <translation>, آخر وقت لعب في %1 لمدة %2</translation>
+        <translation>، آخر لعب في %1 لمدة %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -9464,12 +9506,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1124"/>
         <source>, total played for %1</source>
-        <translation>, إجمالي وقت اللعب %1</translation>
+        <translation>، إجمالي وقت اللعب %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1129"/>
         <source>, has crashed.</source>
-        <translation>, قد تعطلت.</translation>
+        <translation>، تعطّلت.</translation>
     </message>
 </context>
 <context>
@@ -9651,23 +9693,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="43"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>لا يحتوي الحساب على نمط ماين كرافت.</translation>
+        <translation>لا يحتوي الحساب على ملف تعريف ماين كرافت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="57"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>تعذر الحصول على ملف تعريف ماين كرافت جافا: %1</translation>
+        <translation>تعذّر الحصول على ملف تعريف ماين كرافت جافا: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="67"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>لم يتم التعرف على رد ملف تعريف ماين كرافت جافا</translation>
+        <translation>تعذّر تحليل استجابة ملف تعريف ماين كرافت جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <source>Got Minecraft profile</source>
-        <translation>حصلت على ملف تعريف ماين كرافت</translation>
+        <translation>تم الحصول على ملف تعريف ماين كرافت</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition succeeded.</source>
@@ -9679,12 +9721,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="29"/>
         <source>Open &amp;Global Settings</source>
-        <translation>افتح الإعدادات العامة</translation>
+        <translation>فتح الإعدادات ال&amp;عامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>ستتجاوز الإعدادات التي هنا الإعدادات العامة.</translation>
+        <translation>الإعدادات هنا تتجاوز الإعدادات العامة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="43"/>
@@ -9694,17 +9736,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="73"/>
         <source>Game &amp;Window</source>
-        <translation>نافذة اللعبة</translation>
+        <translation>&amp;نافذة اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="95"/>
         <source>When the game window closes, quit the launcher</source>
-        <translation>عند إغلاق نافذة اللعبة, أغلق المشغل</translation>
+        <translation>عند إغلاق نافذة اللعبة، أغلق المشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="102"/>
         <source>Start Minecraft maximized</source>
-        <translation>تشغيل ماين كرافت بإطار كبير</translation>
+        <translation>تشغيل ماين كرافت بنافذة مكبّرة</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
@@ -9713,7 +9755,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: من الممكن أن لا يكون خيار الإطار الكبير مدعوما في كل إصدارات ماين كرافت.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تحذير&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: قد لا يكون خيار النافذة المكبّرة مدعومًا بالكامل في جميع إصدارات ماين كرافت.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -9726,27 +9768,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="325"/>
         <source>Game &amp;Time</source>
-        <translation>وقت اللعبة</translation>
+        <translation>&amp;وقت اللعب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="337"/>
         <source>Show time spent &amp;playing instances</source>
-        <translation>عرض الوقت المبذول في لعب النموذج</translation>
+        <translation>عرض الوقت ال&amp;مقضي في لعب النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="344"/>
         <source>&amp;Record time spent playing instances</source>
-        <translation>سجّل الوقت المبذول في لعب النموذج</translation>
+        <translation>&amp;تسجيل الوقت المقضي في لعب النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="358"/>
         <source>Show the &amp;total time played across instances</source>
-        <translation>عرض إجمالي الوقت المبذول في لعب النماذج</translation>
+        <translation>عرض ال&amp;إجمالي للوقت المقضي في لعب النسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="365"/>
         <source>Always show durations in &amp;hours</source>
-        <translation>عرض الوقت في الساعات دائما</translation>
+        <translation>عرض المدد دائمًا بال&amp;ساعات</translation>
     </message>
     <message>
         <source>Show console while the game is running</source>
@@ -9773,52 +9815,52 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="662"/>
         <source>&amp;Legacy Tweaks</source>
-        <translation>تعديلات الإرثية</translation>
+        <translation>التعديلات ال&amp;قديمة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يقوم بمحاكاة استخدام الخدمات القديمة عبر الإنترنت التي لم تعد تعمل حالياً.&lt;/p&gt;&lt;p&gt;الإصلاحات الحالية تشمل: دعم المظاهر (Skins) ووضع اللعب المتصل (Online mode).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يحاكي استخدامات الخدمات القديمة عبر الإنترنت التي لم تعد تعمل.&lt;/p&gt;&lt;p&gt;تشمل الإصلاحات الحالية: دعم الشخصيات (Skins) والوضع المتصل.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="677"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>تفعيل إصلاحات المتصلة بالشبكة (تجريبي)</translation>
+        <translation>تفعيل إصلاحات الخدمات المتصلة (تجريبي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="690"/>
         <source>&amp;Native Libraries</source>
-        <translation>المكاتب الأصلية</translation>
+        <translation>المكتبات الأ&amp;صلية (Native)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="748"/>
         <source>Use system installation of OpenAL</source>
-        <translation>استخدم نسخة النظام من أوبن إي إل</translation>
+        <translation>استخدام تثبيت النظام لمكتبة OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="706"/>
         <source>Use system installation of GLFW</source>
-        <translation>استخدم نسخة النظام من جي إل إف دابليو</translation>
+        <translation>استخدام تثبيت النظام لمكتبة GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="85"/>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation>تدعم اللعبة الأساسية الدقة فقط. ولمحاكاة سلوك التكبير، يقوم التنفيذ الحالي بتقدير أقصى حجم للعرض.</translation>
+        <translation>اللعبة الأساسية تدعم الدقة فقط. ولمحاكاة سلوك التكبير، يقدّر التنفيذ الحالي أقصى حجم للعرض.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="109"/>
         <source>When the game window opens, hide the launcher</source>
-        <translation>عند ظهور نافذة اللعبة, اخف المشغل</translation>
+        <translation>عند ظهور نافذة اللعبة، أخفِ المشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="179"/>
         <source>&amp;Window Size:</source>
-        <translation>حجم النافذة:</translation>
+        <translation>&amp;حجم النافذة:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="189"/>
         <source>×</source>
-        <translation>بـ</translation>
+        <translation>×</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="196"/>
@@ -9828,34 +9870,34 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="222"/>
         <source>&amp;Console Window</source>
-        <translation>نافذة الطرفية</translation>
+        <translation>نافذة ال&amp;طرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="234"/>
         <source>When the game is launched, show the console window</source>
-        <translation>عند تشغيل اللعبة, أظهر نافذة الطرفية</translation>
+        <translation>عند تشغيل اللعبة، أظهر نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="241"/>
         <source>When the game crashes, show the console window</source>
-        <translation>عند تعطل اللعبة, أظهر نافذة الطرفية</translation>
+        <translation>عند تعطّل اللعبة، أظهر نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="248"/>
         <source>When the game quits, hide the console window</source>
-        <translation>عند إغلاق اللعبة, أخف نافذة الطرفية</translation>
+        <translation>عند إغلاق اللعبة، أخفِ نافذة الطرفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="258"/>
         <source>&amp;Global Data Packs</source>
-        <translation>حزم البيانات العامة</translation>
+        <translation>&amp;الداتاباكات العامة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="270"/>
         <source>Allows installing data packs across all worlds if an applicable mod is installed.
 It is most likely you will need to change the path - please refer to the mod&apos;s website.</source>
-        <translation>يسمح بتحميل حزم البيانات إلى كافة العوالم إذا وجدت إضافة داعمة لهم.
-من الممكن أ، تحتاج إلى تغيير المسار - يرجى استشارة موقع الشبكة الإضافة.</translation>
+        <translation>يتيح تثبيت الداتاباكات في جميع العوالم إذا كان هناك مود مناسب مثبَّتًا.
+من المرجح أنك ستحتاج إلى تغيير المسار — يرجى مراجعة موقع المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="294"/>
@@ -9865,62 +9907,62 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="303"/>
         <source>datapacks</source>
-        <translation>حزم البيانات</translation>
+        <translation>datapacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="310"/>
         <source>Browse</source>
-        <translation>تصفح</translation>
+        <translation>استعراض</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="351"/>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation>&amp;حساب وقت لعب هاته النسخة ضمن وقت اللعب الإجمالي</translation>
+        <translation>&amp;احتساب وقت لعب هذه النسخة ضمن إجمالي وقت اللعب</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="375"/>
         <source>Override &amp;Default Account</source>
-        <translation>تجاوز الحساب الافتراضي</translation>
+        <translation>تجاوز الحساب ال&amp;افتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="420"/>
         <source>Enable Auto-&amp;join</source>
-        <translation>تفعيل الانضمام التلقائي</translation>
+        <translation>تفعيل الانضمام ال&amp;تلقائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="442"/>
         <source>Singleplayer world:</source>
-        <translation>عالم لاعب واحد:</translation>
+        <translation>عالم اللاعب الواحد:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="482"/>
         <source>Override Mod Download &amp;Loaders</source>
-        <translation>تجاوز محملات ومنزلات الإضافات</translation>
+        <translation>تجاوز م&amp;حمّلات تنزيل المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="494"/>
         <source>NeoForge</source>
-        <translation>نيوفورج</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="501"/>
         <source>Forge</source>
-        <translation>فورج</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="508"/>
         <source>Fabric</source>
-        <translation>فابريك</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="515"/>
         <source>Quilt</source>
-        <translation>كويلت</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="522"/>
         <source>LiteLoader</source>
-        <translation>لايت لودر</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="529"/>
@@ -9950,82 +9992,82 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="567"/>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام أحدث إصدار من ماين كرافت دائمًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="576"/>
         <source>Release</source>
-        <translation>الإصدار</translation>
+        <translation>الإصدار النهائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>أي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
         <source>&amp;GLFW library path:</source>
-        <translation>مسار مكتبة جي إل إف دابليو:</translation>
+        <translation>مسار مكتبة &amp;GLFW:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="755"/>
         <source>&amp;OpenAL library path:</source>
-        <translation>مسار مكتبة أوبن إي إل:</translation>
+        <translation>مسار مكتبة &amp;OpenAL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="790"/>
         <source>Use system installation of SDL</source>
-        <translation>استخدم نسخة SDL المثبتة على النظام</translation>
+        <translation>استخدام تثبيت النظام لمكتبة SDL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
-        <translation>مسار مكتبة SDL&amp; :</translation>
+        <translation>مسار مكتبة &amp;SDL:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
         <source>&amp;Performance</source>
-        <translation>الأداء</translation>
+        <translation>&amp;الأداء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="832"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل الجيم مود ل&quot;فيرال إنتيراكتيف&quot;,قد يزيد أداء اللعب.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل GameMode من Feral Interactive لتحسين أداء الألعاب محتملًا&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="835"/>
         <source>Enable Feral GameMode</source>
-        <translation>تفعيل الجيم مود ل&quot;فيرال&quot;</translation>
+        <translation>تفعيل Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="842"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل واجهة الأداء المتقدمة لمانغو هود. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;تفعيل طبقة الأداء المتقدمة لـ MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="845"/>
         <source>Enable MangoHud</source>
-        <translation>تفعيل مانغو هود</translation>
+        <translation>تفعيل MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="852"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدم وحدة معالجة الرسومات المنفصلة بدل الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;استخدام وحدة معالجة الرسومات المنفصلة بدلًا من الأساسية.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="855"/>
         <source>Use discrete GPU</source>
-        <translation>استخدم وحدة معالجة الرسومات المنفصلة</translation>
+        <translation>استخدام وحدة معالجة الرسومات المنفصلة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="862"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>استخدم زينك, زينك هو برنامج تشغيل ميسا أوبن جي إل , يطبّق أوبن جي إل على فولكان. من الممكن أن تعتمد الجودة على الوضع. ملاحظة: إذا لم يتم العثور على برنامج تشغيل فولكان, سيتم استخدام التصيير البرمجي.</translation>
+        <translation>استخدم Zink، وهو مشغّل OpenGL ضمن Mesa ينفّذ OpenGL فوق Vulkan. قد يختلف الأداء بحسب الحالة. ملاحظة: إذا لم يُعثر على مشغّل Vulkan مناسب، فسيُستخدم التصيير البرمجي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="865"/>
         <source>Use Zink</source>
-        <translation>استخدم زينك</translation>
+        <translation>استخدام Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -10039,7 +10081,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="449"/>
         <source>Server address:</source>
-        <translation>رابط الخادم:</translation>
+        <translation>عنوان الخادم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="893"/>
@@ -10049,44 +10091,44 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="903"/>
         <source>Environment Variables</source>
-        <translation>متغيرات بيئية</translation>
+        <translation>متغيرات البيئة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="70"/>
         <source>Show time &amp;playing this instance</source>
-        <translation>عرض الوقت المبذول في لعب هذا النموذج</translation>
+        <translation>عرض الوقت ال&amp;مقضي في لعب هذه النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="71"/>
         <source>&amp;Record time playing this instance</source>
-        <translation>سجل الوقت المبذول في لعب هذا النموذج</translation>
+        <translation>&amp;تسجيل الوقت المقضي في لعب هذه النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="76"/>
         <source>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option is not fully supported on this Minecraft version.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تنبيه&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: خيار الإطار الكبير غير مدعوم في هذا الإصدار لماين كرافت.&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;تحذير&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: خيار النافذة المكبّرة غير مدعوم بالكامل في هذا الإصدار من ماين كرافت.&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="144"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>لم يتم العثور علي الجيم مود لفيرال انتيراكتيف في جهازك.</translation>
+        <translation>تعذّر العثور على GameMode من Feral Interactive في نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="149"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>لم يتم العثور على مانجو هود في جهازك.</translation>
+        <translation>تعذّر العثور على MangoHud في نظامك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="221"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="228"/>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="235"/>
         <source>Path to %1 library file</source>
-        <translation>المسار إلى ملف المكتبة %1</translation>
+        <translation>مسار ملف مكتبة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.cpp" line="625"/>
         <source>Select Global Data Packs Folder</source>
-        <translation>اختر مجلد حزم بيانات العامة</translation>
+        <translation>اختر مجلد الداتاباكات العامة</translation>
     </message>
 </context>
 <context>
@@ -10101,7 +10143,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -10111,62 +10153,62 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation>المحملات</translation>
+        <translation>المحمّلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation>نيوفورج</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation>فورج</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation>فابريك</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation>كويلت</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="127"/>
         <source>Show More</source>
-        <translation>اظهر المزيد</translation>
+        <translation>عرض المزيد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="152"/>
         <source>LiteLoader</source>
-        <translation>لايت لودر</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="159"/>
         <source>Babric</source>
-        <translation>بابريك</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="166"/>
         <source>BTA (Babric)</source>
-        <translation>بي تي أي(بابريك)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="173"/>
         <source>Legacy Fabric</source>
-        <translation>فابريك تراثي</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="180"/>
         <source>Ornithe</source>
-        <translation>أورنيث</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Rift</source>
-        <translation>ريفت</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="200"/>
@@ -10176,7 +10218,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="212"/>
         <source>Show all versions</source>
-        <translation>اظهر جميع الإصدارات</translation>
+        <translation>عرض كل الإصدارات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
@@ -10196,12 +10238,12 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="257"/>
         <source>Hide installed items</source>
-        <translation>اخف العناصر المثبتة</translation>
+        <translation>إخفاء العناصر المثبَّتة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="264"/>
         <source>Open source only</source>
-        <translation>مفتوحة المصدر فقط</translation>
+        <translation>المفتوحة المصدر فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="271"/>
@@ -10211,22 +10253,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="277"/>
         <source>Release</source>
-        <translation>الإصدار</translation>
+        <translation>الإصدار النهائي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="284"/>
         <source>Beta</source>
-        <translation>نُسخ بيتا</translation>
+        <translation>بيتا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="291"/>
         <source>Alpha</source>
-        <translation>نُسخ ألفا</translation>
+        <translation>ألفا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="298"/>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="308"/>
@@ -10236,27 +10278,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="314"/>
         <source>AI content</source>
-        <translation>محتوى ذكاء اصطناعي</translation>
+        <translation>محتوى مُنتَج بالذكاء الاصطناعي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="321"/>
         <source>AI content (code)</source>
-        <translation>محتوى ذكاء اصطناعي (كود)</translation>
+        <translation>محتوى مُنتَج بالذكاء الاصطناعي (الشيفرة)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="328"/>
         <source>AI content (assets)</source>
-        <translation>محتوى ذكاء اصطناعي (عناصر)</translation>
+        <translation>محتوى مُنتَج بالذكاء الاصطناعي (الموارد)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="335"/>
         <source>AI content (text)</source>
-        <translation>محتوى ذكاء اصطناعي (نص)</translation>
+        <translation>محتوى مُنتَج بالذكاء الاصطناعي (النص)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="342"/>
         <source>AI content (functionality)</source>
-        <translation>محتوى ذكاء اصطناعي (وظيفي)</translation>
+        <translation>محتوى مُنتَج بالذكاء الاصطناعي (الوظائف)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="349"/>
@@ -10266,47 +10308,47 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="356"/>
         <source>Epilepsy triggers</source>
-        <translation>مؤثرات تشنجات ونوبات (حركات أو ومضات سريعة)</translation>
+        <translation>محفِّزات الصرع (وميض أو حركات سريعة)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="363"/>
         <source>System interactions</source>
-        <translation>التعامل مع نظام التشغيل</translation>
+        <translation>التفاعل مع النظام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="370"/>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>القياس عن بُعد (Telemetry)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="377"/>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>القياس عن بُعد (اختياري التفعيل)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="384"/>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>القياس عن بُعد (اختياري الإيقاف)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="391"/>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>القياس عن بُعد (نشط دائمًا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="398"/>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>عمل مشتق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="405"/>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزات مدفوعة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="412"/>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤرشف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="131"/>
@@ -10365,7 +10407,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Provider</source>
-        <translation>الموفر</translation>
+        <translation>المزوّد</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -10373,7 +10415,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
+        <translation>الصورة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
@@ -10383,17 +10425,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Size</source>
-        <translation>حجم</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Side</source>
-        <translation>طرف</translation>
+        <translation>الجانب</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
         <source>Loaders</source>
-        <translation>المحملات</translation>
+        <translation>المحمّلات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -10403,7 +10445,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Minecraft Versions</source>
-        <translation>نسخ ماين كرافت</translation>
+        <translation>إصدارات ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -10413,7 +10455,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Required By</source>
-        <translation>مطلوب من قبل</translation>
+        <translation>مطلوب من</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -10427,42 +10469,42 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="259"/>
         <source>Is the mod enabled?</source>
-        <translation>هل الإضافة مفعّلة؟</translation>
+        <translation>هل المود مفعَّل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="261"/>
         <source>The name of the mod.</source>
-        <translation>اسم الإضافة.</translation>
+        <translation>اسم المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="263"/>
         <source>The version of the mod.</source>
-        <translation>إصدار الإضافة.</translation>
+        <translation>إصدار المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="265"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>التأريخ والوقت منذ آخر تغيير على هذه الإضافة (أو تاريخ إضافتها).</translation>
+        <translation>تاريخ ووقت آخر تغيير (أو إضافة) لهذا المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="267"/>
         <source>The source provider of the mod.</source>
-        <translation>موفر هذه الإضافة.</translation>
+        <translation>مزوّد المصدر لهذا المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="269"/>
         <source>On what environment the mod is running.</source>
-        <translation>البيئة التي تعمل عليها الإضافة.</translation>
+        <translation>البيئة التي يعمل عليها المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="271"/>
         <source>The mod loader.</source>
-        <translation>محمل الإضافة.</translation>
+        <translation>محمّل المودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="273"/>
         <source>The supported minecraft versions.</source>
-        <translation>نسخ ماين كرافت المدعومة.</translation>
+        <translation>إصدارات ماين كرافت المدعومة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="275"/>
@@ -10472,22 +10514,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="277"/>
         <source>The size of the mod.</source>
-        <translation>حجم الإضافة.</translation>
+        <translation>حجم المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="279"/>
         <source>For each mod, the number of other mods which depend on it.</source>
-        <translation>لكل مود, عدد المودات الأخرى التي تعتمد عليها.</translation>
+        <translation>لكل مود، عدد المودات الأخرى التي تعتمد عليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="281"/>
         <source>For each mod, the number of other mods it depends on.</source>
-        <translation>لكل مود، عدد المودات الأخرى التي تعتمد عليها.</translation>
+        <translation>لكل مود، عدد المودات الأخرى التي يعتمد عليها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="283"/>
         <source>The file name of the mod.</source>
-        <translation>إسم ملف المود.</translation>
+        <translation>اسم ملف المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="498"/>
@@ -10498,7 +10540,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="502"/>
         <source>Toggling these mod(s) will cause changes to other mods.
 </source>
-        <translation>تبديل تلك المودات سيؤدي إلى تغيرات في المودات الأخرى.
+        <translation>تبديل هذه المودات سيؤدي إلى تغييرات في مودات أخرى.
 </translation>
     </message>
     <message numerus="yes">
@@ -10506,17 +10548,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>سيتم تفعيل صفر مود
+            <numerusform>سيتم تفعيل %n مود
 </numerusform>
-            <numerusform>سيتم تفعيل المود n%
+            <numerusform>سيتم تفعيل مود واحد
 </numerusform>
-            <numerusform>سيتم تفعيل المودان n%
+            <numerusform>سيتم تفعيل مودين
 </numerusform>
-            <numerusform>سيتم تفعيل المودات n%
+            <numerusform>سيتم تفعيل %n مودات
 </numerusform>
-            <numerusform>سيتم تفعيل المودات n%
+            <numerusform>سيتم تفعيل %n مودًا
 </numerusform>
-            <numerusform>سيتم تفعيل المودات n%
+            <numerusform>سيتم تفعيل %n مود
 </numerusform>
         </translation>
     </message>
@@ -10530,17 +10572,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>سيتم تعطيل مود n%
+            <numerusform>سيتم تعطيل %n مود
 </numerusform>
-            <numerusform>سيتم تعطيل المود n%
+            <numerusform>سيتم تعطيل مود واحد
 </numerusform>
-            <numerusform>سيتم تعطيل المودان n%
+            <numerusform>سيتم تعطيل مودين
 </numerusform>
-            <numerusform>سيتم تعطيل المودات n%
+            <numerusform>سيتم تعطيل %n مودات
 </numerusform>
-            <numerusform>سيتم تعطيل المودات n%
+            <numerusform>سيتم تعطيل %n مودًا
 </numerusform>
-            <numerusform>سيتم تعطيل المودات n%
+            <numerusform>سيتم تعطيل %n مود
 </numerusform>
         </translation>
     </message>
@@ -10553,90 +10595,90 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="521"/>
         <source>Do you want to automatically apply these related changes?
 Ignoring them may break the game.</source>
-        <translation>هل تريد تطبيق هذه الخيارات المتصلة؟
-تجاهلها قد يؤدي إلى تعطيل اللعبه.</translation>
+        <translation>هل تريد تطبيق هذه التغييرات المرتبطة تلقائيًا؟
+تجاهلها قد يؤدي إلى تعطّل اللعبة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="499"/>
         <source>Only Toggle Selected</source>
-        <translation>حدد التبديل فقط</translation>
+        <translation>تبديل المحدد فقط</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="500"/>
         <source>Toggle Required Mods</source>
-        <translation>التبديل يتطلب مودات</translation>
+        <translation>تبديل المودات المطلوبة</translation>
     </message>
     <message>
         <source>Confirm enable</source>
-        <translation>تأكيد التمكين</translation>
+        <translation>تأكيد التفعيل</translation>
     </message>
     <message numerus="yes">
         <source>The enabled mod(s) require %n mod(s).
 </source>
         <translation>
-            <numerusform>المود المفعل يتطلب المود %n mod .
+            <numerusform>المود المفعَّل يتطلب %n من المودات.
 </numerusform>
-            <numerusform>المود المفعل يتطلب مود %n mod .
+            <numerusform>المود المفعَّل يتطلب مودًا واحدًا.
 </numerusform>
-            <numerusform>المود المفعل يتطلب مودان %n mod .
+            <numerusform>المود المفعَّل يتطلب مودين.
 </numerusform>
-            <numerusform>المود المفعل يتطلب مودات %n mod .
+            <numerusform>المود المفعَّل يتطلب %n مودات.
 </numerusform>
-            <numerusform>المود المفعل يتطلب مودات %n mod .
+            <numerusform>المود المفعَّل يتطلب %n مودًا.
 </numerusform>
-            <numerusform>المود المفعل يتطلب مودات %n mod .
+            <numerusform>المود المفعَّل يتطلب %n مود.
 </numerusform>
         </translation>
     </message>
     <message>
         <source>Would you like to enable them as well?
 Ignoring them may break the game.</source>
-        <translation>هل تريد تمكين هؤلاء أيضاً؟
-تجاهلهم قد يؤدي لتعطيل اللعبه.</translation>
+        <translation>هل تريد تفعيلها أيضًا؟
+تجاهلها قد يؤدي إلى تعطّل اللعبة.</translation>
     </message>
     <message>
         <source>Only Enable Selected</source>
-        <translation>حدد المفعل فقط</translation>
+        <translation>تفعيل المحدد فقط</translation>
     </message>
     <message>
         <source>Enable Required</source>
-        <translation>يتطلب تمكين</translation>
+        <translation>تفعيل المطلوب</translation>
     </message>
     <message>
         <source>Confirm disable</source>
-        <translation>‏تأكيد التعطيل</translation>
+        <translation>تأكيد التعطيل</translation>
     </message>
     <message numerus="yes">
         <source>The disabled mod(s) are required by %n mod(s).
 </source>
         <translation>
-            <numerusform>لا مود معطل مطلوب من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل %n من المودات.
 </numerusform>
-            <numerusform>المود المعطل مطلوب من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل مود واحد.
 </numerusform>
-            <numerusform>المودان المعطلان مطلوبان من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل مودين.
 </numerusform>
-            <numerusform>المودات المعطلة مطلوبة من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل %n مودات.
 </numerusform>
-            <numerusform>المودات المعطلة مطلوبة من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل %n مودًا.
 </numerusform>
-            <numerusform>المودات المعطلة مطلوبة من قبل %n مود
+            <numerusform>المود المعطَّل مطلوب من قِبل %n مود.
 </numerusform>
         </translation>
     </message>
     <message>
         <source>Would you like to disable them as well?
 Ignoring them may break the game.</source>
-        <translation>هل تريد تعطيلهم ايضا؟
-تجاهل الأمر قد يؤدي الى تعطيل اللعبة.</translation>
+        <translation>هل تريد تعطيلها أيضًا؟
+تجاهلها قد يؤدي إلى تعطّل اللعبة.</translation>
     </message>
     <message>
         <source>Only Disable Selected</source>
-        <translation>قم بتعطيل المختارة فقط</translation>
+        <translation>تعطيل المحدد فقط</translation>
     </message>
     <message>
         <source>Disable Required</source>
-        <translation>التعطيل ضروري</translation>
+        <translation>تعطيل المطلوب</translation>
     </message>
 </context>
 <context>
@@ -10697,7 +10739,7 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Download mods from online mod platforms</source>
-        <translation>نزل الإضافة من منصات الإضافات على الأنترنت</translation>
+        <translation>نزّل المودات من منصات المودات على الإنترنت</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -10711,34 +10753,34 @@ Ignoring them may break the game.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="88"/>
         <source>Check for Updates</source>
-        <translation>تحقق من التحديثات</translation>
+        <translation>التحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="82"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>حاول أن تتحقق أو أن تحدث كل الإضافات المختارة(أو كلها إذا لم يتم اختيار أيها)</translation>
+        <translation>محاولة التحقق من كل المودات المحددة أو تحديثها (كل المودات إذا لم يُحدَّد أي منها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من التحديثات (الإصدارات النهائية فقط)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من التحديثات (النهائية وبيتا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من التحديثات (النهائية وبيتا وألفا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="123"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation>صدر بيانات تعريف الإضافة كنص.</translation>
+        <translation>تصدير البيانات الوصفية للمود إلى نص.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
@@ -10749,8 +10791,8 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>إذ أزلت الإضافات و اللعبة جارية فمن الممكن أن تتعطل لعبتك.
-هل أنت متأكد من إزالة الإضافة؟</translation>
+        <translation>إذا أزلت المودات أثناء تشغيل اللعبة فقد تتعطل.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
@@ -10761,13 +10803,13 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
         <source>The mods you are trying to delete are required by %1 mods.
 Do you want to disable them?</source>
-        <translation>المودات التي تحاول تعطيلها ضرورية من أجل 1% مودات
+        <translation>المودات التي تحاول حذفها مطلوبة من قِبل %1 من المودات.
 هل تريد تعطيلها؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation>المود التالي يعتمد على المود(ات) التي تريد حذفها:</translation>
+        <translation>المودات التالية تعتمد على المود (أو المودات) التي تريد إزالتها:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -10784,7 +10826,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التنزيل بواسطة المستخدم.</translation>
+        <translation>أوقف المستخدم التنزيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
@@ -10794,13 +10836,13 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="350"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>لن تتواجد تحديثات للإضافات عند تعطيل بيانات التعريف!</translation>
+        <translation>تحديثات المودات غير متاحة عند تعطيل البيانات الوصفية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
@@ -10815,23 +10857,23 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>يمكن أن يتسبب تحديت الإضافات عند عمل اللعبة بتضاعف عدد الإضافات وتعطل اللعبة.
-من الممكن أن لا تنحذف الملفات القديمة بسبب استخدامها.
-هل أنت متأكد؟</translation>
+        <translation>قد يؤدي تحديث المودات أثناء تشغيل اللعبة إلى تكرار المودات وتعطّل اللعبة.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <source>The mod updater was aborted!</source>
-        <translation>ألغي محدث الإضافات!</translation>
+        <translation>أُلغي مُحدِّث المودات!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="276"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>كل الإضافات المختارة محدثة! :)</translation>
+        <translation>كل المودات المحددة محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="279"/>
         <source>Update checker</source>
-        <translation>فاحص التحديثات</translation>
+        <translation>مدقق التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="314"/>
@@ -10842,67 +10884,69 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>إنك على وشك إزالة بيانات التعريف ل%1 إضافة/إضافات.
+        <translation>أنت على وشك إزالة البيانات الوصفية لـ %1 من المودات.
 هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد تغيير الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="334"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>قد يؤدي تغيير إصدار المودات أثناء تشغيل اللعبة إلى تكرار المودات وتعطّل اللعبة.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+هل أنت متأكد أنك تريد القيام بذلك?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="428"/>
         <source>Missing Mod Loader</source>
-        <translation>محمل الإضافات مفقود</translation>
+        <translation>محمّل المودات مفقود</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="429"/>
         <source>You need to install a compatible mod loader before installing mods. Would you like to do so?</source>
-        <translation>يجب عليك أن تثبت محمل إضافات متوافق قبل تثبيت الإضافات. هل تريد أن تفعل هذا الآن؟</translation>
+        <translation>يجب تثبيت محمّل مودات متوافق قبل تثبيت المودات. هل تريد تثبيته الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="444"/>
         <source>No mod loader was installed. Please try again.</source>
-        <translation>لا يوجد مشغل مودات مثبت. رجاء حاول مرة أخرى.</translation>
+        <translation>لم يتم تثبيت أي محمّل مودات. يرجى المحاولة مرة أخرى.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>’%1’ محدث! :)</translation>
+        <translation>&apos;%1&apos; محدَّث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="203"/>
         <source>Download Mods</source>
-        <translation>تنزيل إضافات</translation>
+        <translation>تنزيل المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>تغيير إصدار إضافة ما.</translation>
+        <translation>تغيير إصدار المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="121"/>
         <source>View the homepages of all selected mods.</source>
-        <translation>عرض الصفحات الرئيسية لكافة الإضافات.</translation>
+        <translation>عرض الصفحات الرئيسية لكل المودات المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>كل الإضافات محدثة! :)</translation>
+        <translation>كل المودات محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="56"/>
         <source>Mods</source>
-        <translation>الإضافات</translation>
+        <translation>المودات</translation>
     </message>
     <message>
         <source>Download mods</source>
@@ -10966,21 +11010,21 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>تعذر إنشاء مجلد الثنائي لملف Minecraft.jar</translation>
+        <translation>تعذّر إنشاء المجلد bin لملف Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="59"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>تعذر إزالة ملف جار فاسد: %1</translation>
+        <translation>تعذّرت إزالة ملف jar قديم: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر إنشاء ملف jar مخصص لماين كرافت: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>فشل في إنشاء ملف جار مخصص لماين كرافت.</translation>
+        <translation>تعذّر إنشاء ملف jar مخصص لماين كرافت.</translation>
     </message>
 </context>
 <context>
@@ -11173,14 +11217,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>حدث خطأ في الشبكة. لم نتمكن من تحميل حزم الإضافات.</translation>
+        <translation>حدث خطأ في الشبكة. تعذّر تحميل المودباكات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>إصدار واجهة التطبيق قديم جدا!
+        <translation>إصدار واجهة API قديم جدًا!
 يرجى تحديث %1!</translation>
     </message>
 </context>
@@ -11193,37 +11237,37 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="52"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation>جار تجهيز الموارد لمودرينث...</translation>
+        <translation>جارٍ تجهيز الموارد لـ Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="120"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>تحليل رد واجهة التطبيق من مودرينث...</translation>
+        <translation>جارٍ تحليل استجابة API من Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>Not installed</source>
-        <translation>ليس مثبت</translation>
+        <translation>غير مثبَّت</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="224"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة \محمل الإضافات الحالي.</translation>
+        <translation>لم يُعثر على إصدار صالح لهذا المورد. من المرجح أنه غير متاح لإصدار اللعبة الحالي / محمّل المودات الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="227"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation>لا يوجد إصدار صالح لهذا المصدر. من الأرجح أن لا يكون موجوداً لنسخة اللعبة الحالية.</translation>
+        <translation>لم يُعثر على إصدار صالح لهذا المورد. من المرجح أنه غير متاح لإصدار اللعبة الحالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>جار انتظار رد واجهة التطبيق من مودرينث...</translation>
+        <translation>جارٍ انتظار استجابة API من Modrinth...</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -11249,69 +11293,69 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>لم نستطع إيجاد ملف فهرس مناسب للنسخة القديمة وهذا قد يسبب تكرار بعض الملفات. هل تريد الاستمرار؟</translation>
+        <translation>لم نتمكن من العثور على ملف فهرس مناسب للإصدار الأقدم. قد يؤدي هذا إلى تكرار بعض الملفات. هل تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="191"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>تعذرت إعادة تسمية مجلد التجاوزات:
+        <translation>تعذّرت إعادة تسمية مجلد التجاوزات:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="204"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation>تعذرت إعادة تسمية مجلد التجاوزات العميل:
+        <translation>تعذّرت إعادة تسمية مجلد تجاوزات العميل:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="251"/>
         <source>Mod Download Modrinth</source>
-        <translation>تنزيل الإضافات مودرينث</translation>
+        <translation>تنزيل المودات Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="263"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>يحتوي أحد الملفات على مسار يؤدي إلى موقع تعسفي (%1). يعد هذا خطر أمني وهو غير مسموح.</translation>
+        <translation>يحتوي أحد الملفات على مسار يؤدي إلى موقع عشوائي (%1). يمثل هذا خطرًا أمنيًا وهو غير مسموح.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="275"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>يتفقد الملف ’%1’ رابط التنزيل. إنها صيغة غير صالحة.</translation>
+        <translation>الملف &apos;%1&apos; يفتقد رابط التنزيل. هذا غير صالح في صيغة الحزمة.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="309"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="453"/>
         <source>%1 out of %2 complete</source>
-        <translation>تم %1 من %2</translation>
+        <translation>اكتمل %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="314"/>
         <source>Downloading mods...</source>
-        <translation>جاري تنزيل الإضافات...</translation>
+        <translation>جارٍ تنزيل المودات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation>رابط التنزيل ل%1 ليس صالح الصيغة</translation>
+        <translation>رابط التنزيل لـ %1 ليس رابطًا صحيح الصيغة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="409"/>
         <source>Could not understand pack index:
 </source>
-        <translation>لم يتم فهم فهرس الحزمة:
+        <translation>تعذّر فهم فهرس الحزمة:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="553"/>
         <source>Removing old conflicting files...</source>
-        <translation>جار إزالة الملفات القديمة والمتعارضة...</translation>
+        <translation>جارٍ إزالة الملفات القديمة المتعارضة...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="570"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>فشلت محاولة إزالة الملفات القديمة والمتعارضة.</translation>
+        <translation>تعذّرت إزالة الملفات القديمة المتعارضة.</translation>
     </message>
 </context>
 <context>
@@ -11324,7 +11368,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="256"/>
         <source>Fetching changelogs...</source>
-        <translation>جار تحضير سجل التغيير...</translation>
+        <translation>جارٍ جلب سجلات التغييرات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="324"/>
@@ -11334,7 +11378,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="324"/>
         <source>Modrinth pack</source>
-        <translation>حزمة مودرينث</translation>
+        <translation>حزمة Modrinth</translation>
     </message>
 </context>
 <context>
@@ -11342,27 +11386,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="59"/>
         <source>Searching for files...</source>
-        <translation>جاري البحث على الملفات...</translation>
+        <translation>جارٍ البحث عن الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="80"/>
         <source>Could not search for files</source>
-        <translation>تعذر البحث عن الملفات</translation>
+        <translation>تعذّر البحث عن الملفات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
-        <translation>جاري البحث عن تجزئات الملف...</translation>
+        <translation>جارٍ البحث عن تجزئات الملفات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation>جاري البحث عن نسخة تجزئات...</translation>
+        <translation>جارٍ البحث عن الإصدارات المقابلة للتجزئات...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="172"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>تعذر تحليل رد الإصدار: %1</translation>
+        <translation>تعذّر تحليل استجابة الإصدارات: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
@@ -11400,12 +11444,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="88"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>فرز حسب الشهرة</translation>
+        <translation>فرز حسب الصلة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="90"/>
         <source>Sort by Follows</source>
-        <translation>فرز حسب المتابعين</translation>
+        <translation>فرز حسب عدد المتابعين</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="92"/>
@@ -11422,22 +11466,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;تم أرشفة هذا المشروع. لن يحصل على تحديثات إلا إذا قرر المؤلف إزالة أرشفة هذا المشروع.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;تمت أرشفة هذا المشروع. لن يتلقى أي تحديثات إضافية ما لم يقرر المؤلف إلغاء أرشفته.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>Donate information: </source>
-        <translation>معلومات الدعم: </translation>
+        <translation>معلومات التبرع: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>External links:</source>
-        <translation>الروابط الخارجية:</translation>
+        <translation>روابط خارجية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>المشاكل: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>المشكلات: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
@@ -11447,12 +11491,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>نص المصدر: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>الشيفرة المصدرية: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>ديسكورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="91"/>
@@ -11463,17 +11507,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="89"/>
         <source>Sort by Total Downloads</source>
-        <translation>فرز بحسب مجموع التنزيلات</translation>
+        <translation>فرز حسب إجمالي التنزيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="255"/>
         <source> by </source>
-        <translation> حسب </translation>
+        <translation> بواسطة </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
         <source>Modrinth</source>
-        <translation>مودرينث</translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -11486,14 +11530,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>جار محاولة المهمة %1 من %2</translation>
+        <translation>جارٍ تنفيذ المهمة %1 من %2</translation>
     </message>
 </context>
 <context>
     <name>Net::NetRequest</name>
     <message>
         <source>Requesting %1</source>
-        <translation>جار إعادة طلب %1</translation>
+        <translation>جارٍ طلب %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -11502,7 +11546,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -11518,10 +11562,10 @@ Please update %1!</source>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>تم تقييد معدل الطلبات لمدة صفر ثانية : أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة ثانية واحدة: أعد المحاولة بعد %1</numerusform>
-            <numerusform>‮تم تقييد معدل الطلبات لمدة ثانيتين: أعد المحاولة بعد %1</numerusform>
-            <numerusform>تم تقييد معدل الطلبات لمدة %n ثواني: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة ثانيتين: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثوانٍ: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
         </translation>
@@ -11530,12 +11574,12 @@ Please update %1!</source>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>تم تقييد معدل الشبكة : لا داعي للانتظار</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانية واحدة</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانيتين</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثواني</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار ثانية واحدة</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار ثانيتين</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثوانٍ</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
         </translation>
     </message>
 </context>
@@ -11544,7 +11588,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="123"/>
         <source>Requesting %1</source>
-        <translation>جار الطلب %1</translation>
+        <translation>جارٍ طلب %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="200"/>
@@ -11555,7 +11599,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="206"/>
         <source>unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="208"/>
@@ -11572,17 +11616,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Request.cpp" line="330"/>
         <source>Too many redirects</source>
-        <translation>إعادة توجيه بكثرة</translation>
+        <translation>عدد كبير جدًا من عمليات إعادة التوجيه</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/net/Request.cpp" line="344"/>
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>تم تقييد معدل الطلبات لمدة صفر ثانية: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة ثانية واحدة: أعد المحاولة بعد %1</numerusform>
-            <numerusform>‮تم تقييد معدل الطلبات لمدة ثانيتين: أعد المحاولة بعد %1</numerusform>
-            <numerusform>تم تقييد معدل الطلبات لمدة %n ثواني: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة ثانيتين: أعد المحاولة بعد %1</numerusform>
+            <numerusform>تم تقييد معدل الطلبات لمدة %n ثوانٍ: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
             <numerusform>تم تقييد معدل الطلبات لمدة %n ثانية: أعد المحاولة بعد %1</numerusform>
         </translation>
@@ -11592,12 +11636,12 @@ Please update %1!</source>
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>تم تقييد معدل الشبكة : لا داعي للانتظار</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانية واحدة</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة ثانيتين</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثواني</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
-            <numerusform>تم تقييد معدل الشبكة : انتظر لمدة n% ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار ثانية واحدة</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار ثانيتين</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثوانٍ</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
+            <numerusform>تم تقييد المعدل: الانتظار %n ثانية</numerusform>
         </translation>
     </message>
 </context>
@@ -11612,12 +11656,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>تعذر إيقاف كل المهمات في نت جوب!</translation>
+        <translation>تعذّر إيقاف جميع المهام في NetJob!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="164"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>جاري تنفيذ %1 مهمة/مهمات(تم %2 من %3)</translation>
+        <translation>جارٍ تنفيذ %1 من المهام (اكتمل %2 من %3)</translation>
     </message>
 </context>
 <context>
@@ -11625,17 +11669,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="14"/>
         <source>Network error</source>
-        <translation>مشكلة فالشبكة</translation>
+        <translation>خطأ في الشبكة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="29"/>
         <source>A network operation has failed: %1</source>
-        <translation>فشلت احدى عمليات الشبكة: 1%</translation>
+        <translation>فشلت عملية شبكة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="65"/>
         <source>URL</source>
-        <translation>رابط</translation>
+        <translation>الرابط</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="70"/>
@@ -11645,27 +11689,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.ui" line="84"/>
         <source>What would you like to do?</source>
-        <translation>مالذي تريد القيام به؟</translation>
+        <translation>ماذا تريد أن تفعل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="34"/>
         <source>All %1 requests have failed after %2 attempts</source>
-        <translation>كل الطلبات 1% فشلت بعد 2% من المحاولات</translation>
+        <translation>فشلت جميع الطلبات (%1) بعد %2 من المحاولات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="37"/>
         <source>Out of %1 requests, %2 have failed after %3 attempts</source>
-        <translation>من أصل 1% من الطلبات، فشل 2% بعد 3% من المحاولات</translation>
+        <translation>من أصل %1 من الطلبات، فشل %2 بعد %3 من المحاولات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="40"/>
         <source>Out of %1 requests, only %2 succeeded after %3 attempts</source>
-        <translation>من أصل 1% من الطلبات، نجح 2% بعد 3% من المحاولات</translation>
+        <translation>من أصل %1 من الطلبات، نجح %2 فقط بعد %3 من المحاولات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NetworkJobFailedDialog.cpp" line="51"/>
         <source>Copy URL</source>
-        <translation>انسخ الرابط</translation>
+        <translation>نسخ الرابط</translation>
     </message>
 </context>
 <context>
@@ -11673,7 +11717,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>إضافة عنصر فارغ</translation>
+        <translation>إضافة مكوّن فارغ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -11683,7 +11727,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>رمز المستخدم</translation>
+        <translation>uid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
@@ -11702,7 +11746,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="264"/>
         <source>New Instance</source>
-        <translation>عينة جديد</translation>
+        <translation>نسخة جديدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="32"/>
@@ -11727,17 +11771,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام قالب نسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد القالب غير موجود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">في نظام التشغيل ويندوز، قد تتطلب الارتباطات الرمزية إذن المسؤول لإنشائها (التشغيل كمسؤول).</translation>
+        <translation>في Windows، قد يتطلب إنشاء الروابط الرمزية صلاحيات المسؤول.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="164"/>
@@ -11752,22 +11796,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="176"/>
         <source>Help</source>
-        <translation>المساعدة</translation>
+        <translation>مساعدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="224"/>
         <source>Directory unavailable</source>
-        <translation>المكتبة غير متوفرة</translation>
+        <translation>المجلد غير متاح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="225"/>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation>مكتبة هاته النسخة &quot;1%&quot; اصبحت غير متوفرة. رجاء قم باختيار موقع اخر.</translation>
+        <translation>مجلد هذه النسخة &quot;%1&quot; لم يعد متاحًا. يرجى اختيار موقع آخر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="287"/>
         <source>Default (%1)</source>
-        <translation>الافتراضي (1%)</translation>
+        <translation>الافتراضي (%1)</translation>
     </message>
 </context>
 <context>
@@ -11776,7 +11820,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="115"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>تعذر تحميل موجز الأخبار أر إس إس:
+        <translation>تعذّر تحميل موجز RSS للأخبار:
 %1</translation>
     </message>
 </context>
@@ -11810,7 +11854,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="23"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="51"/>
         <source>Untitled</source>
-        <translation>غير مسمى</translation>
+        <translation>بلا عنوان</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
@@ -11824,7 +11868,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="101"/>
         <source>Nilmods</source>
-        <translation>نيل مود</translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -11855,7 +11899,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation>نوعية النموذج مجهولة</translation>
+        <translation>نوع النسخة غير معروف</translation>
     </message>
 </context>
 <context>
@@ -11890,22 +11934,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>اختر الإضافات الاختيارية</translation>
+        <translation>اختر المودات الاختيارية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="37"/>
         <source>Select All</source>
-        <translation>اختيار الكل</translation>
+        <translation>تحديد الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="44"/>
         <source>Deselect All</source>
-        <translation>إلغاء اختيار الكل</translation>
+        <translation>إلغاء تحديد الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="64"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>سيتم تعطيل الإضافات الغير محددة.</translation>
+        <translation>سيتم تعطيل المودات غير المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -11927,94 +11971,94 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation>اعثر</translation>
+        <translation>&amp;بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="55"/>
         <source>Scroll all the way to bottom</source>
-        <translation>انتقل إلى نهاية السجل</translation>
+        <translation>التمرير إلى نهاية السجل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="58"/>
         <source>&amp;Bottom</source>
-        <translation>أسفل</translation>
+        <translation>&amp;الأسفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="101"/>
         <source>Delete the selected log</source>
-        <translation>احذف ‫السجل المختار</translation>
+        <translation>حذف السجل المحدد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>&amp;Delete Selected</source>
-        <translation>احذف المختار</translation>
+        <translation>حذف ال&amp;محدد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="111"/>
         <source>Delete all the logs</source>
-        <translation>احذف جميع السجلات</translation>
+        <translation>حذف جميع السجلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="114"/>
         <source>Delete &amp;All</source>
-        <translation>احذف الكل</translation>
+        <translation>حذف ال&amp;كل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="125"/>
         <source>Keep updating</source>
-        <translation>استمر بالتحديث</translation>
+        <translation>متابعة التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="135"/>
         <source>Wrap lines</source>
-        <translation>لف الأسطر</translation>
+        <translation>التفاف الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="145"/>
         <source>Color lines</source>
-        <translation>لوّن الأسطر</translation>
+        <translation>تلوين الأسطر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="168"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>انسخ السجل كاملًا إلى الحافظة</translation>
+        <translation>نسخ السجل كاملًا إلى الحافظة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="171"/>
         <source>&amp;Copy</source>
-        <translation>نسخ</translation>
+        <translation>&amp;نسخ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="178"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>ارفع السجل إلى خدمة اللصق المعدلة في التفضيلات</translation>
+        <translation>رفع السجل إلى خدمة اللصق المضبوطة في التفضيلات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="181"/>
         <source>&amp;Upload</source>
-        <translation>رفع</translation>
+        <translation>&amp;رفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="188"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="492"/>
         <source>Reload the contents of the log from the disk</source>
-        <translation>أعد تحميل محتويات السجل من القرص</translation>
+        <translation>إعادة تحميل محتويات السجل من القرص</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="191"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="491"/>
         <source>&amp;Reload</source>
-        <translation>إعادة التحميل</translation>
+        <translation>&amp;إعادة التحميل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="202"/>
         <source>Search</source>
-        <translation>البحث</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="498"/>
         <source>Clear the log</source>
-        <translation>امسح السجل</translation>
+        <translation>مسح السجل</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -12045,7 +12089,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="88"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="315"/>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation>لا يمكن عرض هذا السجل لأن طول السجل تعدى %1 سطر.</translation>
+        <translation>لا يمكن عرض هذا السجل لأن طوله تجاوز %1 سطر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="184"/>
@@ -12062,12 +12106,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="262"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>لا يمكن فتح %1 للقراءة: %2</translation>
+        <translation>تعذّر فتح %1 للقراءة: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="271"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>حجم الملف (%1) ضخم جدًا. قد ترغب في فتحهِ في مُستَعرِضٍ مخصص للملفات الضخمة.</translation>
+        <translation>حجم الملف (%1) كبير جدًا. قد ترغب في فتحه في عارض مخصص للملفات الكبيرة.</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -12076,7 +12120,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="338"/>
         <source>The file (%1) encountered an error when reading: %2.</source>
-        <translation>حدث خطأ في الملف (%1) عند القراءة: %2.</translation>
+        <translation>حدث خطأ أثناء قراءة الملف (%1): %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="395"/>
@@ -12089,8 +12133,8 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>إنك على وشك حذف &quot;%1&quot;:
-من الممكن أن يكون هذا مؤبدا وسيختفي من مجلد السجلات.
+        <translation>أنت على وشك حذف &quot;%1&quot;.
+قد يكون هذا دائمًا وسيختفي من مجلد السجلات.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -12102,13 +12146,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="423"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>هل أنت متأكد من حذف كل ملفات السجل؟</translation>
+        <translation>هل أنت متأكد أنك تريد حذف جميع ملفات السجل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="426"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>هل أنت متأكد من حذف كل من هذه الملفات؟
+        <translation>هل أنت متأكد أنك تريد حذف كل هذه الملفات؟
 %1</translation>
     </message>
     <message>
@@ -12123,7 +12167,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="410"/>
         <source>Unable to delete %1: %2</source>
-        <translation>لا يمكن حذف %1: %2</translation>
+        <translation>تعذّر حذف %1: %2</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -12142,13 +12186,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="453"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>تعذر حذف بعض الملفات!</translation>
+        <translation>تعذّر حذف بعض الملفات!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="456"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>تعذر حذف بعض الملفات:
+        <translation>تعذّر حذف بعض الملفات:
 %1</translation>
     </message>
     <message>
@@ -12298,7 +12342,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="49"/>
         <source>Help</source>
-        <translation>المساعدة</translation>
+        <translation>مساعدة</translation>
     </message>
 </context>
 <context>
@@ -12342,46 +12386,46 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>تغيرت خدمة اللصق الافتراضية إلى mclo.gs, يرجى اختيار ما يريد فعله من الإعدادات.</translation>
+        <translation>تغيّرت خدمة اللصق الافتراضية إلى mclo.gs، يرجى اختيار ما تريد فعله بإعداداتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation>استخدم الخدمة الافتراضية الجديدة</translation>
+        <translation>استخدام الخدمة الافتراضية الجديدة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation>احفظ الإعدادات السابقة</translation>
+        <translation>الإبقاء على الإعدادات السابقة</translation>
     </message>
 </context>
 <context>
     <name>PixmapCache</name>
     <message>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation>تضييعات ذاكرة بيكس ماب صارب بشكل سريع جدا. لن نفعل شيئا عندما يوصل حجم الذاكرة إلى حده</translation>
+        <translation>حدثت إخفاقات في ذاكرة التخزين المؤقت للصور (pixmap) بسبب الإخلاء بسرعة كبيرة؛ لن يتم فعل شيء لأن حجم الذاكرة المؤقتة بلغ حدّه</translation>
     </message>
     <message>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>تضييعات ذاكرة بيكس ماب صارب بشكل سريع جدا, جار رفع الحجم إلى</translation>
+        <translation>حدثت إخفاقات في ذاكرة التخزين المؤقت للصور (pixmap) بسبب الإخلاء بسرعة كبيرة؛ جارٍ زيادة حجم الذاكرة المؤقتة إلى</translation>
     </message>
 </context>
 <context>
     <name>PostLaunchCommand</name>
     <message>
         <source>Running Post-Launch command: %1</source>
-        <translation>جار استدعاء أمر بعد-الإنهاء: %1</translation>
+        <translation>جارٍ تشغيل أمر ما بعد التشغيل: %1</translation>
     </message>
     <message>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>أمر بعد-الإنهاء فشل برمز الخطأ %1.
+        <translation>فشل أمر ما بعد التشغيل برمز %1.
 
 </translation>
     </message>
@@ -12389,7 +12433,7 @@ Error message: %3</source>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>تم استدعاء أمر بعد-الإنهاء بنجاح.
+        <translation>نجح تشغيل أمر ما بعد التشغيل.
 
 </translation>
     </message>
@@ -12398,13 +12442,13 @@ Error message: %3</source>
     <name>PreLaunchCommand</name>
     <message>
         <source>Running Pre-Launch command: %1</source>
-        <translation>جار استدعاء أمر قبل-التشغيل: %1</translation>
+        <translation>جارٍ تشغيل أمر ما قبل التشغيل: %1</translation>
     </message>
     <message>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>أمر قبل-التشغيل فشل برمز الخطأ %1.
+        <translation>فشل أمر ما قبل التشغيل برمز %1.
 
 </translation>
     </message>
@@ -12412,7 +12456,7 @@ Error message: %3</source>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation>تم استدعاء أمر قبل-التشغيل بنجاح.
+        <translation>نجح تشغيل أمر ما قبل التشغيل.
 
 </translation>
     </message>
@@ -12422,38 +12466,38 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="98"/>
         <source>Checking for updates...</source>
-        <translation>جار التحقق من التحديثات...</translation>
+        <translation>جارٍ التحقق من التحديثات...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="130"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="150"/>
         <source>Update Check Failed</source>
-        <translation>تعذر التحقق من التحديثات</translation>
+        <translation>فشل التحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="131"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation>تعذر البدء بعد 5 ثواني
+        <translation>فشل البدء بعد 5 ثوانٍ
 السبب: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="151"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation>تعذر إغلاق المحدث بعد 60 ثانية
+        <translation>فشل المحدِّث في الإغلاق خلال 60 ثانية
 السبب: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>No Update Available</source>
-        <translation>لا يوجد تحديثات</translation>
+        <translation>لا يوجد تحديث متاح</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>You are running the latest version.</source>
-        <translation>إنك تشغل احدث إصدار.</translation>
+        <translation>أنت تستخدم أحدث إصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="187"/>
@@ -12463,31 +12507,31 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="188"/>
         <source>There was an error running the update check.</source>
-        <translation>حصل خطأ عند التحقق من التحديثات.</translation>
+        <translation>حدث خطأ أثناء التحقق من التحديثات.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="214"/>
         <source>Unknown Update Error</source>
-        <translation>خطأ مجهول عند التحديث</translation>
+        <translation>خطأ تحديث غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="215"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation>أغلق المحدث لحالة غامضة.
+        <translation>أُغلق المحدِّث بحالة غير معروفة.
 رمز الخروج: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="217"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation>المخرج القياسي: %1
-خطأ القياسي: %2</translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="319"/>
         <source>There are no new updates available.</source>
-        <translation>لا توجد تحديثات جديدة.</translation>
+        <translation>لا توجد تحديثات جديدة متاحة.</translation>
     </message>
 </context>
 <context>
@@ -12495,22 +12539,22 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>استخدم مسار مخصص كجزر التطبيق (استخدم ’.’ للدليل الحالي).</translation>
+        <translation>استخدم مسارًا مخصصًا كجذر للتطبيق (استخدم &apos;.&apos; للمجلد الحالي).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="89"/>
         <source>directory</source>
-        <translation>الدليل</translation>
+        <translation>المجلد</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="91"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>استخدم هذا الإصدار كإصدار المشعل المثبت. (أتيح لأن المخرج القياسي غير ملتقط بشكل جيد من قبل ويندوز)</translation>
+        <translation>استخدم هذا الإصدار كإصدار المشغّل المثبَّت. (متاح لأنه لا يمكن التقاط المخرج القياسي بشكل موثوق على Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="92"/>
         <source>installed launcher version</source>
-        <translation>إصدار المشغل المثبت</translation>
+        <translation>إصدار المشغّل المثبَّت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="93"/>
@@ -12520,27 +12564,27 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
         <source>Update from the specified repo.</source>
-        <translation>حدث من مستودع مخصص.</translation>
+        <translation>التحديث من المستودع المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="94"/>
         <source>github repo url</source>
-        <translation>رابط مستودع جيت هب</translation>
+        <translation>رابط مستودع GitHub</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="96"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation>تحقق فقط عند الحاجة إلى تحديث. حالة الخروج 100 إذا كانت صحيح, 0 إذا كانت خاطئ(أو غير ال0 إذا كان هناك خطأ).</translation>
+        <translation>تحقق فقط مما إذا كان التحديث مطلوبًا. رمز الخروج 100 إذا كان نعم، و0 إذا كان لا (أو غير 0 إذا حدث خطأ).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="97"/>
         <source>Allow updating to pre-release releases</source>
-        <translation>سماح بالتحديث إلى إصدارات قبل-الإصدار</translation>
+        <translation>السماح بالتحديث إلى الإصدارات التجريبية</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="98"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation>إجبار تحديث, حتى ولو لم تكن هناك حاجة إلية.</translation>
+        <translation>فرض التحديث حتى لو لم تكن هناك حاجة إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="99"/>
@@ -12550,17 +12594,17 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="100"/>
         <source>Log debug to console.</source>
-        <translation>سجّل تصحيح الإخطاء إلى الطرفية.</translation>
+        <translation>تسجيل معلومات التصحيح في الطرفية.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="101"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>اختر الإصدار لتحميله بواجهة المستخدم.</translation>
+        <translation>اختر الإصدار المراد تثبيته عبر واجهة رسومية.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation>اسمح للمحدث للرجوع إلى الإصدارات السابقة.</translation>
+        <translation>السماح للمحدِّث بالرجوع إلى إصدارات سابقة.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="187"/>
@@ -12570,22 +12614,22 @@ Make sure you have write permissions to the data folder.
 (%2)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation>تعذر على المحدث انشاء ملف السجل - 1%
+        <translation>تعذّر على المحدِّث إنشاء ملف سجل - %1.
 
-تأكد من أنك تملك صلاحيات الكتابة داخل مجلد البيانات
-(2%)
+تأكد من أن لديك صلاحيات الكتابة في مجلد البيانات.
+(%2)
 
-المحدث لا يستطيع المتابعة حتى تقوم بحل هاته المشكلة.</translation>
+لا يمكن للمحدِّث المتابعة حتى تُصلح هذه المشكلة.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>MacOS Not Supported</source>
-        <translation>نظام ماك غير مدعوم</translation>
+        <translation>macOS غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation>لا يدعم المحدث التثبيت على أنظمة ماك</translation>
+        <translation>المحدِّث لا يدعم التثبيت على macOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="295"/>
@@ -12596,17 +12640,17 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="296"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>أيعمل المحدث ك ’أب إيمج’ سيء التكوين؟(متغير البيئة $APPIMAGE غير موجود)</translation>
+        <translation>هل يعمل المحدِّث كـ AppImage غير مضبوط؟ (متغير البيئة $APPIMAGE غير موجود)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="308"/>
         <source>The updater can not find the main executable.</source>
-        <translation>لم يتمكن المحدث من إيجاد الملف التنفيذي الرئيسي.</translation>
+        <translation>تعذّر على المحدِّث العثور على الملف التنفيذي الرئيسي.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="186"/>
         <source>The launcher data folder is not writable!</source>
-        <translation>مجلد معلومات المشغل غير قابل للكتابة!</translation>
+        <translation>مجلد بيانات المشغّل غير قابل للكتابة!</translation>
     </message>
     <message>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
@@ -12625,63 +12669,63 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
         <source>Updating flatpack not supported</source>
-        <translation>تحديث فلاتباك غير مدعوم</translation>
+        <translation>تحديث Flatpak غير مدعوم</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>عمليات خارج التحقق من التحديثات غير مدعومة في نسخ فلاتباك لمشغل بريسم.</translation>
+        <translation>الإجراءات غير التحقق من توفر تحديث غير مدعومة عند تشغيل نسخة Flatpak من Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1015"/>
         <source>Reading manifest from %1</source>
-        <translation>جار قراءة البيان من %1</translation>
+        <translation>جارٍ قراءة البيان من %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="520"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّرت قراءة البيان: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="531"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation>البيان فارغ, جار تخمين الأفضل لمحتويات الفهرس ل%1</translation>
+        <translation>البيان فارغ، جارٍ تخمين محتويات المجلد %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="537"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation>جار تثبيت التالي إلى %1:
+        <translation>جارٍ تثبيت ما يلي في %1 :
  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="541"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="548"/>
         <source>Installing from %1</source>
-        <translation>جار التثبيت من %1</translation>
+        <translation>جارٍ التثبيت من %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="553"/>
         <source>Installing %1 from %2</source>
-        <translation>جار تثبيت %1 من %2</translation>
+        <translation>جارٍ تثبيت %1 من %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="557"/>
         <source>Failed copy %1 to %2</source>
-        <translation>تعذر نسخ %1 إلى %2</translation>
+        <translation>تعذّر نسخ %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="575"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1098"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation>الملف غير موجود, سيتم تجاهل: %1</translation>
+        <translation>الملف غير موجود، سيتم التجاهل: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="588"/>
         <source>There were errors installing the update.</source>
-        <translation>حصل أخطاء عند تثبيت التحديث.</translation>
+        <translation>حدثت أخطاء أثناء تثبيت التحديث.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="592"/>
@@ -12696,7 +12740,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="759"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>لا يحتوي إصدار جيتهب %1 على موارد صالحة لهذه المنصة: %2</translation>
+        <translation>لا يحتوي إصدار GitHub %1 على موارد صالحة لهذه المنصة: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="761"/>
@@ -12718,28 +12762,28 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="771"/>
         <source>No version selected.</source>
-        <translation>لا يوجد اصدارات مختارة.</translation>
+        <translation>لم يتم اختيار إصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="771"/>
         <source>No version was selected.</source>
-        <translation>لا يوجد إصدار مختار.</translation>
+        <translation>لم يتم اختيار أي إصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="779"/>
         <source>Failed to Download</source>
-        <translation>فشل التحميل</translation>
+        <translation>فشل التنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="779"/>
         <source>Failed to download the selected asset.</source>
-        <translation>فشل في تنزيل المورد المحدد.</translation>
+        <translation>فشل تنزيل المورد المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="902"/>
         <source>Update already in progress
 </source>
-        <translation>التحديث قيد التقدم بالفعل
+        <translation>التحديث قيد التنفيذ بالفعل
 </translation>
     </message>
     <message>
@@ -12756,125 +12800,125 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>هده النسخة تحمل ملف غلق التحديثات عند: 1%
+        <translation>يوجد ملف قفل تحديث في هذا التثبيت عند: %1
 
-الطابع الزمني: 2%
-جرى تحديث من الإصدار 3% إلى 4%
- المسار المحدد لتثبيت الملف: 5%
-بيانات الملف: 6%
-يمكن أن يعني هذا أن عملية تحديث سابقة فشلت. يرجى التحقق من سلامة التطبيق قبل المواصلة.
- يمكنك التحقق من سجل تحديثات بريسم في:
+الطابع الزمني: %2
+التحديث من الإصدار %3 إلى %4
+مسار التثبيت المستهدف: %5
+مسار البيانات: %6
+يعني هذا غالبًا أن محاولة تحديث سابقة قد فشلت. يرجى التأكد من أن تثبيتك يعمل جيدًا قبل المتابعة.
+راجع سجل مُحدِّث Prism Launcher في: 
 %7
-من اجل معلومات اكثر عن آخر محاولة.
+لمعرفة تفاصيل آخر محاولة تحديث.
 
-لتخطي هذا القفل و لإكمال التحديث, اختر &quot;تجاهل&quot; أدناه.</translation>
+لتجاوز هذا القفل ومتابعة التحديث على أي حال، اختر &quot;تجاهل&quot; أدناه.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="934"/>
         <source>Update Aborted</source>
-        <translation>تم إيقاف التحديث</translation>
+        <translation>أُلغي التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="934"/>
         <source>The update attempt was aborted</source>
-        <translation>محاولة التحديث ألغيت</translation>
+        <translation>أُلغيت محاولة التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّرت كتابة سجل التغييرات: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
         <source>Updating from %1 to %2</source>
-        <translation>التحديث من %1 إلى 2%</translation>
+        <translation>التحديث من %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="949"/>
         <source>Updating portable install at %1</source>
-        <translation>جاري تحديث التطبيق المتنقل لذى 1%</translation>
+        <translation>جارٍ تحديث التثبيت المحمول في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="952"/>
         <source>Running installer file at %1</source>
-        <translation>تشغيل برنامج التثبيت في %1</translation>
+        <translation>جارٍ تشغيل ملف المثبّت في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="961"/>
         <source>Process start result: %1</source>
-        <translation>نتج عن عمل التطبيق: 1%</translation>
+        <translation>نتيجة بدء العملية: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
         <source>Backing up install</source>
-        <translation>جار النسخ الاحتياطي للتثبيت</translation>
+        <translation>جارٍ النسخ الاحتياطي للتثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="991"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation>بدأ محدث جديد عند &apos;%1&apos;</translation>
+        <translation>جارٍ تشغيل محدِّث جديد في &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="996"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation>فشل في الإطلاق &apos;1%&apos; %2</translation>
+        <translation>فشل تشغيل &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up:
   %1</source>
-        <translation>النسخ الاحتياطي
-   %1</translation>
+        <translation>النسخ الاحتياطي:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1069"/>
         <source>Backing up install at %1</source>
-        <translation>جار النسخ الاحتياطي للتثبيت في %1</translation>
+        <translation>جارٍ النسخ الاحتياطي للتثبيت في %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1074"/>
         <source>Backing up and then removing %1</source>
-        <translation>جار النسخ الاحتياطي ثم إزالة %1</translation>
+        <translation>جارٍ النسخ الاحتياطي ثم إزالة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1078"/>
         <source>Failed to backup %1 to %2</source>
-        <translation>فشل في النسخ الاحتياطي %1 إلى %2</translation>
+        <translation>تعذّر نسخ %1 احتياطيًا إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Failed to remove %1</source>
-        <translation>فشل في إزالة %1</translation>
+        <translation>تعذّرت إزالة %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1119"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation>تم استخراج إلى &quot;1%&quot;:
+        <translation>تم استخراج ما يلي إلى &quot;%1&quot;:
   %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1121"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1123"/>
         <source>Failed to extract %1 to %2</source>
-        <translation>فشل في استخراج %1 إلى %2</translation>
+        <translation>تعذّر استخراج %1 إلى %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Failed to Check Version</source>
-        <translation>فشل في التحقق من الإصدار</translation>
+        <translation>فشل التحقق من الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
         <source>Failed to launch child process to read version.</source>
-        <translation>فشل في إطلاق العملية الفرعية لقراءة الإصدار.</translation>
+        <translation>تعذّر تشغيل العملية الفرعية لقراءة الإصدار.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Child launcher process failed.</source>
-        <translation>فشلت عملية تشغيل الرنامج الفرعي.</translation>
+        <translation>فشلت عملية المشغّل الفرعية.</translation>
     </message>
 </context>
 <context>
@@ -12897,7 +12941,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="39"/>
         <source>Use as default for this instance only?</source>
-        <translation>الاستخدام كافتراضي لهذا النموذج فقط؟</translation>
+        <translation>الاستخدام كافتراضي لهذه النسخة فقط؟</translation>
     </message>
     <message>
         <source>Name</source>
@@ -12930,7 +12974,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>ما عليك سوى اتخاذ خطوة أخرى لتتمكن من لعب ماين كرافت على هذا الحساب.
+        <translation>تحتاج فقط إلى خطوة واحدة أخرى لتتمكن من لعب ماين كرافت بهذا الحساب.
 
 اختر اسمك بعناية:</translation>
     </message>
@@ -12947,7 +12991,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="125"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>الاسم قصير جدًا - يجب أن يتراوح طوله بين 3 و 16 رمزاً.</translation>
+        <translation>الاسم قصير جدًا — يجب أن يتراوح طوله بين 3 و16 حرفًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
@@ -12963,24 +13007,24 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="181"/>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>حالة اسم ملف التعريف غير المعالج: %1</translation>
+        <translation>حالة اسم ملف تعريف غير معالَجة: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="197"/>
         <source>Failed to check name availability.</source>
-        <translation>تعدر التحقق من توفر الاسم.</translation>
+        <translation>تعذّر التحقق من توفر الاسم.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="276"/>
         <source>Network Error: %1
 HTTP Status: %2</source>
-        <translation>خطأ في الشبكة: %1‫‫‬‬‬‬‬
-حالة HTTP: %2‫</translation>
+        <translation>خطأ في الشبكة: %1
+حالة HTTP: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="287"/>
         <source>The server responded with the following error:</source>
-        <translation>استجاب الخادم بالخطأ التالي:</translation>
+        <translation>ردّ الخادم بالخطأ التالي:</translation>
     </message>
 </context>
 <context>
@@ -12988,7 +13032,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>يرجى الإنتظار...</translation>
+        <translation>يرجى الانتظار...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -13007,12 +13051,12 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation>تخطي</translation>
+        <translation>تخطّي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.h" line="70"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف</translation>
     </message>
 </context>
 <context>
@@ -13020,7 +13064,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/widgets/ProjectItem.cpp" line="93"/>
         <source>%1 [installed]</source>
-        <translation>%1 [مثبت]</translation>
+        <translation>%1 [مثبَّت]</translation>
     </message>
 </context>
 <context>
@@ -13028,7 +13072,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="32"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>ينطبق هذا الخيار على المشغل فقط. لا تسمح ماين كرافت بأية إعدادات للوكيل.</translation>
+        <translation>ينطبق هذا على المشغّل فقط. ماين كرافت لا يقبل إعدادات الوكيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="45"/>
@@ -13038,7 +13082,7 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="51"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>استخدام افتراضيات النظام لإعدادات الوكيل.</translation>
+        <translation>يستخدم إعدادات الوكيل الافتراضية لنظامك.</translation>
     </message>
     <message>
         <source>&amp;Default</source>
@@ -13048,30 +13092,30 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="54"/>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation>استخدم إعدادات النظام</translation>
+        <translation>استخدام إعدادات ال&amp;نظام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;None</source>
-        <translation>&amp;دون</translation>
+        <translation>&amp;بدون</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation>SOCKS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation>HTTP</translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="97"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>العنوان والمنفذ</translation>
+        <translation>&amp;العنوان والمنفذ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="154"/>
@@ -13082,18 +13126,18 @@ HTTP Status: %2</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="160"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>اسم المستخدم:</translation>
+        <translation>&amp;اسم المستخدم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="173"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>كلمة المرور:</translation>
+        <translation>&amp;كلمة المرور:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="190"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>ملاحظة: اسم وكلمة المرور الخاصة بالوكيل مخزنة على شكل نص عادي في داخل ملف إعدادات المشغل!</translation>
+        <translation>ملاحظة: يُخزَّن اسم مستخدم الوكيل وكلمة مروره كنص عادي داخل ملف إعدادات المشغّل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="56"/>
@@ -13111,17 +13155,17 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="81"/>
         <source>Windows Vista</source>
-        <translation>ويندوز فيستا</translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="83"/>
         <source>Windows 9x</source>
-        <translation>ويندوز 9x</translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Windows 11</source>
-        <translation>ويندوز 11</translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -13131,27 +13175,27 @@ HTTP Status: %2</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="96"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation>أسلوب عنصر الواجهة يحاول أن يكون بمثل مظهر سمة win32</translation>
+        <translation>نمط عناصر واجهة يحاول محاكاة مظهر سمة win32 لديك</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="98"/>
         <source>Windows 9x inspired widget style</source>
-        <translation>مظهر عنصر الواجهة المستلهم من ويندوز 9x</translation>
+        <translation>نمط عناصر واجهة مستوحى من Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="100"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation>مظهر عنصر واجهة Qt المستلهم من WinUI 3</translation>
+        <translation>نمط عناصر واجهة Qt مستوحى من WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="102"/>
         <source>The default Qt widget style</source>
-        <translation>مظهر عنصر واجهة Qt الافتراضي</translation>
+        <translation>نمط عناصر واجهة Qt الافتراضي</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="104"/>
         <source>Your current system theme</source>
-        <translation>مظهر النظام الحالي</translation>
+        <translation>سمة نظامك الحالية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
@@ -13196,14 +13240,14 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>أنت على وشك رفع &quot;%1&quot; إلى %2.
-من الأفضل أن تراجع معلوماتك الشخصية مرة أخرى.
+ينبغي أن تتحقق مرة أخرى من عدم وجود معلومات شخصية.
 
 هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="122"/>
         <source>Confirm Truncation</source>
-        <translation>تأكيد اقتطاع البيانات</translation>
+        <translation>تأكيد الاقتطاع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="123"/>
@@ -13213,26 +13257,26 @@ The launcher can keep the first %3 and last %4 lines, trimming the middle.
 If you choose &apos;No&apos;, mclo.gs will only keep the first %2 lines, cutting off potentially useful info like crashes at the end.
 
 Proceed with truncation?</source>
-        <translation>ملف المعلومات (log) يحتوي على %1 سطرا، وهو يتخطى حدود mclo.gs&apos; ل‍ %2.
-يمكن للمشغل أن يحتفظ بأول %3 وآخر %4 أسطر/سطر، ولكن سيتسبب في اقتطاع وسط الملف.
+        <translation>يحتوي السجل على %1 سطر، متجاوزًا حد mclo.gs البالغ %2.
+يمكن للمشغّل الاحتفاظ بأول %3 وآخر %4 سطر مع حذف الجزء الأوسط.
 
-إذا اخترت &quot;لا&quot;،mclo.gs سيحتفظ فقط بأول %2 سطرا، ولكن سيقطع معلومات قد تكون مفيدة كمعلومات التعطل في نهاية ملف المعلومات (log).
+إذا اخترت &apos;لا&apos;، فسيحتفظ mclo.gs بأول %2 سطر فقط، مما قد يقطع معلومات مفيدة مثل الأعطال في النهاية.
 
-هل ترغب في استمرار اقتطاع البيانات؟</translation>
+هل تريد المتابعة بالاقتطاع؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="151"/>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="156"/>
         <source>Failed to upload logs!</source>
-        <translation>تعذر رفع السجل!</translation>
+        <translation>تعذّر رفع السجلات!</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
-        <translation>تم إلغاء عملية رفع السجل</translation>
+        <translation>أُلغي رفع السجلات</translation>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>قد أُلغيت المهمة عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -13241,40 +13285,40 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="163"/>
         <source>Upload finished</source>
-        <translation>انتهى الرفع</translation>
+        <translation>اكتمل الرفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="164"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>تم نسخ &lt;a href=&quot;%1&quot;&gt;رابط السجل المرفوع&lt;/a&gt; إلى الحافظة.</translation>
+        <translation>تم وضع &lt;a href=&quot;%1&quot;&gt;رابط السجل المرفوع&lt;/a&gt; في الحافظة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="368"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
-        <translation>الملف المحدد إما أنه غير متواجد أو أنه ملف تنفيذي غير صالح.</translation>
+        <translation>الملف المحدد غير موجود أو ليس ملفًا تنفيذيًا صالحًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="372"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>ثنائية جافا المحددة لم تعمل بشكل سليم.&lt;br /&gt;</translation>
+        <translation>تعذّر تشغيل الملف الثنائي لجافا المحدد بشكل سليم.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>ثنائية جافا المحددة أعقبت عن نتيجة غير متوقعة:&lt;br /&gt;</translation>
+        <translation>أعاد الملف الثنائي لجافا المحدد نتائج غير متوقعة:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>نجح اختبار الجافا!&lt;br /&gt;المنصة: %1&lt;br /&gt;إصدار الجافا: %2&lt;br /&gt;</translation>
+        <translation>نجح اختبار جافا!&lt;br /&gt;المنصة المُبلَّغ عنها: %1&lt;br /&gt;إصدار جافا المُبلَّغ عنه: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test success</source>
-        <translation>نجاح اختبار الجافا</translation>
+        <translation>نجح اختبار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
@@ -13282,7 +13326,7 @@ Proceed with truncation?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
         <source>Java test failure</source>
-        <translation>فشل اختبار الجافا</translation>
+        <translation>فشل اختبار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="65"/>
@@ -13292,7 +13336,7 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="276"/>
         <source>Patch is not loaded yet.</source>
-        <translation>لم يتم تحميل الترقيع بعد.</translation>
+        <translation>لم يتم تحميل الرقعة (Patch) بعد.</translation>
     </message>
     <message>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
@@ -13301,99 +13345,99 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="170"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>القيمة &apos;minimumLauncherVersion&apos; الخاصة بالإصدار(%1) هي أعلى مما يدعمه %3 (%2). وقد يجعلها لا تعمل بالشكل المطلوب!</translation>
+        <translation>قيمة &apos;minimumLauncherVersion&apos; لهذا الإصدار (%1) أعلى مما يدعمه %3 (%2). قد لا يعمل بشكل صحيح!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="297"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>اسم المكتبة %1 معطل ولا يمكن للعملية أن تستمر.</translation>
+        <translation>اسم المكتبة %1 معطوب ولا يمكن معالجته.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="192"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation>ملف العناصر %1 غير موجود. من المفترض ألا يحدث هذا أبدا.</translation>
+        <translation>ملف المكوّنات %1 غير موجود. ما كان ينبغي أن يحدث هذا أبدًا.</translation>
     </message>
     <message>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation>لا يمكن فتح %1 لقراءة: %2</translation>
+        <translation>تعذّر فتح %1 للقراءة: %2</translation>
     </message>
     <message>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>لا يمكن تحليل %1 كملف json: %2</translation>
+        <translation>تعذّر تحليل %1 بصيغة json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تحليل الملف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>عنصر في ملف الإصدار غير صالح، كان يتم توقع الحصول على %1</translation>
+        <translation>إصدار ملف المكوّن غير صالح، المتوقع %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="221"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation>لا يمكن تحليل %1: صيغة الملف غير صالحة</translation>
+        <translation>تعذّر تحليل %1: صيغة الملف غير صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="120"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>معرف المستخدم الخاص بالعنصر يحتوي على رموز غير مسموحة، قد تحدث مشاكل أمنية بسبب هذا.</translation>
+        <translation>يحتوي &apos;uid&apos; الخاص بالمكوّن على أحرف غير مسموح بها! قد يسبب هذا مشاكل أمنية.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="203"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>ملف الإصدار يحتوي على كُلٍ مِن &apos;+libraries&apos; و&apos;libraries&apos;. لم يعد هذا مدعومًا بعد الآن.</translation>
+        <translation>يحتوي ملف الإصدار على &apos;+libraries&apos; و&apos;libraries&apos; معًا. لم يعد هذا مدعومًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="248"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>تعذر إيجاد مسار ملف جار الأساسي - موجانغ أزالت الخادم المستخدم لحالات الاحتياط.</translation>
+        <translation>تعذّر تحديد رابط ملف jar الرئيسي — أزالت Mojang الخادم الذي كنا نستخدمه كخيار احتياطي.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="282"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;tweakers&apos;</translation>
+        <translation>يحتوي ملف الإصدار على عنصر غير مدعوم &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="285"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;-libraries&apos;</translation>
+        <translation>يحتوي ملف الإصدار على عنصر غير مدعوم &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="288"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;-tweakers&apos;</translation>
+        <translation>يحتوي ملف الإصدار على عنصر غير مدعوم &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="291"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;-minecraftArguments&apos;</translation>
+        <translation>يحتوي ملف الإصدار على عنصر غير مدعوم &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>ملف الإصدار يحتوي على عنصر غير مدعوم &apos;+minecraftArguments&apos;</translation>
+        <translation>يحتوي ملف الإصدار على عنصر غير مدعوم &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="301"/>
         <source>Assets for %1</source>
-        <translation>الموارد لـ %1</translation>
+        <translation>موارد %1</translation>
     </message>
     <message>
         <source>Invalid order file version, expected %1</source>
-        <translation>ترتيب غير صالح لملف الإصدار، كان يتم توقع %1</translation>
+        <translation>إصدار ملف الترتيب غير صالح، المتوقع %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="75"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>لا يمكن فتح ملف الإصدار %1: %2.</translation>
+        <translation>تعذّر فتح ملف الإصدار %1: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="93"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>لا يمكن معالجة ملف الإصدار %1: %2 عند السطر %3 العمود %4.</translation>
+        <translation>تعذّرت معالجة ملف الإصدار %1: %2 عند السطر %3 العمود %4.</translation>
     </message>
     <message>
         <source>Unable to process the version file %1.</source>
@@ -13427,19 +13471,19 @@ Roll back to previous version?</source>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation>%2ث %1د</translation>
+        <translation>%1د %2ث</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="36"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation>%2د %1س</translation>
+        <translation>%1س %2د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="38"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation>%3د %2س %1ي</translation>
+        <translation>%1ي %2س %3د</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="75"/>
@@ -13474,43 +13518,43 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>لقد حاولت أن تضع خيارات آلة جافا الافتراضية للذاكرة بنفسك (مستخدمًا لأحد الخيارات التالية: &quot;-XX:PermSize&quot;، &quot;-XX-MaxHeapSize&quot;، &quot;-XX:InitialHeapSize&quot;، &quot;-Xmx&quot; أو &quot;-Xms&quot;).
-يوجد خيارات مخصصة لهذا في الإعدادات (قائمة الجافا، داخل مجموعة إعدادات &quot;الذاكرة&quot; في أعلى المربع).
-هذه الرسالة سيتكرر عرضها حتى يتم إزالة هذه الخيارات من مدخلات آلة جافا الافتراضية.</translation>
+        <translation>حاولت ضبط خيار ذاكرة JVM يدويًا (باستخدام &quot;-XX:PermSize&quot; أو &quot;-XX-MaxHeapSize&quot; أو &quot;-XX:InitialHeapSize&quot; أو &quot;-Xmx&quot; أو &quot;-Xms&quot;).
+توجد خانات مخصصة لهذه الخيارات في الإعدادات (تبويب جافا، في مجموعة الذاكرة أعلاه).
+ستظهر هذه الرسالة إلى أن تزيلها من وسائط JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="53"/>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>JVM arguments warning</source>
-        <translation>تحذير لمدخلات آلة جافا الافتراضية</translation>
+        <translation>تحذير بخصوص وسائط JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="58"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>لقد حاولت فرض إصدار محدد من جافا ل‍JVM (using &quot;-version:xxx&quot;) هذا ليس آمنا ولا يسمح به.
-هذه الرسالة ستظهر حتى تزيل هذا من معاملات تشغيل آلة جافا الافتراضية.</translation>
+        <translation>حاولت تمرير وسيط إصدار جافا المطلوب إلى JVM (باستخدام &quot;-version:xxx&quot;). هذا غير آمن ولن يُسمح به.
+ستظهر هذه الرسالة إلى أن تزيله من وسائط JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="71"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>اختبار جافا ناجح!&lt;br /&gt;المنصة: %1&lt;br /&gt;إصدار الجافا: %2&lt;br /&gt;مطور الجافا: %3&lt;br /&gt;</translation>
+        <translation>نجح اختبار جافا!&lt;br /&gt;المنصة المُبلَّغ عنها: %1&lt;br /&gt;إصدار جافا المُبلَّغ عنه: %2&lt;br /&gt;مزوّد جافا المُبلَّغ عنه: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;تحذير:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation>&lt;br /&gt;تحذيرات:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>ثنائية جافا المحددة لم تعمل مع المدخلات التي وفرتها أنت:&lt;br /&gt;</translation>
+        <translation>لم يعمل الملف الثنائي لجافا المحدد مع الوسائط التي قدّمتها:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>ملف الجافا التنفيذي المحدد لا يعمل.&lt;br /&gt;يجب عليك الضغط على &apos;كشف&apos;، أو تحديد المسار الصحيح لملف الجافا.&lt;br /&gt;</translation>
+        <translation>لم يعمل الملف الثنائي لجافا المحدد.&lt;br /&gt;يجب أن تضغط على &apos;اكتشاف&apos;، أو تحدد مسار الملف التنفيذي لجافا.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -13521,12 +13565,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="106"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
+        <translation>تعذّر العثور على مكتبة فاحص جافا. يرجى التحقق من تثبيتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="145"/>
         <source>Download of meta file %1</source>
-        <translation>تنزيل لملف التعريف %1</translation>
+        <translation>تنزيل ملف البيانات الوصفية %1</translation>
     </message>
     <message>
         <source>Unknown format version!</source>
@@ -13550,7 +13594,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
         <source>Invalid JProfiler install</source>
-        <translation>تثبيت غير صالح لـ JProfiler</translation>
+        <translation>تثبيت JProfiler غير صالح</translation>
     </message>
     <message>
         <source>Path is empty</source>
@@ -13558,12 +13602,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation>لا يبدو أن المسار يخص تطبيق MCEdit</translation>
+        <translation>لا يبدو أن المسار مسار MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="17"/>
         <source>Change instance name</source>
-        <translation>تغيير اسم النموذج</translation>
+        <translation>تغيير اسم النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="18"/>
@@ -13571,7 +13615,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>يبدو أن اسم النموذج يحتوي على الإصدار القديم. هل ترغب في تحديثه؟
+        <translation>يبدو أن اسم النسخة يتضمن الإصدار القديم. هل تريد تحديثه؟
 
 الاسم القديم: %1
 الاسم الجديد: %2</translation>
@@ -13579,38 +13623,38 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Similar modpack was found!</source>
-        <translation>تم اكتشاف حزمة إضافات مشابهة!</translation>
+        <translation>تم العثور على مودباك مشابه!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>أحد أو بعض النماذج الخاصة بك هي من نفس حزمة الإضافات %1. هل ترغب في إنشاء نموذج منفصل عنها، أو تحديث النموذج الموجود؟
+        <translation>واحدة أو أكثر من نسخك مأخوذة من المودباك نفسه%1. هل تريد إنشاء نسخة منفصلة أم تحديث النسخة الموجودة؟
 
-ملاحظة: قبل التحديث، تأكد من عمل نسخة احتياطية من نماذجك المهمة، لأن العوالم قد تتعطل بسبب التحديث. كما أن بعض إعدادات التكوين قد يتم فقدانها (بسبب تجاوزات الحزمة نفسها).</translation>
+ملاحظة: تأكد من أخذ نسخة احتياطية من بيانات نسختك المهمة قبل التحديث، فقد تتلف العوالم وقد تُفقد بعض الإعدادات (بسبب تجاوزات الحزمة).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="45"/>
         <source>Update existing instance</source>
-        <translation>تحديث النموذج الموجود</translation>
+        <translation>تحديث النسخة الموجودة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="46"/>
         <source>Create new instance</source>
-        <translation>إنشاء نموذج جديد</translation>
+        <translation>إنشاء نسخة جديدة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="104"/>
         <source>Delete Existing Save Files</source>
-        <translation>حذف ملفات النسخ الاحتياطي الموجودة</translation>
+        <translation>حذف ملفات الحفظ الموجودة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="105"/>
         <source>An earlier version of this mod pack installed save files.
 Would you like to remove those existing saves as part of this update?</source>
-        <translation>قام إصدار سابق من هذا المودباك بتثبيت ملفات حفظ.
-هل ترغب في إزالة ملفات الحفظ تلك الموجودة كجزء من هذا التحديث؟</translation>
+        <translation>ثبّت إصدار سابق من هذا المودباك ملفات حفظ.
+هل تريد إزالة تلك الحفظات الموجودة كجزء من هذا التحديث؟</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -13628,45 +13672,45 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="320"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation>روري ID 11 (من رسم Ashtaka)</translation>
+        <translation>روري ID 11 (رسم Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="321"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation>روري ID 11 (نسخة الرسم المسطح، من رسم Ashtaka)</translation>
+        <translation>روري ID 11 (نسخة مسطحة، رسم Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="322"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation>تي-وي (من رسم SympathyTea)</translation>
+        <translation>تي-وي (رسم SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="25"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="22"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>حزمة ‬موارد</translation>
+        <translation>حزمة موارد</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="26"/>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="22"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>حزمة مظهر</translation>
+        <translation>حزمة خامات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="27"/>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="23"/>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>حزمة البيانات</translation>
+        <translation>داتاباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="28"/>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="22"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>حزمة تظليل</translation>
+        <translation>حزمة شادر</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="29"/>
@@ -13678,22 +13722,22 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="57"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>الإضافة</translation>
+        <translation>مود</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ResourceType.cpp" line="31"/>
         <source>unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="129"/>
         <source>Sort by Featured</source>
-        <translation>فرز بحسب البارز</translation>
+        <translation>فرز حسب المميز</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="130"/>
         <source>Sort by Popularity</source>
-        <translation>فرز بحسب الشعبية</translation>
+        <translation>فرز حسب الشعبية</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="131"/>
@@ -13704,12 +13748,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="132"/>
         <source>Sort by Name</source>
-        <translation>فرز بحسب الاسم</translation>
+        <translation>فرز حسب الاسم</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="133"/>
         <source>Sort by Author</source>
-        <translation>فرز بحسب الصانع</translation>
+        <translation>فرز حسب المؤلف</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="134"/>
@@ -13720,22 +13764,22 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="135"/>
         <source>Sort by Category</source>
-        <translation>فرز حسب النوع</translation>
+        <translation>فرز حسب الفئة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="136"/>
         <source>Sort by Game Version</source>
-        <translation>فرز بحسب إصدار اللعبة</translation>
+        <translation>فرز حسب إصدار اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="270"/>
         <source>Sort by Relevance</source>
-        <translation>فرز حسب الشهرة</translation>
+        <translation>فرز حسب الصلة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="272"/>
         <source>Sort by Follows</source>
-        <translation>فرز حسب المتابعين</translation>
+        <translation>فرز حسب عدد المتابعين</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="273"/>
@@ -13745,17 +13789,17 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم مع المشغل بريسم</translation>
+        <translation>برنامج دفعي MKLINK لـ Windows يُستخدم مع prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="172"/>
         <source>Ungrouped</source>
-        <translation>غير مصنف</translation>
+        <translation>غير مصنَّف</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation>برنامج التحديث التلقائي لمشغل بريسم</translation>
+        <translation>محدِّث تلقائي لـ Prism Launcher</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
@@ -13775,54 +13819,54 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="105"/>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="114"/>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="626"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation>لا يوجد إصدار متوافق مع %1 موجود ل‍%2 %3</translation>
+        <translation>لم يُعثر على إصدار متوافق من %1 لـ %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="632"/>
         <source>No version list in metadata index for %1</source>
-        <translation>لا توجد قائمة للإصدارات في فهرس بيانات التعريف ل‍%1</translation>
+        <translation>لا توجد قائمة إصدارات في فهرس البيانات الوصفية لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="705"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation>%1 فشل بسبب عدم وجود المتطلب %2 %3</translation>
+        <translation>%1 يفتقد المتطلب %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="712"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation>%1، الاعتمادية في هذا العنصر قد أخرجت بعض الأخطاء</translation>
+        <translation>%1، وهو اعتمادية لهذا المكوّن، أبلغ عن مشاكل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="716"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation>%1، الاعتمادية في هذا العنصر ليست بالإصدار المطلوب %2</translation>
+        <translation>%1، وهو اعتمادية لهذا المكوّن، ليس بالإصدار المطلوب %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="720"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation>%1، أحد الاعتماديات في العنصر، ليست بالإصدار المقترح %2</translation>
+        <translation>%1، وهو اعتمادية لهذا المكوّن، ليس بالإصدار المقترح %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="734"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation>%1 و %2 معروفان أنهما لا يعملان معا، من المستحسن أن تحذف واحدا منهما.</translation>
+        <translation>%1 و%2 معروفان بعدم عملهما معًا. يُوصى بإزالة أحدهما.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="276"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>غير مراجع</translation>
+        <translation>غير مفحوص</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="278"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>غير متصل بالإنترنت</translation>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="280"/>
@@ -13834,7 +13878,7 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="282"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>مفعّل</translation>
+        <translation>يعمل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="284"/>
@@ -13846,41 +13890,41 @@ Would you like to remove those existing saves as part of this update?</source>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>انتهت الصلاحية</translation>
+        <translation>منتهي الصلاحية</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>معطّل</translation>
+        <translation>معطَّل</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="290"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>اختفى</translation>
+        <translation>مفقود</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="64"/>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="104"/>
         <source>Cannot rename instance</source>
-        <translation>لا يمكن إكمال النموذج</translation>
+        <translation>تعذّرت إعادة تسمية النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="65"/>
         <source>New instance root (%1) already exists. &lt;br /&gt;Only the metadata will be renamed.</source>
-        <translation>مجلد النسخة الجديد (%1) موجود بالفعل. &lt;br /&gt;سيتم تغيير اسم البيانات الوصفية (Metadata) فقط.</translation>
+        <translation>جذر النسخة الجديدة (%1) موجود بالفعل. &lt;br /&gt;ستتم إعادة تسمية البيانات الوصفية فقط.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation>تعذر تسمية مجلد النسخة</translation>
+        <translation>تعذّرت إعادة تسمية مجلد النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
@@ -13894,12 +13938,12 @@ Only the instance name will be changed. The folder will keep its current name.</
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="78"/>
         <source>&amp;Remember my choice</source>
-        <translation>&amp;تذكر اختياري</translation>
+        <translation>&amp;تذكّر اختياري</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="80"/>
         <source>Rename instance folder</source>
-        <translation>إعادة تسمية مجلد النموذج</translation>
+        <translation>إعادة تسمية مجلد النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="81"/>
@@ -13907,7 +13951,7 @@ Only the instance name will be changed. The folder will keep its current name.</
 
 Old name: %1
 New name: %2</source>
-        <translation>هل ترغب أيضا في إعادة تسمية مجلد النموذج؟
+        <translation>هل تريد أيضًا إعادة تسمية مجلد النسخة؟
 
 الاسم القديم: %1
 الاسم الجديد: %2</translation>
@@ -13915,17 +13959,17 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="99"/>
         <source>Renaming</source>
-        <translation>إعادة تسمية</translation>
+        <translation>إعادة التسمية</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="105"/>
         <source>An error occurred when performing the following renaming operation: &lt;br/&gt; - Old instance root: %1&lt;br/&gt; - New instance root: %2&lt;br/&gt;Only the metadata is renamed.</source>
-        <translation>حدث خطأ أثناء تنفيذ عملية إعادة التسمية التالية:&lt;br/&gt; - مجلد النسخة القديم: %1&lt;br/&gt; - مجلد النسخة الجديد: %2&lt;br/&gt;تم تغيير اسم البيانات الوصفية (Metadata) فقط.</translation>
+        <translation>حدث خطأ أثناء تنفيذ عملية إعادة التسمية التالية: &lt;br/&gt; - جذر النسخة القديم: %1&lt;br/&gt; - جذر النسخة الجديد: %2&lt;br/&gt;ستتم إعادة تسمية البيانات الوصفية فقط.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="119"/>
         <source>There are linked instances</source>
-        <translation>هناك نماذج مترابطة</translation>
+        <translation>توجد نسخ مرتبطة</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="120"/>
@@ -13937,46 +13981,46 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
-
-(لا نموذج)
-
-%2 من الممكن أن ينعطب النموذج الآخر, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
+            <numerusform>قد تشير النسخ التالية إلى ملفات في هذه النسخة:
 
 %1
 
-%2 من الممكن أن ينعطب النموذج الآخر, 
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
 
 هل تريد المتابعة؟</numerusform>
-            <numerusform>قد يرجع النموذجان الآتيان إلى ملفات في هذا النموذج:
+            <numerusform>قد تشير النسخة التالية إلى ملفات في هذه النسخة:
 
 %1
 
-%2 من الممكن أن ينعطبا النموذجان الآخران, 
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
 
 هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+            <numerusform>قد تشير النسختان التاليتان إلى ملفات في هذه النسخة:
 
 %1
 
-%2 من الممكن أن تنعطب النماذج الأخرى, 
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
 
 هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+            <numerusform>قد تشير النسخ التالية إلى ملفات في هذه النسخة:
 
 %1
 
-%2 من الممكن أن تنعطب النماذج الأخرى, 
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
 
 هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
+            <numerusform>قد تشير النسخ التالية إلى ملفات في هذه النسخة:
 
 %1
 
-%2 من الممكن أن تنعطب النماذج الأخرى, 
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
+
+هل تريد المتابعة؟</numerusform>
+            <numerusform>قد تشير النسخ التالية إلى ملفات في هذه النسخة:
+
+%1
+
+%2 قد يؤدي ذلك إلى تعطّل النسخ الأخرى،
 
 هل تريد المتابعة؟</numerusform>
         </translation>
@@ -13984,27 +14028,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/GZip.cpp" line="202"/>
         <source>error handling file</source>
-        <translation>خطأ في تحمّل الملف</translation>
+        <translation>خطأ في معالجة الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="204"/>
         <source>invalid compression level</source>
-        <translation>مستوى ضغط غير مقبول</translation>
+        <translation>مستوى ضغط غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="206"/>
         <source>invalid or incomplete deflate data</source>
-        <translation>بيانات مفكوكة الضغط غير صالحة أو غير مكتملة</translation>
+        <translation>بيانات deflate غير صالحة أو غير مكتملة</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="208"/>
         <source>out of memory</source>
-        <translation>الذاكرة ممتلئة</translation>
+        <translation>نفدت الذاكرة</translation>
     </message>
     <message>
         <location filename="src/launcher/GZip.cpp" line="210"/>
         <source>zlib version mismatch!</source>
-        <translation>إصدار zlib غير متطابق!</translation>
+        <translation>عدم تطابق إصدار zlib!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="65"/>
@@ -14030,34 +14074,34 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="66"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>المشغل موجود في المجلد الذي تم استخراجه منه، لذلك لا يمكنه إنشاء اختصارات.</translation>
+        <translation>المشغّل موجود في المجلد الذي استُخرج منه، لذلك لا يمكنه إنشاء اختصارات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="74"/>
         <source>Failed to create icon for application: %1</source>
-        <translation>تعذر انشاء ايقونة من أجل التطبيق: 1%</translation>
+        <translation>تعذّر إنشاء أيقونة للتطبيق: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="84"/>
         <source>Failed to create icon for application.</source>
-        <translation>تعذر انشاء ايقونة للتطبيق.</translation>
+        <translation>تعذّر إنشاء أيقونة للتطبيق.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="94"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>المشغل يعمل كحزمة AppImage غير مهيأة بشكل صحيح؟ (متغير البيئة $APPIMAGE مفقود)</translation>
+        <translation>هل يعمل المشغّل كـ AppImage غير مضبوط؟ (متغير البيئة $APPIMAGE غير موجود)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="104"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="130"/>
         <source>Failed to create icon for shortcut: %1</source>
-        <translation>تعذر انشاء ايقونة من أجل الاختصار: 1%</translation>
+        <translation>تعذّر إنشاء أيقونة للاختصار: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="112"/>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="141"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>تعذر انشاء ايقونة للاختصار.</translation>
+        <translation>تعذّر إنشاء أيقونة للاختصار.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="146"/>
@@ -14067,32 +14111,32 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="158"/>
         <source>Failed to create %1 shortcut!</source>
-        <translation>تعذر انشاء الاختصار 1&amp;!</translation>
+        <translation>تعذّر إنشاء اختصار %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="173"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>تعذر العثور على سطح المكتب؟!</translation>
+        <translation>تعذّر العثور على سطح المكتب؟!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="181"/>
         <source>Created a shortcut to this %1 on your desktop!</source>
-        <translation>تم إنشاء اختصار لـ %1 على سطح مكتبك!</translation>
+        <translation>تم إنشاء اختصار لـ %1 على سطح المكتب!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="192"/>
         <source>Couldn&apos;t find applications folder?!</source>
-        <translation>تعذر العثور على مجلد التطبيقات؟!</translation>
+        <translation>تعذّر العثور على مجلد التطبيقات؟!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="202"/>
         <source>Failed to create instances folder in applications folder!</source>
-        <translation>تعذر إنشاء مجلد النسخ في مجلد التطبيقات!</translation>
+        <translation>تعذّر إنشاء مجلد النسخ داخل مجلد التطبيقات!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="211"/>
         <source>Created a shortcut to this %1 in your applications folder!</source>
-        <translation>تم إنشاء اختصار لـ %1 في مجلد تطبيقاتك!</translation>
+        <translation>تم إنشاء اختصار لـ %1 في مجلد التطبيقات!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ShortcutUtils.cpp" line="235"/>
@@ -14115,41 +14159,41 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="153"/>
         <source>Failed to parse response from hastebin server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>فشل تحليل الاستجابة من خادم hastebin: كان المتوقع بتنسيق JSON ولكن تم استلام استجابة غير صالحة. الخطأ: %1</translation>
+        <translation>تعذّر تحليل الاستجابة من خادم hastebin: كان المتوقع JSON لكن وصلت استجابة غير صالحة. الخطأ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="181"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="203"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>أرجع %1 محتوى استجابة غير صالح</translation>
+        <translation>خطأ: أعاد %1 محتوى استجابة مشوّهًا</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>فشل تحليل الاستجابة من خادم mclogs: كان المتوقع بتنسيق JSON ولكن تم استلام استجابة غير صالحة. الخطأ: %1</translation>
+        <translation>تعذّر تحليل الاستجابة من خادم mclogs: كان المتوقع JSON لكن وصلت استجابة غير صالحة. الخطأ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="178"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>خطأ: قد أعاد %1 خطأ: %2</translation>
+        <translation>خطأ: أعاد %1 خطأ: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="188"/>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
-        <translation>فشل تحليل الاستجابة من خادم pasteGG: كان المتوقع بتنسيق JSON ولكن تم استلام استجابة غير صالحة. الخطأ: %1</translation>
+        <translation>تعذّر تحليل الاستجابة من خادم pasteGG: كان المتوقع JSON لكن وصلت استجابة غير صالحة. الخطأ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="200"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>خطأ: قد أعاد %1 خطأ: %2
+        <translation>خطأ: أعاد %1 رمز خطأ: %2
 رسالة الخطأ: %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع لصق غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -14160,17 +14204,17 @@ Error message: %3</source>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.h" line="31"/>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ModIndex.h" line="272"/>
         <source> for %1</source>
-        <translation> من أجل 1%</translation>
+        <translation> لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
         <source>%1 Developers</source>
-        <translation>1% مطورين</translation>
+        <translation>مطورو %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="57"/>
@@ -14180,29 +14224,29 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="58"/>
         <source>With special thanks to</source>
-        <translation>مع جزيل الشكر لـ</translation>
+        <translation>مع خالص الشكر إلى</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="359"/>
         <source>No Minecraft profile</source>
-        <translation>لم يتم العثور على حساب الماينكرافت</translation>
+        <translation>لا يوجد ملف تعريف ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPack.cpp" line="282"/>
         <source>Unrecognized</source>
-        <translation>غير معروف</translation>
+        <translation>غير معرَّف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/DataPackPage.cpp" line="25"/>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="59"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>مودات</translation>
+        <translation>المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.cpp" line="24"/>
@@ -14218,13 +14262,13 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="39"/>
         <source>resources</source>
-        <translation>موارد</translation>
+        <translation>الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.cpp" line="24"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>حزم التظليل</translation>
+        <translation>حزم الشادر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.cpp" line="24"/>
@@ -14236,19 +14280,19 @@ Error message: %3</source>
         <location filename="src/launcher/minecraft/skins/SkinRequests.cpp" line="52"/>
         <location filename="src/launcher/screenshots/ImgurAPI.cpp" line="67"/>
         <source>Could not open file %1 for reading: %2</source>
-        <translation>تعذر فتح الملف %1 للقراءة: %2</translation>
+        <translation>تعذّر فتح الملف %1 للقراءة: %2</translation>
     </message>
 </context>
 <context>
     <name>Resource</name>
     <message>
         <source>Unknown</source>
-        <translation>مجهول</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="165"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
-        <translation>غير مصنف كمتوافق مع إصدار اللعبة الخاص بهذه النسخة.</translation>
+        <translation>غير مصنَّف كمتوافق مع إصدار لعبة هذه النسخة.</translation>
     </message>
 </context>
 <context>
@@ -14256,7 +14300,7 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>String that gets appended to the data pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
 </context>
 <context>
@@ -14264,12 +14308,12 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation>حزمة البيانات</translation>
+        <translation>داتاباك</translation>
     </message>
 </context>
 <context>
@@ -14277,7 +14321,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>مودات</translation>
+        <translation>المودات</translation>
     </message>
     <message>
         <source>Change %1 version</source>
@@ -14289,7 +14333,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>مودات</translation>
+        <translation>المودات</translation>
     </message>
     <message>
         <source>mod</source>
@@ -14307,23 +14351,23 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="87"/>
         <source>Ctrl+Return</source>
-        <translation>كنترول+عودة</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="115"/>
         <source>Confirmation Needed</source>
-        <translation>يتوجب التأكيد</translation>
+        <translation>التأكيد مطلوب</translation>
     </message>
     <message>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>لقد قمت باختيار 1% مصادر.
-هل أنت متأكد من رغبتك في اغلاق نافذة الحوار هذه؟</translation>
+        <translation>لقد حددت %1 من الموارد.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>فتح نافذة منبثقة جديدة لمراجعة %1 التي حددتها وتأكيد اختيارك. الاختصار: Ctrl+عودة</translation>
+        <translation>يفتح نافذة منبثقة جديدة لمراجعة %1 المحددة وتأكيد اختيارك. الاختصار: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="168"/>
@@ -14342,35 +14386,41 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>احباط</translation>
+        <translation>إيقاف</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>لقد حددت %n مورد.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
+            <numerusform>لقد حددت مورد واحد.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
+            <numerusform>لقد حددت موردين.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
+            <numerusform>لقد حددت %n موارد.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
+            <numerusform>لقد حددت %n موردًا.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
+            <numerusform>لقد حددت %n مورد.
+هل أنت متأكد أنك تريد إغلاق هذه النافذة؟</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="193"/>
         <source>Checking for dependencies...</source>
-        <translation>جار التحقق من الاعتماديات...</translation>
+        <translation>جارٍ التحقق من الاعتماديات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="351"/>
         <source>Change %1 version</source>
-        <translation>تغيير الإصدار %1</translation>
+        <translation>تغيير إصدار %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="378"/>
         <source>mods</source>
-        <translation>مودات</translation>
+        <translation>المودات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="414"/>
@@ -14385,23 +14435,23 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="456"/>
         <source>shader packs</source>
-        <translation>حزم التظليل</translation>
+        <translation>حزم الشادر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="477"/>
         <source>data packs</source>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="111"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>موارد</translation>
+        <translation>الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="80"/>
         <source>Download %1</source>
-        <translation>تحميل 1%</translation>
+        <translation>تنزيل %1</translation>
     </message>
 </context>
 <context>
@@ -14417,30 +14467,30 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="277"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation>حدث خطأ في الشبكة. تعذر تحميل إصدارات المشروع: %1</translation>
+        <translation>حدث خطأ في الشبكة. تعذّر تحميل إصدارات المشروع: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="305"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation>حدث خطأ في الشبكة. تعذر تحميل معلومات المشروع: %1</translation>
+        <translation>حدث خطأ في الشبكة. تعذّر تحميل معلومات المشروع: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="311"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation>تم إلغاء الطلب لسبب غير معروف</translation>
+        <translation>أُلغي الطلب لسبب غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="486"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>حدثت مشكلة فالشبكة. تعذر تحميل المودات.</translation>
+        <translation>حدث خطأ في الشبكة. تعذّر تحميل المودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="494"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>إصدار واجهة التطبيق قديم جدا!
-يرجى التحديث %1!</translation>
+        <translation>إصدار واجهة API قديم جدًا!
+يرجى تحديث %1!</translation>
     </message>
 </context>
 <context>
@@ -14461,7 +14511,7 @@ Please update %1!</source>
     <message>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>حزمة ‬موارد</translation>
+        <translation>حزمة موارد</translation>
     </message>
 </context>
 <context>
@@ -14470,38 +14520,38 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="145"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>البحث عن 1%...</translation>
+        <translation>البحث عن %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="146"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="322"/>
         <source>Select %1 for download</source>
-        <translation>اختر 1% من أجل التحميل</translation>
+        <translation>اختيار %1 للتنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
         <source> by </source>
-        <translation> حسب </translation>
+        <translation> بواسطة </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;تم أرشفة هذا المشروع. لن يحصل على تحديثات إلا إذا قرر المؤلف إزالة أرشفة هذا المشروع.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;تمت أرشفة هذا المشروع. لن يتلقى أي تحديثات إضافية ما لم يقرر المؤلف إلغاء أرشفته.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Donate information: </source>
-        <translation>معلومات الدعم: </translation>
+        <translation>معلومات التبرع: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="278"/>
         <source>External links:</source>
-        <translation>الروابط الخارجية:</translation>
+        <translation>روابط خارجية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>المشاكل: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>المشكلات: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="285"/>
@@ -14516,28 +14566,28 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>ديسكورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="320"/>
         <source>No version available for the selected pack</source>
-        <translation>لا توجد نسخ متوفرة للحزمة المختارة</translation>
+        <translation>لا يوجد إصدار متاح للحزمة المحددة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="324"/>
         <source>Deselect %1 for download</source>
-        <translation>إلغاء تحديد %1 للتحميل</translation>
+        <translation>إلغاء تحديد %1 للتنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="69"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation> [محملة]</translation>
+        <translation> [مثبَّت]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="424"/>
         <source>No valid version found.</source>
-        <translation>لم يتم العثور على إصدار صالح.</translation>
+        <translation>لم يُعثر على إصدار صالح.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="311"/>
@@ -14551,49 +14601,49 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="72"/>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [محدد]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="452"/>
         <source>Loading versions...</source>
-        <translation>جاري تحميل النسخ...</translation>
+        <translation>جارٍ تحميل الإصدارات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="570"/>
         <source>No versions available</source>
-        <translation>لا توجد نسخ متوفرة</translation>
+        <translation>لا توجد إصدارات متاحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="571"/>
         <source>No versions for &apos;%1&apos; are available.
 The author likely blocked third-party launchers.</source>
-        <translation>لا توجد نسخة لـ &quot;1%&quot; متوفرة
-من المرجح أن المنشئ قام بحظر مشغلات الطرف الثالث.</translation>
+        <translation>لا توجد إصدارات متاحة لـ &quot;%1&quot;.
+من المرجح أن المؤلف حظر مشغّلات الأطراف الثالثة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="639"/>
         <source>Reinstall</source>
-        <translation>اعادة تحميل</translation>
+        <translation>إعادة التثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="640"/>
         <source>Ctrl+Return</source>
-        <translation>ctrl+عودة</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="646"/>
         <source>Cancel</source>
-        <translation>الغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="664"/>
         <source>The resource was not found</source>
-        <translation>تعذر العثور على المورد</translation>
+        <translation>لم يُعثر على المورد</translation>
     </message>
     <message>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation>موارد</translation>
+        <translation>الموارد</translation>
     </message>
     <message>
         <source>resource</source>
@@ -14606,7 +14656,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>حزم التظليل</translation>
+        <translation>حزم الشادر</translation>
     </message>
 </context>
 <context>
@@ -14614,12 +14664,12 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>حزم التظليل</translation>
+        <translation>حزم الشادر</translation>
     </message>
     <message>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>حزمة تظليل</translation>
+        <translation>حزمة شادر</translation>
     </message>
 </context>
 <context>
@@ -14640,7 +14690,7 @@ The author likely blocked third-party launchers.</source>
     <message>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>حزمة مظهر</translation>
+        <translation>حزمة خامات</translation>
     </message>
 </context>
 <context>
@@ -14648,19 +14698,19 @@ The author likely blocked third-party launchers.</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="69"/>
         <source>Resource download</source>
-        <translation>تنزيل الموارد</translation>
+        <translation>تنزيل المورد</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="70"/>
         <source>Downloading resource:
 %1</source>
-        <translation>تنزيل المورد:
-1%</translation>
+        <translation>جارٍ تنزيل المورد:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="126"/>
         <source>Failed to rename shader config from &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation>تعذر إعادة تسمية إعدادات الظلال من &apos;%1&apos; إلى &apos;%2&apos;</translation>
+        <translation>تعذّرت إعادة تسمية إعدادات الشادر من &apos;%1&apos; إلى &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -14670,14 +14720,14 @@ The author likely blocked third-party launchers.</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-تحذير: هذا المورد مرتبط رمزيًا من مصدر آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.
-المسار الأساسي: %1</translation>
+تحذير: هذا المورد مرتبط رمزيًا من مكان آخر. تعديله سيغيّر الأصل أيضًا.
+المسار القانوني: %1</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-تحذير: هذا المورد مُرتبط ارتباطًا وثيقًا بمكان آخر. تعديله سيُغيّر المصدر الأصلي أيضًا.</translation>
+تحذير: هذا المورد مرتبط ارتباطًا صلبًا بمكان آخر. تعديله سيغيّر الأصل أيضًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -14696,17 +14746,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Size</source>
-        <translation>حجم</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
         <source>Provider</source>
-        <translation>الموفر</translation>
+        <translation>المزوّد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="260"/>
@@ -14726,27 +14776,30 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="270"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>اذا قمت بتفعيل/تعطيل هذا المورد اثناء تشغيل اللعبة. قد يؤدي ذلك الى تعطلها
-هل أنت متأكد من القيام بذلك؟</translation>
+        <translation>إذا فعّلت/عطّلت هذا المورد أثناء تشغيل اللعبة فقد تتعطل.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="566"/>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا المورد مرتبط رمزيًا من مكان آخر. تعديله سيغيّر الأصل أيضًا.
+المسار القانوني: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا المورد مرتبط ارتباطًا صلبًا بمكان آخر. تعديله سيغيّر الأصل أيضًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>هل المورد مفعل؟</translation>
+        <translation>هل المورد مفعَّل؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="660"/>
@@ -14756,17 +14809,17 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار المورد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation>تاريخ وتوقيت اخر تعديل (او اضافة) لهذا المورد.</translation>
+        <translation>تاريخ ووقت آخر تغيير (أو إضافة) لهذا المورد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="666"/>
         <source>The source provider of the resource.</source>
-        <translation>مصدر المورد.</translation>
+        <translation>مزوّد المصدر لهذا المورد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="668"/>
@@ -14781,17 +14834,17 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="796"/>
         <source>Override Columns Visibility</source>
-        <translation>استبدال رؤية الأعمدة</translation>
+        <translation>تجاوز ظهور الأعمدة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="809"/>
         <source>Show / Hide Columns</source>
-        <translation>أظهر / أخفي الأعمدة</translation>
+        <translation>إظهار / إخفاء الأعمدة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="812"/>
         <source>Image</source>
-        <translation type="unfinished">صورة</translation>
+        <translation>الصورة</translation>
     </message>
 </context>
 <context>
@@ -14802,7 +14855,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
+        <translation>الصورة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -14812,22 +14865,22 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Size</source>
-        <translation>حجم</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Provider</source>
-        <translation>الموفر</translation>
+        <translation>المزوّد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>File Name</source>
-        <translation>آسم الملف</translation>
+        <translation>اسم الملف</translation>
     </message>
     <message>
         <source>Update</source>
@@ -14836,7 +14889,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="178"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار حزمة الموارد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="189"/>
@@ -14852,7 +14905,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="181"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>معرف تنسيق حزمة الموارد، بالإضافة إلى إصدارات ماينكرافت المصممة لها.</translation>
+        <translation>معرّف صيغة حزمة الموارد، بالإضافة إلى إصدارات ماين كرافت التي صُمِّمت لها.</translation>
     </message>
     <message>
         <source>
@@ -14871,12 +14924,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
         <source>Is the resource pack enabled?</source>
-        <translation>هل حزمة الموارد مفعلة؟</translation>
+        <translation>هل حزمة الموارد مفعَّلة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="185"/>
         <source>The source provider of the resource pack.</source>
-        <translation>موفر حزمة الموارد.</translation>
+        <translation>مزوّد حزمة الموارد.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="187"/>
@@ -14891,7 +14944,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Pack Format</source>
-        <translation>تنسيق الحزمة</translation>
+        <translation>صيغة الحزمة</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -14905,7 +14958,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="183"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>تاريخ وتوقيت اخر تعديل (او اضافة) لحزمة الموارد هاته.</translation>
+        <translation>تاريخ ووقت آخر تغيير (أو إضافة) لحزمة الموارد هذه.</translation>
     </message>
 </context>
 <context>
@@ -14917,22 +14970,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>تحميل الحزم</translation>
+        <translation>تنزيل الحزم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation>تنزيل حزم الموارد من منصات المودات عبر الإنترنت</translation>
+        <translation>تنزيل حزم الموارد من منصات المودات على الإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>حاول فحص او تحديث حزم الموارد المختارة (جميع حزم الموارد إذا لم يتم تحديد أي منها)</translation>
+        <translation>محاولة التحقق من كل حزم الموارد المحددة أو تحديثها (كل حزم الموارد إذا لم يُحدَّد أي منها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation>تغيير إصدار مود ما.</translation>
+        <translation>تغيير إصدار المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -14946,22 +14999,28 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة موارد.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمة موارد واحدة.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمتي موارد.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزم موارد.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة موارد.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة موارد.
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>ألغيت</translation>
+        <translation>أُلغيت</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التحميل من طرف المستخدم.</translation>
+        <translation>أوقف المستخدم التنزيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
@@ -14971,7 +15030,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>انهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
@@ -14989,33 +15048,33 @@ Are you sure?</source>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>قد يؤدي تحديث حزم الموارد أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
-قد لا يتم حذف الملفات القديمة لأنها قيد الاستخدام.
-هل أنت متأكد من رغبتك في القيام بذلك؟</translation>
+        <translation>قد يؤدي تحديث حزم الموارد أثناء تشغيل اللعبة إلى تكرار الحزم وتعطّل اللعبة.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <source>The resource pack updater was aborted!</source>
-        <translation>تم الغاء تحديث حزمة الموارد!</translation>
+        <translation>أُلغي مُحدِّث حزم الموارد!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;%1&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدَّث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="164"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation>جميع حزم الموارد محدثة :)</translation>
+        <translation>كل حزم الموارد محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation>جميع حزم الموارد المختارة محدثة :)</translation>
+        <translation>كل حزم الموارد المحددة محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="169"/>
         <source>Update checker</source>
-        <translation>فاحص التحديثات</translation>
+        <translation>مدقق التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
@@ -15061,12 +15120,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="76"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation>سوف تقوم بتحديث الموارد التالية:</translation>
+        <translation>أنت على وشك تحديث الموارد التالية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Only resources with a check will be updated!</source>
-        <translation>سيتم تحديث الموارد المحددة بعلامة اختيار فقط!</translation>
+        <translation>لن يتم تحديث سوى الموارد المحددة بعلامة اختيار!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="95"/>
@@ -15076,17 +15135,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="98"/>
         <source>Metadata generation failed</source>
-        <translation>تعذر توليد بيانات التعريف</translation>
+        <translation>فشل توليد البيانات الوصفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="99"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>تعذر توليد البيانات الوصفية للموارد التالية:&lt;br&gt;هل تريد المتابعة بدون هاته الموارد؟</translation>
+        <translation>تعذّر توليد البيانات الوصفية للموارد التالية:&lt;br&gt;هل تريد المتابعة بدون هذه الموارد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="112"/>
         <source>Checking for updates</source>
-        <translation>جار التحقق من التحديثات</translation>
+        <translation>جارٍ التحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="133"/>
@@ -15105,84 +15164,84 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="145"/>
         <source>Checking for updates...</source>
-        <translation>جار التحقق من التحديثات...</translation>
+        <translation>جارٍ التحقق من التحديثات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="191"/>
         <source>Mod name: %1</source>
-        <translation>اسم الإضافة:%1</translation>
+        <translation>اسم المود: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="193"/>
         <source>Reason: %1</source>
-        <translation>السبب:%1</translation>
+        <translation>السبب: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="197"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>حل محتمل: تنزيل الإصدار الأحدث يدويا: &lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>حل محتمل: الحصول على أحدث إصدار يدويًا:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="203"/>
         <source>Failed to check for updates</source>
-        <translation>تعذر التحقق من التحديثات</translation>
+        <translation>فشل التحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="204"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>تعذر التحقق من الموارد التالية أو جلب تحديثاتها:&lt;br&gt;هل ترغب في المتابعة من دون هذه الموارد؟</translation>
+        <translation>تعذّر التحقق من تحديثات الموارد التالية أو جلبها:&lt;br&gt;هل تريد المتابعة بدون هذه الموارد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل المودات غير المتاحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="248"/>
         <source>Checking for dependencies...</source>
-        <translation>جار التحقق من التبعيات...</translation>
+        <translation>جارٍ التحقق من الاعتماديات...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="270"/>
         <source>Not installed</source>
-        <translation>ليس مثبت</translation>
+        <translation>غير مثبَّت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="307"/>
         <source>Looking for metadata</source>
-        <translation>جار البحث عن بيانات التعريف</translation>
+        <translation>جارٍ البحث عن البيانات الوصفية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="353"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>لا يحتوي المورد &apos;%1&apos; على بيانات وصفية حتى الأن. نحتاج إلى إنشائها لتتبع المعلومات ذات الصلة بكيفية تحديث هذا المود. للقيام بذلك، يرجى تحديد موفر مودات يمكننا استخدامه للتحقق من تحديثات هذا المود.</translation>
+        <translation>لا تتوفر للمورد &apos;%1&apos; بيانات وصفية بعد. نحتاج إلى توليدها لتتبّع المعلومات المتعلقة بكيفية تحديث هذا المود. للقيام بذلك، يرجى اختيار مزوّد مودات يمكننا استخدامه للتحقق من تحديثات هذا المود.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
         <source>Generating metadata...</source>
-        <translation>جار توليد بيانات التعريف...</translation>
+        <translation>جارٍ توليد البيانات الوصفية...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="459"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>لم يتم الحصول على إصدار صالح لموفر(ي) الإضافات</translation>
+        <translation>تعذّر العثور على إصدار صالح لدى مزوّد (مزوّدي) المودات المحدد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="470"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation>عطل المود لأنه مثبت فعلا.</translation>
+        <translation>عُطِّل المود لأنه قد يكون مثبَّتًا بالفعل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="477"/>
         <source>Provider: %1</source>
-        <translation>الموفر: %1</translation>
+        <translation>المزوّد: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="481"/>
@@ -15212,7 +15271,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="512"/>
         <source>Changelog of the latest version</source>
-        <translation>سجل التغييرات لآخر إصدار</translation>
+        <translation>سجل التغييرات لأحدث إصدار</translation>
     </message>
 </context>
 <context>
@@ -15220,7 +15279,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation>عودة</translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="46"/>
@@ -15236,17 +15295,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="86"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation>عطل المود لأنه مثبت فعلا.</translation>
+        <translation>عُطِّل المود لأنه قد يكون مثبَّتًا بالفعل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Filename: %1</source>
-        <translation>اسم الملف: 1%</translation>
+        <translation>اسم الملف: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="94"/>
         <source>Provider: %1</source>
-        <translation>الموفر: %1</translation>
+        <translation>المزوّد: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="100"/>
@@ -15261,7 +15320,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Version Type: %1</source>
-        <translation>نوع الاصدار: 1%</translation>
+        <translation>نوع الإصدار: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="140"/>
@@ -15271,17 +15330,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="142"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>أنت على وشك تنزيل الـ%1 التالية:</translation>
+        <translation>أنت على وشك تنزيل %1 التالية:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="143"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>سيتم تنزيل %1 المحددة بعلامة صح فقط!</translation>
+        <translation>لن يتم تنزيل سوى %1 المحددة بعلامة اختيار!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="46"/>
         <source>Resources</source>
-        <translation>موارد</translation>
+        <translation>الموارد</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="65"/>
@@ -15309,7 +15368,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="80"/>
         <source>Rename</source>
-        <translation>تغيير الاسم</translation>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="85"/>
@@ -15345,7 +15404,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>أنت على وشك رفع %1 من لقطات الشاشة إلى %2.
-يرجى التحقق جيدا من عدم وجود أي معلومات شخصية.
+ينبغي أن تتحقق مرة أخرى من عدم وجود معلومات شخصية.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -15356,7 +15415,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>أنت على وشك رفع لقطة الشاشة المحددة إلى %1.
-يرجى التحقق جيدا من عدم وجود أي معلومات شخصية.
+ينبغي أن تتحقق مرة أخرى من عدم وجود معلومات شخصية.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -15365,12 +15424,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="474"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Failed to upload screenshots!</source>
-        <translation>فشل في رفع لقطات الشاشة!</translation>
+        <translation>فشل رفع لقطات الشاشة!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
         <source>Unknown error</source>
-        <translation>خطأ مجهول</translation>
+        <translation>خطأ غير معروف</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="537"/>
@@ -15378,42 +15437,60 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك حذف %n لقطة شاشة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف لقطة شاشة واحدة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف لقطتي شاشة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n لقطات شاشة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n لقطة شاشة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n لقطة شاشة.
+قد يكون هذا دائمًا وستختفي من المجلد.
+
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="487"/>
         <source>Upload finished</source>
-        <translation>انتهى الرفع</translation>
+        <translation>اكتمل الرفع</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <source>Screenshots upload aborted</source>
-        <translation>تم إلغاء رفع لقطات الشاشة</translation>
+        <translation>أُلغي رفع لقطات الشاشة</translation>
     </message>
     <message>
         <source>The task has been aborted by the user.</source>
-        <translation>المهمة قد أُلغيت عن طريق المستخدم.</translation>
+        <translation>ألغى المستخدم المهمة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="450"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>تم نسخ &lt;a href=&quot;%1&quot;&gt;رابط اللقطة المرفوعة&lt;/a&gt; إلى الحافظة.</translation>
+        <translation>تم وضع &lt;a href=&quot;%1&quot;&gt;رابط لقطة الشاشة المرفوعة&lt;/a&gt; في الحافظة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="488"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>تم نسخ &lt;a href=&quot;%1&quot;&gt;رابط الألبوم المرفوع&lt;/a&gt; إلى الحافظة.</translation>
+        <translation>تم وضع &lt;a href=&quot;%1&quot;&gt;رابط الألبوم المرفوع&lt;/a&gt; في الحافظة.</translation>
     </message>
     <message>
         <source>You are about to delete %1 screenshots.
@@ -15421,7 +15498,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>أنت على وشك حذف %1 من لقطات الشاشة.
-قد يكون هذا الحذف نهائيا وستتم إزالتها تماما من المجلد.
+قد يكون هذا دائمًا وستختفي من المجلد.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -15432,7 +15509,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>أنت على وشك حذف لقطة الشاشة المحددة.
-قد يكون هذا الحذف نهائيا وستتم إزالتها تماما من المجلد.
+قد يكون هذا دائمًا وستختفي من المجلد.
 
 هل أنت متأكد؟</translation>
     </message>
@@ -15478,7 +15555,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
-        <translation>حدد نسخة للتثبيت.</translation>
+        <translation>اختر إصدارًا للتثبيت.</translation>
     </message>
 </context>
 <context>
@@ -15486,12 +15563,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation>حدد إصدارا للتثبيت</translation>
+        <translation>اختر إصدارًا للتثبيت</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation>يرجى تحديد الإصدار الذي ترغب في التحديث إليه.</translation>
+        <translation>يرجى اختيار الإصدار الذي تريد التحديث إليه.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
@@ -15508,9 +15585,9 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>حدد إصدارا للتثبيت.
+        <translation>اختر إصدارًا للتثبيت.
 
-الاصدار المثبت حاليا: %1</translation>
+الإصدار المثبَّت حاليًا: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -15528,7 +15605,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>جار تنفيذ المهمة %1 من أصل %2</translation>
+        <translation>جارٍ تنفيذ المهمة %1 من %2</translation>
     </message>
 </context>
 <context>
@@ -15546,7 +15623,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="302"/>
         <source>Online</source>
-        <translation>متصل على الانترنت</translation>
+        <translation>متصل</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -15573,17 +15650,17 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="112"/>
         <source>Ask to download</source>
-        <translation>اسأل عند الحاجة للتنزيل</translation>
+        <translation>السؤال قبل التنزيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="117"/>
         <source>Always download</source>
-        <translation>نزِّل دون السؤال</translation>
+        <translation>التنزيل دائمًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="122"/>
         <source>Never download</source>
-        <translation>لا تنزّل أبدًا</translation>
+        <translation>عدم التنزيل أبدًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="133"/>
@@ -15603,22 +15680,22 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Up</source>
-        <translation>التحريك للأعلى</translation>
+        <translation>تحريك لأعلى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Move Down</source>
-        <translation>التحريك للأسفل</translation>
+        <translation>تحريك لأسفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="180"/>
         <source>Join</source>
-        <translation>إنضمام</translation>
+        <translation>انضمام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="185"/>
         <source>Refresh</source>
-        <translation>إنعاش</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="63"/>
@@ -15636,13 +15713,31 @@ Currently installed version: %1</source>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة %n خادم محدد.
+هذا الإجراء دائم وستُزال الخوادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة الخادم المحدد.
+هذا الإجراء دائم وسيُزال الخادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة الخادمين المحددين.
+هذا الإجراء دائم وسيُزال الخادمان من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n خوادم محددة.
+هذا الإجراء دائم وستُزال الخوادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n خادمًا محددًا.
+هذا الإجراء دائم وستُزال الخوادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة %n خادم محدد.
+هذا الإجراء دائم وستُزال الخوادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
@@ -15656,8 +15751,8 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>أنت على وشك ازالة &quot;%1&quot;.
-هذا الإجراء نهائي وستتم ازالة الخادم من قائمتك إلى الأبد (لوقت طويل جدا).
+        <translation>أنت على وشك إزالة &quot;%1&quot;.
+هذا الإجراء دائم وسيختفي الخادم من قائمتك إلى الأبد (لفترة طويلة جدًا).
 
 هل أنت متأكد؟</translation>
     </message>
@@ -15672,17 +15767,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>السا&amp;بق &lt;</translation>
+        <translation>&lt; ال&amp;سابق</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>إن&amp;هاء</translation>
+        <translation>إ&amp;نهاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>إ&amp;نعاش</translation>
+        <translation>&amp;تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -15695,12 +15790,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="34"/>
         <source>Failed to migrate shaderpack metadata from .index</source>
-        <translation>تعذر ترحيل البيانات الوصفية لحزم الشادر من .index</translation>
+        <translation>تعذّر ترحيل البيانات الوصفية لحزم الشادر من .index</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ShaderPackFolderModel.cpp" line="39"/>
         <source>Failed to remove old .index dir</source>
-        <translation>فشل حذف مجلد .index القديم</translation>
+        <translation>تعذّرت إزالة مجلد .index القديم</translation>
     </message>
 </context>
 <context>
@@ -15713,17 +15808,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation>تنزيل حزم التظليل من منصات المودات عبر الإنترنت</translation>
+        <translation>تنزيل حزم الشادر من منصات المودات على الإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="58"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>محاولة التحقق من جميع حزم التظليل المحددة أو تحديثها (جميع حزم التظليل إذا لم يتم تحديد أي منها)</translation>
+        <translation>محاولة التحقق من كل حزم الشادر المحددة أو تحديثها (كل حزم الشادر إذا لم يُحدَّد أي منها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="72"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation>تغيير إصدار حزمة التظليل.</translation>
+        <translation>تغيير إصدار حزمة الشادر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="94"/>
@@ -15737,22 +15832,28 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة شادر.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمة شادر واحدة.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمتي شادر.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزم شادر.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة شادر.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة شادر.
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>تم الإلغاء</translation>
+        <translation>أُلغيت</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التحميل بواسطة المستخدم.</translation>
+        <translation>أوقف المستخدم التنزيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="99"/>
@@ -15762,13 +15863,13 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="125"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="218"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation>تحديثات حزم التظليل غير متوفرة عند تعطيل البيانات الوصفية!</translation>
+        <translation>تحديثات حزم الشادر غير متاحة عند تعطيل البيانات الوصفية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="130"/>
@@ -15780,33 +15881,33 @@ Are you sure?</source>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>قد يؤدي تحديث حزم التظليل أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
-قد لا يتم حذف الملفات القديمة لأنها قيد الاستخدام حاليا.
-هل أنت متأكد من رغبتك في المتابعة؟</translation>
+        <translation>قد يؤدي تحديث حزم الشادر أثناء تشغيل اللعبة إلى تكرار الحزم وتعطّل اللعبة.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <source>The shader pack updater was aborted!</source>
-        <translation>تم إلغاء أداة تحديث حزم التظليل!</translation>
+        <translation>أُلغي مُحدِّث حزم الشادر!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="156"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;%1&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدَّث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="159"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation>جميع حزم التظليل محدثة إلى اخر اصدار! :)</translation>
+        <translation>كل حزم الشادر محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="161"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation>جميع حزم التظليل المحددة محدثة إلى اخر اصدار! :)</translation>
+        <translation>كل حزم الشادر المحددة محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="164"/>
         <source>Update checker</source>
-        <translation>فاحص التحديثات</translation>
+        <translation>مدقق التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="200"/>
@@ -15816,20 +15917,20 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>أنت على وشك ازالة البيانات الوصفية لـ %1 من حزم التظليل.
+        <translation>أنت على وشك إزالة البيانات الوصفية لـ %1 من حزم الشادر.
 هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
         <source>Shader Packs</source>
-        <translation>حزم التظليل</translation>
+        <translation>حزم الشادر</translation>
     </message>
 </context>
 <context>
     <name>SkinDelete</name>
     <message>
         <source>Deleting skin</source>
-        <translation>جار حذف المظهر</translation>
+        <translation>جارٍ حذف الشخصية</translation>
     </message>
 </context>
 <context>
@@ -15847,7 +15948,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="300"/>
         <source>Not a file.</source>
-        <translation>ليس ملفا.</translation>
+        <translation>ليس ملفًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="302"/>
@@ -15857,12 +15958,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="304"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>يجب أن تكون صور المظهر (Skin) بتنسيق PNG وبأبعاد 64×64 أو 64×32 بكسل.</translation>
+        <translation>يجب أن تكون صور الشخصية ملفات PNG بأبعاد 64×64 أو 64×32 بكسل.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="308"/>
         <source>Unable to copy file</source>
-        <translation>تعذر نسخ الملف</translation>
+        <translation>تعذّر نسخ الملف</translation>
     </message>
 </context>
 <context>
@@ -15872,12 +15973,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Skin Upload</source>
-        <translation>رفع مظهر اللاعب</translation>
+        <translation>رفع شخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="33"/>
         <source>Model</source>
-        <translation>نموذج</translation>
+        <translation>الطراز</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="39"/>
@@ -15892,22 +15993,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Cape</source>
-        <translation>عباءة</translation>
+        <translation>الرداء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="65"/>
         <source>Preview Elytra</source>
-        <translation>معاينة الأجنحة</translation>
+        <translation>معاينة الأجنحة (Elytra)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
         <source>Open Folder</source>
-        <translation>افتح المجلد</translation>
+        <translation>فتح مجلد الأيقونات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
         <source>Reset Skin</source>
-        <translation>إعادة ضبط المظهر (Skin)</translation>
+        <translation>إعادة ضبط الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="149"/>
@@ -15922,32 +16023,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="163"/>
         <source>Import File</source>
-        <translation>استيراد من الملف</translation>
+        <translation>استيراد من ملف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="185"/>
         <source>&amp;Delete Skin</source>
-        <translation>حذف المظهر</translation>
+        <translation>&amp;حذف الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="188"/>
         <source>Deletes selected skin</source>
-        <translation>يتم حذف المظاهر المختارة</translation>
+        <translation>يحذف الشخصية المحددة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="191"/>
         <source>Del</source>
-        <translation>حذف</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="196"/>
         <source>&amp;Rename Skin</source>
-        <translation>&amp; اعادة تسمية المظهر (Skin)</translation>
+        <translation>&amp;إعادة تسمية الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="199"/>
         <source>Rename selected skin</source>
-        <translation>إعادة تسمية المظهر (Skin) المحدد</translation>
+        <translation>إعادة تسمية الشخصية المحددة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="202"/>
@@ -15967,52 +16068,52 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="159"/>
         <source>Select Skin Texture</source>
-        <translation>اختر شكل المظهر (skin)</translation>
+        <translation>اختر ملف الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="165"/>
         <source>Selected file is not a valid skin</source>
-        <translation>الملف المحدد ليس مظهرا (Skin) صالحا</translation>
+        <translation>الملف المحدد ليس شخصية صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="194"/>
         <source>No Cape</source>
-        <translation>بدون وشاح (Cape)</translation>
+        <translation>بدون رداء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="201"/>
         <source>Download capes</source>
-        <translation>تنزيل الأوشحة (Capes)</translation>
+        <translation>تنزيل الأردية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="290"/>
         <source>Change skin</source>
-        <translation>تغيير المظهر (Skin)</translation>
+        <translation>تغيير الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="293"/>
         <source>Skin file does not exist!</source>
-        <translation>ملف المظهر (skin) غير موجود!</translation>
+        <translation>ملف الشخصية غير موجود!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="307"/>
         <source>Failed to upload skin!</source>
-        <translation>فشل في رفع المظهر (skin)!</translation>
+        <translation>فشل رفع الشخصية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="318"/>
         <source>Reset skin</source>
-        <translation>إعادة ضبط المظهر (Skin)</translation>
+        <translation>إعادة ضبط الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Skin Delete</source>
-        <translation>حذف المظهر (skin)</translation>
+        <translation>حذف الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Failed to delete current skin!</source>
-        <translation>فشل في حذف المظهر (skin) الحالي!</translation>
+        <translation>فشل حذف الشخصية الحالية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
@@ -16022,12 +16123,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
         <source>Delete error</source>
-        <translation>خطأ أثناء الحذف</translation>
+        <translation>خطأ في الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="372"/>
         <source>Can not delete skin that is in use.</source>
-        <translation>لا يمكن حذف مظهر (Skin) قيد الاستخدام.</translation>
+        <translation>لا يمكن حذف شخصية قيد الاستخدام.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="381"/>
@@ -16045,65 +16146,65 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
-        <translation>الرابط غير صالح</translation>
+        <translation>رابط غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="403"/>
         <source>Download skin</source>
-        <translation>تنزيل المظهر (Skin)</translation>
+        <translation>تنزيل الشخصية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="412"/>
         <source>URL is not a valid skin</source>
-        <translation>الرابط لا يحتوي على مظهر (Skin) صالح</translation>
+        <translation>الرابط لا يحتوي على شخصية صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="413"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation>يجب أن تكون صور المظهر (Skin) بتنسيق PNG وبأبعاد 64×64 أو 64×32 بكسل.</translation>
+        <translation>يجب أن تكون صور الشخصية ملفات PNG بأبعاد 64×64 أو 64×32 بكسل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="414"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>تعذر تنزيل المظهر : &apos;%1&apos;.</translation>
+        <translation>تعذّر تنزيل الشخصية: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
         <source>Download user skin</source>
-        <translation>تنزيل مظهر (Skin) المستخدم</translation>
+        <translation>تنزيل شخصية مستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="462"/>
         <source>failed to get user UUID</source>
-        <translation>فشل جلب المعرف الفريد (UUID) للمستخدم</translation>
+        <translation>فشل جلب UUID للمستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="466"/>
         <source>failed to get user profile</source>
-        <translation>فشل جلب الملف التعريفي للمستخدم</translation>
+        <translation>فشل جلب ملف تعريف المستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="470"/>
         <source>failed to download skin</source>
-        <translation>فشل تنزيل المظهر (Skin)</translation>
+        <translation>فشل تنزيل الشخصية</translation>
     </message>
     <message>
         <source>failed to parse get user UUID response</source>
-        <translation>فشل تحليل الاستجابة الخاصة بالمعرف الفريد (UUID) للمستخدم</translation>
+        <translation>فشل تحليل استجابة جلب UUID للمستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="452"/>
         <source>user id is empty</source>
-        <translation>معرف المستخدم (user id) فارغ</translation>
+        <translation>معرّف المستخدم فارغ</translation>
     </message>
     <message>
         <source>failed to parse get user profile response</source>
-        <translation>فشل تحليل الاستجابة الخاصة بالملف التعريفي للمستخدم</translation>
+        <translation>فشل تحليل استجابة جلب ملف تعريف المستخدم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="482"/>
         <source>the skin is invalid</source>
-        <translation>المظهر غير صالح</translation>
+        <translation>الشخصية غير صالحة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="484"/>
@@ -16115,7 +16216,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation>تعذر العثور على مظهر &apos;%1&apos;
+        <translation>تعذّر العثور على شخصية &apos;%1&apos;
 بسبب: %2.</translation>
     </message>
 </context>
@@ -16123,7 +16224,7 @@ Are you sure?</source>
     <name>SkinUpload</name>
     <message>
         <source>Uploading skin</source>
-        <translation>جار رفع المظهر</translation>
+        <translation>جارٍ رفع الشخصية</translation>
     </message>
 </context>
 <context>
@@ -16182,7 +16283,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation>صيغة</translation>
+        <translation>نموذج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -16215,7 +16316,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation>تحديث النموذج باء بالفشل بسبب: %1
+        <translation>فشل تحديث النسخة بسبب: %1
 
 </translation>
     </message>
@@ -16226,23 +16327,23 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="43"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>جار تنزيل حزمة الإضافات:
+        <translation>جارٍ تنزيل المودباك:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="48"/>
         <source>Modpack download</source>
-        <translation>تنزيل حزمة إضافات</translation>
+        <translation>تنزيل المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="63"/>
         <source>Extracting modpack</source>
-        <translation>جار استخراج حزمة الإضافات</translation>
+        <translation>جارٍ استخراج المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استخراج المودباك: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -16250,17 +16351,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation>فشل في إستخراج حزمة الإضافات</translation>
+        <translation>تعذّر استخراج المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="110"/>
         <source>Could not fix permissions for %1</source>
-        <translation>تعذر إصلاح الأذونات لـ %1</translation>
+        <translation>تعذّر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Instance import has been aborted.</source>
-        <translation>نم إلغاء استيراد النموذج.</translation>
+        <translation>أُلغي استيراد النسخة.</translation>
     </message>
 </context>
 <context>
@@ -16285,7 +16386,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="68"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="70"/>
         <source>Resolving modpack files</source>
-        <translation>جار تحليل ملفات حزمة الإضافات</translation>
+        <translation>جارٍ تحديد ملفات المودباك</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -16295,89 +16396,89 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="84"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="103"/>
         <source>Downloading modpack</source>
-        <translation>جار تنزيل حزمة الإضافات</translation>
+        <translation>جارٍ تنزيل المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="95"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>تعذر فهم ملف بيان الحزمة:
+        <translation>تعذّر فهم ملف بيان الحزمة:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="132"/>
         <source>Extracting modpack</source>
-        <translation>جار استخراج حزمة الإضافات</translation>
+        <translation>جارٍ استخراج المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استخراج المودباك: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
-        <translation>فشل في إستخراج حزمة الإضافات</translation>
+        <translation>تعذّر استخراج المودباك</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="190"/>
         <source>Could not fix permissions for %1</source>
-        <translation>تعذر إصلاح الأذونات لـ %1</translation>
+        <translation>تعذّر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Instance import has been aborted.</source>
-        <translation>نم إلغاء استيراد النموذج.</translation>
+        <translation>أُلغي استيراد النسخة.</translation>
     </message>
 </context>
 <context>
     <name>Technic::TechnicPackProcessor</name>
     <message>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>لا يمكن فتح ملف &quot;bin/modpack.jar&quot;!</translation>
+        <translation>تعذّر فتح الملف &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>لا يمكن فتح &quot;fmlversion.properties&quot;!</translation>
+        <translation>تعذّر فتح &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>لا يمكن فتح &quot;version.json&quot;!</translation>
+        <translation>تعذّر فتح &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فتح الملف &quot;bin/modpack.jar&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فتح &quot;fmlversion.properties&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>تعذر إيجاد &quot;version.json&quot; بداخل &quot;bin/modpack.jar&quot;، إلا أن إصدار ماينكرافت مجهول</translation>
+        <translation>تعذّر العثور على &quot;version.json&quot; داخل &quot;bin/modpack.jar&quot;، لكن إصدار ماين كرافت غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فتح &quot;forgeversion.properties&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>لا يمكن فتح &quot;forgeversion.properties&quot;</translation>
+        <translation>تعذّر فتح &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="106"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>ملف &quot;forgeversion.properties&quot; خاطئ!</translation>
+        <translation>ملف &quot;forgeversion.properties&quot; غير صالح!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="74"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Unable to open &quot;version.json&quot;: %1</source>
-        <translation>تعذر فتح &quot;version.json &quot;: %1</translation>
+        <translation>تعذّر فتح &quot;version.json&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -16387,14 +16488,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="142"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>تعذرت معالجة &quot;version.json&quot;:
-مجال inheritsForms مفقود</translation>
+        <translation>تعذّر فهم &quot;version.json&quot;:
+الحقل inheritsFrom مفقود</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="135"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>تعذرت معالحة &quot;version.json&quot;:
+        <translation>تعذّر فهم &quot;version.json&quot;:
 </translation>
     </message>
 </context>
@@ -16424,7 +16525,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="225"/>
         <source> by </source>
-        <translation> حسب </translation>
+        <translation> بواسطة </translation>
     </message>
     <message>
         <source>Technic</source>
@@ -16439,7 +16540,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Image</source>
-        <translation>صورة</translation>
+        <translation>الصورة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
@@ -16459,7 +16560,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Provider</source>
-        <translation>الموفر</translation>
+        <translation>المزوّد</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
@@ -16469,7 +16570,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="50"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Update</source>
@@ -16478,7 +16579,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="169"/>
         <source>The file name of the texture pack.</source>
-        <translation>اسم ملف حزمة المظهر.</translation>
+        <translation>اسم ملف حزمة الخامات.</translation>
     </message>
     <message>
         <source>
@@ -16497,32 +16598,32 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="157"/>
         <source>Is the texture pack enabled?</source>
-        <translation>هل حزمة الرسوميات هذه مفعلة؟</translation>
+        <translation>هل حزمة الخامات مفعَّلة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="159"/>
         <source>The name of the texture pack.</source>
-        <translation>إسم حزمة الرسوميات.</translation>
+        <translation>اسم حزمة الخامات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
         <source>The version of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار حزمة الخامات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation>التاريخ والوقت الذي تم فيه تغيير حزمة الرسوميات آخر مرة (أو تمت إضافته).</translation>
+        <translation>تاريخ ووقت آخر تغيير (أو إضافة) لحزمة الخامات هذه.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="165"/>
         <source>The source provider of the texture pack.</source>
-        <translation>المصدر المزود لحزمة المظهر.</translation>
+        <translation>المزوّد المصدر لحزمة الخامات.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="167"/>
         <source>The size of the texture pack.</source>
-        <translation>مساحة حزمة الرسوميات.</translation>
+        <translation>حجم حزمة الخامات.</translation>
     </message>
 </context>
 <context>
@@ -16530,32 +16631,32 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="53"/>
         <source>Texture packs</source>
-        <translation>حزم الرسوميات</translation>
+        <translation>حزم الخامات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>تحميل الحزم</translation>
+        <translation>تنزيل الحزم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="49"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation>تنزيل حزم المظهر من منصات المودات عبر الإنترنت</translation>
+        <translation>تنزيل حزم الخامات من منصات المودات على الإنترنت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="55"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation>حاول التحقق من جميع حزم المظهر المحددة أو تحديثها (جميع حزم المظهر إذا لم يتم تحديد أي منها)</translation>
+        <translation>محاولة التحقق من كل حزم الخامات المحددة أو تحديثها (كل حزم الخامات إذا لم يُحدَّد أي منها)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="69"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation>تغيير إصدار حزمة المظهر.</translation>
+        <translation>تغيير إصدار حزمة الخامات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation>تغيير اصدار حزمة المظهر.</translation>
+        <translation>عرض الصفحات الرئيسية لكل حزم الخامات المحددة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
@@ -16569,22 +16670,28 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة خامات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمة خامات واحدة.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ حزمتي خامات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزم خامات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة خامات.
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك إزالة البيانات الوصفية لـ %n حزمة خامات.
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation>أُنهيت</translation>
+        <translation>أُلغيت</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation>تم إيقاف التحميل بواسطة المستخدم.</translation>
+        <translation>أوقف المستخدم التنزيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="105"/>
@@ -16594,13 +16701,13 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>إنهاء</translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="224"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation>تحديثات حزم المظهر غير متوفرة عند تعطيل البيانات الوصفية!</translation>
+        <translation>تحديثات حزم الخامات غير متاحة عند تعطيل البيانات الوصفية!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
@@ -16612,33 +16719,33 @@ Are you sure?</source>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>قد يؤدي تحديث حزم المظهر أثناء تشغيل اللعبة إلى تكرار الحزم وتعطل اللعبة.
-قد لا يتم حذف الملفات القديمة لأنها قيد الاستخدام حاليا.
-هل أنت متأكد من أنك تريد القيام بذلك؟</translation>
+        <translation>قد يؤدي تحديث حزم الخامات أثناء تشغيل اللعبة إلى تكرار الحزم وتعطّل اللعبة.
+قد لا تُحذف الملفات القديمة لأنها قيد الاستخدام.
+هل أنت متأكد أنك تريد القيام بذلك؟</translation>
     </message>
     <message>
         <source>The texture pack updater was aborted!</source>
-        <translation>تمت مقاطعة تحديث حزمة المظهر!</translation>
+        <translation>أُلغي مُحدِّث حزم الخامات!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&apos;%1&apos; محدث! :)</translation>
+        <translation>&apos;%1&apos; محدَّث! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation>كل حزم الرسوميات محدثة على آخر إصدار :)</translation>
+        <translation>كل حزم الخامات محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation>كل حزم الرسوميات المحددة محدثة على آخر إصدار :)</translation>
+        <translation>كل حزم الخامات المحددة محدَّثة! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>Update checker</source>
-        <translation>فاحص التحديثات</translation>
+        <translation>مدقق التحديثات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="206"/>
@@ -16648,7 +16755,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>أنت على وشك ازالة البيانات الوصفية لـ %1 من حزم المظهر.
+        <translation>أنت على وشك إزالة البيانات الوصفية لـ %1 من حزم الخامات.
 هل أنت متأكد؟</translation>
     </message>
 </context>
@@ -16677,7 +16784,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation>إختر المظهر والأيقونات المراد إستخدامها</translation>
+        <translation>اختر السمة والأيقونات المراد استخدامها</translation>
     </message>
 </context>
 <context>
@@ -16689,9 +16796,9 @@ Are you sure?</source>
 %3 fuzzy
 %4 total</source>
         <translation>%1:
-%2 كلمة مترجمة
-%3 كلمة مبهمة
-مجموع الكلمات %4</translation>
+%2 مترجمة
+%3 غير مؤكدة (fuzzy)
+%4 الإجمالي</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="392"/>
@@ -16701,17 +16808,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="395"/>
         <source>Completeness</source>
-        <translation>الإكتمال</translation>
+        <translation>الاكتمال</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="401"/>
         <source>The native language name.</source>
-        <translation>اسم اللغة.</translation>
+        <translation>اسم اللغة بلغتها الأصلية.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="404"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>نسبة الإكتمال هي النسبة المئوية للنصوص المترجمة بالكامل، دون حساب الترجمات الآلية.</translation>
+        <translation>الاكتمال هو النسبة المئوية للنصوص المترجمة بالكامل، دون احتساب التخمينات التلقائية.</translation>
     </message>
 </context>
 <context>
@@ -16719,22 +16826,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="14"/>
         <source>Easy There!</source>
-        <translation>تمهل قليلا!</translation>
+        <translation>على مهلك!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;حزمة المودات التي تقوم بتثبيتها تتضمن مودات غير مستضافة على Modrinth أو CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;يتضمن المودباك الذي تثبّته مودات غير مستضافة على Modrinth أو CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="30"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;غالبا ما يتم توزيع المودات الخبيثة عبر روابط ترسل على منصات مثل ديسكورد.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;نوصي بشدة بعدم استيراد حزم المودات الا من مصادر موثوقة.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;غالبًا ما تُوزَّع المودات الخبيثة عبر روابط تُرسل على منصات مثل Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;نوصي بشدة باستيراد المودباكات من مصادر موثوقة فقط.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UntrustedModsDialog.ui" line="37"/>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation>أنا أثق بحزمة المودات هذه وأرغب في المتابعة على أية حال</translation>
+        <translation>أثق بهذا المودباك وأرغب في المتابعة على أي حال</translation>
     </message>
 </context>
 <context>
@@ -16757,43 +16864,43 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation>تحديث متوفر</translation>
+        <translation>يتوفر تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation>إصدار جديد متوفر!</translation>
+        <translation>يتوفر إصدار جديد!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار %1 متاح الآن — أنت تستخدم %2 . هل تريد تنزيله الآن؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظات الإصدار:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation>تخطَّ هذا التحديث</translation>
+        <translation>تخطي هذا الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation>ذكرني لاحقا</translation>
+        <translation>ذكّرني لاحقًا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation>حمل التحديث</translation>
+        <translation>تثبيت التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation>هناك إصدار جديد ل%1 !</translation>
+        <translation>يتوفر إصدار جديد من %1!</translation>
     </message>
 </context>
 <context>
@@ -16837,7 +16944,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation>جار إنشاء عينة عن الإصدار %1</translation>
+        <translation>جارٍ إنشاء نسخة من الإصدار %1</translation>
     </message>
 </context>
 <context>
@@ -16890,7 +16997,9 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى المخصص للذاكرة يتجاوز القيمة المدعومة.
+تثبيت جافا المحدد بنظام 32 بت ولا يدعم أكثر من 2048 ميبيبايت من ذاكرة RAM.
+قد لا تعمل النسخة بسبب ذلك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -16903,17 +17012,18 @@ The instance may not start due to this.</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه النسخة غير متوافقة مع إصدار جافا %1.
+يرجى التبديل إلى أحد إصدارات جافا التالية لهذه النسخة:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار جافا %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقل إلى إعدادات جافا للنسخة لتغيير إصدار جافا أو لتعطيل فحص توافق جافا إذا كنت تعلم ما تفعله.</translation>
     </message>
 </context>
 <context>
@@ -16921,7 +17031,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation>لا يوجد إصدارات متوفرة حاليًا.</translation>
+        <translation>لا توجد إصدارات متاحة حاليًا.</translation>
     </message>
 </context>
 <context>
@@ -17030,32 +17140,32 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <source>Add to Minecraft.jar</source>
-        <translation>إضافة‫ إلى Minecraft.jar</translation>
+        <translation>إضافة إلى Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>إدخال إضافة على ملف Minecraft.jar.</translation>
+        <translation>إضافة مود إلى ملف Minecraft.jar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Replace Minecraft.jar</source>
-        <translation>استبدال‫ ملف Minecraft.jar</translation>
+        <translation>استبدال Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة وكلاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة وكلاء جافا (Java agents).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <source>Add Empty</source>
-        <translation>إضافة حزمة فارغة</translation>
+        <translation>إضافة مكوّن فارغ</translation>
     </message>
     <message>
         <source>Add an empty custom package.</source>
@@ -17077,7 +17187,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
         <source>Search</source>
-        <translation>البحث</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
@@ -17087,107 +17197,107 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير إصدار المكوّن المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Move Up</source>
-        <translation>التحريك للأعلى</translation>
+        <translation>تحريك لأعلى</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>جعل المكوّن المحدد يُطبَّق أبكر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Move Down</source>
-        <translation>التحريك للأسفل</translation>
+        <translation>تحريك لأسفل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>جعل المكوّن المحدد يُطبَّق لاحقًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة المكوّن المحدد من النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخصيص المكوّن المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير المكوّن المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة المكوّن المحدد إلى الوضع المبدئي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Install Loader</source>
-        <translation>تنصيب المحمل</translation>
+        <translation>تثبيت المحمّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Install a mod loader.</source>
-        <translation>تنصيب محمل الإضافات.</translation>
+        <translation>تثبيت محمّل مودات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مكوّن مخصص فارغ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تحميل كل المكوّنات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
         <source>Download all</source>
-        <translation>تحميل الكل</translation>
+        <translation>تنزيل الكل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>تنزيل الملفات الضرورية لهذا النموذج الآن.</translation>
+        <translation>تنزيل الملفات اللازمة لتشغيل النسخة الآن.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Open .minecraft</source>
-        <translation>افتح‫ مجلد .minecraft</translation>
+        <translation>فتح .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>افتح مجلد .minecraft لهذا النموذج.</translation>
+        <translation>فتح مجلد .minecraft الخاص بالنسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <source>Open libraries</source>
-        <translation>افتح مجلد المكتبات</translation>
+        <translation>فتح المكتبات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>افتح مجلد المكتبات المحلية للنموذج.</translation>
+        <translation>فتح مجلد المكتبات المحلية الخاص بالنسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد ملفات JSON لمكوّنات موجودة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="177"/>
@@ -17197,12 +17307,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="193"/>
         <source>%1 possibly has issues.</source>
-        <translation>يرجّح أن %1 يحتوي على أخطاء.</translation>
+        <translation>يُحتمل أن %1 يحتوي على مشاكل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="196"/>
         <source>%1 has issues!</source>
-        <translation>لدى %1 مشاكل!</translation>
+        <translation>يحتوي %1 على مشاكل!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="208"/>
@@ -17223,7 +17333,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>تعذر تحميل ملف تعريف النموذج.</translation>
+        <translation>تعذّر تحميل ملف تعريف النسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
@@ -17236,32 +17346,35 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك إزالة &quot;%1&quot;.
+هذا الإجراء دائم وسيزيل المكوّن المخصص بالكامل.
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="273"/>
         <source>Couldn&apos;t remove file</source>
-        <translation>تعذرت إزالة الملف</translation>
+        <translation>تعذّرت إزالة الملف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Select jar mods</source>
-        <translation>اختر إضافات jar</translation>
+        <translation>اختر مودات jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="282"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>مودات Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>وكلاء جافا (Java agents)</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17270,7 +17383,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
         <source>Select jar</source>
-        <translation>اختيار‫ ملف الـjar</translation>
+        <translation>اختر ملف jar</translation>
     </message>
     <message>
         <source>Minecraft.jar replacement (*.jar)</source>
@@ -17279,42 +17392,42 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استيراد المكوّنات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر استيراد بعض المكوّنات. راجع السجلات لمعرفة التفاصيل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر الوكلاء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="367"/>
         <source>Change %1 version</source>
-        <translation>تغيير الإصدار %1</translation>
+        <translation>تغيير إصدار %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="369"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation>لا يوجد وسيط إصدارات للتعيينات متوفر حاليًا.</translation>
+        <translation>لا توجد حاليًا إصدارات لخرائط التعيين الوسيطة (intermediary mappings).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>تعذر تحميل أو تنزيل قائمة ربط الإصدار!</translation>
+        <translation>تعذّر تحميل أو تنزيل قوائم إصدارات خرائط التعيين الوسيطة!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="404"/>
@@ -17322,12 +17435,13 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تنزيل ماين كرافت أو تحديث النسخ ما لم تُضف حسابًا واحدًا على الأقل.
+يرجى إضافة حساب مايكروسوفت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="544"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد الاستعادة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="545"/>
@@ -17335,7 +17449,10 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت على وشك استعادة &quot;%1&quot;.
+هذا الإجراء دائم وسيُلغي تخصيصاتك بالكامل.
+
+هل أنت متأكد؟</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -17384,7 +17501,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Error updating instance</source>
-        <translation>خطأ في تحديث النموذج</translation>
+        <translation>خطأ في تحديث النسخة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
@@ -17407,7 +17524,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation>التفريعة</translation>
+        <translation>الفرع</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -17417,7 +17534,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation>المعمارية</translation>
+        <translation>البنية</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
@@ -17427,17 +17544,17 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation>اسم الجافا</translation>
+        <translation>اسم جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار الرئيسي</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>نم إصداره</translation>
+        <translation>تاريخ الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
@@ -17447,12 +17564,12 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation>إصدار ماينكرافت</translation>
+        <translation>إصدار ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation>تفرُّع الإصدار</translation>
+        <translation>فرع الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
@@ -17462,34 +17579,34 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation>معمارية وحدة المعالجة</translation>
+        <translation>بنية المعالج</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation>المسار إلى هذا الإصدار</translation>
+        <translation>مسار نظام الملفات لهذا الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation>الإسم البديل لإصدار جافا</translation>
+        <translation>الاسم البديل لإصدار جافا</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار الرئيسي لجافا</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation>تأريخ إصدار هذا التحديث</translation>
+        <translation>تاريخ إصدار هذا الإصدار</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation>%1 (مثبّت)</translation>
+        <translation>%1 (مثبَّت)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
@@ -17531,7 +17648,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;إنعاش</translation>
+        <translation>&amp;تحديث</translation>
     </message>
 </context>
 <context>
@@ -17539,7 +17656,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation>البحث</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -17550,7 +17667,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
-        <translation>تحديث القائمة فشل:
+        <translation>فشل تحديث القائمة:
 %1</translation>
     </message>
 </context>
@@ -17559,12 +17676,12 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="8"/>
         <source>Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>سجلات المشغّل</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/ViewLogWindow.cpp" line="12"/>
         <source>View Launcher Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض سجلات المشغّل</translation>
     </message>
 </context>
 <context>
@@ -17578,33 +17695,35 @@ Please add your Mojang or Minecraft account.</oldsource>
     <name>WorldList</name>
     <message>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>هذا العالم مرتبط رمزيا من مكان آخر.</translation>
+        <translation>هذا العالم مرتبط رمزيًا من مكان آخر.</translation>
     </message>
     <message>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-هذا العالم مرتبط بشدة في مكان آخر.</translation>
+هذا العالم مرتبط ارتباطًا صلبًا بمكان آخر.</translation>
     </message>
     <message>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير: هذا العالم مرتبط رمزيًا من مكان آخر. تعديله سيغيّر الأصل أيضًا.
+المسار القانوني: %1</translation>
     </message>
     <message>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>تحذير: هذا العالم مرتبط بشدة بمكان آخر. سيؤدي تحريره أيضا إلى تغيير الأصل.</translation>
+        <translation>تحذير: هذا العالم مرتبط ارتباطًا صلبًا بمكان آخر. تعديله سيغيّر الأصل أيضًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العالم مرتبط رمزيًا من مكان آخر. تعديله سيغيّر الأصل أيضًا.
+المسار القانوني: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العالم مرتبط ارتباطًا صلبًا بمكان آخر. تعديله سيغيّر الأصل أيضًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
@@ -17614,18 +17733,18 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
         <source>Game Mode</source>
-        <translation>طور اللعبة</translation>
+        <translation>وضع اللعبة</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <source>Last Played</source>
-        <translation>آخر دخول</translation>
+        <translation>آخر لعب</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="263"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation>حجم</translation>
+        <translation>الحجم</translation>
     </message>
     <message>
         <source>Info</source>
@@ -17640,17 +17759,17 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Game mode of the world.</source>
-        <translation>طور اللعبة للعالم.</translation>
+        <translation>وضع اللعبة للعالم.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="275"/>
         <source>Date and time the world was last played.</source>
-        <translation>تأريخ وتوقيت آخر دخول للعالم.</translation>
+        <translation>تاريخ ووقت آخر لعب للعالم.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="277"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم العالم على القرص.</translation>
     </message>
     <message>
         <source>Information and warnings about the world.</source>
@@ -17672,12 +17791,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="109"/>
         <source>Join</source>
-        <translation>إنضمام</translation>
+        <translation>انضمام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="114"/>
         <source>Rename</source>
-        <translation>تغيير الاسم</translation>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="119"/>
@@ -17700,12 +17819,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="129"/>
         <source>Copy Seed</source>
-        <translation>نسخ البذرة</translation>
+        <translation>نسخ البذرة (Seed)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="134"/>
         <source>Refresh</source>
-        <translation>إنعاش</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="139"/>
@@ -17720,27 +17839,27 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="147"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>أزل أيقونة العالم لإعادة إنشائها عند تشغيل العالم في المرة القادمة.</translation>
+        <translation>إزالة أيقونة العالم لتُعيد اللعبة إنشاءها عند التحميل التالي.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="152"/>
         <source>Tools</source>
-        <translation type="unfinished">الأدوات</translation>
+        <translation>الأدوات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="155"/>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل أداة خارجية على العالم المحدد.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="160"/>
         <source>Data Packs</source>
-        <translation>حزم البيانات</translation>
+        <translation>الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="163"/>
         <source>Manage data packs inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة الداتاباكات داخل العالم.</translation>
     </message>
     <message>
         <source>Datapacks</source>
@@ -17780,37 +17899,37 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح العالم في MCEdit</translation>
     </message>
     <message>
         <source>No MCEdit found or set up!</source>
-        <translation>لا يوجد MCEdit معد أو أنه غير موجود!</translation>
+        <translation>لم يُعثر على MCEdit أو لم يُضبط!</translation>
     </message>
     <message>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>MCEdit ليس مُعد أو أنك قمت بتحريكه.
-تستطيع إعداده من الإعدادات العامة.</translation>
+        <translation>لم تضبط MCEdit أو تم نقله.
+يمكنك ضبطه من الإعدادات العامة.</translation>
     </message>
     <message>
         <source>MCEdit failed to start!</source>
-        <translation>فشل MCEdit بالبدء!</translation>
+        <translation>فشل تشغيل MCEdit!</translation>
     </message>
     <message>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation>فشل MCEdit بالبدء.
-قد يكون من الضروري إعادة تثبيته.</translation>
+        <translation>فشل تشغيل MCEdit.
+قد يلزم إعادة تثبيته.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="447"/>
         <source>Select a Minecraft world zip</source>
-        <translation>اختر عالم Minecraft المضغوط (zip)</translation>
+        <translation>اختر ملف zip لعالم ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="447"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف zip لعالم ماين كرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="489"/>
@@ -17821,8 +17940,8 @@ It may be necessary to reinstall it.</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="474"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>تغيير العالم أثناء عمل Minecraft ليس بإجراء آمن.
-هل ترغب في المتابعة؟</translation>
+        <translation>تغيير عالم أثناء تشغيل ماين كرافت قد يكون غير آمن.
+هل تريد المتابعة؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="247"/>
@@ -17835,8 +17954,8 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>أنت على وشك حذف ”%1“.
-قد يختفي العالم إلى الأبد (وقت طويل).
+        <translation>أنت على وشك حذف &quot;%1&quot;.
+قد يختفي العالم إلى الأبد (لفترة طويلة جدًا).
 
 هل أنت متأكد؟</translation>
     </message>
@@ -17846,60 +17965,79 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>أنت على وشك حذف %n عالم.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف عالم واحد.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف عالمين.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n عوالم.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n عالمًا.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
+            <numerusform>أنت على وشك حذف %n عالم.
+قد تختفي هذه العوالم إلى الأبد (لفترة طويلة جدًا).
+
+هل أنت متأكد؟</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="255"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف العوالم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="283"/>
         <source>Manage Data Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة الداتاباكات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="291"/>
         <source>Data packs for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الداتاباكات لـ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>لم تُضف أي أدوات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح الإعدادات</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="408"/>
         <source>Invalid command</source>
-        <translation type="unfinished"></translation>
+        <translation>أمر غير صالح</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="408"/>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>أمر الأداة فارغ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="417"/>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تشغيل الأداة!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تشغيل الأداة.
+الخطأ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
@@ -17910,7 +18048,7 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="497"/>
         <source>Enter a new name for the copy.</source>
-        <translation>أدخل اسم جديد للنسخة.</translation>
+        <translation>أدخل اسمًا جديدًا للنسخة.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="523"/>
@@ -17920,7 +18058,7 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="531"/>
         <source>Enter a new world name.</source>
-        <translation>أدخل اسم جديد للعالم.</translation>
+        <translation>أدخل اسمًا جديدًا للعالم.</translation>
     </message>
 </context>
 <context>
@@ -17928,52 +18066,52 @@ Error: %1</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>جارٍ الحصول على إذن للوصول إلى خدمات %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ STS غير معروف لخدمات %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="73"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر الحصول على إذن لخدمات %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="81"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تحليل استجابة الإذن للوصول إلى خدمات %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="87"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>غيّر الخادم تجزئة مستخدم الإذن لـ %1 في الرد. هناك خطأ ما.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الحصول على إذن للوصول إلى %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="103"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر تحليل استجابة خطأ الإذن لـ %1 كـ JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="111"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>عنصر XErr مفقود من استجابة خطأ الإذن لـ %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="117"/>
         <source>This Microsoft account does not have an Xbox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يملك حساب مايكروسوفت هذا ملف تعريف Xbox Live. اشترِ اللعبة على %1 أولًا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
         <source>Xbox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>تم حظرك لعدم وجود خدمة Xbox Live في دولتك.</translation>
+        <translation>Xbox Live غير متاحة في بلدك. تم حظرك.</translation>
     </message>
     <message>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
@@ -17984,39 +18122,43 @@ Error: %1</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب مايكروسوفت هذا دون السن القانونية وغير مرتبط بعائلة.
+
+يرجى إعداد حسابك وفق %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب حساب مايكروسوفت هذا إثبات العمر للعب. يرجى تسجيل الدخول إلى %1 لتقديم إثبات العمر.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation>لقد وصل حساب المايكروسوفت هذا إلى الحد الأقصى لوقت اللعب. تم حظر حساب المايكروسوفت من تسجيل الدخول.</translation>
+        <translation>بلغ حساب مايكروسوفت هذا حد وقت اللعب. تم حظر هذا الحساب من تسجيل الدخول.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="145"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation>تم حظر حساب Microsoft هذا من قبل Xbox لانتهاك واحد أو أكثر من معايير المجتمع الخاصة بـ Xbox ولا يمكن استخدامه.</translation>
+        <translation>حُظر حساب مايكروسوفت هذا من قِبل Xbox لانتهاكه معيارًا أو أكثر من معايير المجتمع الخاصة بـ Xbox ولا يمكن استخدامه.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>حساب Microsoft هذا مقيد حاليا لأن ولي أمرك لم يعطك الإذن للعب عبر الشبكة. سجل الدخول إلى %1 واطلب من ولي أمرك تغيير أذوناتك.</translation>
+        <translation>حساب مايكروسوفت هذا مقيَّد حاليًا ولم يمنحك وليّ أمرك إذن اللعب عبر الإنترنت. سجّل الدخول إلى %1 واطلب من وليّ أمرك تغيير أذوناتك.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>لم يوافق حساب Microsoft هذا على شروط خدمة Xbox. يرجى تسجيل الدخول وقبولها.</translation>
+        <translation>لم يوافق حساب مايكروسوفت هذا على شروط خدمة Xbox. يرجى تسجيل الدخول وقبولها.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="163"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت مصادقة XSTS بأخطاء غير معروفة:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -18031,18 +18173,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>تسجيل الدخول كمستخدم Xbox.</translation>
+        <translation>جارٍ تسجيل الدخول كمستخدم Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>Xbox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت مصادقة مستخدم Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="71"/>
         <source>Xbox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّر فهم استجابة مصادقة مستخدم Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed: %1</source>
@@ -18055,7 +18197,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="75"/>
         <source>Got Xbox user token</source>
-        <translation>حصلت على رمز مستخدم Xbox</translation>
+        <translation>تم الحصول على رمز مستخدم Xbox</translation>
     </message>
 </context>
 </TS>
