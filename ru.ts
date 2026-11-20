@@ -11850,7 +11850,7 @@ Ignoring them may break the game.</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="82"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>Пытается найти / обновить выбранные моды (или все, если не выбран ни один)</translation>
+        <translation>Попробовать проверить или обновить все выбранные моды (все моды, если ни один не выбран)</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -12062,7 +12062,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
         <source>Confirm Disable</source>
-        <translation>Подтвердите выключение</translation>
+        <translation>Подтвердите отключение</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
