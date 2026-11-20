@@ -5003,34 +5003,37 @@ Podés cambiar la versión de Java en la configuración más adelante.
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta cuenta no tiene Minecraft.
+Tenés que comprar el juego primero para poder jugar la versión completa.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se seleccionó ninguna cuenta para iniciar.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
         <source>
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+¿Querés jugar la demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegí tu nombre de jugador para el modo demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="256"/>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegí tu nombre de jugador para el modo sin conexión</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>No account selected for launch</source>
-        <translation type="unfinished"></translation>
+        <translation>No se seleccionó ninguna cuenta para iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
