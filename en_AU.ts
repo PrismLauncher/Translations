@@ -1363,7 +1363,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>The Java %1 path pinned in the settings does not exist: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2420,9 +2420,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove the metadata for %n data pack.
+Are you sure?</numerusform>
+            <numerusform>You are about to remove the metadata for %n data packs.
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -3356,9 +3358,15 @@ Are you sure?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove %n item.
+This may be permanent and it will be gone from the folder.
+
+Are you sure?</numerusform>
+            <numerusform>You are about to remove %n items.
+This may be permanent and they will be gone from the folder.
+
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -3392,28 +3400,28 @@ Are you sure you want to do this?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n item selected</numerusform>
+            <numerusform>%n items selected</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n search result</numerusform>
+            <numerusform>%n search results</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installed and enabled</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installed, %2 enabled</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -3964,7 +3972,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to parse fetched old files: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -4449,7 +4457,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to fetch information for dependency %1, it will not be installed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4460,17 +4468,17 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependency %1 could not be resolved to a valid project, it will not be installed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependency %1 was skipped because the dependency chain is too deep.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</translation>
     </message>
 </context>
 <context>
@@ -5324,7 +5332,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1036"/>
         <source>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to copy instance template. The instance has still been created, but contains only partial or no template files.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="1057"/>
@@ -5962,13 +5970,13 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="179"/>
         <source>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin specific Java installations to a major version. When the launcher picks Java for an instance automatically, a pinned installation matching the required version is used before anything else gets detected or downloaded.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="182"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="170"/>
         <source>Pinned Java Installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinned Java Installations</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
@@ -6062,54 +6070,56 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Path to the Java %1 executable to use for instances that require it. Leave empty to use the automatically detected one.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick the Java %1 executable from the file system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Detect</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick a detected Java %1 installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
         <source>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The following pinned Java paths could not be found on your system. They were saved anyway, but instances needing those versions will fall back to the usual detection.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
         <source>Find Java %1 executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Find Java %1 executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Select a Java %1 installation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Java %1 installations were detected on this system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -7058,27 +7068,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance &amp;Icons:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods (Quick Access):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance &amp;Template:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Additional Instance Folders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
@@ -7253,28 +7263,28 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="545"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Select the preferred release channel when checking for mod updates.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="538"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod Update Channel:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>All (Release, Beta, Alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="554"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Release only</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Release and Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="585"/>
@@ -7299,7 +7309,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="727"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Retry Limit:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -7420,7 +7430,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance Template Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -7975,22 +7985,22 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="40"/>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open output file: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="47"/>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not add %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="68"/>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read and compress %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/archive/ExportToZipTask.cpp" line="74"/>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to close output file: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8031,7 +8041,7 @@ Reason:
     <message>
         <location filename="src/launcher/archive/ExtractZipTask.cpp" line="96"/>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract file %1 to %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -8295,32 +8305,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="547"/>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="558"/>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods (Quick Access)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the mods folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance &amp;Icons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="698"/>
@@ -8335,27 +8345,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
         <source>I&amp;con Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;con Themes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="761"/>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cat Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Auto Downloaded Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="783"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance &amp;Template</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the template folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
@@ -9128,7 +9138,7 @@ Do you wish to proceed?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1762"/>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No Instance Selected</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
@@ -9138,19 +9148,21 @@ Do you wish to proceed?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Change group &amp;icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="586"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete &amp;group icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
         <source>Unsupported Modrinth link.
 
 Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsupported Modrinth link.
+
+Prism Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
@@ -9256,7 +9268,9 @@ Please check your trashbin to manually restore them.</translation>
         <source>Metadata cache clear Failed!
 To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata cache clear Failed!
+To clear the metadata cache manually, press Folders -&gt; Launcher Data, and after closing the launcher delete the folder named &quot;meta&quot;
+</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -9456,7 +9470,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Update From URL</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -9578,22 +9592,22 @@ Make sure you also trust the URL.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Update from URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter the download URL of the modpack file:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please enter a valid HTTP(S) URL.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -9602,7 +9616,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to update the modpack to a new version.
+Irreversible changes may be made to the instance&apos;s files.
+As such, it is strongly recommended to create a backup copy of the instance.
+
+Are you sure?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="498"/>
@@ -9616,7 +9634,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to update the modpack to version &quot;%1&quot;.
+Irreversible changes may be made to the instance&apos;s files.
+As such, it is strongly recommended to create a backup copy of the instance.
+
+Are you sure?</translation>
     </message>
 </context>
 <context>
@@ -9707,7 +9729,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch &amp;As</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="344"/>
@@ -10337,7 +10359,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="586"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Any</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="713"/>
@@ -10357,7 +10379,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="797"/>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SDL library path:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="820"/>
@@ -11210,14 +11232,16 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Version Change</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="334"/>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Changing the version of mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="428"/>
@@ -11248,17 +11272,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release only)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="94"/>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release and Beta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="98"/>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release, Beta and Alpha)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
@@ -11335,7 +11359,7 @@ Do you want to disable them?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="73"/>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create the custom Minecraft jar file: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -12251,12 +12275,12 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="119"/>
         <source>Use instance template</source>
-        <translation type="unfinished"></translation>
+        <translation>Use instance template</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Template directory does not exist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
@@ -13166,7 +13190,7 @@ The updater cannot continue until you fix this problem.</translation>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="520"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1018"/>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="531"/>
@@ -13306,7 +13330,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="943"/>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to write changelog: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="946"/>
@@ -13835,7 +13859,7 @@ Please let us know why and how this happened.</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="200"/>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t parse file: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="209"/>
@@ -14973,9 +14997,11 @@ Are you sure you want to close this dialog?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You have %n selected resource.
+Are you sure you want to close this dialog?</numerusform>
+            <numerusform>You have %n selected resources.
+Are you sure you want to close this dialog?</numerusform>
         </translation>
     </message>
     <message>
@@ -15363,13 +15389,16 @@ Are you sure you want to do this?</translation>
         <source>
 This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+This resource is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
@@ -15385,7 +15414,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="662"/>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>The version of the resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="664"/>
@@ -15465,7 +15494,7 @@ This resource is hard linked elsewhere. Editing it will also change the original
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="178"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>The version of the resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="189"/>
@@ -15587,9 +15616,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove the metadata for %n resource pack.
+Are you sure?</numerusform>
+            <numerusform>You are about to remove the metadata for %n resource packs.
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -16038,9 +16069,15 @@ Are you sure?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to delete %n screenshot.
+This may be permanent and they will be gone from the folder.
+
+Are you sure?</numerusform>
+            <numerusform>You are about to delete %n screenshots.
+This may be permanent and they will be gone from the folder.
+
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -16313,9 +16350,15 @@ Currently installed version: %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove the %n selected server.
+This is permanent and the servers will be gone from your list forever (A LONG TIME).
+
+Are you sure?</numerusform>
+            <numerusform>You are about to remove the %n selected servers.
+This is permanent and the servers will be gone from your list forever (A LONG TIME).
+
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -16422,9 +16465,11 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove the metadata for %n shader pack.
+Are you sure?</numerusform>
+            <numerusform>You are about to remove the metadata for %n shader packs.
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -16958,7 +17003,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="94"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -17008,7 +17053,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="173"/>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -17042,12 +17087,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;bin/modpack.jar&quot; file: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="63"/>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;fmlversion.properties&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
@@ -17058,7 +17103,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="93"/>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;forgeversion.properties&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -17199,7 +17244,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="161"/>
         <source>The version of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>The version of the texture pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="163"/>
@@ -17284,9 +17329,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to remove the metadata for %n texture pack.
+Are you sure?</numerusform>
+            <numerusform>You are about to remove the metadata for %n texture packs.
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -18417,12 +18464,13 @@ Canonical Path: %1</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="212"/>
         <source>This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="217"/>
         <source>This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>This world is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
@@ -18664,15 +18712,21 @@ Are you sure?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to delete %n world.
+These worlds may be gone forever (A LONG TIME).
+
+Are you sure?</numerusform>
+            <numerusform>You are about to delete %n worlds.
+These worlds may be gone forever (A LONG TIME).
+
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="255"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Deleting worlds</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="283"/>
