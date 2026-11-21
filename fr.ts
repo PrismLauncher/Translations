@@ -1563,7 +1563,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le dossier de mods global que vous avez configuré ainsi que votre dossier de téléchargements par défaut sont automatiquement vérifiés et si des mods téléchargés sont trouvés, ils seront copiés dans l&apos;instance.&lt;/p&gt;&lt;p&gt;Vous pouvez glisser-déposer les mods téléchargés dans cette boîte de dialogue ou ajouter un dossier à surveiller si vous ne téléchargez pas le mod dans le dossier par défault.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cliquez sur &apos;Ouvrir Manquant&apos; pour ouvrir tous les liens URL des mods dans le navigateur. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le dossier de mods global que vous avez configuré ainsi que votre dossier de téléchargements par défaut sont automatiquement vérifiés et si des mods téléchargés sont trouvés, ils seront copiés dans l&apos;instance.&lt;/p&gt;&lt;p&gt;Vous pouvez glisser-déposer les mods téléchargés dans cette boîte de dialogue ou ajouter un dossier à surveiller si vous ne téléchargez pas le mod dans le dossier par défaut.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cliquez sur &apos;Ouvrir Manquant&apos; pour ouvrir tous les liens URL des mods dans le navigateur. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="59"/>
@@ -4073,7 +4073,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation>Erreur lors de l&apos;analyse d&apos;anciens fichiers: %1</translation>
+        <translation>Impossible d&apos;analyser les anciens fichiers&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -4591,7 +4591,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de récupérer les informations de la dépendance %1, elle ne sera pas installée.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4602,17 +4602,17 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dépendance %1 n&apos;a pas pu être résolue à un projet valide, elle ne sera pas installée.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dépendance %1 a été passé car la chaîne de dépendances est trop profonde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de résoudre la dépendance %1, elle ne sera pas installée. Le mod risque de ne pas fonctionner correctement sans elle.</translation>
     </message>
 </context>
 <context>
@@ -6355,7 +6355,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
         <source>Pick the Java %1 executable from the file system.</source>
-        <translation type="unfinished">Sélectionnez l&apos;exécutable Java %1 dans le système de fichiers.</translation>
+        <translation>Sélectionnez l&apos;exécutable Java %1 dans le système de fichiers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
@@ -6365,7 +6365,7 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
         <source>Pick a detected Java %1 installation.</source>
-        <translation type="unfinished">Sélectionnez une installation Java %1 détectée.</translation>
+        <translation>Sélectionnez une installation Java %1 détectée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
@@ -6389,12 +6389,12 @@ Vous pourrez changer la version de Java dans les paramètres plus tard.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished">Sélectionnez une installation Java</translation>
+        <translation>Sélectionnez une installation Java %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished">Aucune installation Java n&apos;a été détectée sur votre système.</translation>
+        <translation>Aucune installation Java %1 n&apos;a été détectée sur votre système.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -9101,7 +9101,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Launcher &amp;Logs</source>
-        <translation>Launcher &amp;Logs</translation>
+        <translation>&amp;Logs du Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
@@ -12972,7 +12972,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>UID</translation>
+        <translation>uid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
@@ -13021,7 +13021,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="125"/>
         <source>Template directory does not exist.</source>
-        <translation type="unfinished">Le dossier des modèles n&apos;existe pas.</translation>
+        <translation>Le dossier des modèles n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
@@ -17585,7 +17585,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
         <source>Invalid url</source>
-        <translation>URL non valide</translation>
+        <translation>Url invalide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="403"/>
