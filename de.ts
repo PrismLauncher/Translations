@@ -49,7 +49,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="418"/>
         <source>Use Default</source>
-        <translation>Standard benutzen</translation>
+        <translation>Standard verwenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="90"/>
@@ -1432,7 +1432,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation>Der in den Einstellungen festgelegte Java-Pfad %1 existiert nicht: %2</translation>
+        <translation>Der in den Einstellungen gesetzte Java %1-Pfad existiert nicht: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2501,9 +2501,11 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei die Metadaten für %n Datenpacket zu entfernen.
+Bist du dir sicher?</numerusform>
+            <numerusform>Du bist dabei die Metadaten für %n Datenpackete zu entfernen.
+Bist du dir sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -3437,9 +3439,15 @@ Bist Du Dir sicher?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei, %n Elemente zu entfernen
+Diese werden wahrscheinlich permanent gelöscht.
+
+Bist du dir sicher?</numerusform>
+            <numerusform>Du bist dabei, %n Elemente zu entfernen
+Diese werden wahrscheinlich permanent gelöscht.
+
+Bist du dir sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -3473,28 +3481,28 @@ Bist du dir sicher, du willst das tun?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Element ausgewählt</numerusform>
+            <numerusform>%n Elemente ausgewählt</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Suchergebnis</numerusform>
+            <numerusform>%n Suchergebnisse</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="410"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installiert und aktiviert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="412"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 installiert, %2 aktiviert</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
