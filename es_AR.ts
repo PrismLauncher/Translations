@@ -902,7 +902,7 @@ Podés resolver este problema volviendo a montar /tmp con la opción &apos;exec&
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>¿Estás seguro de que querés activar este mod?</translation>
+        <translation>¿Seguro que querés activar este mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="248"/>
@@ -2068,7 +2068,7 @@ Es posible que los archivos antiguos no se eliminen porque están en uso.
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>Estás a punto de eliminar los metadatos de %1 data packs.
-¿Estás seguro?</translation>
+¿Seguro que querés continuar?</translation>
     </message>
 </context>
 <context>
@@ -3018,7 +3018,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="212"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y agregarlos a la instancia.</translation>
+        <translation>Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Vas a tener que descargarlos manualmente y agregarlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="234"/>
@@ -3284,7 +3284,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y agregarlos a la instancia.</translation>
+        <translation>Los siguientes archivos no se pueden descargar desde launchers de terceros.&lt;br/&gt;Vas a tener que descargarlos manualmente y agregarlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="615"/>
@@ -5038,28 +5038,28 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1. ¿Querés volver a autenticar esta cuenta?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="444"/>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar el perfilador en el próximo inicio</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="497"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Forzar el cierre de Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="498"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto puede corromper la instancia y solo deberías usar esta opción si Minecraft se queda congelado por algún motivo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="99"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Para jugar a Minecraft, tenés que tener la sesión iniciada en al menos una cuenta de Microsoft que tenga Minecraft. ¿Querés abrir el administrador de cuentas para agregar una ahora?</translation>
     </message>
 </context>
 <context>
@@ -5068,12 +5068,13 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="211"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Se dejó de monitorear el registro del juego porque superó las %1 líneas.
+¡Es posible que tengas que arreglar tus mods, ya que el juego sigue escribiendo en los archivos de registro y probablemente esté desperdiciando espacio en el disco a un ritmo alarmante!</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="237"/>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>[Error de análisis de Log4j] No se pudo analizar el evento de registro de Log4j: %1</translation>
     </message>
 </context>
 <context>
@@ -5081,23 +5082,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Obteniendo el token de acceso de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="61"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="64"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo obtener el token de acceso de Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo analizar la respuesta del token de acceso de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="74"/>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obtuvo el token de acceso de Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5106,56 +5107,56 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualizaciones automáticamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstancias:</translation>
     </message>
     <message>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="122"/>
         <source>Ask what to do</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntar qué hacer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Never rename the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca renombrar la carpeta</translation>
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Íconos:</translation>
+        <translation>&amp;Íconos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando está activada, se buscarán recursos tanto en la carpeta de descargas como en sus subcarpetas (por ejemplo, al buscar mods bloqueados en CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="56"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaz de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="79"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Por último lanzamiento (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por &amp;nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
