@@ -6354,7 +6354,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
         <source>No Java %1 installations were detected on this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu bilgisayarda kurulu bir Java %1 kurulumu bulunamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -7566,7 +7566,7 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="727"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ağ Yeniden Deneme Sınırı:</translation>
     </message>
     <message>
         <source>Console Settings</source>
@@ -16074,7 +16074,8 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="572"/>
         <source>
 This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bu kaynak başka bir yere sabit olarak bağlanmış. Düzenlemek orijinalini de değiştirecektir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="658"/>
