@@ -6203,7 +6203,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="698"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carpetas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="701"/>
