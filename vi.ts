@@ -1408,7 +1408,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The Java %1 path pinned in the settings does not exist: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Đường dẫn Java %1 được ghim trong cài đặt không tồn tại: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
@@ -2469,8 +2469,9 @@ Cảnh báo: Tài nguyên này được liên kết cứng cùng với một nơ
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bạn sắp xoá metadata của %n gói dữ liệu.
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -3387,15 +3388,15 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="397"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mục đang được chọn</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="402"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n kết quả tìm kiếm</numerusform>
         </translation>
     </message>
     <message>
@@ -4063,7 +4064,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="630"/>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished">Modpack đang cố gắng tải xuống một tệp tin nằm ngoài thư mục bản cài đặt (%1). Đây là rủi ro về bảo mật và không được cho phép.</translation>
+        <translation>Modpack đang cố gắng tải xuống một tệp tin nằm ngoài thư mục bản cài đặt (%1). Đây là rủi ro về bảo mật và không được cho phép.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="799"/>
