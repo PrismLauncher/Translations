@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="408"/>
         <source>&amp;Technic</source>
-        <translation type="unfinished">&amp;Technic</translation>
+        <translation>&amp;Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="425"/>
@@ -1458,7 +1458,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="26"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished">Message label pwacehowder.</translation>
+        <translation>Message label pwacehowder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseOfflineNameDialog.ui" line="33"/>
@@ -1694,7 +1694,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished">Link each resouwce individuawwy inwstead of winking whole fowders at one</translation>
+        <translation>Link each resouwce individuawwy inwstead of winking whole fowders at one</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -1704,7 +1704,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished">If &quot;copy saves&quot; is sewected world save data wiww be copied inwstead of winked awnd thus nyot shawed between inwstances.</translation>
+        <translation>If &quot;copy saves&quot; is sewected world save data will be copied inwstead of winked awnd thus nyot shawed between inwstances.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1740,7 +1740,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished">Fiwes cloned with refwinks take up no extwa space ultiw they awe modified.</translation>
+        <translation>Fiwes cloned with refwinks take up no extwa space untiw they awe modified.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -2061,12 +2061,12 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">Wefwesh</translation>
+        <translation>Wefwesh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Mowd Woader</translation>
+        <translation>Mowd Woader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
@@ -2096,7 +2096,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">WiteWoader</translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="124"/>
@@ -2150,7 +2150,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <name>DataPack</name>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Unwecognized</translation>
+        <translation>Unwecognized</translation>
     </message>
 </context>
 <context>
@@ -2158,7 +2158,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Name</source>
-        <translation type="unfinished">Nyame</translation>
+        <translation>Nyame</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2168,7 +2168,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Pack Format</source>
-        <translation type="unfinished">Pack Fowmat</translation>
+        <translation>Pack Fowmat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2178,7 +2178,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
         <source>Size</source>
-        <translation type="unfinished">Size</translation>
+        <translation>Size</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/DataPackFolderModel.cpp" line="50"/>
@@ -2228,7 +2228,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -2265,7 +2265,7 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="226"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="87"/>
@@ -2283,69 +2283,74 @@ You may sowve this issue b-by wemounting /tmp as &apos;exec&apos; or setting the
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="118"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Updwate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="119"/>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Updwating data packs whiwe the game is ruwnning may cause pack dupwication awnd game cwashes.
+The old fiwes may nyot be deweted as they are in uwuse.
+Are you suwe you want to do this?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="144"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; is up-to-date! :3</translation>
+        <translation>&apos;%1&apos; is up-to-date! :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="147"/>
         <source>All data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">All data pyacks are up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="149"/>
         <source>All selected data packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>All sewected data packs are up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="152"/>
         <source>Update checker</source>
-        <translation type="unfinished">Update checkew</translation>
+        <translation>Update checkew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="187"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confiwm Wemovaw</translation>
+        <translation>Confiwm Removaw</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/DataPackPage.cpp" line="188"/>
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>You awe about to wemove the metadata fow %n data packs.
+Are you suwe?</numerusform>
+            <numerusform>You awe about to wemove the metadata fow %n data packs.
+Are you suwe?</numerusform>
         </translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to wemove the metadata fow %1 data packs.
+Are you suwe?</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abowted</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Downwoad stopped by usew.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation>Abowt</translation>
     </message>
     <message>
         <source>The data pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>The data pack updwater was abowted!</translation>
     </message>
 </context>
 <context>
@@ -2353,7 +2358,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldTasks.cpp" line="109"/>
         <source>Deleting world...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deweting world...</translation>
     </message>
 </context>
 <context>
@@ -2397,7 +2402,11 @@ This may lead to lag or slowdowns.
 If possible, close other applications before continuing.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>The system is undew increased memowy pwessure.
+This may lead to wag or slowdowns.
+If possibwe, close other appwications befowe continuing.
+
+Waunch anyway?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="43"/>
@@ -2406,22 +2415,26 @@ This may lead to severe slowdowns, crashes or system instability.
 It is recommended to close other applications or restart your system.
 
 Launch anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur system is undew cwitical memowy pressure.
+This may lead to severe slowdowns, cwashes or system instabiwity.
+It is wecommended to cwose other appwications or restart ur system.
+
+Waunch anyway?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="53"/>
         <source>High memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>High memowy pressure</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="60"/>
         <source>The system is under high memory pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>The system is undew high memowy pressure</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="86"/>
         <source>Low free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Low free memowy</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="87"/>
@@ -2431,12 +2444,17 @@ Maximum allocated: %1 MiB
 Free: %2 MiB (out of %3 MiB total)
 
 Launch anyway? This may cause slowdowns in the game and your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>There might nyot be enough free RAM to waunch this instawnce with the current memowy settings.
+
+Maximum allocated: %1 MiB
+Free: %2 MiB (out of %3 MiB total)
+
+Waunch anyway? This may cause slowdowns in the game and ur system.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/EnsureAvailableMemory.cpp" line="99"/>
         <source>Not enough RAM available to launch this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyot enough RAM avaiwable to waunch this instawnce</translation>
     </message>
 </context>
 <context>
