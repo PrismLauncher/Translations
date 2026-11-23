@@ -5172,22 +5172,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="378"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="404"/>
         <source>Browse</source>
-        <translation>Navegar</translation>
+        <translation>Examinar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="62"/>
         <source>Instance Sorting</source>
-        <translation>Clasificación de Instancias</translation>
+        <translation>Orden de las instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="115"/>
         <source>Instance Renaming</source>
-        <translation>Renombrar Instancias</translation>
+        <translation>Renombrado de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="132"/>
         <source>Always rename the folder</source>
-        <translation>Renombrar siempre el archivo</translation>
+        <translation>Renombrar siempre la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="191"/>
@@ -5197,17 +5197,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>How Often?</source>
-        <translation>¿Cada Cuánto?</translation>
+        <translation>¿Cada cuánto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="212"/>
         <source>Set to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Poné 0 para comprobar solo al iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>On Launch</source>
-        <translation>En Lanzamiento</translation>
+        <translation>Al iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
@@ -5217,93 +5217,93 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>Every </source>
-        <translation>Todo </translation>
+        <translation>Cada </translation>
     </message>
     <message>
         <source>&amp;Auto Java Download:</source>
-        <translation>&amp;Auto Descarga de Java</translation>
+        <translation>Descarga &amp;automática de Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Archivo donde Prism Launcher guarda automáticamente versiones descargadas de Java. NO establezca esto en la instalación de su sistema Java</translation>
+        <translation>Carpeta donde Prism Launcher guarda las versiones de Java que descarga automáticamente. NO la configures para que apunte a la instalación de Java de tu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
         <source>By total time &amp;played</source>
-        <translation>Por el tiempo total &amp;jugando</translation>
+        <translation>Por tiempo total &amp;jugado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="178"/>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation>Abre la ventana de edición de instancias haciendo doble-click en una instancia en vez de correr la instancia.</translation>
+        <translation>Al hacer doble clic en una instancia, se abre su ventana de edición en lugar de iniciarla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="181"/>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Abrir la ventana de edición al hacer doble clic en una instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="352"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
         <source>Folder that may get copied to new instances on creation, can be toggled per instance. Useful for options.txt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta que se puede copiar a las nuevas instancias al crearlas. Se puede activar o desactivar en cada instancia. Útil para options.txt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan&amp;tilla de instancia:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="432"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>Mods and Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods y modpacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar mods bloqueados en las &amp;subcarpetas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="473"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando está activada, se moverán los recursos bloqueados en lugar de copiarlos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente, solo se muestran los mods que no están marcados como compatibles con la versión actual de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar y mostrar mods incompatibles (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="545"/>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioná el canal de versiones preferido al buscar actualizaciones de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="538"/>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Canal de actualizaciones de mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
