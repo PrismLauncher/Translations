@@ -3413,7 +3413,11 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">「%1」というフォルダを削除しようとしています。
+
+このフォルダは、可能であれば %2 に送信されます。送信できない場合は、完全に削除されます！
+
+本当に削除してもよろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -4506,7 +4510,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">依存関係 %1 の情報を取得できませんでした。この依存関係はインストールされません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4517,17 +4521,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>依存関係 %1 を有効なプロジェクトとして解決できなかったため、インストールされません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">依存関係 %1 は、依存関係の連鎖が深すぎるためスキップされました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">依存関係 %1 の解決に失敗しました。このため、インストールされません。この依存関係がないと、mod が正常に動作しない可能性があります。</translation>
     </message>
 </context>
 <context>
@@ -9494,7 +9498,10 @@ Please check your trashbin to manually restore them.</source>
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2を削除しようとしています。
+可能であれば、このインスタンスは%3に送信されます。送信に失敗した場合、インスタンスは完全に削除されます！
+
+本当に削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -12777,7 +12784,13 @@ Please update %1!</source>
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">「%1」を削除しようとしています。
+
+このログは、可能であれば %2 に送信されます。送信できない場合は、永久に削除されます！
+
+
+
+本当に削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -13993,12 +14006,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ごみ箱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ゴミ</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
