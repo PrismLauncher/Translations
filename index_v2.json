@@ -779,12 +779,12 @@
       "untranslated": 1752
     },
     "zh_TW": {
-      "file": "24c023fc00e7ed0a196eb27eee0a38c50ae36062.class",
-      "sha1": "24c023fc00e7ed0a196eb27eee0a38c50ae36062",
-      "size": 261502,
-      "translated": 2528,
+      "file": "144ce39db96a9a4739613d74a641c1a2c5217208.class",
+      "sha1": "144ce39db96a9a4739613d74a641c1a2c5217208",
+      "size": 261559,
+      "translated": 2529,
       "fuzzy": 5,
-      "untranslated": 59
+      "untranslated": 58
     }
   }
 }
