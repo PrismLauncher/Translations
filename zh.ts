@@ -3439,8 +3439,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>你将要删除文件夹 “%1”。
-这可能是永久性的，它们将从文件夹中消失。
+        <translation>你将要删除文件夹“%1”。
+这可能是永久性的，它将从父文件夹中消失。
 
 你确定要这样做吗？</translation>
     </message>
@@ -3450,8 +3450,11 @@ Are you sure?</source>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %n 个项目。
+这些项目将被移动到你的 %1，如果这一操作不可行，它们就将会永久消失！
+
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -3460,7 +3463,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>你将要删除文件夹“%1”。
+该文件夹将被移动到你的 %2，如果这一操作不可行，它就将会永久消失！
+
+你确定要这样做吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -9854,7 +9860,10 @@ Please check your trashbin to manually restore them.</source>
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>你将要删除“%1”%2。
+该实例将被移动到你的 %3，如果这一操作不可行，它就将会被永久删除！
+
+你确定要这样做吗？</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -13393,7 +13402,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>你将要删除“%1”。
+该日志将被移动到你的 %2，如果这一操作不可行，它就将会永久消失！
+
+你确定要这样做吗？</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -14628,12 +14640,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>回收站</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>废纸篓</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -16909,8 +16921,11 @@ Are you sure?</source>
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你将要删除 %n 张截图。
+这些截图将被移动到你的 %1，如果这一操作不可行，它们就将被永久删除！
+
+你确定要这样做吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -16919,7 +16934,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>你将要删除选中的截图。
+该截图将被移动到你的 %2，如果这一操作不可行，它就将被永久删除！
+
+你确定要这样做吗？</translation>
     </message>
     <message numerus="yes">
         <source>You are about to delete %n screenshots.
@@ -18841,7 +18859,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
