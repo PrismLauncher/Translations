@@ -3466,8 +3466,14 @@ These items will be sent to your %1 if possible - if not they will be permanentl
 
 Are you sure?</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>Du bist dabei %n Sache zu entfernen.
+Diese Sache wird nach Möglichkeit zu deinem %1 gesendet - falls dies nicht möglich ist wird sie für immer verloren sein!
+
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei %n Sachen zu entfernen.
+Diese Sachen werden nach Möglichkeit zu deinem %1 gesendet - falls dies nicht möglich ist werden sie für immer verloren sein!
+
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -3476,7 +3482,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist dabei den Ordner &quot;%1&quot; zu entfernen
+Dieser Ordner wird nach Möglichkeit in deinen %2 verschoben - falls dies nicht möglich ist wird er für immer verloren sein!
+
+Bist du sicher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -4636,7 +4645,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es konnte keine Informationen für Abhängigkeit %1 abrufen, sie wird nicht installiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4647,17 +4656,17 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abhängigkeit %1 konnte nicht zu einem validem Projekte zurückgeführt werden, sie wird nicht installiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abhängigkeit %1 wurde übersprungen da die Abhängigkeitskette zu tief ist.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim auflösen der Abhängigkeit %1, sie wird nicht installiert. Die Mod funktioniert eventuell nicht korrekt ohne sie.</translation>
     </message>
 </context>
 <context>
