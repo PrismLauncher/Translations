@@ -1757,7 +1757,7 @@ Podés resolver este problema volviendo a montar /tmp con la opción &apos;exec&
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>Lanzamientos</translation>
+        <translation>Estables</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -1991,9 +1991,9 @@ Podés resolver este problema volviendo a montar /tmp con la opción &apos;exec&
 Are you sure?</source>
         <translation>
             <numerusform>Estás a punto de eliminar los metadatos de %n data pack.
-¿Estás seguro?</numerusform>
+¿Seguro que querés continuar?</numerusform>
             <numerusform>Estás a punto de eliminar los metadatos de %n data packs.
-¿Estás seguro?</numerusform>
+¿Seguro que querés continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -2723,9 +2723,15 @@ Esta acción puede ser permanente y la carpeta desaparecerá de la carpeta conte
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Estás a punto de eliminar %n elemento.
+Este elemento se va a enviar a tu %1 si es posible; si no, se va a borrar para siempre.
+
+¿Seguro que querés continuar?</numerusform>
+            <numerusform>Estás a punto de eliminar %n elementos.
+Estos elementos se van a enviar a tu %1 si es posible; si no, se van a borrar para siempre.
+
+¿Seguro que querés continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -2734,7 +2740,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a punto de eliminar la carpeta &quot;%1&quot;.
+Esta carpeta se va a enviar a tu %2 si es posible; si no, se va a borrar para siempre.
+
+¿Seguro que querés continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -5325,82 +5334,82 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos (estable, beta y alfa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="554"/>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo estable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Estable y beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="585"/>
         <source>Instance Creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Creación de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="591"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descargan los archivos necesarios del juego mientras se crea la instancia. Desactivá esta opción para omitir la descarga inicial y descargar los archivos cuando se inicie la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="594"/>
         <source>Download game files during instance creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar los archivos del juego al crear la instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="619"/>
         <source>Log History &amp;Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Límite del historial de registros:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="664"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tareas</translation>
     </message>
     <message>
         <source>Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de reintentos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="734"/>
         <source>Concurrent Download Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de descargas simultáneas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="744"/>
         <source>HTTP Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera HTTP:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="770"/>
         <source>Concurrent Task Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de tareas simultáneas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advertencia&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: ¡Desactivar los metadatos de los mods también puede desactivar algunas funciones de calidad de vida, como la actualización de mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="727"/>
         <source>Network Retry Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de reintentos de red:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="741"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundos de espera antes de cancelar las solicitudes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="720"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="168"/>
