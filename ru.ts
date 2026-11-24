@@ -3467,10 +3467,19 @@ Are you sure?</source>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n элемент.
+Эти элементы будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n элемента.
+Эти элементы будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n элементов.
+Эти элементы будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -3479,7 +3488,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить папку &quot;%1&quot;.
+Эта папка будет отправлена в %2, если это возможно, иначе она будет удалена безвозвратно!
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -9927,7 +9939,10 @@ Please check your trashbin to manually restore them.</source>
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;%2.
+Этот экземпляр будет отправлен в %3, если это возможно, иначе он будет удалён безвозвратно!
+
+Вы уверены?</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -13526,7 +13541,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Этот журнал будет отправлен в %2, если это возможно, иначе он будет удалён безвозвратно!
+
+Вы уверены?</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -14766,12 +14784,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Корзину</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Корзину</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -17069,10 +17087,19 @@ Are you sure?</source>
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы собираетесь удалить %n снимок экрана.
+Эти снимки экрана будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n снимка экрана.
+Эти снимки экрана будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n снимков экрана.
+Эти снимки экрана будут отправлены в %1, если это возможно, иначе они будут удалены безвозвратно!
+
+Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -17081,7 +17108,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить выбранный снимок экрана.
+Этот снимок экрана будет отправлен в %2, если это возможно, иначе он будет удалён безвозвратно!
+
+Вы уверены?</translation>
     </message>
     <message numerus="yes">
         <source>You are about to delete %n screenshots.
@@ -19032,7 +19062,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
