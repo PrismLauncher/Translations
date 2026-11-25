@@ -2994,10 +2994,19 @@ An bhfuil tú cinnte?</translation>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+Seolfar na míreanna seo chuig do %1 más féidir – mura féidir, beidh siad imithe go deo!
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+Seolfar na míreanna seo chuig do %1 más féidir – mura féidir, beidh siad imithe go deo!
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n mír a bhaint amach.
+Seolfar na míreanna seo chuig do %1 más féidir – mura féidir, beidh siad imithe go deo!
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -3006,7 +3015,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an fillteán &quot;%1&quot; a bhaint.
+Cuirfear an fillteán seo chuig do %2, más féidir – mura féidir, beidh sé imithe go deo!
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -7541,7 +7553,7 @@ Cúis:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="426"/>
         <source>Dele&amp;te</source>
-        <translation>Scrios</translation>
+        <translation>Scrio&amp;s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="698"/>
@@ -8238,7 +8250,10 @@ Seiceáil do bhruscar le do thoil chun iad a athchóiriú de láimh.</translatio
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot;%2 a scriosadh.
+Seolfar an t-earra chuig do %3, más féidir. Mura n-éiríonn leis sin, scriosfar an t-earra go buan!
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -11294,7 +11309,10 @@ An bhfuil tú cinnte?</translation>
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí &quot;%1&quot; a scriosadh.
+Seolfar an loga seo chuig do %2, más féidir – mura féidir, beidh sé imithe go deo!
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="453"/>
@@ -12524,12 +12542,12 @@ Lean ar aghaidh leis an ngearradh?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Bosca Athchúrsála</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruscar</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -14529,10 +14547,19 @@ An bhfuil tú cinnte?</translation>
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tá tú ar tí %n gabháil scáileáin a scriosadh.
+Seolfar na gabhálacha scáileáin seo chuig do %1 más féidir – mura féidir, scriosfar go buan iad!
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n gabháil scáileáin a scriosadh.
+Seolfar na gabhálacha scáileáin seo chuig do %1 más féidir – mura féidir, scriosfar go buan iad!
+
+An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n gabháil scáileáin a scriosadh.
+Seolfar na gabhálacha scáileáin seo chuig do %1 más féidir – mura féidir, scriosfar go buan iad!
+
+An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -14541,7 +14568,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tá tú ar tí an ghabháil scáileáin roghnaithe a scriosadh.
+Seolfar an ghabháil scáileáin seo chuig do %2, más féidir – mura féidir, scriosfar go buan í!
+
+An bhfuil tú cinnte?</translation>
     </message>
     <message numerus="yes">
         <source>You are about to delete %n screenshots.
@@ -16121,7 +16151,7 @@ Aistrigh go ceann de na leaganacha Java seo a leanas don sampla seo:</translatio
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Del</translation>
+        <translation>Scrios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
