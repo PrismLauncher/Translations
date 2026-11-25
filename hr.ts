@@ -938,7 +938,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
         <translation>Nije moguće prikazati ovaj log jer dužina loga premašuje %1 linija.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Postavke</translation>
     </message>
@@ -1051,22 +1051,22 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <translation type="vanished">Prekinuto</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Stari podaci iz %1 su pronađeni, ali već imaš postojeće podatke za %2. Nažalost morat ćeš sam migrirati. Želiš li biti podsjetnut na migraciju idući put kad pokreneš %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Izgleda da si već koristio %1. Želiš li migrirati podatke na novu lokaciju %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Izgleda da si već koristio %1 na %2. Želiš li migrirati svoje podatke na novu lokaciju %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Neuspjela migracija! Razlog: %1</translation>
     </message>
@@ -1890,8 +1890,9 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <translation>Kopiranje svijeta...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Kopiranje svijeta nije uspjelo.</translation>
+        <translation>Kopiranje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -2459,8 +2460,9 @@ Jeste li sigurni?</translation>
         <translation>Brisanje svijeta...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Brisanje svijeta nije uspjelo.</translation>
+        <translation>Brisanje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -4556,8 +4558,9 @@ What would you like to do with %2?</source>
         <translation>Uvoz svijeta...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Uvoz svijeta nije uspio.</translation>
+        <translation>Uvoz svijeta nije uspio.</translation>
     </message>
 </context>
 <context>
@@ -4881,6 +4884,11 @@ What would you like to do with %2?</source>
         <translation>&amp;Osvježi</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>preuzimanje</translation>
@@ -4978,6 +4986,11 @@ What would you like to do with %2?</source>
 </context>
 <context>
     <name>JavaPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
@@ -11905,18 +11918,18 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>Automatsko ažuriranje za Prism Launcher</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>artikal</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>stavke</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Nepoznato</translation>
     </message>
@@ -12362,7 +12375,7 @@ Poruka o pogrešci: %3</translation>
         <translation>Nepoznato</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Nije označeno kao kompatibilno s verzijom igre instance.</translation>
     </message>
@@ -13448,6 +13461,11 @@ Are you sure?</source>
 Trebali biste još jednom provjeriti osobne podatke.
 
 Jeste li sigurni?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Potvrdite prijenos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -14700,12 +14718,12 @@ Jeste li sigurni?</translation>
         <translation type="vanished"> Pregled:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Izgled</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Odaberite temu i ikone za korištenje</translation>
     </message>

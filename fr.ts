@@ -992,7 +992,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <translation>Impossible d&apos;afficher ce journal car la longueur du journal dépasse %1 lignes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
@@ -1105,22 +1105,22 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation type="vanished">Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Des anciennes données de %1 ont été trouvés, cependant vous avez déjà des données existantes pour %2. Malheuresement, vous devrez faire la migration par vous même. Souhaitez-vous recevoir un rappel de la migration des données en attente la prochaine fois que vous démarrerez %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Il semblerait que vous avez utilisé %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration échouée&#x202f;! Raison&#xa0;: %1</translation>
     </message>
@@ -2009,8 +2009,9 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation>Copie du monde...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Échec de la copie du monde.</translation>
+        <translation>Échec de la copie du monde.</translation>
     </message>
 </context>
 <context>
@@ -2583,8 +2584,9 @@ Are you sure?</source>
         <translation>Suppression du monde...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Échec de la suppression du monde.</translation>
+        <translation>Échec de la suppression du monde.</translation>
     </message>
 </context>
 <context>
@@ -5049,8 +5051,9 @@ Que souhaitez-vous faire avec %2&#x202f;?</translation>
         <translation>Importation du monde en cours...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Échec de l&apos;importation du monde.</translation>
+        <translation>Échec de l&apos;importation du monde.</translation>
     </message>
 </context>
 <context>
@@ -5825,6 +5828,11 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
         <translation>Rafraichir</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished">Recommandée</translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Télécharger</translation>
@@ -5988,6 +5996,11 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">Versions de Java téléchargées</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Général</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -15266,18 +15279,18 @@ Voulez-vous supprimer ces sauvegardes existantes durant cette mise à jour&#x202
         <translation type="vanished">Impossible de réparer les permissions pour %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>objet</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>objets</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
@@ -15722,7 +15735,7 @@ Message d&apos;erreur&#xa0;: %3</translation>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Non marqué comme compatible avec la version du jeu de l’instance.</translation>
     </message>
@@ -16914,6 +16927,11 @@ Are you sure?</source>
 Vous devriez revérifier les informations personnelles.
 
 Êtes-vous sûr&#x202f;?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Confirmez l&apos;envoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -18372,12 +18390,12 @@ Are you sure?</source>
         <translation type="vanished">Le chat qui apparaît en arrière-plan n&apos;a pas d&apos;utilité, il est purement visuel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Apparence</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Sélectionnez le thème et les icônes à utiliser</translation>
     </message>

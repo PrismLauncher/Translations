@@ -928,7 +928,7 @@ Please update both your operating system and %1.</source>
         <translation>Немагчыма адлюстраваць гэты журнал, бо даўжыня журнала перавысіла %1 радкоў.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Налады</translation>
     </message>
@@ -1041,22 +1041,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Спынена</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Былі знойдзены старыя даныя з %1, але ў вас ужо ёсць даныя для %2. На жаль, вам трэба будзе зрабіць перанос даных самастойна. Нагадаць вам аб пераносе, калі вы запусціце %2 наступны раз?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Здаецца, вы выкарыстоўвалі %1 раней. Вы жадаеце перанесці свае даныя ў новае месца %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Здаецца, вы выкарыстоўвалі %1 у %2 раней. Вы жадаеце перанесці даныя ў новае месца %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Перанос не ўдаўся! Прычына: %1</translation>
     </message>
@@ -1917,8 +1917,9 @@ Some versions of Minecraft may not launch.
         <translation>Капіяванне свету...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Не ўдалося скапіяваць свет.</translation>
+        <translation>Не ўдалося скапіяваць свет.</translation>
     </message>
 </context>
 <context>
@@ -2482,8 +2483,9 @@ Are you sure?</source>
         <translation>Выдаленне свету...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Не ўдалося выдаліць свет.</translation>
+        <translation>Не ўдалося выдаліць свет.</translation>
     </message>
 </context>
 <context>
@@ -4678,8 +4680,9 @@ What would you like to do with %2?</source>
         <translation>Імпартаванне свету...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Не ўдалося імпартаваць свет.</translation>
+        <translation>Не ўдалося імпартаваць свет.</translation>
     </message>
 </context>
 <context>
@@ -5297,6 +5300,11 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>&amp;Абнавіць</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished">Рэкамендаваны</translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Спампаваць</translation>
@@ -5460,6 +5468,11 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">Спампаваныя версіі Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Галоўны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -12680,18 +12693,18 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="obsolete">Не атрымалася выправіць дазволы для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Невядомы</translation>
     </message>
@@ -13119,7 +13132,7 @@ Error message: %3</source>
         <translation type="unfinished">Невядомы</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14176,6 +14189,11 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Пацвердзіць запампоўванне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -15389,12 +15407,12 @@ Are you sure?</source>
 <context>
     <name>ThemeWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Выгляд</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation type="unfinished"></translation>
     </message>

@@ -819,7 +819,7 @@ Agar bu yerda yangi bölsangiz, Microsoft Akkauntingizni boğlaş uçun &quot;Mi
         <translation>Bu jurnalni körsatib bölmaydi, çunki jurnal uzunligi %1 satrdan oşib ketgan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Sozlamalar</translation>
     </message>
@@ -930,22 +930,22 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation type="vanished">To&apos;xtatildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 dan eski maʼlumotlar topildi, lekin sizda allaqaçon %2 maʼlumotlari mavjud. Afsuski, özingizni köçirişingiz kerak böladi. Keyingi safar %2 işga tuşirilganda kutilayotgan maʼlumotlar köçişi haqida eslatilişini xohlaysizmi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Siz avval %1 dan foydalanganga öxşaysiz. Maʼlumotlaringizni yangi %2 manziliga köçirmoqçimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Siz ilgari %2 da %1 dan foydalanganga öxşaysiz. Maʼlumotlaringizni yangi %3 manziliga köçirmoqçimisiz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratsiya amalga oşmadi! Sababi: %1</translation>
     </message>
@@ -1745,8 +1745,9 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
         <translation>Olam nusxalanmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Olamni nusxalab bölmadi.</translation>
+        <translation>Olamni nusxalab bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -2264,8 +2265,9 @@ Işonçingiz komilmi?</translation>
         <translation>Olam öçirilmoqda...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Olamni öçirib bölmadi.</translation>
+        <translation>Olamni öçirib bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -4197,8 +4199,9 @@ What would you like to do with %2?</source>
         <translation>Olam import qilinmoqda…</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Olamni import qilib bölmadi.</translation>
+        <translation>Olamni import qilib bölmadi.</translation>
     </message>
 </context>
 <context>
@@ -4495,6 +4498,11 @@ What would you like to do with %2?</source>
         <translation>&amp;Qayta yuklaş</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Yuklab oliş</translation>
@@ -4592,6 +4600,11 @@ What would you like to do with %2?</source>
 </context>
 <context>
     <name>JavaPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Umumiy</translation>
+    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Installations</source>
@@ -11185,18 +11198,18 @@ Uşbu yangilanişning bir qismi sifatida mavjud saqlaşlarni yöq qilişni xohla
         <translation type="unfinished">Prism Launcher uçun avtomatik yangilagiç</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>buyum</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>buyumlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Nomaʼlum</translation>
     </message>
@@ -11641,7 +11654,7 @@ Xatolik xabari: %3</translation>
         <translation>Nomaʼlum</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Nusxaning öyin versiyasi bilan mos deb belgilab qöyilmagan.</translation>
     </message>
@@ -12703,6 +12716,11 @@ Are you sure?</source>
 Şaxsiy maʼlumotlar bor-yöqligini yana bir bor tekşiring.
 
 Işonçingiz komilmi?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Yuklab qöyişni tasdiqlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -13906,12 +13924,12 @@ Işonçingiz komilmi?</translation>
 <context>
     <name>ThemeWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Taşqi köriniş</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Foydalaniş uçun tema va ikonlarni tanlang</translation>
     </message>

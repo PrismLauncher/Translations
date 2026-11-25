@@ -972,7 +972,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Kan de log niet tonen omdat de lengte %1 lijnen heeft overschreden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
@@ -1085,22 +1085,22 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <translation type="vanished">Geannuleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Er zijn oude gegevens van %1 gevonden, maar u hebt al bestaande gegevens voor %2. Helaas moet u zelf migreren. Wilt u de volgende keer dat u %2 start, herinnerd worden aan de openstaande gegevensmigratie?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Het lijkt erop dat u al eerder %1 gebruikte. Wilt u uw gegevens migreren naar de nieuwe locatie van %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Het lijkt erop dat u %1 al eerder gebruikte op %2. Wilt u uw gegevens migreren naar de nieuwe locatie van %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratie mislukt! Reden: %1</translation>
     </message>
@@ -1956,8 +1956,9 @@ Sommige versies van Minecraft starten mogelijk niet op.
         <translation>Wereld kopiëren...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Wereld kopiëren mislukt.</translation>
+        <translation>Wereld kopiëren mislukt.</translation>
     </message>
 </context>
 <context>
@@ -2530,8 +2531,9 @@ Weet u dat zeker?</translation>
         <translation>Wereld verwijderen...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Wereld verwijderen mislukt.</translation>
+        <translation>Wereld verwijderen mislukt.</translation>
     </message>
 </context>
 <context>
@@ -4980,8 +4982,9 @@ Wat wilt u doen met %2?</translation>
         <translation>Wereld importeren...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Importeren van de wereld mislukt.</translation>
+        <translation>Importeren van de wereld mislukt.</translation>
     </message>
 </context>
 <context>
@@ -5724,6 +5727,11 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
         <translation>Vernieuwen</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished">Aanbevolen</translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Downloaden</translation>
@@ -5887,6 +5895,11 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">Gedownloade Java-versies</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Algemeen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -14907,18 +14920,18 @@ Wil je deze als onderdeel van deze update verwijderen?</translation>
         <translation type="vanished">Kon de rechten van %1 niet herstellen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>voorwerp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>voorwerpen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
     </message>
@@ -15361,7 +15374,7 @@ Foutmelding: %3</translation>
         <translation>Onbekend</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Niet gemarkeerd als compatibel met de spelversie van deze instantie.</translation>
     </message>
@@ -16538,6 +16551,11 @@ Are you sure?</source>
 Je kunt persoonlijke informatie het beste dubbel controleren.
 
 Weet u het zeker?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Uploaden bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -17935,12 +17953,12 @@ Bent u zeker?</translation>
         <translation type="vanished">De kat verschijnt op de achtergrond en heeft geen nut, het is enkel visueel.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Uiterlijk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Selecteer thema en pictogrammen om te gebruiken</translation>
     </message>

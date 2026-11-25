@@ -968,7 +968,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <translation>Tidak bisa menampilkan log ini karena panjangnya melebihi %1 baris.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
@@ -1081,22 +1081,22 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation type="vanished">Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Data lama dari %1 telah ditemukan, tetapi Anda memiliki data yang sudah ada untuk %2. Sayangnya Anda harus memigrasikan secara manual. Apakah Anda ingin diingatkan tentang ini saat Anda membuka ulang %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 sebelumnya. Apakah Anda ingin memigrasikan data anda ke lokasi baru %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 dengan %2 sebelumnya. Apakah anda ingin memigrasikan data ke lokasi baru %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasi gagal! Alasan: %1</translation>
     </message>
@@ -1977,8 +1977,9 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation>Menyalin dunia...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Gagal menyalin dunia.</translation>
+        <translation>Gagal menyalin dunia.</translation>
     </message>
 </context>
 <context>
@@ -2549,8 +2550,9 @@ Apakah kamu yakin?</translation>
         <translation>Menghapus dunia...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Gagal menghapus dunia.</translation>
+        <translation>Gagal menghapus dunia.</translation>
     </message>
 </context>
 <context>
@@ -4928,8 +4930,9 @@ Apa yang ingin Anda lakukan terhadap %2?</translation>
         <translation>Mengimpor dunia...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Gagal mengimpor dunia.</translation>
+        <translation>Gagal mengimpor dunia.</translation>
     </message>
 </context>
 <context>
@@ -5634,6 +5637,11 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <translation>Sega&amp;rkan</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Unduh</translation>
@@ -5797,6 +5805,11 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">Versi-versi Java terunduh</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Umum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -14522,18 +14535,18 @@ Apakah Anda ingin menghapus berkas penyimpanan yang sudah ada sebagai bagian dar
         <translation type="vanished">Tidak dapat memperbaiki izin akses berkas untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>barang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>barang-barang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Tidak dikenal</translation>
     </message>
@@ -14975,7 +14988,7 @@ Pesan kesalahan: %3</translation>
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Tidak ditandai sebagai kompatibel dengan versi permainan dari instansi.</translation>
     </message>
@@ -16131,6 +16144,11 @@ Are you sure?</source>
 Anda sebaiknya pastikan kembali tidak ada informasi pribadi.
 
 Apakah Anda yakin?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Konfirmasi Unggah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -17563,12 +17581,12 @@ Apakah Anda yakin?</translation>
         <translation type="vanished">Kucing akan muncul di latar belakang dan tidak memiliki kegunaan, hanya untuk visual.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Tampilan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Pilih tema dan ikon untuk digunakan</translation>
     </message>

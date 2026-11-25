@@ -956,7 +956,7 @@ Please update both your operating system and %1.</source>
         <translation>لا يمكن عرض هذا السجل لأن طوله تجاوز %1 سطر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>الإعدادات</translation>
     </message>
@@ -1069,22 +1069,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">إلغاء المهمة</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>تم العثور على بيانات قديمة من %1، لكن لديك بالفعل بيانات موجودة لـ %2. للأسف ستحتاج إلى ترحيلها بنفسك. هل تريد أن نذكّرك بترحيل البيانات المعلّق في المرة القادمة التي تشغّل فيها %2؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>يبدو أنك استخدمت %1 من قبل. هل تريد ترحيل بياناتك إلى الموقع الجديد لـ %2؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>يبدو أنك استخدمت %1 على %2 من قبل. هل تريد ترحيل بياناتك إلى الموقع الجديد لـ %3؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>فشل الترحيل! السبب: %1</translation>
     </message>
@@ -1912,8 +1912,9 @@ Some versions of Minecraft may not launch.
         <translation>جارٍ نسخ العالم...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">فشل نسخ العالم.</translation>
+        <translation>فشل نسخ العالم.</translation>
     </message>
 </context>
 <context>
@@ -2490,8 +2491,9 @@ Are you sure?</source>
         <translation>جارٍ حذف العالم...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">فشل حذف العالم.</translation>
+        <translation>فشل حذف العالم.</translation>
     </message>
 </context>
 <context>
@@ -4842,8 +4844,9 @@ What would you like to do with %2?</source>
         <translation>جارٍ استيراد العالم...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">فشل نقل العالم.</translation>
+        <translation>فشل نقل العالم.</translation>
     </message>
 </context>
 <context>
@@ -5540,6 +5543,11 @@ Please make sure that the maximum memory value is lower.</source>
         <translation>&amp;تحديث</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished">الموصى به</translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>تنزيل</translation>
@@ -5703,6 +5711,11 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">نسخ الجافا المحملة</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">عام</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -13851,18 +13864,18 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="obsolete">تعذر إصلاح الأذونات لـ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>عنصر</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>عناصر</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>غير معروف</translation>
     </message>
@@ -14335,7 +14348,7 @@ Error message: %3</source>
         <translation>غير معروف</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>غير مصنَّف كمتوافق مع إصدار لعبة هذه النسخة.</translation>
     </message>
@@ -15463,6 +15476,11 @@ Are you sure?</source>
 ينبغي أن تتحقق مرة أخرى من عدم وجود معلومات شخصية.
 
 هل أنت متأكد؟</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">تأكيد الرفع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -16843,12 +16861,12 @@ Are you sure?</source>
 <context>
     <name>ThemeWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>المظهر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>اختر السمة والأيقونات المراد استخدامها</translation>
     </message>

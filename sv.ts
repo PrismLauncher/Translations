@@ -968,7 +968,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>Kan inte visa den här loggen eftersom loggen överstiger %1 rader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
@@ -1080,22 +1080,22 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation type="vanished">Avbruten</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1978"/>
+        <location filename="src/launcher/Application.cpp" line="1979"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gamla data från %1 hittades, men %2 har redan egna data. Därför behöver du flytta över filerna själv. Vill du få en påminnelse nästa gång du startar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1982"/>
+        <location filename="src/launcher/Application.cpp" line="1983"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Det ser ut som att du har använt %1 tidigare. Vill du flytta dina data till den nya platsen för %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1988"/>
+        <location filename="src/launcher/Application.cpp" line="1989"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det ser ut som att du tidigare använde %1 på %2. Vill du flytta dina data till den nya platsen för %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2034"/>
+        <location filename="src/launcher/Application.cpp" line="2035"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Det gick inte att flytta över data. Orsak: %1</translation>
     </message>
@@ -1980,8 +1980,9 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation>Kopierar värld...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="91"/>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Det gick inte att kopiera världen.</translation>
+        <translation>Det gick inte att kopiera världen.</translation>
     </message>
 </context>
 <context>
@@ -2540,8 +2541,9 @@ Vill du fortsätta?</translation>
         <translation>Tar bort världen...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="126"/>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Det gick inte att ta bort världen.</translation>
+        <translation>Det gick inte att ta bort världen.</translation>
     </message>
 </context>
 <context>
@@ -4994,8 +4996,9 @@ Vad vill du göra med %2?</translation>
         <translation>Importerar värld...</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/WorldTasks.cpp" line="51"/>
         <source>Failed to import world.</source>
-        <translation type="vanished">Det gick inte att importera världen.</translation>
+        <translation>Det gick inte att importera världen.</translation>
     </message>
 </context>
 <context>
@@ -5752,6 +5755,11 @@ Se till att det maximala minnesvärdet är lägre.</translation>
         <translation>&amp;Uppdatera</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
+        <source>Recommended</source>
+        <translation type="unfinished">Rekommenderad</translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
         <source>Download</source>
         <translation>Ladda ned</translation>
@@ -5915,6 +5923,11 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <source>Downloaded Java Versions</source>
         <translation type="vanished">Nedladdade Java-versioner</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
+        <source>General</source>
+        <translation type="unfinished">Allmänt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -15028,18 +15041,18 @@ Vill du ta bort dessa befintliga sparfiler som en del av uppdateringen?</transla
         <translation type="vanished">Kunde inte fixa behörigheter för %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="37"/>
         <source>item</source>
         <translation>objekt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="38"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="39"/>
         <source>items</source>
         <translation>objekt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="108"/>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="118"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
@@ -15484,7 +15497,7 @@ Felmeddelande: %3</translation>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/Resource.cpp" line="169"/>
         <source>Not marked as compatible with the instance&apos;s game version.</source>
         <translation>Inte markerad som kompatibel med instansens spelversion.</translation>
     </message>
@@ -16676,6 +16689,11 @@ Are you sure?</source>
 Kontrollera att den inte innehåller personlig information.
 
 Är du säker?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
+        <source>Confirm Upload</source>
+        <translation type="unfinished">Bekräfta uppladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -18134,12 +18152,12 @@ Are you sure?</source>
         <translation type="vanished">Katten visas i bakgrunden och har inget syfte, den är rent visuell.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="43"/>
         <source>Appearance</source>
         <translation>Utseende</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
+        <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="44"/>
         <source>Select theme and icons to use</source>
         <translation>Välj tema och ikoner att använda</translation>
     </message>
