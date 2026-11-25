@@ -14507,12 +14507,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>휴지통</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>휴지통</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -18724,7 +18724,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
