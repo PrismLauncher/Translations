@@ -3465,7 +3465,7 @@ Bist Du Dir sicher?</translation>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Du bist dabei %n Sache zu entfernen.
 Diese Sache wird nach Möglichkeit zu deinem %1 gesendet - falls dies nicht möglich ist wird sie für immer verloren sein!
 
@@ -9801,12 +9801,12 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="582"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändere Gruppe &amp; Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="587"/>
         <source>Delete &amp;group icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösche Gruppe &amp; Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
@@ -9900,7 +9900,10 @@ Bitte überprüfe deinen Papierkorb, um sie manuell wiederherzustellen.</transla
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist dabei &quot;%1&quot;%2 zu löschen.
+Diese Instanz wird nach Möglichkeit zu deinem %3 gesendet. Falls dies fehlschlägt wird die Instanz permanent gelöscht!
+
+Bist du sicher?</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -10102,7 +10105,7 @@ Fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Update von URL</translation>
     </message>
     <message>
         <source>Update from file</source>
@@ -10224,22 +10227,22 @@ Stellen Sie sicher, dass Sie der URL vertrauen können.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Update von URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Enter the download URL of the modpack file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gib die Download URL von der Modpack Datei:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht valide URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Please enter a valid HTTP(S) URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte gib eine valide HTTP(S) URL ein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="486"/>
@@ -13470,7 +13473,10 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist dabei &quot;%1&quot; zu löschen.
+Dieses Protokoll wird nach Möglichkeit zu deinem %2 gesendet - falls dies nicht möglich ist wird es permanent verloren sein!
+
+Bist du sicher?</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -14710,12 +14716,12 @@ Wollen Sie mit der Verkürzung fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Papierkorb</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Müll</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -15897,9 +15903,11 @@ Bist du dir sicher, dass du diesen Dialog schließen möchtest?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du hast %n ausgewählte Ressource.
+Bist du sicher das du diesen dialog schließen willst?</numerusform>
+            <numerusform>Du hast %n ausgewählte Ressourcen.
+Bist du sicher das du diesen dialog schließen willst?</numerusform>
         </translation>
     </message>
     <message>
@@ -16526,9 +16534,11 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="206"/>
         <source>You are about to remove the metadata for %n resource packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei die Metadaten für %1 Ressourcen packet zu entfernen.
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei die Metadaten für %1 Ressourcen packete zu entfernen.
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -16994,9 +17004,15 @@ Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei %n screenshot zu löschen.
+Dieser screenshot wird nach Möglichkeit nach %1 gesendet - falls dies nicht möglich ist wird er für immer gelöscht sein!
+
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei %n screenshots zu löschen.
+Diese screenshots werden nach Möglichkeit nach %1 gesendet - falls dies nicht möglich ist werden sie für immer gelöscht sein!
+
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -17005,7 +17021,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist dabei den ausgewählten screenshot zu löschen.
+Dieser screenshot wird nach Möglichkeit zu deinem %2 gesendet - falls dies nicht möglich ist wird er permanent gelöscht!
+
+Bist du sicher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
@@ -17259,9 +17278,15 @@ Aktuell installierte Version: %1</translation>
 This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei den %n ausgewählten server zu löschen.
+Dies ist permanent und der server wird für immer von deiner liste verschwunden sein (EINE LANGE ZEIT).
+
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei die %n ausgewählten server zu löschen.
+Dies ist permanent und die server werden für immer von deiner liste verschwunden sein (EINE LANGE ZEIT).
+
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -17376,9 +17401,11 @@ Bist Du Dir sicher?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei die Metadaten für %n Shader Paket zu löschen.
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei die Metadaten für %n Shader Pakete zu löschen.
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -18266,9 +18293,11 @@ Warnung: Diese Ressource ist anderswo fest verknüpft. Durch die Bearbeitung wir
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="207"/>
         <source>You are about to remove the metadata for %n texture packs.
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du bist dabei die Metadaten für %n Texturen packet zu löschen.
+Bist du sicher?</numerusform>
+            <numerusform>Du bist dabei die Metadaten für %n Texturen packete zu löschen.
+Bist du sicher?</numerusform>
         </translation>
     </message>
     <message>
@@ -18913,7 +18942,7 @@ Bitte wechsel zu einer der folgenden Java-Versionen für diese Instanz:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Entf</translation>
+        <translation>Entf</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
