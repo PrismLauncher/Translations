@@ -2954,17 +2954,17 @@ Haqiqatan ham buni qilmoqçimisiz?</translation>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="404"/>
         <source>%n items selected</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ta element tanlandi</numerusform>
+            <numerusform>%n ta element tanlandi</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="409"/>
         <source>%n search results</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ta qidiruv natijasi</numerusform>
+            <numerusform>%n ta qidiruv natijasi</numerusform>
         </translation>
     </message>
     <message>
@@ -4802,7 +4802,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="134"/>
         <source>Java %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
@@ -4812,7 +4812,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="141"/>
         <source>Browse</source>
-        <translation type="unfinished">Körib çiqiş</translation>
+        <translation>Keziş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="142"/>
@@ -4822,7 +4822,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="145"/>
         <source>Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniqlaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="146"/>
@@ -4832,7 +4832,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="164"/>
         <source>Java %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="171"/>
@@ -4849,7 +4849,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
         <source>Select a Java %1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1 örnatmasini tanlang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
@@ -5505,7 +5505,7 @@ Modlaringizni tuzatişingiz kerak bölişi mumkin, çunki öyin hanuz fayllarga 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="388"/>
         <source>Instance &amp;Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nusxa şabloni:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
@@ -5799,7 +5799,7 @@ Flatseal orqali unga %1 kiriş ruxsatini beriş tavsiya etiladi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxa şabloni jildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
@@ -6234,7 +6234,7 @@ Sabab:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished">Minecraft öynaş uçun kamida 1x ta Microsoft akkaunti tizimga kirgan bölişi kerak. Hozir tizimga kirmoqçimisiz?</translation>
+        <translation>Minecraft öynaş uçun kamida bitta Microsoft akkaunti tizimga kirgan bölişi kerak. Hozir tizimga kirmoqçimisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6857,12 +6857,12 @@ Sabab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="783"/>
         <source>Instance &amp;Template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nusxa şabloni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Open the template folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon jildini fayl brauzerida oçiş.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
@@ -7224,7 +7224,7 @@ Metadata keşini qölda tozalaş uçun Jildlar -&gt; Launçer ildiz jildini kör
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="582"/>
         <source>Change group &amp;icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Guruh ikonkasini özgartiriş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="587"/>
@@ -7378,7 +7378,7 @@ Işonçingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="181"/>
         <source>Update From URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Havoladan yangilaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="196"/>
@@ -7484,7 +7484,7 @@ URLʼga ham işonçingiz komil bölsin.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
         <source>Update from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Havoladan yangilaş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="465"/>
@@ -7494,7 +7494,7 @@ URLʼga ham işonçingiz komil bölsin.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Havola yaroqsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="474"/>
@@ -10098,7 +10098,7 @@ Bu muammoni tuzatmaguningizça yangilagiç davom eta olmaydi.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished">MacOS qöllab-quvvatlanmaydi</translation>
+        <translation>MacOS qöllab-quvvatlanmaydi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="288"/>
@@ -11177,7 +11177,7 @@ Uşbu yangilanişning bir qismi sifatida mavjud saqlaşlarni yöq qilişni xohla
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="172"/>
         <source>Ungrouped</source>
-        <translation>Guruhlanmagan</translation>
+        <translation>Guruhsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
