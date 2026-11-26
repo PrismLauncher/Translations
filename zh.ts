@@ -5818,7 +5818,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished">推荐版本</translation>
+        <translation>推荐版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -5988,7 +5988,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
         <source>General</source>
-        <translation type="unfinished">常规</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -16919,7 +16919,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished">确认上传</translation>
+        <translation>确认上传</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
