@@ -3459,9 +3459,15 @@ Esta acción puede ser definitiva y la carpeta desaparecerá de la carpeta princ
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Estás apunto de remover %n elementos.
+Estos elementos van a ser enviados a tu %1 si es posible, ¡Si no, ellos se irán permanentemente!
+
+¿Estás seguro?</numerusform>
+            <numerusform>Estás apunto de remover %! elementos.
+Estos elementos van a ser enviados a tu %1 si es posible, ¡Si no, ellos se irán permanentemente!
+
+¿Estás seguro?</numerusform>
         </translation>
     </message>
     <message>
@@ -3470,7 +3476,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás apunto de remover la carpeta &quot;%1&quot;.
+Esta carpeta será enviada a tu %2 si es posible, ¡Si no, se irá permanentemente!
+
+¿Estás seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -4616,7 +4625,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo resolver la dependencia %1 como un proyecto valido, no será instalada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
@@ -5811,7 +5820,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Recomendado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
