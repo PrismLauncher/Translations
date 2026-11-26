@@ -7350,7 +7350,7 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
         <source>&amp;Mods (Quick Access):</source>
-        <translation>&amp;Modlar(Hızlı Erişim):</translation>
+        <translation>&amp;Modlar (Hızlı Erişim):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="385"/>
@@ -14535,12 +14535,12 @@ Kırpma işlemine devam edilsin mi?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Çöp Kutusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Çöp Kutusu</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -19483,7 +19483,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="255"/>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Dünyalar siliniyor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="283"/>
