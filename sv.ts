@@ -3416,9 +3416,15 @@ Detta kan vara permanent och den kommer att försvinna från den mapp den är i.
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att ta bort %n objekt.
+Dessa objekt kommer att skickas till din %1 om möjligt - annars kommer de att vara borta permanent!
+
+Är du säker?</numerusform>
+            <numerusform>Du håller på att ta bort %n flera objekt.
+Dessa flera objekt kommer att skickas till din %1 om möjligt - annars kommer de att vara borta permanent!
+
+Är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -3427,7 +3433,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort katalogen &quot;%1&quot;.
+Den här katalogen kommer att skickas till din %2 om möjligt - annars kommer den att vara borta permanent!
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -4559,7 +4568,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att hämta information för beroendet %1, det kommer inte att installeras.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4570,17 +4579,17 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="244"/>
         <source>Dependency %1 could not be resolved to a valid project, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beroendet %1 kunde inte matchas mot ett giltigt projekt; det kommer inte att installeras.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beroendet %1 hoppades över eftersom beroendekedjan är för djup.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lösa beroendet %1, det kommer inte att installeras. Modden kanske inte fungerar korrekt utan det.</translation>
     </message>
 </context>
 <context>
@@ -5757,7 +5766,7 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished">Rekommenderad</translation>
+        <translation>Rekommenderas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -5927,7 +5936,7 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
         <source>General</source>
-        <translation type="unfinished">Allmänt</translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -9721,7 +9730,10 @@ Om du vill rensa metadatacachen manuellt väljer du Mappar -&gt; Startprogramsda
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort &quot;%1&quot;%2
+Instansen kommer att skickas till din %3 om det är möjligt. Om detta misslyckas kommer instansen att raderas permanent!
+
+Är du säker?</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -13200,7 +13212,10 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort ”%1”.
+Denna logg kommer att skickas till din %2 om det är möjligt – i annat fall går den förlorad för alltid!
+
+Är du säker?</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -14420,12 +14435,12 @@ Fortsätta med trunkering?</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Papperskorg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Papperskorgen</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -16693,7 +16708,7 @@ Kontrollera att den inte innehåller personlig information.
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished">Bekräfta uppladdning</translation>
+        <translation>Bekräfta uppladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -16713,9 +16728,15 @@ Kontrollera att den inte innehåller personlig information.
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Du håller på att radera %n skärmdump
+Denna skärmdump kommer att skickas till din %1 om möjligt – i annat fall raderas de permanent!
+
+är du säker?</numerusform>
+            <numerusform>Du håller på att radera %n skärmdumpar.
+Dessa skärmdumpar kommer att skickas till din %1 om möjligt – i annat fall raderas de permanent!
+
+är du säker?</numerusform>
         </translation>
     </message>
     <message>
@@ -16724,7 +16745,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera den markerade skärmdumpen.
+Denna skärmdump kommer att skickas till din %2 om det är möjligt – i annat fall raderas den permanent!
+
+är du säker?</translation>
     </message>
     <message numerus="yes">
         <source>You are about to delete %n screenshots.
@@ -18654,7 +18678,7 @@ Byt till någon av följande Java-versioner för den här instansen:</translatio
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Radera</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
