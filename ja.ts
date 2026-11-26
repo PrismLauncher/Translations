@@ -2451,8 +2451,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>You are about to remove the metadata for %n data packs.
 Are you sure?</source>
         <translation>
-            <numerusform>%n 個のデータパックのメタデータを削除しようとしています。
-本当に削除してもよろしいですか？</numerusform>
+            <numerusform>%n個のデータパックのメタデータを削除しようとしています。
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -2527,7 +2527,7 @@ Are you sure you want to do this?</source>
         <source>You are about to remove the metadata for %1 data packs.
 Are you sure?</source>
         <translation>%1個のデータパックのメタデータを削除しようとしています。
-よろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -3372,7 +3372,7 @@ This instance cannot be launched because some libraries are missing or have not 
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 個の項目を削除しようとしています。
+        <translation>%1個の項目を削除しようとしています。
 これは元に戻せない可能性があり、項目はフォルダから削除されます。
 
 本当に削除しますか？</translation>
@@ -3405,8 +3405,11 @@ Are you sure?</source>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個の項目を削除しようとしています。
+これらの項目は、通常は%1に移動されますが、移動できない場合は完全に削除されます！
+
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -3415,11 +3418,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">「%1」というフォルダを削除しようとしています。
+        <translation>フォルダ「%1」を削除しようとしています。
+このフォルダは、通常は%2に移動されますが、移動できない場合は完全に削除されます！
 
-このフォルダは、可能であれば %2 に送信されます。送信できない場合は、完全に削除されます！
-
-本当に削除してもよろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -3442,7 +3444,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="404"/>
         <source>%n items selected</source>
         <translation>
-            <numerusform>%n 個を選択中</numerusform>
+            <numerusform>%n個を選択中</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -3455,12 +3457,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="417"/>
         <source>%1 installed and enabled</source>
-        <translation>%1 個がインストール済みで有効</translation>
+        <translation>%1個がインストール済みで有効</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="419"/>
         <source>%1 installed, %2 enabled</source>
-        <translation>%1 個がインストール済み、%2 個が有効</translation>
+        <translation>%1個がインストール済み、%2個が有効</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -4512,7 +4514,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished">依存関係 %1 の情報を取得できませんでした。この依存関係はインストールされません。</translation>
+        <translation>依存関係 %1 の情報を取得できなかったため、インストールされません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4528,12 +4530,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished">依存関係 %1 は、依存関係の連鎖が深すぎるためスキップされました。</translation>
+        <translation>依存関係 %1 は、依存関係の連鎖が深すぎるためスキップされました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished">依存関係 %1 の解決に失敗しました。このため、インストールされません。この依存関係がないと、mod が正常に動作しない可能性があります。</translation>
+        <translation>依存関係 %1 を解決できなかったため、インストールされません。この依存関係がないと、Modが正常に動作しない可能性があります。</translation>
     </message>
 </context>
 <context>
@@ -5655,7 +5657,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished">推奨</translation>
+        <translation>推奨のみ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -5825,7 +5827,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>全般</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -5941,8 +5943,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="112"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>「%1」という名前のJavaを削除しようとしています。
-本当によろしいですか？</translation>
+        <translation>Java「%1」を削除しようとしています。
+本当に削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -9511,10 +9513,10 @@ Please check your trashbin to manually restore them.</source>
 The instance will be sent to your %3 if possible. If this fails the instance will be permanently deleted!
 
 Are you sure?</source>
-        <translation>%1 %2を削除しようとしています。
-可能であれば、このインスタンスは%3に送信されます。送信に失敗した場合、インスタンスは完全に削除されます！
+        <translation>「%1」%2を削除しようとしています。
+この起動構成は、通常は%3に移動されますが、移動できない場合は完全に削除されます！
 
-本当に削除してもよろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <source>Metadata cache clear Failed!
@@ -9538,7 +9540,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
         <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> 、および登録済みの%n個のショートカット</numerusform>
+            <numerusform> および登録済みの%n個のショートカット</numerusform>
         </translation>
     </message>
     <message>
@@ -9549,7 +9551,7 @@ Are you sure?</source>
         <translation>「%1」%2 を削除しようとしています。
 この操作は元に戻すことができず、起動構成は完全に削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
@@ -11129,7 +11131,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n 個のModが有効になります
+            <numerusform>%n個のModが有効になります
 </numerusform>
         </translation>
     </message>
@@ -11143,7 +11145,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n 個のModが無効になります
+            <numerusform>%n個のModが無効になります
 </numerusform>
         </translation>
     </message>
@@ -11470,8 +11472,8 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>%1 個のModのメタデータを削除しようとしています。
-本当によろしいですか？</translation>
+        <translation>%1個のModのメタデータを削除しようとしています。
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="333"/>
@@ -12797,13 +12799,10 @@ Please update %1!</source>
 This log will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">「%1」を削除しようとしています。
+        <translation>「%1」を削除しようとしています。
+このログは、通常は%2に移動されますが、移動できない場合は完全に削除されます！
 
-このログは、可能であれば %2 に送信されます。送信できない場合は、永久に削除されます！
-
-
-
-本当に削除してもよろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <source>The file (%1) is not readable.</source>
@@ -14019,12 +14018,12 @@ Proceed with truncation?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="262"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished">ごみ箱</translation>
+        <translation>ごみ箱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="264"/>
         <source>Trash</source>
-        <translation type="unfinished">ゴミ</translation>
+        <translation>ゴミ箱</translation>
     </message>
     <message>
         <source>Logs upload aborted</source>
@@ -15148,7 +15147,7 @@ Error message: %3</source>
     <message>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>%1 個のリソースを選択済みです。
+        <translation>%1個のリソースが選択されています。
 本当にこのダイアログを閉じますか？</translation>
     </message>
     <message>
@@ -15180,8 +15179,8 @@ Are you sure you want to close this dialog?</source>
         <source>You have %n selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>
-            <numerusform>選択されているリソースは %n 個あります。
-このダイアログを閉じてもよろしいですか？</numerusform>
+            <numerusform>%n個のリソースが選択されています。
+本当にこのダイアログを閉じますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -15798,7 +15797,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Are you sure?</source>
         <translation>
             <numerusform>%n個のリソースパックのメタデータを削除しようとしています。
-本当に削除してもよろしいですか？</numerusform>
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -15871,8 +15870,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>%1 個のリソースパックのメタデータを削除しようとしています。
-本当によろしいですか？</translation>
+        <translation>%1個のリソースパックのメタデータを削除しようとしています。
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="53"/>
@@ -16218,7 +16217,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>%1個のスクリーンショットを %2 にアップロードしようとしています。
+        <translation>%1枚のスクリーンショットを %2 にアップロードしようとしています。
 個人情報を含んでいないか、慎重に確認してください。
 
 本当にアップロードしますか？</translation>
@@ -16237,7 +16236,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished">アップロードの確認</translation>
+        <translation>アップロードの確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
@@ -16257,8 +16256,11 @@ Are you sure?</source>
 These screenshots will be sent to your %1 if possible - if not they will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n枚のスクリーンショットを削除しようとしています。
+これらのスクリーンショットは、通常は%1に移動されますが、移動できない場合は完全に削除されます！
+
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16267,7 +16269,10 @@ Are you sure?</source>
 This screenshot will be sent to your %2 if possible - if not it will be permanently deleted!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したスクリーンショットを削除しようとしています。
+このスクリーンショットは、通常は%2に移動されますが、移動できない場合は完全に削除されます！
+
+本当に削除しますか？</translation>
     </message>
     <message numerus="yes">
         <source>You are about to delete %n screenshots.
@@ -16534,10 +16539,10 @@ This is permanent and the servers will be gone from your list forever (A LONG TI
 
 Are you sure?</source>
         <translation>
-            <numerusform>%n 個の選択されたサーバーを削除しようとしています。
-この操作は取り消せません。サーバーはリストから永久に削除されます。
+            <numerusform>%n個の選択したサーバーを削除しようとしています。
+この操作は取り消せず、サーバーはリストから完全に削除されます。
 
-本当に削除してもよろしいですか？</numerusform>
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16560,7 +16565,7 @@ This is permanent and the server will be gone from your list forever (A LONG TIM
 
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
-サーバーはリストから完全に削除されます 。
+この操作は取り消せず、サーバーはリストから完全に削除されます。
 
 本当に削除しますか？</translation>
     </message>
@@ -16653,8 +16658,8 @@ Are you sure?</source>
         <source>You are about to remove the metadata for %n shader packs.
 Are you sure?</source>
         <translation>
-            <numerusform>%n 個のシェーダーパックのメタデータを削除しようとしています。
-本当に削除してもよろしいですか？</numerusform>
+            <numerusform>%n個のシェーダーパックのメタデータを削除しようとしています。
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -16727,8 +16732,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>%1 個のシェーダーパックのメタデータを削除しようとしています。
-本当によろしいですか？</translation>
+        <translation>%1個のシェーダーパックのメタデータを削除しようとしています。
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="50"/>
@@ -16950,7 +16955,7 @@ Are you sure?</source>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="399"/>
@@ -17540,7 +17545,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 Are you sure?</source>
         <translation>
             <numerusform>%n個のテクスチャパックのメタデータを削除しようとしています。
-本当に削除してもよろしいですか？</numerusform>
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
@@ -17613,8 +17618,8 @@ Are you sure you want to do this?</source>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>%1 個のテクスチャーパックのメタデータを削除しようとしています。
-本当によろしいですか？</translation>
+        <translation>%1個のテクスチャーパックのメタデータを削除しようとしています。
+本当に削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -18181,7 +18186,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Del</source>
-        <translation type="unfinished">Del</translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
@@ -18308,7 +18313,7 @@ Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 カスタムコンポーネントは完全に削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
@@ -18415,7 +18420,7 @@ Are you sure?</source>
         <translation>「%1」を元に戻そうとしています。
 カスタマイズが完全に元に戻ります。
 
-本当によろしいですか？</translation>
+本当に元に戻しますか？</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -18941,7 +18946,7 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>%n 個のワールドを削除しようとしています。
+            <numerusform>%n個のワールドを削除しようとしています。
 これらのワールドは永久に失われる可能性があります。
 
 本当に削除しますか？</numerusform>
