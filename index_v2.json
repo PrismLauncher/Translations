@@ -19,12 +19,12 @@
       "untranslated": 8
     },
     "az": {
-      "file": "1e025250b15514fa912dbd6adcd46061d0a7f4b7.class",
-      "sha1": "1e025250b15514fa912dbd6adcd46061d0a7f4b7",
-      "size": 351048,
-      "translated": 2325,
+      "file": "835d1da2ecd4c262c9a2da2e4ca8a771d0c99f77.class",
+      "sha1": "835d1da2ecd4c262c9a2da2e4ca8a771d0c99f77",
+      "size": 351199,
+      "translated": 2327,
       "fuzzy": 53,
-      "untranslated": 220
+      "untranslated": 218
     },
     "azb": {
       "file": "1d0299385211211fdcd13e3c4151937e9f6e4c9a.class",
@@ -203,20 +203,20 @@
       "untranslated": 1381
     },
     "es": {
-      "file": "2e51d40c0382954051e1bbb6b4045a471fc258e6.class",
-      "sha1": "2e51d40c0382954051e1bbb6b4045a471fc258e6",
-      "size": 397701,
-      "translated": 2556,
+      "file": "2612950d9a7a11aede02bf775b9e3bd97f1656c2.class",
+      "sha1": "2612950d9a7a11aede02bf775b9e3bd97f1656c2",
+      "size": 399332,
+      "translated": 2560,
       "fuzzy": 6,
-      "untranslated": 36
+      "untranslated": 32
     },
     "es_AR": {
-      "file": "c951b80c0f2065f5bc4f33b851c6c827c26ab647.class",
-      "sha1": "c951b80c0f2065f5bc4f33b851c6c827c26ab647",
-      "size": 188343,
-      "translated": 986,
+      "file": "99cbffe3c32e464b4d9f79c9fed113c8821b8386.class",
+      "sha1": "99cbffe3c32e464b4d9f79c9fed113c8821b8386",
+      "size": 191172,
+      "translated": 997,
       "fuzzy": 272,
-      "untranslated": 1340
+      "untranslated": 1329
     },
     "es_UY": {
       "file": "64bc82817273811a5f6e17d8f7f106c0479d5d38.class",
@@ -699,12 +699,12 @@
       "untranslated": 694
     },
     "tr": {
-      "file": "5d40b0d855d97f3abc564778f809808ed297caba.class",
-      "sha1": "5d40b0d855d97f3abc564778f809808ed297caba",
-      "size": 370397,
-      "translated": 2542,
+      "file": "4c6ee182dd5ea98ba23839ba583a3639d912dd04.class",
+      "sha1": "4c6ee182dd5ea98ba23839ba583a3639d912dd04",
+      "size": 370620,
+      "translated": 2545,
       "fuzzy": 4,
-      "untranslated": 52
+      "untranslated": 49
     },
     "tt": {
       "file": "27e83892912640503cf35831f34928619958bdb4.class",
