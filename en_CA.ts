@@ -956,12 +956,12 @@ Please update both your operating system and %1.</translation>
         <translation>Cannot display this log since the log length surpassed %1 lines.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1683"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1087"/>
+        <location filename="src/launcher/Application.cpp" line="1086"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -988,12 +988,12 @@ for details on the last update attempt.
 To delete this lock and proceed select &quot;Ignore&quot; below.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1104"/>
+        <location filename="src/launcher/Application.cpp" line="1103"/>
         <source>Update In Progress</source>
         <translation>Please wait bud, there&apos;s an update in progress</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1132"/>
+        <location filename="src/launcher/Application.cpp" line="1131"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -1008,12 +1008,12 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1139"/>
         <source>Update Failed</source>
         <translation>Update Failed</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1168"/>
+        <location filename="src/launcher/Application.cpp" line="1167"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -1034,12 +1034,12 @@ Check the Prism Launcher updater log at:
 for details.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1176"/>
+        <location filename="src/launcher/Application.cpp" line="1175"/>
         <source>Update Succeeded</source>
         <translation>Update Succeeded, Bud</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1212"/>
+        <location filename="src/launcher/Application.cpp" line="1211"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -1060,7 +1060,7 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1218"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Incompatible system configuration</source>
         <translation>Incompatible system configuration</translation>
     </message>
@@ -1069,22 +1069,22 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Aborted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1979"/>
+        <location filename="src/launcher/Application.cpp" line="1978"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1983"/>
+        <location filename="src/launcher/Application.cpp" line="1982"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1989"/>
+        <location filename="src/launcher/Application.cpp" line="1988"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="2035"/>
+        <location filename="src/launcher/Application.cpp" line="2034"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration failed! Reason: %1</translation>
     </message>
@@ -5861,7 +5861,7 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="311"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="308"/>
         <source>Find Java executable</source>
         <translation>Find Java executable</translation>
     </message>
@@ -5870,7 +5870,7 @@ You can change the Java version in the settings later.
         <translation type="vanished">Memory</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="281"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="280"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>The maximum amount of memory Minecraft is allowed to use.</translation>
     </message>
@@ -5968,7 +5968,7 @@ You can change the Java version in the settings later.
         <translation>Pinned Java Installations</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="197"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="196"/>
         <source>Memor&amp;y</source>
         <translation>Memor&amp;y</translation>
     </message>
@@ -5977,17 +5977,16 @@ You can change the Java version in the settings later.
         <translation type="vanished">Warn when there is not enough memory available</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="370"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="320"/>
         <source>Memory Notice</source>
         <translation>Memory Notice</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="352"/>
         <source>(-XX:PermSize)</source>
         <translation>(-XX:PermSize)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="303"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="302"/>
         <source>(-Xmx)</source>
         <translation>(-Xmx)</translation>
     </message>
@@ -6000,42 +5999,40 @@ You can change the Java version in the settings later.
         <translation type="vanished">Maximum memory allocation:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="232"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="231"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>The amount of memory Minecraft is started with.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="312"/>
         <source>&amp;PermGen Size:</source>
         <translation>&amp;PermGen Size:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="254"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="253"/>
         <source>(-Xms)</source>
         <translation>(-Xms)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="263"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="262"/>
         <source>Ma&amp;ximum Memory Usage:</source>
         <translation>Ma&amp;ximum Memory Usage:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="214"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="213"/>
         <source>M&amp;inimum Memory Usage:</source>
         <translation>M&amp;inimum Memory Usage:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="363"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="313"/>
         <source>Warn when there is not enough free memory</source>
         <translation>Warn when there is not enough free memory</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="383"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="333"/>
         <source>Java Argumen&amp;ts</source>
         <translation>Java Argumen&amp;ts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="330"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>The amount of memory available to store loaded Java classes.</translation>
     </message>
@@ -6096,32 +6093,32 @@ You can change the Java version in the settings later.
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="333"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="330"/>
         <source>Find Java %1 executable</source>
         <translation>Find Java %1 executable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="357"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="354"/>
         <source>Select a Java %1 installation</source>
         <translation>Select a Java %1 installation</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="359"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="356"/>
         <source>No Java %1 installations were detected on this system.</source>
         <translation>No Java %1 installations were detected on this system.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="397"/>
         <source>Select a Java version</source>
         <translation>Select a Java version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="409"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="406"/>
         <source>Confirm Selection</source>
         <translation>Confirm Selection</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="407"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -6130,17 +6127,17 @@ This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="425"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Your maximum memory allocation exceeds your system memory capacity.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="428"/>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
         <translation>Your maximum memory allocation is close to your system memory capacity.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="434"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="431"/>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
         <translation>Your maximum memory allocation is below the minimum memory allocation.</translation>
     </message>
@@ -6160,12 +6157,12 @@ Please make sure that the maximum memory value is lower.</translation>
 <context>
     <name>JavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="78"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="80"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
         <translation>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</translation>
@@ -6182,17 +6179,17 @@ Please select one of the following or browse for a Java executable.</translation
 <context>
     <name>JavaWizardWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="137"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="121"/>
         <source>Download Java</source>
         <translation>Download Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="234"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="216"/>
         <source>32-bit Java detected</source>
         <translation>32-bit Java detected</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="235"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="217"/>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
 %1 will not be able to start Minecraft.
 Do you wish to proceed?
@@ -6207,12 +6204,12 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="245"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="227"/>
         <source>No Java version selected</source>
         <translation>No Java version selected</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="246"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="228"/>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
 %1 will not be able to start Minecraft.
 Do you wish to proceed without a functional version of Java?
@@ -6227,77 +6224,76 @@ You can change the Java version in the settings later.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="344"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="308"/>
         <source>Find Java executable</source>
         <translation>Find Java executable</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="486"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="449"/>
         <source>Memory</source>
         <translation>Memory</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="487"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="450"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>The maximum amount of memory Minecraft is allowed to use.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="488"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="451"/>
         <source>Minimum memory allocation:</source>
         <translation>Minimum memory allocation:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="489"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="452"/>
         <source>Maximum memory allocation:</source>
         <translation>Maximum memory allocation:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="490"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="453"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>The amount of memory Minecraft is started with.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="491"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>The amount of memory available to store loaded Java classes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="492"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="454"/>
         <source>Browse</source>
         <translation>Browse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="494"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="456"/>
         <source>Auto-download Mojang Java</source>
         <translation>Auto-download Mojang Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="496"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="458"/>
         <source>Auto-detect Java version</source>
         <translation>Auto-detect Java version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="497"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="459"/>
         <source>Autodetect Java</source>
         <translation>Autodetect Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="468"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Your maximum memory allocation exceeds your system memory capacity.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="509"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="471"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Your maximum memory allocation approaches your system memory capacity.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="512"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="474"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Your maximum memory allocation is smaller than the minimum value</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="518"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="480"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>You are exceeding the maximum allocation supported by 32-bit installations of Java.</translation>
     </message>
@@ -9551,67 +9547,67 @@ Are you sure?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="314"/>
         <source>&amp;Launch</source>
         <translation>&amp;Launch</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="316"/>
         <source>Launch &amp;Offline</source>
         <translation>Launch &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="318"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="317"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="318"/>
         <source>Launch &amp;Demo</source>
         <translation>Launch &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="320"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="319"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="330"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="329"/>
         <source>Launch &amp;As</source>
         <translation>Launch &amp;As</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="344"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="343"/>
         <source>Profilers</source>
         <translation>Profilers</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="354"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="353"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;No Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1057"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1060"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1051"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1188"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1185"/>
         <source>Pre-Load</source>
         <translation>Pre-Load</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1209"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1206"/>
         <source>Pre-Launch</source>
         <translation>Pre-Launch</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1265"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1262"/>
         <source>Post-Launch</source>
         <translation>Post-Launch</translation>
     </message>
@@ -9620,22 +9616,22 @@ Are you sure?</translation>
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1062"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1099"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1096"/>
         <source>broken</source>
         <translation>broken</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1112"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1109"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1117"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1114"/>
         <source>, last played on %1 for %2</source>
         <translation>, last played on %1 for %2</translation>
     </message>
@@ -9644,12 +9640,12 @@ Are you sure?</translation>
         <translation type="vanished">, last played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1124"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1121"/>
         <source>, total played for %1</source>
         <translation>, total played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1129"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1126"/>
         <source>, has crashed.</source>
         <translation>, has crashed.</translation>
     </message>
@@ -13589,24 +13585,24 @@ HTTP Status: %2</translation>
         <translation>Couldn&apos;t parse %1 : bad file format</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="368"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="332"/>
         <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
         <translation>The specified file either doesn&apos;t exist or is not a proper executable.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="372"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="336"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
         <translation>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="382"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="346"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
         <translation>The specified Java binary returned unexpected results:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="392"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="356"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
         <translation>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</translation>
     </message>
@@ -13614,13 +13610,13 @@ HTTP Status: %2</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <location filename="src/launcher/JavaCommon.cpp" line="100"/>
         <location filename="src/launcher/JavaCommon.cpp" line="107"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="365"/>
         <source>Java test failure</source>
         <translation>Java test failure</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
-        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="401"/>
+        <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="365"/>
         <source>Java test success</source>
         <translation>Java test success</translation>
     </message>
