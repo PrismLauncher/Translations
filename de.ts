@@ -288,7 +288,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim extrahieren der mods: %1</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -352,7 +352,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Failed to copy %1 to %2. Check the launcher logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim kopieren von %1 nach %2. Überprüfe die Launcher Protokolle für details.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1021"/>
@@ -5864,7 +5864,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished">Empfohlen</translation>
+        <translation>Empfohlen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -6034,7 +6034,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
         <source>General</source>
-        <translation type="unfinished">Allgemein</translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -17007,7 +17007,7 @@ Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished">Upload bestätigen</translation>
+        <translation>Upload bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
