@@ -272,7 +272,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể trích xuất các bản mod: %1</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -307,7 +307,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="794"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đã chặn path traversal trong %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="845"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Failed to copy %1 to %2. Check the launcher logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép %1 sang %2 thất bại. Xem nhật ký của trình khởi chạy để biết thêm chi tiết.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1021"/>
@@ -3374,8 +3374,11 @@ Bạn có chắc không?</translation>
 These items will be sent to your %1 if possible - if not they will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bạn sắp gỡ %n mục.
+Những mục này sẽ được di chuyển đến %1 nếu có thể - nếu không mục sẽ biến mất vĩnh viễn!
+
+Bạn có chắc không?</numerusform>
         </translation>
     </message>
     <message>
@@ -3384,7 +3387,10 @@ Are you sure?</source>
 This folder will be sent to your %2 if possible - if not it will be permanently gone!
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn sắp gỡ thư mục &quot;%1&quot;.
+Thư mục này sẽ được di chuyển đến %2 nếu có thể - nếu không chúng sẽ biến mất vĩnh viễn!
+
+Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="285"/>
@@ -3420,12 +3426,12 @@ Bạn có chắc bạn muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="417"/>
         <source>%1 installed and enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 đã được cài và bật</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="419"/>
         <source>%1 installed, %2 enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 đã cài, %2 đã bật</translation>
     </message>
     <message>
         <source> (%1 installed, %2 enabled, %3 selected)</source>
@@ -3792,7 +3798,7 @@ Vui lòng thử lại.</translation>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="312"/>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="387"/>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đã chặn path traversal trong %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/ftb/FTBPackInstallTask.cpp" line="370"/>
@@ -4004,7 +4010,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="258"/>
         <source>Failed to parse fetched old files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể phân tích những tệp cũ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
@@ -4502,7 +4508,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="190"/>
         <source>Failed to fetch information for dependency %1, it will not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lấy thông tin cho phụ thuộc %1 thất bại, nó sẽ không được cài đặt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="229"/>
@@ -4518,12 +4524,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="253"/>
         <source>Dependency %1 was skipped because the dependency chain is too deep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phần phụ thuộc %1 đã được bỏ qua vì chuỗi phụ thuộc quá sâu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="281"/>
         <source>Failed to resolve dependency %1, it will not be installed. The mod may not work correctly without it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể phân tích phần phụ thuộc %1, nó sẽ không được cài đặt. Mod có thể không hoạt động tốt khi không có nó.</translation>
     </message>
 </context>
 <context>
@@ -4617,7 +4623,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
         <source>Modpacks</source>
-        <translation>gói mod</translation>
+        <translation>Gói mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="135"/>
