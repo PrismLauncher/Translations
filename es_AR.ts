@@ -5572,47 +5572,47 @@ Se recomienda concederle a %1 acceso a ese directorio mediante Flatseal.</transl
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="145"/>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta ya es tu carpeta principal de instancias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="150"/>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta carpeta ya se agregó.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="167"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de íconos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="189"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="199"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="209"/>
         <source>Instance Template Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de plantilla de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="219"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="59"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
 </context>
 <context>
@@ -5620,29 +5620,29 @@ Se recomienda concederle a %1 acceso a ese directorio mediante Flatseal.</transl
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar la biblioteca del launcher. Por favor, comprobá tu instalación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar la biblioteca del launcher antiguo. Por favor, comprobá tu instalación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="139"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar el comando wrapper &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
         <source>Could not launch Minecraft: %1</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo iniciar Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="175"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="189"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El juego se cerró inesperadamente.</translation>
     </message>
 </context>
 <context>
@@ -5650,7 +5650,7 @@ Se recomienda concederle a %1 acceso a ese directorio mediante Flatseal.</transl
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando las bibliotecas de FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LegacyFMLLibrariesTask.cpp" line="60"/>
