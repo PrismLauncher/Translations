@@ -280,7 +280,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>모드를 추출하지 못함</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -334,7 +334,7 @@
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>모드 추출에 실패하였습니다...</translation>
+        <translation>모드를 추출하지 못하였습니다...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="957"/>
@@ -5785,7 +5785,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="222"/>
         <source>Recommended</source>
-        <translation type="unfinished">권장</translation>
+        <translation>권장</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="235"/>
@@ -5955,7 +5955,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="39"/>
         <source>General</source>
-        <translation type="unfinished">일반</translation>
+        <translation>일반</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
@@ -16795,7 +16795,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="422"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished">업로드 확인</translation>
+        <translation>업로드 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="444"/>
