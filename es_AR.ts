@@ -251,7 +251,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron extraer los mods: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
@@ -265,7 +265,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Failed to copy %1 to %2. Check the launcher logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar %1 a %2. Revisá los registros del launcher para más detalles.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1021"/>
