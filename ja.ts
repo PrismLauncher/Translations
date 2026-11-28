@@ -268,7 +268,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="947"/>
         <source>Failed to extract mods: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modの展開に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -332,7 +332,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Failed to copy %1 to %2. Check the launcher logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を %2 にコピーできませんでした。詳細はランチャーのログを確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1021"/>
